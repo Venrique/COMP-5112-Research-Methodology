@@ -1,0 +1,87 @@
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Datasets
+# =========================
+data/
+datasets/
+*.csv
+*.parquet
+
+# =========================
+# Machine Learning Models
+# =========================
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# =========================
+# Training Logs
+# =========================
+logs/
+runs/
+lightning_logs/
+wandb/
+tensorboard/
+events.out.tfevents.*
+
+# =========================
+# Temporary Files
+# =========================
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
