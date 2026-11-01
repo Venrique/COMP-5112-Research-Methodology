@@ -6,7 +6,39 @@ pretrained handwritten text recognition (HTR) models. See
 
 Currently implemented: IAM dataset loading, a configurable preprocessing
 pipeline, non-local means denoising, and a visual comparison notebook.
-Model inference and CER/WER evaluation are not yet implemented.
+TrOCR inference and corpus CER/WER evaluation are also implemented.
+
+## TrOCR recognition comparison
+
+Install `requirements-inference.txt` into the existing virtual environment, then
+open [03_trocr_recognition.ipynb](notebooks/03_trocr_recognition.ipynb) and run
+top to bottom. The checkpoint is downloaded to the Hugging Face cache on first
+use. The notebook compares baseline and non-local means denoising on the same
+10 validation samples and shows images, raw predictions, corpus CER/WER and
+changes relative to baseline. It saves predictions.csv, summary.csv and
+metadata.json in a fresh timestamped directory under results/.
+
+Configure checkpoint/revision, device, decoding and sample indices in the
+configuration cell. CPU is the verified default; CUDA/MPS are not tested.
+Model and dataset revisions are resolved to immutable commits and recorded.
+For an exact rerun, set the revision fields to the commits in metadata.json.
+Raw text is preserved; scoring collapses whitespace and retains case and
+punctuation. Rates are fractions, may exceed 1, and aggregate corpus edit
+counts rather than averaging per-line scores. IAM punctuation spacing can
+therefore contribute to the measured errors.
+
+Reusable inference lives in `src/models/`; evaluation lives in `src/evaluation/`.
+To use another architecture, implement `predict(image) -> str` and
+`to_config() -> dict` as described by `HandwritingRecognizer`, then pass the
+instance to `compare_recognition`. Keep mandatory model input transforms inside
+the wrapper. Add preprocessing configurations to the notebook's `pipelines`
+dictionary without changing recognition or metric code. No training is performed.
+
+The initial CPU smoke run on validation indices 0–9 produced CER 0.030691 and
+WER 0.121951 for both configurations. This is a small demonstration, not a
+claim about the full validation set or preprocessing effectiveness. The model
+card identifies this checkpoint as IAM-fine-tuned, English, MIT-licensed:
+https://huggingface.co/microsoft/trocr-base-handwritten.
 
 ## Setup
 
@@ -182,5 +214,6 @@ Run tests from the repository root:
 Tests cover baseline preservation, disabled steps, execution order, input
 preservation, parameter validation, RGB channel handling, configuration
 serialization, and synthetic noise reduction. They do not establish HTR
-accuracy improvements. The next development priority is pretrained TrOCR
-inference with aggregate CER/WER evaluation.
+accuracy improvements. Recognition tests additionally check known corpus edit
+counts, normalization and interchangeable model evaluation. The next development
+priority is a larger fixed validation comparison before adding techniques.

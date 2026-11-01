@@ -1,0 +1,3 @@
+configuration,sample_count,cer,wer,inference_seconds,cer_change_from_baseline,wer_change_from_baseline
+baseline,10,0.030690537084398978,0.12195121951219512,7.58475808109506,0.0,0.0
+denoising_h3,10,0.030690537084398978,0.12195121951219512,7.527759582997533,0.0,0.0
