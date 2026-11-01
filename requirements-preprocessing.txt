@@ -1,0 +1,6 @@
+# Install into the existing project environment (includes demo dependencies).
+numpy==2.5.4
+Pillow==13.0.0
+matplotlib==3.11.2
+datasets==5.1.0
+opencv-python-headless==4.14.0.94
