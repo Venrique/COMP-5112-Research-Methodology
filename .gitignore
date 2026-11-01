@@ -47,6 +47,11 @@ datasets/
 # =========================
 checkpoints/
 models/
+# Keep reusable model source; ignore downloaded weights above.
+!src/models/
+!src/models/*.py
+# Preserve recorded experiment tables.
+!results/**/*.csv
 *.pt
 *.pth
 *.ckpt

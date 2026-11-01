@@ -1,0 +1,21 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+baseline,sample_0,It was a splendid interpretation of the,It was a splendid interpretation of that,0.0001519579964224249,0.741606875002617,0.05128205128205128,0.14285714285714285
+baseline,sample_1,sympathetic C O . Paul Daneman gave another,sympathetic CO . Paul Daneman gave another,4.5666005462408066e-05,0.8186017080151942,0.023255813953488372,0.25
+baseline,sample_2,"part . The rest of the cast were well chosen ,","part . The rest of the cast were well chosen ,",7.395801367238164e-05,0.8853587500052527,0.0,0.0
+baseline,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,6.320900865830481e-05,0.7476054159924388,0.0,0.0
+baseline,sample_4,""" The Little Key . """,""" The Little Key . """,3.3499993151053786e-05,0.5516508330183569,0.0,0.0
+baseline,sample_5,first-class performance last night as a,first-class performance last night as a,6.19160127826035e-05,0.685214500001166,0.0,0.0
+baseline,sample_6,wartime naval officer in the B B C's,wartime naval officer in the BBC's,6.349998875521123e-05,0.6875185410026461,0.05555555555555555,0.375
+baseline,sample_7,the imagination which asked the viewer to,the imagination which asked the viewer to,6.316599319688976e-05,0.6335402920085471,0.0,0.0
+baseline,sample_8,""" Britain - Blood , Sweat , and Tears ... Plus","' Britain - Blood ' , Tweet , and Tears ... . Plus",5.7666999055072665e-05,1.0144591250282247,0.15217391304347827,0.36363636363636365
+baseline,sample_9,The play was no more than a figment of,The play was no more than a figment of,6.370799383148551e-05,0.8192020410206169,0.0,0.0
+denoising_h3,sample_0,It was a splendid interpretation of the,It was a splendid interpretation of that,0.21039399999426678,0.6307121249847114,0.05128205128205128,0.14285714285714285
+denoising_h3,sample_1,sympathetic C O . Paul Daneman gave another,sympathetic CO . Paul Daneman gave another,0.057502166979247704,0.8190728750196286,0.023255813953488372,0.25
+denoising_h3,sample_2,"part . The rest of the cast were well chosen ,","part . The rest of the cast were well chosen ,",0.06510495799011551,0.8895586250000633,0.0,0.0
+denoising_h3,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,0.06753433399717323,0.7519645419961307,0.0,0.0
+denoising_h3,sample_4,""" The Little Key . """,""" The Little Key . """,0.02932925001368858,0.5532223329937551,0.0,0.0
+denoising_h3,sample_5,first-class performance last night as a,first-class performance last night as a,0.0608358750178013,0.6805986249819398,0.0,0.0
+denoising_h3,sample_6,wartime naval officer in the B B C's,wartime naval officer in the BBC's,0.06690937498933636,0.6922207910101861,0.05555555555555555,0.375
+denoising_h3,sample_7,the imagination which asked the viewer to,the imagination which asked the viewer to,0.06238470901735127,0.6484760000021197,0.0,0.0
+denoising_h3,sample_8,""" Britain - Blood , Sweat , and Tears ... Plus","' Britain - Blood ' , Tweet , and Tears ... . Plus",0.06595091699273326,1.0337021250161342,0.15217391304347827,0.36363636363636365
+denoising_h3,sample_9,The play was no more than a figment of,The play was no more than a figment of,0.06565941599546932,0.8282315419928636,0.0,0.0
