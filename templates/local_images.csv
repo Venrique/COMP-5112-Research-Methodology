@@ -1,0 +1,11 @@
+id,image_path,ground_truth,split,condition
+img01,../data/local/images/img01.jpeg,The sky is a deep blue color today,validation,
+img02,../data/local/images/img02.jpg,Please bring my notebook tomorrow,validation,
+img03,../data/local/images/img03.jpeg,She wrote a letter to her friend,validation,
+img04,../data/local/images/img04.jpeg,The train leaves at past helf time,validation,
+img05,../data/local/images/img05.jpeg,I bought three apples and two pears,validation,
+img06,../data/local/images/img06.jpeg,I was about to leave the house when I realized,validation,
+img07,../data/local/images/img07.jpeg,"As far as I know, they haven't made a final decision yet.",validation,
+img08,../data/local/images/img08.jpeg,"I've been meaning to get around to it, but something",validation,
+img09,../data/local/images/img09.jpeg,It slipped my mind,validation,
+img10,../data/local/images/img10.jpeg,I'm running a bit late,validation,
