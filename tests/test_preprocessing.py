@@ -6,10 +6,50 @@ import unittest
 import numpy as np
 from PIL import Image
 
-from src.preprocessing import NonLocalMeans, PreprocessingPipeline
+from src.preprocessing import CLAHE, NonLocalMeans, PreprocessingPipeline
 
 
 class PreprocessingTests(unittest.TestCase):
+    def test_clahe_enhances_contrast_and_is_deterministic(self):
+        pixels = np.tile(np.arange(64, dtype=np.uint8), (32, 1)) + 96
+        image = Image.fromarray(pixels)
+        step = CLAHE()
+        result = step(image)
+        self.assertEqual(result.mode, "L")
+        self.assertEqual(result.size, image.size)
+        self.assertGreater(np.asarray(result).std(), pixels.std())
+        np.testing.assert_array_equal(image, pixels)
+        np.testing.assert_array_equal(result, step(image))
+
+    def test_clahe_rgb_preserves_channel_relationship_and_disabled_copy(self):
+        pixels = np.zeros((32, 32, 3), dtype=np.uint8)
+        pixels[:] = (180, 80, 40)
+        pixels[:, :16] = (150, 60, 30)
+        image = Image.fromarray(pixels)
+        result = CLAHE()(image)
+        self.assertEqual(result.mode, "RGB")
+        self.assertEqual(result.size, image.size)
+        means = np.asarray(result).mean(axis=(0, 1))
+        self.assertGreater(means[0], means[1])
+        self.assertGreater(means[1], means[2])
+        disabled = PreprocessingPipeline((CLAHE(enabled=False),))(image)
+        self.assertIsNot(disabled, image)
+        np.testing.assert_array_equal(disabled, image)
+
+    def test_clahe_invalid_parameters_and_unsupported_mode(self):
+        for kwargs in ({"clip_limit": 0}, {"clip_limit": float("inf")},
+                       {"tile_grid_size": (8, 0)}, {"tile_grid_size": (8, 8.0)},
+                       {"enabled": "yes"}):
+            with self.subTest(kwargs=kwargs), self.assertRaises(ValueError):
+                CLAHE(**kwargs)
+        with self.assertRaises(ValueError):
+            CLAHE()(Image.new("RGBA", (32, 32)))
+
+    def test_clahe_configuration_describes_both_image_paths(self):
+        config = json.loads(json.dumps(CLAHE().to_config()))
+        self.assertEqual(config["processing"], "grayscale directly; RGB via LAB luminance")
+        self.assertEqual(config["tile_grid_size"], [8, 8])
+
     def test_baseline_and_disabled_preserve_pixels_and_mode(self):
         for mode, shape in (("L", (32, 64)), ("RGB", (32, 64, 3)), ("RGBA", (32, 64, 4))):
             image = Image.fromarray(np.random.default_rng(0).integers(0, 256, shape, dtype=np.uint8))

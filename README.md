@@ -85,6 +85,27 @@ construct a new step/pipeline; in a notebook, edit and rerun the configuration
 cell, then rerun the comparison cells. Create each pipeline once and reuse it
 across samples.
 
+### Run preprocessing on an image from Git Bash
+
+From the project root, run the script with input and output paths. By default,
+it applies CLAHE, non-local means denoising, then deskewing:
+
+```sh
+./.venv/Scripts/python.exe run_preprocessing.py input.png results/processed.png
+```
+
+Choose individual steps and their order with `--steps`:
+
+```sh
+./.venv/Scripts/python.exe run_preprocessing.py input.png results/clahe.png --steps clahe
+./.venv/Scripts/python.exe run_preprocessing.py input.png results/baseline.png --steps
+```
+
+The script saves the processed image and prints its preprocessing configuration.
+It converts unsupported input modes (such as palette or RGBA) to RGB; `L` and
+`RGB` images retain their mode. These command-line runs process images only and
+do not calculate HTR recognition accuracy.
+
 ### Apply pipelines to the same sample
 
 ```python
