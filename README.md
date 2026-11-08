@@ -1,5 +1,29 @@
 # HTR preprocessing experiments
 
+## Your own handwriting images
+
+Use `notebooks/05_local_images_recognition.ipynb` for local images. Existing
+IAM notebooks are unchanged. Put one English handwritten line per image in
+`data/local/images/`, then edit `templates/local_images.csv`. Replace the example
+filename and add one row per image. Image paths are relative to the CSV location;
+quote ground-truth fields containing commas. Blank ground truth enables prediction
+without scoring; fill it in later and rerun the notebook to obtain CER/WER.
+Only listed images are used. The template's example image must be supplied or
+its row replaced before running. Local images under `data/` are git-ignored;
+the template is tracked, so avoid committing private transcriptions to it.
+
+The notebook compares baseline, denoising and deskewing individually using the
+existing preprocessing pipeline. Set `MANIFEST`, `SPLIT`, model and pipeline
+settings in its configuration cell. Use validation for development, and reserve
+test images for final evaluation. Full-page images require line cropping first.
+EXIF orientation, white transparency compositing and RGB decoding apply uniformly
+to all configurations without overwriting originals. Metrics use only labeled
+samples and report both total and scored counts. All-unlabeled runs have no
+CER/WER. Exports include predictions, summaries, image hashes, manifest contents,
+model revision and environment metadata in a fresh `results/local_trocr_*` folder.
+
+No additional dependencies beyond `requirements-inference.txt` are needed.
+
 This research project investigates how optional image preprocessing affects
 pretrained handwritten text recognition (HTR) models. See
 [RESEARCH_PLAN.md](RESEARCH_PLAN.md) for the methodology.

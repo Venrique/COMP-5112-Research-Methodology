@@ -1,0 +1,31 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+baseline,img01,The sky is a deep blue color today,The sky is a deep blue colour today,0.00012391700875014067,2.8630066249752417,0.029411764705882353,0.125
+baseline,img02,Please bring my notebook tomorrow,Please bring my notebook tomorrow .,0.00016345904441550374,0.6301465000142343,0.06060606060606061,0.2
+baseline,img03,She wrote a letter to her friend,She wrote a letter to her friend,0.0001283750170841813,0.6138659580028616,0.0,0.0
+baseline,img04,The train leaves at past helf time,the train leaves at past half time,0.00012012501247227192,0.6100260840030387,0.058823529411764705,0.2857142857142857
+baseline,img05,I bought three apples and two pears,I bought three apples and two years .,0.00017170899081975222,0.6744661669945344,0.08571428571428572,0.2857142857142857
+baseline,img06,I was about to leave the house when I realized,I was about to leave the house when I realized,0.0002840409870259464,0.8088842919678427,0.0,0.0
+baseline,img07,"As far as I know, they haven't made a final decision yet.","As far as I know , they haven't made a final decision yet .",0.00027825002325698733,1.1343315409612842,0.03508771929824561,0.3333333333333333
+baseline,img08,"I've been meaning to get around to it, but something","I've been meaning to get around to it , but something",0.00019354198593646288,0.9343785830424167,0.019230769230769232,0.2
+baseline,img09,It slipped my mind,It slipped my mind,0.00012404198059812188,0.4192901669885032,0.0,0.0
+baseline,img10,I'm running a bit late,I'm running a bit late,0.00011924997670575976,0.5480079160188325,0.0,0.0
+denoising_h3,img01,The sky is a deep blue color today,The sky is a deep blue colour today,0.1382555830059573,0.6778567500296049,0.029411764705882353,0.125
+denoising_h3,img02,Please bring my notebook tomorrow,Please bring my notebook tomorrow,0.130119499983266,0.47903208405477926,0.0,0.0
+denoising_h3,img03,She wrote a letter to her friend,She wrote a letter to her friend,0.13620183302555233,0.6070803329930641,0.0,0.0
+denoising_h3,img04,The train leaves at past helf time,the train leaves at past half time .,0.12705845799064264,0.6732524170074612,0.11764705882352941,0.42857142857142855
+denoising_h3,img05,I bought three apples and two pears,I bought three apples and two years .,0.10859908402198926,0.6723197919782251,0.08571428571428572,0.2857142857142857
+denoising_h3,img06,I was about to leave the house when I realized,I was about to leave the house when I realized,0.14189104101387784,0.8051197080058046,0.0,0.0
+denoising_h3,img07,"As far as I know, they haven't made a final decision yet.","As far as I know , they haven't made a final decision yet .",0.1396062079584226,1.1317139170132577,0.03508771929824561,0.3333333333333333
+denoising_h3,img08,"I've been meaning to get around to it, but something","I've been meaning to get around to it , but something",0.12902208301238716,0.9370871249702759,0.019230769230769232,0.2
+denoising_h3,img09,It slipped my mind,It slipped my mind,0.12700837495503947,0.4152481670025736,0.0,0.0
+denoising_h3,img10,I'm running a bit late,I'm running a bit late,0.16549174999818206,0.5450802499544807,0.0,0.0
+deskew,img01,The sky is a deep blue color today,The sky is a deep blue colour today,0.031156415992882103,0.6734234169707634,0.029411764705882353,0.125
+deskew,img02,Please bring my notebook tomorrow,Please bring my notebook tomorrow .,0.027322707988787442,0.543975832988508,0.06060606060606061,0.2
+deskew,img03,She wrote a letter to her friend,She wrote a letter to her friend,0.029044999973848462,0.6158409579657018,0.0,0.0
+deskew,img04,The train leaves at past helf time,the train leaves at past half time,0.02652045903960243,0.6071154589881189,0.058823529411764705,0.2857142857142857
+deskew,img05,I bought three apples and two pears,I bought three apples and two years .,0.02210141601972282,0.6726706660119817,0.08571428571428572,0.2857142857142857
+deskew,img06,I was about to leave the house when I realized,I was about to leave the house when I realized,0.034682540979702026,0.8032405419507995,0.0,0.0
+deskew,img07,"As far as I know, they haven't made a final decision yet.","Airfare as I know , they haven't made a final decision yet .",0.046830124978441745,1.159233291982673,0.08771929824561403,0.5
+deskew,img08,"I've been meaning to get around to it, but something","I've been meaning to get around to it , but something",0.04123983398312703,0.9505287079955451,0.019230769230769232,0.2
+deskew,img09,It slipped my mind,It slipped my mind,0.013374292000662535,0.41684512502979487,0.0,0.0
+deskew,img10,I'm running a bit late,I'm running a bit late,0.017433667031582445,0.5433816250297241,0.0,0.0

@@ -41,16 +41,22 @@ def compare_recognition(samples: Sequence[dict], model: HandwritingRecognizer,
             start = perf_counter()
             prediction = model.predict(image)
             seconds = perf_counter() - start
+            reference = sample.get("ground_truth")
+            labeled = isinstance(reference, str) and bool(reference.strip())
             row = {"configuration": name, "sample_id": sample["id"],
-                   "ground_truth": sample["ground_truth"], "prediction": prediction,
+                   "ground_truth": reference, "prediction": prediction,
                    "preprocessing_seconds": preprocessing_seconds,
                    "inference_seconds": seconds,
-                   **corpus_metrics([sample["ground_truth"]], [prediction])}
+                   **(corpus_metrics([reference], [prediction]) if labeled
+                      else {"cer": None, "wer": None})}
             current.append(row)
             print(f"{name}: {len(current)}/{len(samples)}", flush=True)
+        scored = [r for r in current if r["cer"] is not None]
         summaries.append({"configuration": name, "sample_count": len(current),
-                          **corpus_metrics([r["ground_truth"] for r in current],
-                                           [r["prediction"] for r in current]),
+                          "scored_sample_count": len(scored),
+                          **(corpus_metrics([r["ground_truth"] for r in scored],
+                                            [r["prediction"] for r in scored]) if scored
+                             else {"cer": None, "wer": None}),
                           "inference_seconds": sum(r["inference_seconds"] for r in current)})
         rows.extend(current)
     return rows, summaries

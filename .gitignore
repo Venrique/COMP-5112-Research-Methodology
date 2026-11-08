@@ -37,9 +37,10 @@ ENV/
 # =========================
 # Datasets
 # =========================
-data/
+#data/
 datasets/
 *.csv
+!templates/local_images.csv
 *.parquet
 
 # =========================

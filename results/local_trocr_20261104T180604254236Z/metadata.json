@@ -1,0 +1,295 @@
+{
+  "experiment_id": "20261104T180604254236Z",
+  "dataset": "local_images",
+  "split": "validation",
+  "manifest": "templates/local_images.csv",
+  "manifest_sha256": "4af775917a87c035127c484d76ed06179483310ecae29de891eed18d2e531023",
+  "manifest_contents": "id,image_path,ground_truth,split,condition\nimg01,../data/local/images/img01.jpeg,The sky is a deep blue color today,validation,\nimg02,../data/local/images/img02.jpg,Please bring my notebook tomorrow,validation,\nimg03,../data/local/images/img03.jpeg,She wrote a letter to her friend,validation,\nimg04,../data/local/images/img04.jpeg,The train leaves at past helf time,validation,\nimg05,../data/local/images/img05.jpeg,I bought three apples and two pears,validation,\nimg06,../data/local/images/img06.jpeg,I was about to leave the house when I realized,validation,\nimg07,../data/local/images/img07.jpeg,\"As far as I know, they haven't made a final decision yet.\",validation,\nimg08,../data/local/images/img08.jpeg,\"I've been meaning to get around to it, but something\",validation,\nimg09,../data/local/images/img09.jpeg,It slipped my mind,validation,\nimg10,../data/local/images/img10.jpeg,I'm running a bit late,validation,\n",
+  "samples": [
+    {
+      "id": "img01",
+      "ground_truth": "The sky is a deep blue color today",
+      "image_path": "../data/local/images/img01.jpeg",
+      "sha256": "43d7f5103fef7b7858e7a2f54c4a76038eb3a4da8183cea759e4e33e905e9cca",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1453,
+        178
+      ]
+    },
+    {
+      "id": "img02",
+      "ground_truth": "Please bring my notebook tomorrow",
+      "image_path": "../data/local/images/img02.jpg",
+      "sha256": "a4e72fb32d2a62ead24a330521fb3f59174efa313f4c7956378b873f79b0ae20",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1367,
+        177
+      ]
+    },
+    {
+      "id": "img03",
+      "ground_truth": "She wrote a letter to her friend",
+      "image_path": "../data/local/images/img03.jpeg",
+      "sha256": "f6af65bb5a5721922b4441d75019f5626167aa78744a3f5c5bdaf414019e694e",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1425,
+        179
+      ]
+    },
+    {
+      "id": "img04",
+      "ground_truth": "The train leaves at past helf time",
+      "image_path": "../data/local/images/img04.jpeg",
+      "sha256": "efe4b4e9bbf6440eb1a0cacb0bf89511bef25baaa5b631fd5233a4cad150a7e3",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1351,
+        174
+      ]
+    },
+    {
+      "id": "img05",
+      "ground_truth": "I bought three apples and two pears",
+      "image_path": "../data/local/images/img05.jpeg",
+      "sha256": "61f7075427463acffd3fe31840aa2ca69f646b81e297ba3c52dcb2b762358426",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1130,
+        178
+      ]
+    },
+    {
+      "id": "img06",
+      "ground_truth": "I was about to leave the house when I realized",
+      "image_path": "../data/local/images/img06.jpeg",
+      "sha256": "2b856d9617cd3d2eefd8eee9cc96e7a21088aa78d9e0693658b93ff0cc8c793c",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1813,
+        145
+      ]
+    },
+    {
+      "id": "img07",
+      "ground_truth": "As far as I know, they haven't made a final decision yet.",
+      "image_path": "../data/local/images/img07.jpeg",
+      "sha256": "0375e45db81bcb140f7d5f9d2b7039af2ceab2c9b624d89786329e98cc564bae",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1969,
+        190
+      ]
+    },
+    {
+      "id": "img08",
+      "ground_truth": "I've been meaning to get around to it, but something",
+      "image_path": "../data/local/images/img08.jpeg",
+      "sha256": "871218d969216b609cd2096dc8e5e41e5d68714362d6a07b0d802f9ccdd52ef4",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        1880,
+        180
+      ]
+    },
+    {
+      "id": "img09",
+      "ground_truth": "It slipped my mind",
+      "image_path": "../data/local/images/img09.jpeg",
+      "sha256": "82f2e40339a7b6fe53152d967dcd0db08eeb6ed8137abc2ee564b631bb2ac947",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        740,
+        162
+      ]
+    },
+    {
+      "id": "img10",
+      "ground_truth": "I'm running a bit late",
+      "image_path": "../data/local/images/img10.jpeg",
+      "sha256": "cef74801842414b2eb8c6545d7804b0dc9fccc0b4532c2febff46f235957a715",
+      "condition": "",
+      "split": "validation",
+      "original_mode": "RGB",
+      "original_size": [
+        948,
+        169
+      ]
+    }
+  ],
+  "input_policy": "EXIF transpose; alpha composite on white; RGB; source files unchanged",
+  "model": {
+    "architecture": "TrOCR",
+    "checkpoint": "microsoft/trocr-base-handwritten",
+    "revision": "eaacaf452b06415df8f10bb6fad3a4c11e609406",
+    "device": "cpu",
+    "generation_kwargs": {
+      "max_new_tokens": 128,
+      "num_beams": 1,
+      "do_sample": false
+    },
+    "generation_config": {
+      "max_length": null,
+      "max_new_tokens": null,
+      "min_length": null,
+      "min_new_tokens": null,
+      "early_stopping": null,
+      "max_time": null,
+      "stop_strings": null,
+      "do_sample": null,
+      "num_beams": null,
+      "use_mtp": null,
+      "use_cache": false,
+      "cache_implementation": null,
+      "cache_config": null,
+      "max_cache_len": null,
+      "temperature": null,
+      "top_k": null,
+      "top_p": null,
+      "min_p": null,
+      "top_h": null,
+      "typical_p": null,
+      "epsilon_cutoff": null,
+      "eta_cutoff": null,
+      "repetition_penalty": null,
+      "encoder_repetition_penalty": null,
+      "length_penalty": null,
+      "no_repeat_ngram_size": null,
+      "bad_words_ids": null,
+      "renormalize_logits": null,
+      "forced_bos_token_id": null,
+      "forced_eos_token_id": null,
+      "remove_invalid_values": null,
+      "exponential_decay_length_penalty": null,
+      "suppress_tokens": null,
+      "begin_suppress_tokens": null,
+      "sequence_bias": null,
+      "token_healing": null,
+      "guidance_scale": null,
+      "watermarking_config": null,
+      "num_return_sequences": null,
+      "output_attentions": null,
+      "output_hidden_states": null,
+      "output_scores": null,
+      "output_logits": null,
+      "return_dict_in_generate": null,
+      "pad_token_id": 1,
+      "bos_token_id": 0,
+      "eos_token_id": 2,
+      "encoder_no_repeat_ngram_size": null,
+      "decoder_start_token_id": 2,
+      "is_assistant": null,
+      "num_assistant_tokens": null,
+      "num_assistant_tokens_schedule": null,
+      "assistant_confidence_threshold": null,
+      "prompt_lookup_num_tokens": null,
+      "max_matching_ngram_size": null,
+      "assistant_early_exit": null,
+      "assistant_lookbehind": null,
+      "target_lookbehind": null,
+      "assistant_ensemble_weight": null,
+      "speculation_type": null,
+      "compile_config": null,
+      "disable_compile": null,
+      "continuous_batching_config": null,
+      "low_memory": null,
+      "penalty_alpha": null,
+      "dola_layers": null,
+      "diversity_penalty": null,
+      "num_beam_groups": null,
+      "constraints": null,
+      "force_words_ids": null,
+      "prefill_chunk_size": null,
+      "_from_model_config": true,
+      "transformers_version": "5.22.1"
+    },
+    "image_processor": {
+      "do_normalize": true,
+      "do_resize": true,
+      "image_processor_type": "ViTImageProcessor",
+      "image_mean": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "image_std": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "resample": 2,
+      "size": {
+        "height": 384,
+        "width": 384
+      },
+      "do_rescale": true,
+      "rescale_factor": 0.00392156862745098
+    }
+  },
+  "pipelines": {
+    "baseline": {
+      "steps": []
+    },
+    "denoising_h3": {
+      "steps": [
+        {
+          "name": "non_local_means",
+          "enabled": true,
+          "h": 3.0,
+          "h_color": 3.0,
+          "template_window_size": 7,
+          "search_window_size": 21
+        }
+      ]
+    },
+    "deskew": {
+      "steps": [
+        {
+          "name": "deskew",
+          "enabled": true,
+          "max_angle": 10.0,
+          "angle_step": 0.5,
+          "estimator": "otsu_projection_difference",
+          "resampling": "bicubic",
+          "expand": true,
+          "fill": "white"
+        }
+      ]
+    }
+  },
+  "normalization": "collapse whitespace; strip edges; retain case and punctuation",
+  "scoring": "only nonblank labeled samples; corpus edit totals / reference totals",
+  "python": "3.13.15",
+  "versions": {
+    "torch": "2.14.1",
+    "transformers": "5.22.1",
+    "Pillow": "13.0.0",
+    "opencv-python-headless": "4.14.0.94",
+    "numpy": "2.5.4",
+    "jiwer": "4.0.0",
+    "pandas": "3.1.0",
+    "huggingface-hub": "2.4.0",
+    "matplotlib": "3.11.2"
+  },
+  "timing": "wall seconds; excludes model loading; preprocessing and inference recorded separately"
+}
