@@ -1,17 +1,17 @@
 # HTR preprocessing experiments
 
-Experiment C [Part 3](notebooks/experiments/experiment_c_part_3.ipynb) compares
+Experiment A [Part 3](notebooks/experiments/experiment_a_part_3.ipynb) compares
 baseline and the Part 2 order (grayscale → denoising → deskewing → CLAHE) with
 grayscale → CLAHE → denoising → deskewing. All three are freshly evaluated on
 the same default 100 seeded validation lines with fixed parameters and pinned
 dataset/model revisions. The notebook saves corpus and paired-line comparisons,
 direct changes versus Part 2, cumulative image-stage previews, predictions, and
-metadata in a fresh `results/experiment_c_part_3_*` folder. This tests order;
+metadata in a fresh `results/experiment_a_part_3_*` folder. This tests order;
 it does not establish that smoother-looking backgrounds improve recognition.
 
-## Experiment C: individual techniques
+## Experiment A: individual techniques
 
-Run [experiment_c.ipynb](notebooks/experiments/experiment_c.ipynb) from top to
+Run [experiment_a.ipynb](notebooks/experiments/experiment_a.ipynb) from top to
 bottom in the project environment. It compares baseline, grayscale, denoising,
 deskewing, and CLAHE with the existing TrOCR wrapper and corpus CER/WER evaluator.
 The default selects 100 IAM validation lines without replacement using seed 5112;
@@ -19,7 +19,7 @@ set `SAMPLE_COUNT = None` for the full validation split. Dataset and model commi
 are pinned in the configuration cell. The test split remains reserved.
 
 Each run writes predictions, summaries, sample information, metadata, and PNG
-charts to a fresh `results/experiment_c_*` directory. Plots show corpus errors,
+charts to a fresh `results/experiment_a_*` directory. Plots show corpus errors,
 changes from baseline, paired line errors, outcome counts, and selected image and
 prediction examples. Grayscale is explicitly identified as redundant when all
 selected inputs are already grayscale. These are development comparisons, not
@@ -27,15 +27,15 @@ final test results or significance claims. No additional dependencies are needed
 
 Earlier demonstration notebooks now live in `notebooks/demo/`.
 
-### Experiment C, Part 2: all techniques together
+### Experiment A, Part 2: all techniques together
 
-Run [experiment_c_part_2.ipynb](notebooks/experiments/experiment_c_part_2.ipynb)
+Run [experiment_a_part_2.ipynb](notebooks/experiments/experiment_a_part_2.ipynb)
 to compare baseline against grayscale → denoising → deskewing → CLAHE. It uses
 the same default samples, pinned revisions, parameters, and decoding as Part 1.
 The order is explicit and configurable in the pipeline tuple. This evaluates
 one combined treatment, without attributing its effect to an individual step.
 
-Fresh `results/experiment_c_part_2_*` directories contain predictions, corpus
+Fresh `results/experiment_a_part_2_*` directories contain predictions, corpus
 summaries, sample information, metadata, and charts: cumulative image stages,
 corpus errors and changes, observed timing, paired line errors, outcome counts,
 and selected image/prediction examples. Set `SAMPLE_COUNT = None` for the full
