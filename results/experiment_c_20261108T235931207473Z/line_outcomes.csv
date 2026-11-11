@@ -1,0 +1,5 @@
+,Improved,Unchanged,Worsened
+grayscale,0,100,0
+denoising,0,98,2
+deskew,3,96,1
+clahe,3,93,4

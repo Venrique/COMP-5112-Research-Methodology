@@ -1,0 +1,501 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+baseline,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,3.0917000003682915e-05,0.7591968749993612,0.0,0.0
+baseline,sample_43,"15,695 times in their different grammatical","15,695 times in their different grammatical",6.225000015547266e-05,0.7502264999993713,0.0,0.0
+baseline,sample_48,large . But the British text includes,large . But the British text includes,6.266700074775144e-05,0.6204694999996718,0.0,0.0
+baseline,sample_54,"the difference between the 15,695 words","the difference between the 15,695 words",6.36670001767925e-05,0.691532916000142,0.0,0.0
+baseline,sample_58,in Neh. 2.8 and S. of Sol. 4.13 .,in Neh. 2.8 and S. of Sol. 4.13 .,6.329200004984159e-05,1.2211486670003069,0.0,0.0
+baseline,sample_84,door posts of the house and upon the gates .,door parts of the house and upon the gates .,6.225000015547266e-05,0.8166197499995178,0.045454545454545456,0.1
+baseline,sample_88,"story , which is also in the Hagadah that","story , which is also in the Hagadah that",6.275000032474054e-05,0.8826676669996232,0.0,0.0
+baseline,sample_89,"the "" tsitsits "" . This lesson used to be read","the "" tsitsits , . This lesson used to be read",7.058299979689764e-05,1.0133999999998196,0.021739130434782608,0.09090909090909091
+baseline,sample_91,nearly seventy and I had not succeeded that,nearly seventy and I had not succeeded that,6.312500045169145e-05,0.7460329589994217,0.0,0.0
+baseline,sample_140,from innocence .,from innocence .,6.0958000176469795e-05,0.3541180840002198,0.0,0.0
+baseline,sample_141,"effective , must be of that child-like quality which comes","effective , must be of that child-like quality which comes",5.933299962634919e-05,0.9426867080001102,0.0,0.0
+baseline,sample_142,Nor is she necessarily being deceitful . She really did feel tired,War is she necessarily being deceitful . She really did feel tired,6.108300021878676e-05,1.0149442920001093,0.030303030303030304,0.08333333333333333
+baseline,sample_145,"of fatigue . They wonder why they get no rest at night ,","of fatigue . They wonder why they get no rest at night ,",6.25000002401066e-05,1.0088003339997158,0.0,0.0
+baseline,sample_158,"us to adventure , do not strangle us before","us to adventure , do not strangle us before",5.5875000725791324e-05,0.8179931670001679,0.0,0.0
+baseline,sample_161,"routine destroys the soul . It is so easy ,","routine destroys the soul . It is so easy ,",6.216700057848357e-05,0.8787074170004416,0.0,0.0
+baseline,sample_165,meals everybody knows beforehand,meals everybody knows beforehand,6.120800026110373e-05,0.4878881670001647,0.0,0.0
+baseline,sample_169,as much as 3 for a lace collar . But this,as much as 3 for a lace collar . But this,6.0958000176469795e-05,0.8848861249998663,0.0,0.0
+baseline,sample_210,The Bow-wave Theory . This assumes,The Bow-wave Theory . This assumes,5.7917000049201306e-05,0.6862480409999989,0.0,0.0
+baseline,sample_214,of her sisters . A young man from Reading named Marshall,of her sisters . A young man from Reading named Marshall,6.266699983825674e-05,0.8859609580003962,0.0,0.0
+baseline,sample_216,"Even the bone cuff-links found beside the body , which","Even the bone cuff-links found beside the body , which",6.25830007265904e-05,0.9440875829996003,0.0,0.0
+baseline,sample_226,join the Army ( presumably feeling that a moustache might enhance,join the Army ( presumably feeling that a moustache might enhance,5.666699962603161e-05,1.0143605410003147,0.0,0.0
+baseline,sample_238,A guard reported that at East Croydon,A guard reported that at East Croydon,6.154200036689872e-05,0.746812582999155,0.0,0.0
+baseline,sample_279,the grosser pleasures of the board . The grati-,the grosser pleasures of the board . The grati-,6.337499962683069e-05,0.9520033749995491,0.0,0.0
+baseline,sample_282,subject of no little importance to the Romans .,subject of no little importance to the Romans,5.0208999709866475e-05,1.1917988750001314,0.0425531914893617,0.1111111111111111
+baseline,sample_291,a mingled shower of flowers and odorous,a mingled shower of flowers and odorous,6.775000019842992e-05,0.7881170830005431,0.0,0.0
+baseline,sample_293,power in preventing the approaches of,power in preventing the approaches of,6.48340001134784e-05,0.5659222080003019,0.0,0.0
+baseline,sample_306,considered a piece of resistance .,considered a piece of resistance .,6.24999993306119e-05,0.6213850000003731,0.0,0.0
+baseline,sample_315,Among the natives of Northern Australia lizards,Among the natives of Northern Australia lizards,6.099999973230297e-05,0.6789742920000208,0.0,0.0
+baseline,sample_323,weight by a flat-rate tax at treble the rate - every adult,weight by a flat-rate tax at treble the rate - every adult,6.0166000366734806e-05,1.1490494580002633,0.0,0.0
+baseline,sample_332,"( In this strike , as reported in the Sheffield","( In this strike , as reported in the Sheffield",7.262500002980232e-05,0.8386546669999007,0.0,0.0
+baseline,sample_345,capable of achieving socialism for the working,capable of achieving socialism for the working,6.025000038789585e-05,0.6871815419999621,0.0,0.0
+baseline,sample_387,"for a year . Mr. Evitt , however , was much less committed","for a year . Mr. Evitt , however , was much less committed",7.016600011411356e-05,1.165470459000062,0.0,0.0
+baseline,sample_392,in the specialised enquiry for the Royal Commission .,in the specialised enquiry for the Royal Commission .,6.174999998620478e-05,0.8772627080006714,0.0,0.0
+baseline,sample_395,"went dead again , and Steve had no stomach for","went dead again , and Steve had no stomach for",5.9750000218627974e-05,0.8130424169994512,0.0,0.0
+baseline,sample_403,them .,them .,6.033299996488495e-05,0.28950966600041284,0.0,0.0
+baseline,sample_440,by bragging how he had once won a trick from,by bragging how he had once won a trick from,5.487500038725557e-05,0.806867790999604,0.0,0.0
+baseline,sample_458,the parade .,the parade .,5.7084000218310393e-05,0.35439887499978795,0.0,0.0
+baseline,sample_460,"with university records , the agents of the","with university records , the agents of the",5.5792000239307526e-05,0.6769369579997147,0.0,0.0
+baseline,sample_464,businesses would pick on young men,businesses would pick on young men,5.5374999647028744e-05,0.611725290999857,0.0,0.0
+baseline,sample_468,these fine young people was closely geared to,these fine young people was closely geared to,6.46660000711563e-05,0.679909458000111,0.0,0.0
+baseline,sample_475,"economic and biological ends which , essentially ,","economic and biological ends which , essentially",5.9750000218627974e-05,0.6151535839999269,0.04,0.125
+baseline,sample_480,resemblance to the shrunk heads we had,resentplace to the shrunk heads we had,5.566700019699056e-05,0.6841442499999175,0.10526315789473684,0.14285714285714285
+baseline,sample_485,necessity of rounding my narrative,necessity of rounding my narrative,6.116599979577586e-05,0.5569364999992104,0.0,0.0
+baseline,sample_493,hut had recently been cleaned and,hut had recently been cleaned and,6.033299996488495e-05,0.6146352499999921,0.0,0.0
+baseline,sample_495,I had a distinct impression that the,I had a distinct impression that the,5.79999996261904e-05,0.6145318330000009,0.0,0.0
+baseline,sample_517,"is established . Ifor Huw Evans , Propr. ,","is established . Ifor Huw Evans , Propr. ,",5.662499916070374e-05,1.0103715410004952,0.0,0.0
+baseline,sample_518,returning to her home town as a,returning to her home town as a,6.004100032441784e-05,0.6775042499994015,0.0,0.0
+baseline,sample_521,fully-fledged schoolteacher .,fully-fledged schoolteacher .,5.8332999287813436e-05,0.6201746670003558,0.0,0.0
+baseline,sample_523,"Morfydd Owen . Morfydd , who had until","Morfydd Owen . Morfydd , who had until",6.320800002868054e-05,0.9427362910000738,0.0,0.0
+baseline,sample_524,"the world , is it ? "" "" For me it is , "" Dai","the world , is it ? "" "" For me it is , "" Dani",5.666600009135436e-05,1.1367940420004743,0.022727272727272728,0.06666666666666667
+baseline,sample_526,"overalls preparatory to a last embrace . "" You","overalls preparatory to a last embrace . "" You",6.025000038789585e-05,0.8779291249993548,0.0,0.0
+baseline,sample_531,"Morfydd was saying . "" Not the end of","Morfydd was saying . "" Not the end of",5.2834000598522834e-05,0.8763008749992878,0.0,0.0
+baseline,sample_533,"had qualified as a schoolteacher , poor","had qualified as a school teacher , poor",5.97910002397839e-05,0.6806310000001758,0.02564102564102564,0.2857142857142857
+baseline,sample_536,A nice boy of course . But perhaps in the,A nice boy of course . But perhaps in the,5.825000062031904e-05,0.8128591670001697,0.0,0.0
+baseline,sample_552,"earth-bound creatures ? Aeroplanes fly , Broughtons .","earth-bound creatures ? Aeroplanes fly , Broughtons",5.662499916070374e-05,1.0095347920005224,0.03773584905660377,0.125
+baseline,sample_556,"back in his chair . "" I see . So you met a bus at","back in his chair . "" I see . So you met a bus at",6.000000030326191e-05,1.1415145000000848,0.0,0.0
+baseline,sample_562,"Group Captain . But Broughtons stood his ground . "" No ,","Group Captain . But Broughtons stood his ground . "" No ,",5.7249999372288585e-05,1.0743186669997158,0.0,0.0
+baseline,sample_565,"there were anything in Queen's Regulations to cover this ,","there were anything in Queen's Regulations to cover this ,",4.9917000069399364e-05,0.8778802500000893,0.0,0.0
+baseline,sample_576,remained empty . And so did the arms of Dai,remained empty . And so did the arms of Dai,5.774999954155646e-05,0.877238416000182,0.0,0.0
+baseline,sample_578,beloved was circling the Poles at three-and-a-,beloved was circling the Poles at three-and-a-,5.849999979545828e-05,1.0018318329994145,0.0,0.0
+baseline,sample_581,into orbit . Time passed . The Rev. Edwards' pulpit,into orbit . Time passed . The Rev. Edwards' pulpit,5.6999999287654646e-05,1.0060585830005948,0.0,0.0
+baseline,sample_586,"attitude . Now if there 'd been a good old accident ,","attitude . Now if there'd been a good old accident ,",6.062499960535206e-05,1.009967541000151,0.018867924528301886,0.16666666666666666
+baseline,sample_598,what does such a person do ? He signals,what does such a person do ? He signals,6.062499960535206e-05,0.7453304999999091,0.0,0.0
+baseline,sample_612,""" Then we are saved , "" cried the Rev. Edwards .",""" Then we are saved , "" cried the Rev. Edwards .",5.970899928797735e-05,1.008831750000354,0.0,0.0
+baseline,sample_617,are humans . You are only flymen . We will,are humans . You are only flymen . We will,6.149999990157085e-05,0.8722177500003454,0.0,0.0
+baseline,sample_628,the party was over . Piers came strolling out to,the party was over . Piers came strolling out to,5.995799983793404e-05,0.9376158750001196,0.0,0.0
+baseline,sample_645,"all due deference , Miss Deane - come off it ! ""","all due deference , Miss Deane - come off it ! """,6.0708000091835856e-05,1.074975583000196,0.0,0.0
+baseline,sample_646,"it as confidential . "" "" My dear Beryl ,","it as confidential . "" My clear Beryl ,",5.933299962634919e-05,0.8073411249997662,0.1,0.2
+baseline,sample_653,"words . "" But remember , it was you ,","words . "" But remember , it was you ,",6.775000019842992e-05,0.8077826250000726,0.0,0.0
+baseline,sample_663,"did you come from ? "" the judge said in","did you come from ? "" the judge said in",6.0416999986045994e-05,0.8073126660001435,0.0,0.0
+baseline,sample_678,A submariner's wife needed to be spared as much,A submariner's wife needed to be spared as much,5.80830001126742e-05,0.8760960420004267,0.0,0.0
+baseline,sample_721,""" Better ask Robbie Munyard . "" "" What 's he been",""" Better ask Robbie Munnyard . "" "" What's he been",6.554199990205234e-05,1.0736994999997478,0.04081632653061224,0.25
+baseline,sample_728,"Bawley . "" There are forty-three submarines in","Bawley . "" There are forty-three submarines in",6.804100030421978e-05,0.9496009999993476,0.0,0.0
+baseline,sample_749,I saw several men running down towards,I saw several men running down towards,6.387499979609856e-05,0.6152227499997025,0.0,0.0
+baseline,sample_757,"'Light an' come on in . "" We dismounted and","' light an' come on in . "" We dismounted and",6.162499994388781e-05,1.004974583999683,0.046511627906976744,0.2
+baseline,sample_759,Nick Dowd took our horses off to water .,Nick Dowd took our horses off the water .,6.325000049400842e-05,0.808304500000304,0.05,0.1111111111111111
+baseline,sample_763,the little hombre in big overalls . Very soon he,the little hombre in big overalls . Very soon he,5.812499966850737e-05,1.0075425000004543,0.0,0.0
+baseline,sample_766,sweetened with molasses for all and for us,sweetened with molasses for all and for us,6.254200070543448e-05,0.8075454999998328,0.0,0.0
+baseline,sample_772,"Golightly , Swede and the Sodbuster . This last was","Golightly , Swede and Sodbuster . This last was",6.174999998620478e-05,1.0757862919999752,0.0784313725490196,0.1
+baseline,sample_773,"night . ""","night . """,6.062499960535206e-05,0.35212637500080746,0.0,0.0
+baseline,sample_796,when it came to dealing with owlhooters and,when it came to dealing with owlhooters and,6.166599996504374e-05,0.8094339999997828,0.0,0.0
+baseline,sample_811,"abide by what we said at the meeting , ""","abide by what we said at the meeting , """,5.995799983793404e-05,0.8757399170008284,0.0,0.0
+baseline,sample_822,on the Fenton bunch but still it was a,on the Fenton bunch but still it was a,6.0290999499557074e-05,0.8099950830001035,0.0,0.0
+baseline,sample_839,"like Alice in Wonderland , "" Doc gently mocked her , "" and","like Alice in Wonderland , "" Doc gently mocked her , "" and",6.358299924613675e-05,1.0133913340005165,0.0,0.0
+baseline,sample_852,married to the sweetest wife in the world,married to the sweetest wife in the world,6.366600064211525e-05,0.7474185419996502,0.0,0.0
+baseline,sample_853,""" I made it myself , "" Gay tried to speak",""" I made it myself , "" Gay tried to speak",6.36670001767925e-05,0.8747689160009031,0.0,0.0
+baseline,sample_862,watched the workmen constructing,watched the workmen constructing,6.125000072643161e-05,0.5555193329992107,0.0,0.0
+baseline,sample_863,studying these cross-roads . Which,studying these cross-roads . Which,6.433300040953327e-05,0.682087958000011,0.0,0.0
+baseline,sample_880,""" I remember , "" quipped the houseman ,",""" I remember , "" quipped the houseman ,",6.212500011315569e-05,0.8728952500005107,0.0,0.0
+baseline,sample_890,was as though a red mist veiled her usually clear sight and,was as though a red mist veiled her usually clear sight and,6.062499960535206e-05,0.9530215839995435,0.0,0.0
+baseline,sample_900,"this blonde . "" "" Really ? "" Nigel cocked","this blonde . "" "" Really ? "" Nigel cocked",6.53749993944075e-05,0.8741837090001354,0.0,0.0
+baseline,sample_906,the housemen think of me as a,the housemen think of me as a,6.53750003039022e-05,0.678349290999904,0.0,0.0
+baseline,sample_910,"darling , "" Di said happily . "" I shall take","darling , "" Di said happily . "" I shall take",6.074999964766903e-05,0.9397214580003492,0.0,0.0
+baseline,sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She","I'm such a dull fellow , really . "" "" Dull ? "" She",6.245799977477873e-05,1.1367882500007909,0.0196078431372549,0.13333333333333333
+baseline,sample_915,"I suppose ? "" she enquired archly .","I suppose ? "" she enquired archly .",5.874999988009222e-05,0.8248736249997819,0.0,0.0
+baseline,sample_917,""" It would make me more interesting ,",""" It would make me more interesting ,",6.750000011379598e-05,0.6791020000000572,0.0,0.0
+baseline,sample_920,""" No , it wouldn't ! "" he almost snapped ,",""" No , it wouldn't ! "" he almost snapped ,",6.25000002401066e-05,0.9394735830001082,0.0,0.0
+baseline,sample_931,can't imagine the hospital without me for,can't imagine the hospital without me for,6.37499997537816e-05,0.6825031250000393,0.0,0.0
+baseline,sample_955,"or a burial ? "" she asked , hardly believing","or a burial ? "" she asked , hardly believing",6.24169997536228e-05,0.8092927079997025,0.0,0.0
+baseline,sample_957,"down . "" Ask any bridegroom-to-be . Anyhow ,","down . "" Ask any bridegroom-to-be . Anyhow ,",6.983300045249052e-05,1.1961524170001212,0.0,0.0
+grayscale,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,9.916700037138071e-05,0.7438984999998866,0.0,0.0
+grayscale,sample_43,"15,695 times in their different grammatical","15,695 times in their different grammatical",0.00010720800037233857,0.7410872079999535,0.0,0.0
+grayscale,sample_48,large . But the British text includes,large . But the British text includes,7.491700034734095e-05,0.6141878749995158,0.0,0.0
+grayscale,sample_54,"the difference between the 15,695 words","the difference between the 15,695 words",7.87919998401776e-05,0.6890428330007126,0.0,0.0
+grayscale,sample_58,in Neh. 2.8 and S. of Sol. 4.13 .,in Neh. 2.8 and S. of Sol. 4.13 .,9.420799960935256e-05,1.2133962500001871,0.0,0.0
+grayscale,sample_84,door posts of the house and upon the gates .,door parts of the house and upon the gates .,7.43750006222399e-05,0.806789457999912,0.045454545454545456,0.1
+grayscale,sample_88,"story , which is also in the Hagadah that","story , which is also in the Hagadah that",7.091699990269262e-05,0.8758781249998719,0.0,0.0
+grayscale,sample_89,"the "" tsitsits "" . This lesson used to be read","the "" tsitsits , . This lesson used to be read",7.554199964943109e-05,1.0041351250001753,0.021739130434782608,0.09090909090909091
+grayscale,sample_91,nearly seventy and I had not succeeded that,nearly seventy and I had not succeeded that,7.408300007227808e-05,0.7443642079997517,0.0,0.0
+grayscale,sample_140,from innocence .,from innocence .,6.90830001985887e-05,0.3544651249994786,0.0,0.0
+grayscale,sample_141,"effective , must be of that child-like quality which comes","effective , must be of that child-like quality which comes",7.42920001357561e-05,0.943718667000212,0.0,0.0
+grayscale,sample_142,Nor is she necessarily being deceitful . She really did feel tired,War is she necessarily being deceitful . She really did feel tired,9.891700028674677e-05,1.0057104580000669,0.030303030303030304,0.08333333333333333
+grayscale,sample_145,"of fatigue . They wonder why they get no rest at night ,","of fatigue . They wonder why they get no rest at night ,",7.383299998764414e-05,1.0108209999998508,0.0,0.0
+grayscale,sample_158,"us to adventure , do not strangle us before","us to adventure , do not strangle us before",0.00010645800011843676,0.8087827919998745,0.0,0.0
+grayscale,sample_161,"routine destroys the soul . It is so easy ,","routine destroys the soul . It is so easy ,",9.59999997576233e-05,0.8775238750004064,0.0,0.0
+grayscale,sample_165,meals everybody knows beforehand,meals everybody knows beforehand,9.620899982110132e-05,0.4845163749996573,0.0,0.0
+grayscale,sample_169,as much as 3 for a lace collar . But this,as much as 3 for a lace collar . But this,7.795799956511473e-05,0.8762635000002774,0.0,0.0
+grayscale,sample_210,The Bow-wave Theory . This assumes,The Bow-wave Theory . This assumes,9.679200047685299e-05,0.679676040999766,0.0,0.0
+grayscale,sample_214,of her sisters . A young man from Reading named Marshall,of her sisters . A young man from Reading named Marshall,7.566600015707081e-05,0.8695370420000472,0.0,0.0
+grayscale,sample_216,"Even the bone cuff-links found beside the body , which","Even the bone cuff-links found beside the body , which",7.345799986069323e-05,0.9431788330002746,0.0,0.0
+grayscale,sample_226,join the Army ( presumably feeling that a moustache might enhance,join the Army ( presumably feeling that a moustache might enhance,0.00010733300041465554,1.0061232079997353,0.0,0.0
+grayscale,sample_238,A guard reported that at East Croydon,A guard reported that at East Croydon,9.612499979994027e-05,0.7468555830000696,0.0,0.0
+grayscale,sample_279,the grosser pleasures of the board . The grati-,the grosser pleasures of the board . The grati-,7.716600066487445e-05,0.9383081249998213,0.0,0.0
+grayscale,sample_282,subject of no little importance to the Romans .,subject of no little importance to the Romans,0.00010395800018159207,0.6796615419998489,0.0425531914893617,0.1111111111111111
+grayscale,sample_291,a mingled shower of flowers and odorous,a mingled shower of flowers and odorous,7.63750003898167e-05,0.7475659170004292,0.0,0.0
+grayscale,sample_293,power in preventing the approaches of,power in preventing the approaches of,7.620799988217186e-05,0.5513015830001677,0.0,0.0
+grayscale,sample_306,considered a piece of resistance .,considered a piece of resistance .,7.570900015707593e-05,0.6122491659998559,0.0,0.0
+grayscale,sample_315,Among the natives of Northern Australia lizards,Among the natives of Northern Australia lizards,7.450000066455686e-05,0.6802416250002352,0.0,0.0
+grayscale,sample_323,weight by a flat-rate tax at treble the rate - every adult,weight by a flat-rate tax at treble the rate - every adult,7.58340001993929e-05,1.1347510829991734,0.0,0.0
+grayscale,sample_332,"( In this strike , as reported in the Sheffield","( In this strike , as reported in the Sheffield",7.366699992417125e-05,0.8079060000000027,0.0,0.0
+grayscale,sample_345,capable of achieving socialism for the working,capable of achieving socialism for the working,6.949999988137279e-05,0.7100161670005036,0.0,0.0
+grayscale,sample_387,"for a year . Mr. Evitt , however , was much less committed","for a year . Mr. Evitt , however , was much less committed",7.91669999671285e-05,1.1346279170002163,0.0,0.0
+grayscale,sample_392,in the specialised enquiry for the Royal Commission .,in the specialised enquiry for the Royal Commission .,8.658299975650152e-05,0.8770943330000591,0.0,0.0
+grayscale,sample_395,"went dead again , and Steve had no stomach for","went dead again , and Steve had no stomach for",7.462499979737913e-05,0.8122319169997354,0.0,0.0
+grayscale,sample_403,them .,them .,7.108399950084276e-05,0.2898901250000563,0.0,0.0
+grayscale,sample_440,by bragging how he had once won a trick from,by bragging how he had once won a trick from,9.095800032810075e-05,0.8109427499994126,0.0,0.0
+grayscale,sample_458,the parade .,the parade .,2.712500008783536e-05,0.35407062500053144,0.0,0.0
+grayscale,sample_460,"with university records , the agents of the","with university records , the agents of the",7.633299992448883e-05,0.6764150830003928,0.0,0.0
+grayscale,sample_464,businesses would pick on young men,businesses would pick on young men,7.400000049528899e-05,0.6142182499997944,0.0,0.0
+grayscale,sample_468,these fine young people was closely geared to,these fine young people was closely geared to,7.333400026254822e-05,0.676507708999452,0.0,0.0
+grayscale,sample_475,"economic and biological ends which , essentially ,","economic and biological ends which , essentially",7.254199954331852e-05,0.6113310420005291,0.04,0.125
+grayscale,sample_480,resemblance to the shrunk heads we had,resentplace to the shrunk heads we had,9.966700054064859e-05,0.6787605419995089,0.10526315789473684,0.14285714285714285
+grayscale,sample_485,necessity of rounding my narrative,necessity of rounding my narrative,7.329099935304839e-05,0.547029666000526,0.0,0.0
+grayscale,sample_493,hut had recently been cleaned and,hut had recently been cleaned and,7.179200019891141e-05,0.6133918749992517,0.0,0.0
+grayscale,sample_495,I had a distinct impression that the,I had a distinct impression that the,7.441700017807307e-05,0.6138969169996926,0.0,0.0
+grayscale,sample_517,"is established . Ifor Huw Evans , Propr. ,","is established . Ifor Huw Evans , Propr. ,",7.533299958595308e-05,1.00708350000059,0.0,0.0
+grayscale,sample_518,returning to her home town as a,returning to her home town as a,7.541700051660882e-05,0.6772474580002381,0.0,0.0
+grayscale,sample_521,fully-fledged schoolteacher .,fully-fledged schoolteacher .,0.0001070830003300216,0.6121759589996145,0.0,0.0
+grayscale,sample_523,"Morfydd Owen . Morfydd , who had until","Morfydd Owen . Morfydd , who had until",8.1959000453935e-05,0.9516071250000095,0.0,0.0
+grayscale,sample_524,"the world , is it ? "" "" For me it is , "" Dai","the world , is it ? "" "" For me it is , "" Dani",8.216700007324107e-05,1.1389746249997188,0.022727272727272728,0.06666666666666667
+grayscale,sample_526,"overalls preparatory to a last embrace . "" You","overalls preparatory to a last embrace . "" You",9.816700003284495e-05,0.8743041249999806,0.0,0.0
+grayscale,sample_531,"Morfydd was saying . "" Not the end of","Morfydd was saying . "" Not the end of",7.283299964910839e-05,0.9016751250001107,0.0,0.0
+grayscale,sample_533,"had qualified as a schoolteacher , poor","had qualified as a school teacher , poor",9.583300015947316e-05,0.678991916999621,0.02564102564102564,0.2857142857142857
+grayscale,sample_536,A nice boy of course . But perhaps in the,A nice boy of course . But perhaps in the,7.612500030518277e-05,0.8105457080000633,0.0,0.0
+grayscale,sample_552,"earth-bound creatures ? Aeroplanes fly , Broughtons .","earth-bound creatures ? Aeroplanes fly , Broughtons",8.658299975650152e-05,1.0082546249996085,0.03773584905660377,0.125
+grayscale,sample_556,"back in his chair . "" I see . So you met a bus at","back in his chair . "" I see . So you met a bus at",9.916599992720876e-05,1.1353564589999223,0.0,0.0
+grayscale,sample_562,"Group Captain . But Broughtons stood his ground . "" No ,","Group Captain . But Broughtons stood his ground . "" No ,",6.629200015595416e-05,1.0753478750002614,0.0,0.0
+grayscale,sample_565,"there were anything in Queen's Regulations to cover this ,","there were anything in Queen's Regulations to cover this ,",7.487499988201307e-05,0.873302916999819,0.0,0.0
+grayscale,sample_576,remained empty . And so did the arms of Dai,remained empty . And so did the arms of Dai,7.516700043197488e-05,0.8751490419999755,0.0,0.0
+grayscale,sample_578,beloved was circling the Poles at three-and-a-,beloved was circling the Poles at three-and-a-,7.525000000896398e-05,1.017597250000108,0.0,0.0
+grayscale,sample_581,into orbit . Time passed . The Rev. Edwards' pulpit,into orbit . Time passed . The Rev. Edwards' pulpit,0.00010399999973742524,1.0069175410008029,0.0,0.0
+grayscale,sample_586,"attitude . Now if there 'd been a good old accident ,","attitude . Now if there'd been a good old accident ,",9.841700011747889e-05,1.0106471669996608,0.018867924528301886,0.16666666666666666
+grayscale,sample_598,what does such a person do ? He signals,what does such a person do ? He signals,9.912499990605284e-05,0.7437880409997888,0.0,0.0
+grayscale,sample_612,""" Then we are saved , "" cried the Rev. Edwards .",""" Then we are saved , "" cried the Rev. Edwards .",0.00010641599965310888,1.012046249999912,0.0,0.0
+grayscale,sample_617,are humans . You are only flymen . We will,are humans . You are only flymen . We will,9.16660001166747e-05,0.8807760830004554,0.0,0.0
+grayscale,sample_628,the party was over . Piers came strolling out to,the party was over . Piers came strolling out to,0.0001022080004986492,0.9420995410000614,0.0,0.0
+grayscale,sample_645,"all due deference , Miss Deane - come off it ! ""","all due deference , Miss Deane - come off it ! """,0.00011866700060636504,1.0967038749995481,0.0,0.0
+grayscale,sample_646,"it as confidential . "" "" My dear Beryl ,","it as confidential . "" My clear Beryl ,",7.829199967090972e-05,0.8249490420002985,0.1,0.2
+grayscale,sample_653,"words . "" But remember , it was you ,","words . "" But remember , it was you ,",7.76249999034917e-05,0.9325983329999872,0.0,0.0
+grayscale,sample_663,"did you come from ? "" the judge said in","did you come from ? "" the judge said in",8.179199994629016e-05,0.8790708330006964,0.0,0.0
+grayscale,sample_678,A submariner's wife needed to be spared as much,A submariner's wife needed to be spared as much,7.491700034734095e-05,0.9599472079999032,0.0,0.0
+grayscale,sample_721,""" Better ask Robbie Munyard . "" "" What 's he been",""" Better ask Robbie Munnyard . "" "" What's he been",0.00013262500033306424,1.1022896249996847,0.04081632653061224,0.25
+grayscale,sample_728,"Bawley . "" There are forty-three submarines in","Bawley . "" There are forty-three submarines in",0.00010104200009664055,0.9766347499999029,0.0,0.0
+grayscale,sample_749,I saw several men running down towards,I saw several men running down towards,0.00011483300022518961,0.6396917909996773,0.0,0.0
+grayscale,sample_757,"'Light an' come on in . "" We dismounted and","' light an' come on in . "" We dismounted and",0.00010525000016059494,1.0314471669998966,0.046511627906976744,0.2
+grayscale,sample_759,Nick Dowd took our horses off to water .,Nick Dowd took our horses off the water .,9.512500037089922e-05,0.815197208000427,0.05,0.1111111111111111
+grayscale,sample_763,the little hombre in big overalls . Very soon he,the little hombre in big overalls . Very soon he,0.00010712499988585478,1.0179676670004483,0.0,0.0
+grayscale,sample_766,sweetened with molasses for all and for us,sweetened with molasses for all and for us,0.0001249169999937294,0.8136664579997159,0.0,0.0
+grayscale,sample_772,"Golightly , Swede and the Sodbuster . This last was","Golightly , Swede and Sodbuster . This last was",9.508400034974329e-05,1.0810427500000515,0.0784313725490196,0.1
+grayscale,sample_773,"night . ""","night . """,9.608399977878435e-05,0.35703962500065245,0.0,0.0
+grayscale,sample_796,when it came to dealing with owlhooters and,when it came to dealing with owlhooters and,9.812499956751708e-05,0.850246457999674,0.0,0.0
+grayscale,sample_811,"abide by what we said at the meeting , ""","abide by what we said at the meeting , """,0.00011408399950596504,0.9017162500003906,0.0,0.0
+grayscale,sample_822,on the Fenton bunch but still it was a,on the Fenton bunch but still it was a,0.00010441700032970402,0.8254796670007636,0.0,0.0
+grayscale,sample_839,"like Alice in Wonderland , "" Doc gently mocked her , "" and","like Alice in Wonderland , "" Doc gently mocked her , "" and",0.00010837499939952977,1.021634042000187,0.0,0.0
+grayscale,sample_852,married to the sweetest wife in the world,married to the sweetest wife in the world,0.00011379200077499263,0.7572858330004237,0.0,0.0
+grayscale,sample_853,""" I made it myself , "" Gay tried to speak",""" I made it myself , "" Gay tried to speak",7.354199988185428e-05,0.8831777499999589,0.0,0.0
+grayscale,sample_862,watched the workmen constructing,watched the workmen constructing,7.329199979722034e-05,0.5543293750006342,0.0,0.0
+grayscale,sample_863,studying these cross-roads . Which,studying these cross-roads . Which,4.787499983649468e-05,0.6849751250001646,0.0,0.0
+grayscale,sample_880,""" I remember , "" quipped the houseman ,",""" I remember , "" quipped the houseman ,",8.237500060204184e-05,0.8851929160000509,0.0,0.0
+grayscale,sample_890,was as though a red mist veiled her usually clear sight and,was as though a red mist veiled her usually clear sight and,7.875000028434442e-05,0.9464298330003658,0.0,0.0
+grayscale,sample_900,"this blonde . "" "" Really ? "" Nigel cocked","this blonde . "" "" Really ? "" Nigel cocked",7.033400015643565e-05,0.8772867909992783,0.0,0.0
+grayscale,sample_906,the housemen think of me as a,the housemen think of me as a,7.80000000304426e-05,0.696690208000291,0.0,0.0
+grayscale,sample_910,"darling , "" Di said happily . "" I shall take","darling , "" Di said happily . "" I shall take",7.216700032586232e-05,0.9555890419997013,0.0,0.0
+grayscale,sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She","I'm such a dull fellow , really . "" "" Dull ? "" She",7.587500022054883e-05,1.1533673750000162,0.0196078431372549,0.13333333333333333
+grayscale,sample_915,"I suppose ? "" she enquired archly .","I suppose ? "" she enquired archly .",7.43749997127452e-05,0.8201012919998902,0.0,0.0
+grayscale,sample_917,""" It would make me more interesting ,",""" It would make me more interesting ,",9.862500064627966e-05,0.6950644999997166,0.0,0.0
+grayscale,sample_920,""" No , it wouldn't ! "" he almost snapped ,",""" No , it wouldn't ! "" he almost snapped ,",8.262499977718107e-05,0.9589546659999542,0.0,0.0
+grayscale,sample_931,can't imagine the hospital without me for,can't imagine the hospital without me for,7.633400036866078e-05,0.6955196660001093,0.0,0.0
+grayscale,sample_955,"or a burial ? "" she asked , hardly believing","or a burial ? "" she asked , hardly believing",7.550000009359792e-05,0.828417083000204,0.0,0.0
+grayscale,sample_957,"down . "" Ask any bridegroom-to-be . Anyhow ,","down . "" Ask any bridegroom-to-be . Anyhow ,",7.795900000928668e-05,1.2308558750000884,0.0,0.0
+denoising,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,0.22066891699978441,0.7606527090001691,0.0,0.0
+denoising,sample_43,"15,695 times in their different grammatical",""" S.695 times in their different grammatical",0.06163787500008766,0.8195532500003537,0.09302325581395349,0.3333333333333333
+denoising,sample_48,large . But the British text includes,large . But the British text includes,0.05594495900004404,0.6205259169992132,0.0,0.0
+denoising,sample_54,"the difference between the 15,695 words","the difference between the 15,695 words",0.058978292000574584,0.6828877919997467,0.0,0.0
+denoising,sample_58,in Neh. 2.8 and S. of Sol. 4.13 .,in Neh. 2.8 and S. of Sol. 4.13 .,0.054832750000059605,1.2091775409999173,0.0,0.0
+denoising,sample_84,door posts of the house and upon the gates .,door parts of the house and upon the gates .,0.06890362499962066,0.8167706249996627,0.045454545454545456,0.1
+denoising,sample_88,"story , which is also in the Hagadah that","story , which is also in the Hagadah that",0.05849112499981857,0.880086332999781,0.0,0.0
+denoising,sample_89,"the "" tsitsits "" . This lesson used to be read","the "" tsitsits , . This lesson used to be read",0.04863558299985016,1.0156872500001555,0.021739130434782608,0.09090909090909091
+denoising,sample_91,nearly seventy and I had not succeeded that,nearly seventy and I had not succeeded that,0.0714517500000511,0.7493318329998147,0.0,0.0
+denoising,sample_140,from innocence .,from innocence .,0.023854416999711248,0.3676749579999523,0.0,0.0
+denoising,sample_141,"effective , must be of that child-like quality which comes","effective , must be of that child-like quality which comes",0.046222083999964525,0.953052791999653,0.0,0.0
+denoising,sample_142,Nor is she necessarily being deceitful . She really did feel tired,War is she necessarily being deceitful . She really did feel tired,0.04552008399969054,1.009634584000196,0.030303030303030304,0.08333333333333333
+denoising,sample_145,"of fatigue . They wonder why they get no rest at night ,","of fatigue . They wonder why they get no rest at night ,",0.07210420899991732,1.0351325000001452,0.0,0.0
+denoising,sample_158,"us to adventure , do not strangle us before","us to adventure , do not strangle us before",0.0541265839992775,0.8334857499994541,0.0,0.0
+denoising,sample_161,"routine destroys the soul . It is so easy ,","routine destroys the soul . It is so easy ,",0.05466133299978537,0.8806742499991742,0.0,0.0
+denoising,sample_165,meals everybody knows beforehand,meals everybody knows beforehand,0.051973542000268935,0.49424891699982254,0.0,0.0
+denoising,sample_169,as much as 3 for a lace collar . But this,as much as 3 for a lace collar . But this,0.05719737500021438,0.8844677919996684,0.0,0.0
+denoising,sample_210,The Bow-wave Theory . This assumes,The Bow-wave Theory . This assumes,0.06328149999990273,0.6826600410004176,0.0,0.0
+denoising,sample_214,of her sisters . A young man from Reading named Marshall,of her sisters . A young man from Reading named Marshall,0.05924070800028858,0.8811517920003098,0.0,0.0
+denoising,sample_216,"Even the bone cuff-links found beside the body , which","Even the bone cuff-links found beside the body , which",0.04875229200024478,0.941802958000153,0.0,0.0
+denoising,sample_226,join the Army ( presumably feeling that a moustache might enhance,join the Army ( presumably feeling that a moustache might enhance,0.05854266699952859,1.015477834000194,0.0,0.0
+denoising,sample_238,A guard reported that at East Croydon,A guard reported that at East Croydon,0.0502127500003553,0.7845007500000065,0.0,0.0
+denoising,sample_279,the grosser pleasures of the board . The grati-,the grosser pleasures of the board . The grati-,0.05214312499992957,0.9454262079998443,0.0,0.0
+denoising,sample_282,subject of no little importance to the Romans .,subject of no little importance to the Romans,0.05508941599964601,0.6831724160001613,0.0425531914893617,0.1111111111111111
+denoising,sample_291,a mingled shower of flowers and odorous,a mingled shower of flowers and odorous,0.06070745899978647,0.7480511249996198,0.0,0.0
+denoising,sample_293,power in preventing the approaches of,power in preventing the approaches of,0.04541491700001643,0.5545960829995238,0.0,0.0
+denoising,sample_306,considered a piece of resistance .,considered a piece of resistance .,0.04638254099972983,0.614291083000353,0.0,0.0
+denoising,sample_315,Among the natives of Northern Australia lizards,Among the natives of Northern Australia lizards,0.04497479200017551,0.7017249999998967,0.0,0.0
+denoising,sample_323,weight by a flat-rate tax at treble the rate - every adult,weight by a flat-rate tax at treble the rate - every adnet,0.051342209000722505,1.247349457999917,0.034482758620689655,0.08333333333333333
+denoising,sample_332,"( In this strike , as reported in the Sheffield","( In this strike , as reported in the Sheffield",0.04275624999991123,0.8401260840000759,0.0,0.0
+denoising,sample_345,capable of achieving socialism for the working,capable of achieving socialism for the working,0.06134587499946065,0.7020926249997501,0.0,0.0
+denoising,sample_387,"for a year . Mr. Evitt , however , was much less committed","for a year . Mr. Evitt , however , was much less committed",0.05903620799927012,1.1804326250003214,0.0,0.0
+denoising,sample_392,in the specialised enquiry for the Royal Commission .,in the specialised enquiry for the Royal Commission .,0.04805683299946395,0.984404457999517,0.0,0.0
+denoising,sample_395,"went dead again , and Steve had no stomach for","went dead again , and Steve had no stomach for",0.045993250000719854,0.8350704590002351,0.0,0.0
+denoising,sample_403,them .,them .,0.032388833999903,0.30094645799999853,0.0,0.0
+denoising,sample_440,by bragging how he had once won a trick from,by bragging how he had once won a trick from,0.058223917000759684,0.8354376249999405,0.0,0.0
+denoising,sample_458,the parade .,the parade .,0.03252054200038401,0.3636058749998483,0.0,0.0
+denoising,sample_460,"with university records , the agents of the","with university records , the agents of the",0.0734002919998602,0.6896681669995814,0.0,0.0
+denoising,sample_464,businesses would pick on young men,businesses would pick on young men,0.06812958299997263,0.6145312500002547,0.0,0.0
+denoising,sample_468,these fine young people was closely geared to,these fine young people was closely geared to,0.04742862500006595,0.6800607499999387,0.0,0.0
+denoising,sample_475,"economic and biological ends which , essentially ,","economic and biological ends which , essentially",0.0406745830005093,0.6240497500002675,0.04,0.125
+denoising,sample_480,resemblance to the shrunk heads we had,resentplace to the shrunk heads we had,0.05884783400051674,0.6827185419997477,0.10526315789473684,0.14285714285714285
+denoising,sample_485,necessity of rounding my narrative,necessity of rounding my narrative,0.07562920800046413,0.5503963339997426,0.0,0.0
+denoising,sample_493,hut had recently been cleaned and,hut had recently been cleaned and,0.044438791000175115,0.6169197919998624,0.0,0.0
+denoising,sample_495,I had a distinct impression that the,I had a distinct impression that the,0.0464760410004601,0.6179423749999842,0.0,0.0
+denoising,sample_517,"is established . Ifor Huw Evans , Propr. ,","is established . Ifor Huw Evans , Propr. ,",0.049595832999330014,1.017222208000021,0.0,0.0
+denoising,sample_518,returning to her home town as a,returning to her home town as a,0.07545691599989368,0.6850607079995825,0.0,0.0
+denoising,sample_521,fully-fledged schoolteacher .,fully-fledged schoolteacher .,0.05658225000024686,0.6167011249999632,0.0,0.0
+denoising,sample_523,"Morfydd Owen . Morfydd , who had until","Morfydd Owen . Morfydd , who had until",0.07370745900061593,0.9513383330004217,0.0,0.0
+denoising,sample_524,"the world , is it ? "" "" For me it is , "" Dai","the world , is it ? "" "" For me it is , "" Dani",0.04162050000013551,1.1427427499993428,0.022727272727272728,0.06666666666666667
+denoising,sample_526,"overalls preparatory to a last embrace . "" You","overalls preparatory to a last embrace . "" You",0.04259166600058961,0.8829697920000399,0.0,0.0
+denoising,sample_531,"Morfydd was saying . "" Not the end of","Morfydd was saying . "" Not the end of",0.04154558400023234,0.8818318749999889,0.0,0.0
+denoising,sample_533,"had qualified as a schoolteacher , poor","had qualified as a school teacher , poor",0.05788237500019022,0.6823391660000198,0.02564102564102564,0.2857142857142857
+denoising,sample_536,A nice boy of course . But perhaps in the,A nice boy of course . But perhaps in the,0.0439234999994369,0.8288407499994719,0.0,0.0
+denoising,sample_552,"earth-bound creatures ? Aeroplanes fly , Broughtons .","earth-bound creatures ? Aeroplanes fly , Broughtons",0.04337341700011166,1.0145897499996863,0.03773584905660377,0.125
+denoising,sample_556,"back in his chair . "" I see . So you met a bus at","back in his chair . "" I see . So you met a bus at",0.047039749999385094,1.1469756670003335,0.0,0.0
+denoising,sample_562,"Group Captain . But Broughtons stood his ground . "" No ,","Group Captain . But Broughtons stood his ground . "" No ,",0.05434758299998066,1.086722541999734,0.0,0.0
+denoising,sample_565,"there were anything in Queen's Regulations to cover this ,","there were anything in Queen's Regulations to cover this ,",0.05222949999915727,0.8780791660001341,0.0,0.0
+denoising,sample_576,remained empty . And so did the arms of Dai,remained empty . And so did the arms of Dai,0.06072929200036015,0.8829084580002018,0.0,0.0
+denoising,sample_578,beloved was circling the Poles at three-and-a-,beloved was circling the Poles at three-and-a-,0.0621375420005279,1.0115287910002735,0.0,0.0
+denoising,sample_581,into orbit . Time passed . The Rev. Edwards' pulpit,into orbit . Time passed . The Rev. Edwards' pulpit,0.06018591700012621,1.0157349589999285,0.0,0.0
+denoising,sample_586,"attitude . Now if there 'd been a good old accident ,","attitude . Now if there'd been a good old accident ,",0.05268679199980397,1.0139829589998044,0.018867924528301886,0.16666666666666666
+denoising,sample_598,what does such a person do ? He signals,what does such a person do ? He signals,0.05999462499949004,0.752408333000858,0.0,0.0
+denoising,sample_612,""" Then we are saved , "" cried the Rev. Edwards .",""" Then we are saved , "" cried the Rev. Edwards .",0.05385475000002771,1.0203507079995688,0.0,0.0
+denoising,sample_617,are humans . You are only flymen . We will,are humans . You are only flymen . We will,0.04683620800005883,0.8811095410001144,0.0,0.0
+denoising,sample_628,the party was over . Piers came strolling out to,the party was over . Piers came strolling out to,0.04779308300021512,0.9454312919997392,0.0,0.0
+denoising,sample_645,"all due deference , Miss Deane - come off it ! ""","all due deference , Miss Deane - come off it ! """,0.05806837500040274,1.0831596670004728,0.0,0.0
+denoising,sample_646,"it as confidential . "" "" My dear Beryl ,","it as confidential . "" My clear Beryl ,",0.04498095800045121,0.8117499170002702,0.1,0.2
+denoising,sample_653,"words . "" But remember , it was you ,","words . "" But remember , it was you ,",0.04254824999952689,0.8166954590005844,0.0,0.0
+denoising,sample_663,"did you come from ? "" the judge said in","did you come from ? "" the judge said in",0.04919454199989559,0.812213291000262,0.0,0.0
+denoising,sample_678,A submariner's wife needed to be spared as much,A submariner's wife needed to be spared as much,0.0625575829999434,0.8793261670007269,0.0,0.0
+denoising,sample_721,""" Better ask Robbie Munyard . "" "" What 's he been",""" Better ask Robbie Munnyard . "" "" What's he been",0.04385158299919567,1.080564083000354,0.04081632653061224,0.25
+denoising,sample_728,"Bawley . "" There are forty-three submarines in","Bawley . "" There are forty-three submarines in",0.045949582999128324,0.9493505829996138,0.0,0.0
+denoising,sample_749,I saw several men running down towards,I saw several men running down towards,0.0626199580001412,0.6164942499999597,0.0,0.0
+denoising,sample_757,"'Light an' come on in . "" We dismounted and","' light an' come on in . "" We dismounted and",0.04875433399956819,1.0197897080006442,0.046511627906976744,0.2
+denoising,sample_759,Nick Dowd took our horses off to water .,Nick Dowd took our horses off the water .,0.06431874999998399,0.8174392920000173,0.05,0.1111111111111111
+denoising,sample_763,the little hombre in big overalls . Very soon he,the little hombre in big overalls . Very soon he,0.05086424999990413,1.0168177079995075,0.0,0.0
+denoising,sample_766,sweetened with molasses for all and for us,sweetened with molasses for all and for us,0.05598504200042953,0.8126235420004377,0.0,0.0
+denoising,sample_772,"Golightly , Swede and the Sodbuster . This last was","Golightly , Swede and Sodbuster . This last was",0.051047541999651,1.0799311669998133,0.0784313725490196,0.1
+denoising,sample_773,"night . ""","night . """,0.024718749999919964,0.35479470799964474,0.0,0.0
+denoising,sample_796,when it came to dealing with owlhooters and,when it came to dealing with owlhooters and,0.054012582999348524,0.8130499999997483,0.0,0.0
+denoising,sample_811,"abide by what we said at the meeting , ""","abide by what we said at the meeting , """,0.046279541999865614,0.8805592080007045,0.0,0.0
+denoising,sample_822,on the Fenton bunch but still it was a,on the Fenton bunch but still it was a,0.05438145800053462,0.8133716249994905,0.0,0.0
+denoising,sample_839,"like Alice in Wonderland , "" Doc gently mocked her , "" and","like Alice in Wonderland , "" Doc gently mocked her , "" and",0.05521033300010458,1.019492000000355,0.0,0.0
+denoising,sample_852,married to the sweetest wife in the world,married to the sweetest wife in the world,0.06123837499944784,0.7499674170003345,0.0,0.0
+denoising,sample_853,""" I made it myself , "" Gay tried to speak",""" I made it myself , "" Gay tried to speak",0.057360542000424175,0.8801418329994704,0.0,0.0
+denoising,sample_862,watched the workmen constructing,watched the workmen constructing,0.04833012499966571,0.5508212089998779,0.0,0.0
+denoising,sample_863,studying these cross-roads . Which,studying these cross-roads . Which,0.054775457999312493,0.6804060419999587,0.0,0.0
+denoising,sample_880,""" I remember , "" quipped the houseman ,",""" I remember , "" quipped the houseman ,",0.04499550000036834,0.8925312920000579,0.0,0.0
+denoising,sample_890,was as though a red mist veiled her usually clear sight and,was as though a red mist veiled her usually clear sight and,0.05790462499953719,0.9476400839994312,0.0,0.0
+denoising,sample_900,"this blonde . "" "" Really ? "" Nigel cocked","this blonde . "" "" Really ? "" Nigel cocked",0.07419691599989164,0.9058119159999478,0.0,0.0
+denoising,sample_906,the housemen think of me as a,the housemen think of me as a,0.05302850000043691,0.6830537910000203,0.0,0.0
+denoising,sample_910,"darling , "" Di said happily . "" I shall take","darling , "" Di said happily . "" I shall take",0.04086637499949575,0.9499649999997928,0.0,0.0
+denoising,sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She","I'm such a dull fellow , really . "" "" Dull ? "" She",0.04639970800053561,1.1418697910003175,0.0196078431372549,0.13333333333333333
+denoising,sample_915,"I suppose ? "" she enquired archly .","I suppose ? "" she enquired archly .",0.06587595899964072,0.8132884159995228,0.0,0.0
+denoising,sample_917,""" It would make me more interesting ,",""" It would make me more interesting ,",0.05850433300020086,0.680863374999717,0.0,0.0
+denoising,sample_920,""" No , it wouldn't ! "" he almost snapped ,",""" No , it wouldn't ! "" he almost snapped ,",0.04446124999958556,0.94949379100035,0.0,0.0
+denoising,sample_931,can't imagine the hospital without me for,can't imagine the hospital without me for,0.04493345799983217,0.6781106669996007,0.0,0.0
+denoising,sample_955,"or a burial ? "" she asked , hardly believing","or a burial ? "" she asked , hardly believing",0.07079166699986672,0.8153915419998157,0.0,0.0
+denoising,sample_957,"down . "" Ask any bridegroom-to-be . Anyhow ,","down . "" Ask any bridegroom-to-be . Anyhow ,",0.043014750000111235,1.2084824169996864,0.0,0.0
+deskew,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,0.019441958000243176,0.7470625830001154,0.0,0.0
+deskew,sample_43,"15,695 times in their different grammatical","15,695 times in their different grammatical",0.04016608300025837,0.7478668749999997,0.0,0.0
+deskew,sample_48,large . But the British text includes,large . But the British text includes,0.0398731659997793,0.6196414589994674,0.0,0.0
+deskew,sample_54,"the difference between the 15,695 words","the difference between the 15,695 words",0.04010966700025165,0.6823292500002935,0.0,0.0
+deskew,sample_58,in Neh. 2.8 and S. of Sol. 4.13 .,in Neh. 2.8 and S. of Sol. 4.13 .,0.03432845799943607,1.2121748330000628,0.0,0.0
+deskew,sample_84,door posts of the house and upon the gates .,door parts of the house and upon the gates .,0.02063425000051211,0.8123611250002796,0.045454545454545456,0.1
+deskew,sample_88,"story , which is also in the Hagadah that","story , which is also in the Hagadah that",0.014962833000026876,0.8809739580001406,0.0,0.0
+deskew,sample_89,"the "" tsitsits "" . This lesson used to be read","the "" tsitsits , . This lesson used to be read",0.028152083000350103,1.0698284999998577,0.021739130434782608,0.09090909090909091
+deskew,sample_91,nearly seventy and I had not succeeded that,nearly seventy and I had not succeeded that,0.019746500000110245,0.7453849169996829,0.0,0.0
+deskew,sample_140,from innocence .,from innocence .,0.005866667000191228,0.3561946250001711,0.0,0.0
+deskew,sample_141,"effective , must be of that child-like quality which comes","effective , must be of that child-like quality which comes",0.028151583999715513,0.9463562079999974,0.0,0.0
+deskew,sample_142,Nor is she necessarily being deceitful . She really did feel tired,War is she necessarily being deceitful . She really did feel tired,0.02842945799966401,1.063910833000591,0.030303030303030304,0.08333333333333333
+deskew,sample_145,"of fatigue . They wonder why they get no rest at night ,","of fatigue . They wonder why they get no rest at night ,",0.022806124999988242,1.020548083999529,0.0,0.0
+deskew,sample_158,"us to adventure , do not strangle us before","us to adventure , do not strangle us before",0.0693751250000787,0.8110377920002065,0.0,0.0
+deskew,sample_161,"routine destroys the soul . It is so easy ,","routine destroys the soul . It is so easy ,",0.0653356660004647,0.8799999580005533,0.0,0.0
+deskew,sample_165,meals everybody knows beforehand,meals everybody knows beforehand,0.05382866599939007,0.48538708300020517,0.0,0.0
+deskew,sample_169,as much as 3 for a lace collar . But this,as much as 3 for a lace collar . But this,0.04002558400043199,0.8810160419998283,0.0,0.0
+deskew,sample_210,The Bow-wave Theory . This assumes,The Bow-wave Theory . This assumes,0.04265741699964565,0.6806117910000467,0.0,0.0
+deskew,sample_214,of her sisters . A young man from Reading named Marshall,of her sisters . A young man from Reading named Marshall,0.03830141599974013,0.8789915000006658,0.0,0.0
+deskew,sample_216,"Even the bone cuff-links found beside the body , which","Even the bone cuff-links found beside the body , which",0.028235750000021653,0.945480833000147,0.0,0.0
+deskew,sample_226,join the Army ( presumably feeling that a moustache might enhance,join the Army ( presumably feeling that a moustache might enhance,0.03808266700070817,1.018877749999774,0.0,0.0
+deskew,sample_238,A guard reported that at East Croydon,A guard reported that at East Croydon,0.028271167000639252,0.7471510830000625,0.0,0.0
+deskew,sample_279,the grosser pleasures of the board . The grati-,the grosser pleasures of the board . The grati-,0.03438337500028865,0.9496123750004699,0.0,0.0
+deskew,sample_282,subject of no little importance to the Romans .,subject of no little importance to the Romans,0.03697858299983636,0.6839154999997845,0.0425531914893617,0.1111111111111111
+deskew,sample_291,a mingled shower of flowers and odorous,a mingled shower of flowers and odorous,0.04541245800010074,0.7492947079999794,0.0,0.0
+deskew,sample_293,power in preventing the approaches of,power in preventing the approaches of,0.02514824999980192,0.5499856659998841,0.0,0.0
+deskew,sample_306,considered a piece of resistance .,considered a piece of resistance .,0.03006983399973251,0.6322029579996524,0.0,0.0
+deskew,sample_315,Among the natives of Northern Australia lizards,Among the natives of Northern Australia lizards,0.027734084000258008,0.6802469590002147,0.0,0.0
+deskew,sample_323,weight by a flat-rate tax at treble the rate - every adult,weight by a flat-rate tax at treble the rate - every adult,0.03186741599984089,1.1423227499999484,0.0,0.0
+deskew,sample_332,"( In this strike , as reported in the Sheffield","( In this strike , as reported in the Sheffield",0.02181712499987043,0.8109743749992049,0.0,0.0
+deskew,sample_345,capable of achieving socialism for the working,capable of achieving socialism for the working,0.01748366599986184,0.6772242080005526,0.0,0.0
+deskew,sample_387,"for a year . Mr. Evitt , however , was much less committed","for a year . Mr. Evitt , however , was much less committed",0.038510542000040004,1.141984040999887,0.0,0.0
+deskew,sample_392,in the specialised enquiry for the Royal Commission .,in the specialised enquiry for the Royal Commission .,0.027874874999724852,0.8952509159998954,0.0,0.0
+deskew,sample_395,"went dead again , and Steve had no stomach for","went dead again , and Steve had no stomach for",0.027529916999810666,0.8201475420000861,0.0,0.0
+deskew,sample_403,them .,them .,0.008443208999779017,0.2905138750002152,0.0,0.0
+deskew,sample_440,by bragging how he had once won a trick from,by bragging how he had once won a trick from,0.035610208000434795,0.8154503750001822,0.0,0.0
+deskew,sample_458,the parade .,the parade .,0.008247667000432557,0.3557170419999238,0.0,0.0
+deskew,sample_460,"with university records , the agents of the","with university records , the agents of the",0.02166691699949297,0.6825909999997748,0.0,0.0
+deskew,sample_464,businesses would pick on young men,businesses would pick on young men,0.01807687500058819,0.6153447500000766,0.0,0.0
+deskew,sample_468,these fine young people was closely geared to,these fine young people was closely geared to,0.02919674999975541,0.680034957999851,0.0,0.0
+deskew,sample_475,"economic and biological ends which , essentially ,","economic and biological ends which , essentially ,",0.023928459000671864,0.6828924580004241,0.0,0.0
+deskew,sample_480,resemblance to the shrunk heads we had,resemblance to the shrunk heads we had,0.07920979099981196,0.7536721249998664,0.0,0.0
+deskew,sample_485,necessity of rounding my narrative,necessity of rounding my narrative,0.02175166600045486,0.5518249169999763,0.0,0.0
+deskew,sample_493,hut had recently been cleaned and,hut had recently been cleaned and,0.025001625000186323,0.616051167000478,0.0,0.0
+deskew,sample_495,I had a distinct impression that the,I had a distinct impression that the,0.028248791999430978,0.6165177499997299,0.0,0.0
+deskew,sample_517,"is established . Ifor Huw Evans , Propr. ,","is established . Ifor Huw Evans , Propr. ,",0.029266958000334853,1.0161511659998723,0.0,0.0
+deskew,sample_518,returning to her home town as a,returning to her home town as a,0.020808583999496477,0.6833831669991923,0.0,0.0
+deskew,sample_521,fully-fledged schoolteacher .,fully-fledged schoolteacher .,0.014355667000018002,0.6170924159996503,0.0,0.0
+deskew,sample_523,"Morfydd Owen . Morfydd , who had until","Morfydd Owen . Morfydd , who had until",0.02246925000054034,0.9461160410000957,0.0,0.0
+deskew,sample_524,"the world , is it ? "" "" For me it is , "" Dai","the world , is it ? "" "" For me it is , "" Dani",0.02206075000049168,1.145301916999415,0.022727272727272728,0.06666666666666667
+deskew,sample_526,"overalls preparatory to a last embrace . "" You","overalls preparatory to a last embrace . "" You",0.025605040999835182,0.8787402079997264,0.0,0.0
+deskew,sample_531,"Morfydd was saying . "" Not the end of","Morfydd was saying . "" Not the end of",0.021432957999422797,0.8793894169994019,0.0,0.0
+deskew,sample_533,"had qualified as a schoolteacher , poor","had qualified as a school teacher , poor",0.03019849999964208,0.6806952080005431,0.02564102564102564,0.2857142857142857
+deskew,sample_536,A nice boy of course . But perhaps in the,A nice boy of course . But perhaps in the,0.02704645799985883,0.8163497499999721,0.0,0.0
+deskew,sample_552,"earth-bound creatures ? Aeroplanes fly , Broughtons .","earth-bound creatures ? Aeroplanes fly , Broughtons",0.024200625000048603,1.0089467919997333,0.03773584905660377,0.125
+deskew,sample_556,"back in his chair . "" I see . So you met a bus at","back in his chain . "" I see . So you met a bus at",0.029766374999780965,1.1504621250005584,0.02040816326530612,0.06666666666666667
+deskew,sample_562,"Group Captain . But Broughtons stood his ground . "" No ,","Group Captain . But Broughtons stood his ground . "" No ,",0.03382533300009527,1.0805878329992993,0.0,0.0
+deskew,sample_565,"there were anything in Queen's Regulations to cover this ,","there were anything in Queen's Regulations to cover this ,",0.031793000000106986,0.8752523749999455,0.0,0.0
+deskew,sample_576,remained empty . And so did the arms of Dai,remained empty . And so did the arms of Dai,0.04012941699966177,0.8774844170002325,0.0,0.0
+deskew,sample_578,beloved was circling the Poles at three-and-a-,beloved was circling the Poles at three-and-a-,0.04473950000010518,1.007953584000461,0.0,0.0
+deskew,sample_581,into orbit . Time passed . The Rev. Edwards' pulpit,into orbit . Time passed . The Rev. Edwards' pulpit,0.039864958000180195,1.013892959000259,0.0,0.0
+deskew,sample_586,"attitude . Now if there 'd been a good old accident ,","attitude . Now if there'd been a good old accident ,",0.054390457999943465,1.01097879200006,0.018867924528301886,0.16666666666666666
+deskew,sample_598,what does such a person do ? He signals,what does such a person do ? He signals,0.04240704099993309,0.7472707500000979,0.0,0.0
+deskew,sample_612,""" Then we are saved , "" cried the Rev. Edwards .",""" Then we are saved , "" cried the Rev. Edwards .",0.033248292000280344,1.0072526250005467,0.0,0.0
+deskew,sample_617,are humans . You are only flymen . We will,are humans . You are only flymen . We will,0.050283416999263864,0.8785363750002944,0.0,0.0
+deskew,sample_628,the party was over . Piers came strolling out to,the party was over . Piers came strolling out to,0.030000665999978082,0.9419632080007432,0.0,0.0
+deskew,sample_645,"all due deference , Miss Deane - come off it ! ""","all due deference , Miss Deane - come off it ! """,0.036220582999703765,1.0791871669998727,0.0,0.0
+deskew,sample_646,"it as confidential . "" "" My dear Beryl ,","it as confidential . "" "" My clear Beryl ,",0.02804479199949128,0.8765121670003282,0.05,0.1
+deskew,sample_653,"words . "" But remember , it was you ,","words . "" But remember , it was you ,",0.025682500000584696,0.8136840409997603,0.0,0.0
+deskew,sample_663,"did you come from ? "" the judge said in","did you come from ? "" the judge said in",0.012128000000302563,0.8102017920000435,0.0,0.0
+deskew,sample_678,A submariner's wife needed to be spared as much,A submariner's wife needed to be spared as much,0.0412819170005605,0.8782276669999192,0.0,0.0
+deskew,sample_721,""" Better ask Robbie Munyard . "" "" What 's he been",""" Better ask Robbie Munnyard . "" "" What's he been",0.024172374999579915,1.0741202919998614,0.04081632653061224,0.25
+deskew,sample_728,"Bawley . "" There are forty-three submarines in","Bawley . "" There are forty-three submarines in",0.027870333000464598,0.9466632920002667,0.0,0.0
+deskew,sample_749,I saw several men running down towards,I saw several men running down towards,0.0460844579993136,0.6118497500001467,0.0,0.0
+deskew,sample_757,"'Light an' come on in . "" We dismounted and","' light an' come on in . "" We dismounted and",0.05036674999973911,1.0113593340001898,0.046511627906976744,0.2
+deskew,sample_759,Nick Dowd took our horses off to water .,Nick Dowd took our horses off the water .,0.08070808299999044,0.8105359159999352,0.05,0.1111111111111111
+deskew,sample_763,the little hombre in big overalls . Very soon he,the little hombre in big overalls . Very soon he,0.05711125000016182,1.0150961670005927,0.0,0.0
+deskew,sample_766,sweetened with molasses for all and for us,sweetened with molasses for all and for us,0.09400874999937514,0.8137221669994688,0.0,0.0
+deskew,sample_772,"Golightly , Swede and the Sodbuster . This last was","Golightly , Swede and Sodbuster . This last was",0.052512874999592896,1.078453250000166,0.0784313725490196,0.1
+deskew,sample_773,"night . ""","night . """,0.005454374999317224,0.36367341700042743,0.0,0.0
+deskew,sample_796,when it came to dealing with owlhooters and,when it came to dealing with owlhooters and,0.05740366599911795,0.81567350000023,0.0,0.0
+deskew,sample_811,"abide by what we said at the meeting , ""","abide by what we said at the meeting , """,0.04590058299982047,0.8786431250000533,0.0,0.0
+deskew,sample_822,on the Fenton bunch but still it was a,on the Fenton bunch but still it was a,0.08625991700046143,0.8153057090003131,0.0,0.0
+deskew,sample_839,"like Alice in Wonderland , "" Doc gently mocked her , "" and","like Alice in Wonderland , "" Doc gently mocked her , "" and",0.034639833999790426,1.013107583999954,0.0,0.0
+deskew,sample_852,married to the sweetest wife in the world,married to the sweetest wife in the world,0.043718916999750945,0.7465824159999102,0.0,0.0
+deskew,sample_853,""" I made it myself , "" Gay tried to speak",""" I made it myself , "" Gay tried to speak",0.01610812499984604,0.8750974999993559,0.0,0.0
+deskew,sample_862,watched the workmen constructing,watched the workmen constructing,0.02778491600020061,0.5651060840000355,0.0,0.0
+deskew,sample_863,studying these cross-roads . Which,studying these cross-roads . Which,0.03741950000039651,0.6799581249997573,0.0,0.0
+deskew,sample_880,""" I remember , "" quipped the houseman ,",""" I remember , "" quipped the houseman ,",0.02464483299991116,0.8858401669995146,0.0,0.0
+deskew,sample_890,was as though a red mist veiled her usually clear sight and,was as though a red mist veiled her usually clear sight and,0.040733875000114494,0.9465914579996024,0.0,0.0
+deskew,sample_900,"this blonde . "" "" Really ? "" Nigel cocked","this blonde . "" "" Really ? "" Nigel cocked",0.023199749999548658,0.8880460000000312,0.0,0.0
+deskew,sample_906,the housemen think of me as a,the housemen think of me as a,0.032212916999924346,0.6805944999996427,0.0,0.0
+deskew,sample_910,"darling , "" Di said happily . "" I shall take","darling , "" Di said happily . "" I shall take",0.021306333000211453,0.949444916000175,0.0,0.0
+deskew,sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She","I'm such a dull fellow , really . "" "" Dull ? "" She",0.025861624999379274,1.1392717500002618,0.0196078431372549,0.13333333333333333
+deskew,sample_915,"I suppose ? "" she enquired archly .","I suppose ? "" she enquired archly .",0.01739083299980848,0.8092677919994458,0.0,0.0
+deskew,sample_917,""" It would make me more interesting ,",""" It would make me more interesting ,",0.037879165999584075,0.6794322089999696,0.0,0.0
+deskew,sample_920,""" No , it wouldn't ! "" he almost snapped ,",""" No , it wouldn't ! "" he almost snapped ,",0.027371041999685986,0.9445728330001657,0.0,0.0
+deskew,sample_931,can't imagine the hospital without me for,can't imagine the hospital without me for,0.02746658300020499,0.6783784589997595,0.0,0.0
+deskew,sample_955,"or a burial ? "" she asked , hardly believing","or a burial ? "" she asked , hardly believing",0.01923850000002858,0.8115575419997185,0.0,0.0
+deskew,sample_957,"down . "" Ask any bridegroom-to-be . Anyhow ,","down . "" Ask any bridegroom-to-be . Anyhow ,",0.023476665999623947,1.2012660420004977,0.0,0.0
+clahe,sample_3,with James Maxwell making a fine job of the,with James Maxwell making a fine job of the,0.0012876669998149737,0.7347077499998704,0.0,0.0
+clahe,sample_43,"15,695 times in their different grammatical",""" S.695 times in their different educational",0.0006865420000394806,0.7357158750000963,0.2558139534883721,0.5
+clahe,sample_48,large . But the British text includes,large . But the British text includes,0.00045804199999111006,0.6073567089997596,0.0,0.0
+clahe,sample_54,"the difference between the 15,695 words","the difference between the 15,695 words",0.00044491699918580707,0.6732033749995026,0.0,0.0
+clahe,sample_58,in Neh. 2.8 and S. of Sol. 4.13 .,in Neh. 2.8 and S. of Sol. 4.13 .,0.00040754099973128177,1.1972837920002348,0.0,0.0
+clahe,sample_84,door posts of the house and upon the gates .,door parts of the house and upon the gates .,0.00039366599958157167,0.7999297090000255,0.045454545454545456,0.1
+clahe,sample_88,"story , which is also in the Hagadah that","story , which is also in the Hagadah that",0.00038366700027836487,0.8616288329994859,0.0,0.0
+clahe,sample_89,"the "" tsitsits "" . This lesson used to be read","the "" tsitsits , . This lesson used to be read",0.0003655419995993725,0.9953427500004182,0.021739130434782608,0.09090909090909091
+clahe,sample_91,nearly seventy and I had not succeeded that,nearly seventy and I had not succeeded that,0.0003757089998543961,0.7324311660004241,0.0,0.0
+clahe,sample_140,from innocence .,from innocence .,0.00018983300014951965,0.3500719579997167,0.0,0.0
+clahe,sample_141,"effective , must be of that child-like quality which comes","effective , must be of that child-like quality which comes",0.00038904200027900515,0.9290960000007544,0.0,0.0
+clahe,sample_142,Nor is she necessarily being deceitful . She really did feel tired,War is she necessarily being deceitful . She really did feel tired,0.0004281669998817961,0.9991424589998132,0.030303030303030304,0.08333333333333333
+clahe,sample_145,"of fatigue . They wonder why they get no rest at night ,","of fatigue . They wonder why they get no rest at night ,",0.00041162500019709114,1.0005154580003364,0.0,0.0
+clahe,sample_158,"us to adventure , do not strangle us before","us to adventure , do not strangle us before",0.0004948329997205292,0.7988857500004087,0.0,0.0
+clahe,sample_161,"routine destroys the soul . It is so easy ,","routine destroys the soul . It is so easy ,",0.0005277499994917889,0.8654614590004712,0.0,0.0
+clahe,sample_165,meals everybody knows beforehand,meals everybody knows beforehand,0.0004622090000339085,0.47795433299961587,0.0,0.0
+clahe,sample_169,as much as 3 for a lace collar . But this,as much as 3 for a lace collar . But this,0.0004260000005160691,0.8665032499993686,0.0,0.0
+clahe,sample_210,The Bow-wave Theory . This assumes,the Bow-wave Theory . This assumes,0.00041312499979540007,0.67255062500044,0.029411764705882353,0.16666666666666666
+clahe,sample_214,of her sisters . A young man from Reading named Marshall,at her sisters . A young man from Reading named Marshall,0.00042912499975500396,0.8682570000000851,0.03571428571428571,0.09090909090909091
+clahe,sample_216,"Even the bone cuff-links found beside the body , which","Even the bone cuff-links found beside the body , which",0.0004391669999677106,0.9326007080007912,0.0,0.0
+clahe,sample_226,join the Army ( presumably feeling that a moustache might enhance,join the Army ( presumably feeling that a moustache might enhance,0.0006826669996371493,0.9956928749998042,0.0,0.0
+clahe,sample_238,A guard reported that at East Croydon,A guard reported that at East Croydon,0.00040379199981543934,0.7359199580005225,0.0,0.0
+clahe,sample_279,the grosser pleasures of the board . The grati-,the grosser pleasures of the board . The grati-,0.0006734999997206614,0.9373112909997872,0.0,0.0
+clahe,sample_282,subject of no little importance to the Romans .,subject of no little importance to the Romans,0.00043291600013617426,0.6747821660001136,0.0425531914893617,0.1111111111111111
+clahe,sample_291,a mingled shower of flowers and odorous,a mingled shower of flowers and odorous,0.0004506249997575651,0.7380668749992765,0.0,0.0
+clahe,sample_293,power in preventing the approaches of,power in preventing the approaches of,0.0004445410004336736,0.5441877499997645,0.0,0.0
+clahe,sample_306,considered a piece of resistance .,considered a piece of resistance .,0.00044808300026488723,0.6074037079997652,0.0,0.0
+clahe,sample_315,Among the natives of Northern Australia lizards,Among the natives of Northern Australia Liberals,0.00037941600021440536,0.604118207999818,0.10638297872340426,0.14285714285714285
+clahe,sample_323,weight by a flat-rate tax at treble the rate - every adult,weight by a flat-rate tax at treble the rate - every adult,0.00038824999955977546,1.1262290410004425,0.0,0.0
+clahe,sample_332,"( In this strike , as reported in the Sheffield","( In this strike , as reported in the Sheffield",0.0004391250004118774,0.7986602080000011,0.0,0.0
+clahe,sample_345,capable of achieving socialism for the working,capable of achieving socialism for the working,0.00041612499990151264,0.6717437500001324,0.0,0.0
+clahe,sample_387,"for a year . Mr. Evitt , however , was much less committed","for a year . Mr. Evitt , however , was much less committed",0.0007240830000228016,1.1277570419997573,0.0,0.0
+clahe,sample_392,in the specialised enquiry for the Royal Commission .,in the specialised enquiry for the Royal Commission .,0.0003365829998074332,0.8627777919991786,0.0,0.0
+clahe,sample_395,"went dead again , and Steve had no stomach for","went dead again , and Steve had no stomach for",0.00037983299989718944,0.7994806250007969,0.0,0.0
+clahe,sample_403,them .,them .,0.00034816700008377666,0.28779437499997584,0.0,0.0
+clahe,sample_440,by bragging how he had once won a trick from,by bragging how he had once won a trick from,0.00041358400085300673,0.8020610419998775,0.0,0.0
+clahe,sample_458,the parade .,the parade .,0.00032016600016504526,0.35196108300078777,0.0,0.0
+clahe,sample_460,"with university records , the agents of the","with university records , the agents of the",0.0003692919999593869,0.6710662499999671,0.0,0.0
+clahe,sample_464,businesses would pick on young men,businesses would pick on young men,0.00042179200045211473,0.606040208000195,0.0,0.0
+clahe,sample_468,these fine young people was closely geared to,these fine young people was closely geared to,0.000376790999325749,0.6749012079999375,0.0,0.0
+clahe,sample_475,"economic and biological ends which , essentially ,","economic and biological ends which , essentially",0.0004115840001759352,0.6066882920003991,0.04,0.125
+clahe,sample_480,resemblance to the shrunk heads we had,resentplace to the shrunk heads we had,0.0005689170002369792,0.6709881249998944,0.10526315789473684,0.14285714285714285
+clahe,sample_485,necessity of rounding my narrative,necessity of rounding my narrative,0.00046387499969569035,0.5459712079991732,0.0,0.0
+clahe,sample_493,hut had recently been cleaned and,hut had recently been cleaned and,0.0003782919993682299,0.6103872920002686,0.0,0.0
+clahe,sample_495,I had a distinct impression that the,I had a distinct impression that the,0.0004782920004799962,0.609898124999745,0.0,0.0
+clahe,sample_517,"is established . Ifor Huw Evans , Propr. ,","is established . Ifor Huw Evans , Propr. ,",0.00040666699987923494,0.9996504999999161,0.0,0.0
+clahe,sample_518,returning to her home town as a,returning to her home town as a,0.00035074999959761044,0.6723229580002226,0.0,0.0
+clahe,sample_521,fully-fledged schoolteacher .,fully-fledged schoolteacher .,0.000502666000102181,0.6087524160002431,0.0,0.0
+clahe,sample_523,"Morfydd Owen . Morfydd , who had until","Morfydd Owen . Morfydd , who had until",0.00042354099969088566,0.9293712919998143,0.0,0.0
+clahe,sample_524,"the world , is it ? "" "" For me it is , "" Dai","the world , is it ? "" "" For me it is , "" Dai",0.0004185840007266961,1.1229927079994013,0.0,0.0
+clahe,sample_526,"overalls preparatory to a last embrace . "" You","overalls preparatory to a last embrace . "" You",0.0003725420001501334,0.865193917000397,0.0,0.0
+clahe,sample_531,"Morfydd was saying . "" Not the end of","Morfydd was saying . "" Not the end of",0.0005419999997684499,0.8678012079999462,0.0,0.0
+clahe,sample_533,"had qualified as a schoolteacher , poor","had qualified as a school teacher , poor",0.000548707999769249,0.6728535840002223,0.02564102564102564,0.2857142857142857
+clahe,sample_536,A nice boy of course . But perhaps in the,A nice boy of course . But perhaps in the,0.000353749999703723,0.8021655000002283,0.0,0.0
+clahe,sample_552,"earth-bound creatures ? Aeroplanes fly , Broughtons .","earth-bound creatures ? Aeroplanes fly , Broughtons",0.0004167500001130975,0.9970049169996855,0.03773584905660377,0.125
+clahe,sample_556,"back in his chair . "" I see . So you met a bus at","back in his chair . "" I see . So you met a bus at",0.0007051249995129183,1.12555225000051,0.0,0.0
+clahe,sample_562,"Group Captain . But Broughtons stood his ground . "" No ,","Group Captain . But Broughtons stood his ground . "" No ,",0.0004196250001768931,1.0651507089996812,0.0,0.0
+clahe,sample_565,"there were anything in Queen's Regulations to cover this ,","there were anything in Queen's Regulations to cover this ,",0.0004214159998809919,0.8726476249994448,0.0,0.0
+clahe,sample_576,remained empty . And so did the arms of Dai,remained empty . And so did the arms of Dai,0.0004277079997336841,0.8646323339999071,0.0,0.0
+clahe,sample_578,beloved was circling the Poles at three-and-a-,beloved was circling the Poles at three-and-a-,0.00046308299988595536,0.9965751250001631,0.0,0.0
+clahe,sample_581,into orbit . Time passed . The Rev. Edwards' pulpit,into orbit . Time passed . The Rev. Edwards' pulpit,0.000488499999846681,0.9927366669999174,0.0,0.0
+clahe,sample_586,"attitude . Now if there 'd been a good old accident ,","attitude . Now if there'd been a good old accident ,",0.0004415829998833942,1.0061518329994215,0.018867924528301886,0.16666666666666666
+clahe,sample_598,what does such a person do ? He signals,what does such a person do ? He signals,0.0004742920000353479,0.7390993330000128,0.0,0.0
+clahe,sample_612,""" Then we are saved , "" cried the Rev. Edwards .",""" Then we are saved , "" cried the Rev. Edwards .",0.0008019580000109272,0.9937131249998856,0.0,0.0
+clahe,sample_617,are humans . You are only flymen . We will,are humans . You are only flymen . We will,0.0008320840006490471,0.8923510829999941,0.0,0.0
+clahe,sample_628,the party was over . Piers came strolling out to,the party was over . Piers came strolling out to,0.0003647090006779763,0.9353707079999367,0.0,0.0
+clahe,sample_645,"all due deference , Miss Deane - come off it ! ""","all due deference , Miss Deane - come off it ! """,0.0004260420000719023,1.0641816659999677,0.0,0.0
+clahe,sample_646,"it as confidential . "" "" My dear Beryl ,","it as confidential . "" My clear Beryl ,",0.0004064170007040957,0.7999117500003194,0.1,0.2
+clahe,sample_653,"words . "" But remember , it was you ,","words . "" But remember , it was you ,",0.000359583000317798,0.800736207999762,0.0,0.0
+clahe,sample_663,"did you come from ? "" the judge said in","did you come from ? "" the judge said in",0.0003792910001720884,0.8012309589994402,0.0,0.0
+clahe,sample_678,A submariner's wife needed to be spared as much,A submariner's wife needed to be spared as much,0.000467291999484587,0.8862894579997374,0.0,0.0
+clahe,sample_721,""" Better ask Robbie Munyard . "" "" What 's he been",""" Better ask Robbie Munyard . "" "" What's he been",0.0003877500003000023,1.0059422499998618,0.02040816326530612,0.16666666666666666
+clahe,sample_728,"Bawley . "" There are forty-three submarines in","Bawley . "" There are forty-three submarines in",0.00042549999943730654,0.9295379579998553,0.0,0.0
+clahe,sample_749,I saw several men running down towards,I saw several men running down towards,0.0004685000003519235,0.6073394159993768,0.0,0.0
+clahe,sample_757,"'Light an' come on in . "" We dismounted and","Light an' come on in . "" We dismounted and",0.0005409589994087582,0.9337558749994059,0.023255813953488372,0.1
+clahe,sample_759,Nick Dowd took our horses off to water .,Nick Dowd took our horses off the water .,0.0005469170000651502,0.8015044579997266,0.05,0.1111111111111111
+clahe,sample_763,the little hombre in big overalls . Very soon he,the little hombre in big overalls . Very soon he,0.0005831670005136402,0.9965630420001617,0.0,0.0
+clahe,sample_766,sweetened with molasses for all and for us,sweetened with molasses for all and for us,0.0005781660001957789,0.8023380840004393,0.0,0.0
+clahe,sample_772,"Golightly , Swede and the Sodbuster . This last was","Golightly , Swede and Sodbuster . This last was",0.0004937499998050043,1.0605394579997665,0.0784313725490196,0.1
+clahe,sample_773,"night . ""","night . """,0.0002897079993999796,0.35378929100079404,0.0,0.0
+clahe,sample_796,when it came to dealing with owlhooters and,when it came to dealing with owlhooters and,0.0005173749996174593,0.8004965830004949,0.0,0.0
+clahe,sample_811,"abide by what we said at the meeting , ""","abide by what we said at the meeting , """,0.0004468339993763948,0.8649744580006882,0.0,0.0
+clahe,sample_822,on the Fenton bunch but still it was a,on the Fenton bunch but still it was a,0.0005369589998736046,0.7992605420004111,0.0,0.0
+clahe,sample_839,"like Alice in Wonderland , "" Doc gently mocked her , "" and","like Alice in Wonderland , "" Doc gently mocked her , "" and",0.00042887499967037,1.000390791999962,0.0,0.0
+clahe,sample_852,married to the sweetest wife in the world,married to the sweetest wife in the world,0.0004683339993789559,0.7380962090001049,0.0,0.0
+clahe,sample_853,""" I made it myself , "" Gay tried to speak",""" I made it myself , "" Gay tried to speak",0.0003396660004000296,0.8620448329993451,0.0,0.0
+clahe,sample_862,watched the workmen constructing,watched the workmen constructing,0.00040154099951905664,0.5443317079998451,0.0,0.0
+clahe,sample_863,studying these cross-roads . Which,studying these cross-roads . Which,0.0004558339996947325,0.6734873329996844,0.0,0.0
+clahe,sample_880,""" I remember , "" quipped the houseman ,",""" I remember , "" quipped the houseman ,",0.0004706660001829732,0.8689867080001932,0.0,0.0
+clahe,sample_890,was as though a red mist veiled her usually clear sight and,was as though a red mist veiled her usually clear sight and,0.0004468750003070454,0.9317421249998006,0.0,0.0
+clahe,sample_900,"this blonde . "" "" Really ? "" Nigel cocked","this blonde . "" "" Really ? "" Nigel cocked",0.0006174589998408919,0.8614973330004432,0.0,0.0
+clahe,sample_906,the housemen think of me as a,the housemen think of me as a,0.00047554100001434563,0.6738447910001923,0.0,0.0
+clahe,sample_910,"darling , "" Di said happily . "" I shall take","darling , "" Di said happily . "" I shall take",0.00041658299960545264,0.9338645830002861,0.0,0.0
+clahe,sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She","I'm such a dull fellow , really . "" "" Dull ? "" She",0.0004414159993757494,1.1271977500000503,0.0196078431372549,0.13333333333333333
+clahe,sample_915,"I suppose ? "" she enquired archly .","I suppose ? "" she enquired archly .",0.00040033400000538677,0.8030866669996612,0.0,0.0
+clahe,sample_917,""" It would make me more interesting ,",""" It would make me more interesting ,",0.00043116699998790864,0.6733924580003077,0.0,0.0
+clahe,sample_920,""" No , it wouldn't ! "" he almost snapped ,",""" No , it wouldn't ! "" he almost snapped ,",0.0004231670000081067,0.9418851669997821,0.0,0.0
+clahe,sample_931,can't imagine the hospital without me for,can't imagine the hospital without me for,0.0003758330003620358,0.6751292079998166,0.0,0.0
+clahe,sample_955,"or a burial ? "" she asked , hardly believing","or a burial ? "" she asked , hardly believing",0.0003696250005305046,0.8019341659992278,0.0,0.0
+clahe,sample_957,"down . "" Ask any bridegroom-to-be . Anyhow ,","down . "" Ask any bridegroom-to-be . Anyhow ,",0.00037812500067957444,1.190107542000078,0.0,0.0
