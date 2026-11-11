@@ -4,5 +4,6 @@ from .pipeline import PreprocessingPipeline
 from .contrast import CLAHE
 from .denoising import NonLocalMeans
 from .deskew import Deskew
+from .grayscale import Grayscale
 
-__all__ = ["CLAHE", "Deskew", "NonLocalMeans", "PreprocessingPipeline"]
+__all__ = ["CLAHE", "Deskew", "Grayscale", "NonLocalMeans", "PreprocessingPipeline"]
