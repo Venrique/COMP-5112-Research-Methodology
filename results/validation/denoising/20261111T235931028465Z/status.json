@@ -1,0 +1,6 @@
+{
+  "status": "interrupted",
+  "reason": "User selected a faster seeded 100-line subset search instead of full validation splits.",
+  "replacement_study": "20261112T000633091905Z",
+  "note": "Partial full-split results retained; do not combine with subset study."
+}

@@ -1,0 +1,101 @@
+index,sample_id,ground_truth,preprocessing_seconds,prediction,inference_seconds,cer,wer
+0,116_649_001_03_12,of an hour .,0.0004899169998680009,glass sleeves .,0.2923100365001119,1.0,0.75
+1,116_618_001_03_24,all these improved prisons has been somewhat ,0.002580333000878454,all there imperced prisons has been somewhat,0.2923100365001119,0.09090909090909091,0.2857142857142857
+2,116_618_001_03_27,has ever found the most cordial of its well-wishers  _  ,0.0023750830005155876,has ever found the most cordial gift well-wishers .,0.2923100365001119,0.11320754716981132,0.3
+3,115_072_001_02_04,-nitude for the confining maintaining and employing one thousand ,0.002418207999653532,minute for the confering maintaining me complaining one thousand,0.2923100365001119,0.21875,0.4444444444444444
+4,115_072_001_02_08,said building or in some Building or Buildings adjoining a ,0.002065000000584405,Such building or in some building or Buildings adjoining a,0.2923100365001119,0.08620689655172414,0.2
+5,115_072_001_02_31,necessary ,0.0002516249987820629,nuffering,0.2923100365001119,0.8888888888888888,1.0
+6,073_074_002_03_03,"are , indicted only of the latter Crime .",0.0014907499989931239,"are , indicated only of the latter honione .",0.2923100365001119,0.14634146341463414,0.2222222222222222
+7,073_074_002_03_24,# Instit . Tit . De Obl . quae delicto .,0.0006827920005889609,# Institut . Tit. De Oble. gave Delicto .,0.2923100365001119,0.2,0.6363636363636364
+8,115_008_001_02_08,"as shall be put to him in relation thereto , not only ",0.0026012920006905915,"as shall be put to him in relation thereto , not only",0.2920704947498507,0.0,0.0
+9,115_008_001_02_15,"guilty , and from which none but the guilty ever deri-",0.0026455420011188835,"guilty , and from which none but the guiley even done",0.2920704947498507,0.1111111111111111,0.2727272727272727
+10,115_008_001_02_19,"by that peculiarity of construction , which without any ",0.0021539999997912673,"by that peculiarity of construction , which without any",0.2920704947498507,0.0,0.0
+11,072_100_001_04_04,which the town is taken or destroyed . ,0.0010474999999132706,subject the town is taken or destroyed,0.2920704947498507,0.21052631578947367,0.25
+12,072_100_001_04_06,any other Land . such as S.t Helena in the Pacific Ocean ,0.0023648329988645855,any other basic meetings . Where in the Pacific Ocean,0.2920704947498507,0.3392857142857143,0.5
+13,115_078_002_01_01,6,6.129100074758753e-05,c.,0.2920704947498507,2.0,1.0
+14,115_078_002_02_11,from the amount of such enhancement as aforesaid or if no ,0.0016413339999417076,from the amount of such enhancement - as iforamed or if we ?,0.2920704947498507,0.19298245614035087,0.36363636363636365
+15,115_078_002_02_13,that,0.00012237500050105155,thap,0.2920704947498507,0.25,1.0
+16,115_078_002_02_20,-er to choose an umpire . ,0.000547790999917197,ever to choose an unfair .,0.3433526197500214,0.24,0.3333333333333333
+17,115_078_002_02_28,as the herein abovementioned original number of 1000 with the addition ,0.001397916999849258,as the keen denominational original number of 1000 watts the addition,0.3433526197500214,0.21428571428571427,0.2727272727272727
+18,115_078_002_02_31,all deductions with interest in case of arrear as herein abovementioned . ,0.001462542000808753,all dedeveloped with interest in case of a man as herness eleven enemies .,0.3433526197500214,0.3287671232876712,0.5
+19,071_192_002_04_08,All the while care is taken not to ask the debtor a= ,0.0017189169993798714,still the whole cases is taken out to make their debtor as,0.3433526197500214,0.2692307692307692,0.5833333333333334
+20,096_098_003_01_11,Now,0.00010254100016027223,now .,0.3433526197500214,1.0,2.0
+21,035_323_001_03_11,twice as great as of the Select .,0.0021595830003207084,business as great use of the talent .,0.3433526197500214,0.3333333333333333,0.375
+22,071_120_001_05_16,"2 . He may be banished from , or confined to , the whole or",0.001567667000927031,"2 . He may be horrified from , "" confined to the scholar or",0.3433526197500214,0.23728813559322035,0.26666666666666666
+23,096_052_003_02_03,"sion was specified by it , it might serve to give an intimation of ",0.0021260410012473585,"near some specified by it , it might never to give an international of",0.3433526197500214,0.24242424242424243,0.2857142857142857
+24,096_052_003_02_10,u,8.179099859262351e-05,ex,0.3082041250002021,2.0,1.0
+25,096_052_003_02_11,"and the word  "" obey , ""  by sq inting at a sort of no meaning  [ which is ] ",0.002647916999194422,and the word ' clay ' by adjusting at a sort of no meaning back with,0.3082041250002021,0.3013698630136986,0.5
+26,096_052_003_02_27,the,0.00011216699931537732,the,0.3082041250002021,0.0,0.0
+27,071_105_003_04_10,prove their Marriages :  and all such as appear to have been,0.002226375001555425,former their marriageers and all such use appears to have been,0.3082041250002021,0.2033898305084746,0.4166666666666667
+28,096_118_001_01_04,-miter is equal to the Square of the ordinate,0.001660249999986263,writer is equal in the Square of the intimate,0.3082041250002021,0.17777777777777778,0.3333333333333333
+29,096_118_001_01_26,"Standards shall be universally adopted , and universally",0.002033125001617009,"than under the U.CAC the anniversary of adopted , and considerable",0.3082041250002021,0.5535714285714286,1.0
+30,115_012_001_01_02,10th . To provide them with spiritual and ,0.001736415999403107,# Expansion than with political and,0.3082041250002021,0.5121951219512195,0.75
+31,115_012_001_01_05,-ing them in view . ,0.0007464169993909309,ming them in view .,0.3082041250002021,0.05263157894736842,0.2
+32,115_012_001_01_10,premium  :  and at a rate grounded on an,0.0017398330001014983,transmission : used out as not grounded on more,0.2620350781248817,0.5789473684210527,0.6666666666666666
+33,115_012_001_01_17,Annuity-Societies . ,0.000779791000240948,annuity policies .,0.2620350781248817,0.3157894736842105,1.0
+34,115_012_001_01_19,-ration of their terms  :  by setting up a subsidiary ,0.0018823749996954575,""" whatever affection knows : by talking upon "" including",0.2620350781248817,0.6666666666666666,0.8
+35,115_012_001_01_21,"proper should be admitted , and in which ",0.001907500000015716,"programs should be advertised , most influential",0.2620350781248817,0.55,0.625
+36,115_012_001_01_27,"for the reformatory efficacy of him management , ",0.0017870410010800697,for the refirmatory efficiency of his management,0.2620350781248817,0.14583333333333334,0.5
+37,115_012_001_01_36,-ceeding £15 . if 2 years :  not exceeding £20 if 3 ,0.0016683330013620434,endnight to def 2 years : in the remaining # of 3,0.2620350781248817,0.52,0.75
+38,115_012_001_01_39,-ing £30 if 5 years or upwards :  such sums ,0.0017547090010339161,"ringLED if 3 years or sequences , such years",0.2620350781248817,0.4523809523809524,0.6
+39,115_107_001_01_07,-mium for every prisoner kept alive  :  paying for every one ,0.0018199170008301735,science for every perisomer kept alone : paying for every ever,0.2620350781248817,0.22413793103448276,0.36363636363636365
+40,115_084_001_02_02,upon this day of in the thirty fifth year of ,0.0017604580007173354,shown their salary of it in the thirty fifth space of,0.262462963625012,0.36363636363636365,0.5
+41,071_010_002_04_08,for supposing it to exist entertaining such a supposition .,0.0015574170010950183,for qualifying the entire enthusiasm such a implementation,0.262462963625012,0.559322033898305,0.7
+42,071_010_002_04_13,either to the matter of fact or the matter of Law . It res=,0.0018145829999411944,either better smaller effect or the smaller of dance illness,0.262462963625012,0.3898305084745763,0.7142857142857143
+43,071_010_002_04_15,the existence of a fact or circumstance on which,0.001636625000173808,ing the existence of a fuel or circumference on which,0.262462963625012,0.22916666666666666,0.3333333333333333
+44,071_010_002_04_19,"or import of a Law  , or rule of unwritten Law , which",0.0021281660010572523,"preempt of a line , or scale of surveillance lines , which",0.262462963625012,0.49056603773584906,0.46153846153846156
+45,073_003_002_01_05,"is called Equity , than how it was disposed of in-",0.0027026249990740325,is called Equity that there it was disposed of in-,0.262462963625012,0.14,0.2727272727272727
+46,073_003_002_01_11,"astray , but to imprint Ideas on the Minds of those",0.0029850829996576067,"adving , had to imperised Edward as the effects of these",0.262462963625012,0.49019607843137253,0.6363636363636364
+47,096_015_002_02_05,the validity nor the fitness of the laws of Revelation . I am,0.0019252080001024297,the validity are the filing of the two officers taken from,0.262462963625012,0.4262295081967213,0.6153846153846154
+48,116_405_004_01_01,"19 .  _  In addition to the Watchmen , there should be a",0.0033722909993230132,"( If an addition to the Watchman , there should be a",0.3572180781250154,0.12962962962962962,0.38461538461538464
+49,115_102_001_02_17,"more or less , bounded on the South by lands in ",0.0018327920006413478,"more or left , bounded on the streets by hands in",0.3572180781250154,0.19148936170212766,0.2727272727272727
+50,115_102_001_02_19,West and North by the said road leading to and ,0.0020887910013698274,West and North by the wait was leading to and,0.3572180781250154,0.10869565217391304,0.2
+51,116_636_002_02_08,"-ation was addressed . I speak of Mr Neild , a second",0.001706082999589853,"alvis was abbreged . I speak of who would , a second",0.3572180781250154,0.2830188679245283,0.3333333333333333
+52,116_636_002_02_33," "" starved ""  :   _  appearances speak the same thing :   _  officers plump & rosy .",0.0013121249994583195,""" starred "" "" appears across operate the same thing : "" Pleier's play Worry ,",0.3572180781250154,0.3684210526315789,0.6470588235294118
+53,115_082_003_02_02,also agreed that the said first intended Governor and ,0.00230020799972408,slangoes that the said first included Governor and,0.3572180781250154,0.20754716981132076,0.3333333333333333
+54,115_082_003_02_10,and moreover that they shall also by such Deputy or ,0.0018447909988026368,and moreover that they shall also by such Deputy or,0.3572180781250154,0.0,0.0
+55,115_101_004_02_04,"James Meredith , and Robert Jones ; and also of all ",0.0019661669994093245,"farmers . Meredith , and Robert Jones , and also of all",0.3572180781250154,0.11764705882352941,0.2727272727272727
+56,115_101_004_02_12,"in the occupation of the said Robert Moseley , ",0.001833000000260654,"in the occupation of the mid Robert Moseley ,",0.2930307292499492,0.043478260869565216,0.1111111111111111
+57,115_101_004_02_17,"-ing together , by admeasurement , seven acres two ",0.0018453329994372325,"ing together , by nonaccuousment , seven acres less",0.2930307292499492,0.28,0.3333333333333333
+58,115_101_004_02_24,"the occupation of Fears and others , ",0.0017236250005225884,"the occupation of 1852 Served and others ,",0.2930307292499492,0.2777777777777778,0.2857142857142857
+59,115_067_003_02_05,limitations and restrictions as are contained in an Act made ,0.001111999999920954,limplations and restradiones as are contained in an old made,0.2930307292499492,0.15,0.3
+60,115_067_003_02_22,"-jesty shall appoint , untill such offender shall be transported ",0.0018261250006617047,"Party shall appoint , well such offender shall be homographed",0.2930307292499492,0.265625,0.3
+61,115_067_003_02_24,-ty or untill his Majesty shall direct the return of such Offender ,0.0016509580000274582,by or until his Majesty shall direct the release of such offender,0.2930307292499492,0.13636363636363635,0.3333333333333333
+62,115_067_003_02_25,to the Goal from which he shall have been removed ; And ,0.0015428750011778902,to the goal from which he shall have been removed ; And,0.2930307292499492,0.01818181818181818,0.08333333333333333
+63,035_322_001_02_04,"-cations for a Quasi Jury hearing , is in effect",0.00302108399955614,sections from Chinese fury becoming risen effect,0.2930307292499492,0.4166666666666667,0.9
+64,073_054_001_03_19,"might say , the one that it was , the other that it was ",0.002314125000339118,"might way , the one that it comes , the other that it was",0.2784896042501259,0.09090909090909091,0.14285714285714285
+65,073_054_001_03_24,"own person I use it not in Concurrence with , but in ",0.0017381249999743886,"non Person . Some it sat in Commerce with , but in",0.2784896042501259,0.28846153846153844,0.5
+66,073_054_001_03_25,Contradistinction to the other .,0.0006634159999521216,Bombidistinction to the other .,0.2784896042501259,0.15625,0.2
+67,116_631_001_02_18,been upon the look out for such a place for above these,0.0012919580003654119,been upon the look out for such a place for above them,0.2784896042501259,0.03636363636363636,0.08333333333333333
+68,116_631_001_02_27,"such grounds month after month , yeeaar after year , to",0.001509499999883701,"such grounds march after month , years after year , to",0.2784896042501259,0.10909090909090909,0.18181818181818182
+69,115_101_003_02_02,- taining and consisting of the several pieces of ground ,0.002288833000420709,taining and consisting of the several pieces of years,0.2784896042501259,0.14285714285714285,0.2
+70,115_101_003_02_08,-tion of Robert Moseley and other lands in the occupa-,0.002280334001625306,tion of Robert Mosley and then Landarin the Occupa,0.2784896042501259,0.16666666666666666,0.6
+71,072_094_003_04_06,fraud is punished with particular severity and measures,0.0017681249992165249,"fraced in furnished with particular poverty , word sequences",0.2784896042501259,0.34545454545454546,0.875
+72,115_108_003_01_12,"fairer to let that matter be referred , when ",0.0019402920006541535,"feuiver to let that matter be referred , whom",0.24950364062488006,0.11363636363636363,0.2222222222222222
+73,115_108_003_01_17,in Opinion . Such Arbitrators to settle what ,0.0016493340008310042,in Opinion . Such arbitrators to settle what,0.24950364062488006,0.022727272727272728,0.125
+74,115_010_002_02_10,"to become a suitor , and perhaps in vain , for such ",0.002113541999278823,"to become a sailor , and perhaps in vain , for such",0.24950364062488006,0.0392156862745098,0.08333333333333333
+75,035_328_001_02_06,"3 . The comparative multitude of affenders , relation ",0.002814458001012099,"in the comparative multitude of offenders , related",0.24950364062488006,0.1509433962264151,0.5555555555555556
+76,035_328_001_02_16,"instance in which it appears to them , that the de-",0.0025187920000462327,"instance in which it appears to them , that Amelia",0.24950364062488006,0.11764705882352941,0.18181818181818182
+77,035_328_001_02_25,Art . 14 . ,0.0003603750010370277,adjust-life .,0.24950364062488006,1.0,0.75
+78,071_120_002_04_08,Exposition .,0.0002696249994187383,expectation .,0.24950364062488006,0.4166666666666667,0.5
+79,072_071_004_04_03,the,6.058300095901359e-05,1stn.,0.24950364062488006,1.3333333333333333,1.0
+80,115_011_002_01_01,Panopticon Convict Proposal 1793,0.0012515830003394512,Pancificent Convict Proposal 1993,0.26213446874999136,0.1875,0.5
+81,115_011_002_02_03,"it necessary , and thereby preserve them from be-",0.002115417000823072,"a transforming , named the nearby farmers were chosen from her a",0.26213446874999136,0.6938775510204082,1.1111111111111112
+82,115_011_002_02_26,"-nary Schools , in the common and most use-",0.001726500000586384,maray School's in the common and prestige,0.26213446874999136,0.3023255813953488,0.5555555555555556
+83,115_011_002_02_30,-dinary culture of extraordinary talents is not ,0.001770250000845408,claiming an offence of a star and is every talents is not,0.26213446874999136,0.5957446808510638,1.1428571428571428
+84,071_181_001_02_01,C,5.687500015483238e-05,c,0.26213446874999136,1.0,1.0
+85,071_181_001_04_18,which a man would have an adequate inducement to accept ,0.0013658330008183839,which a man would have an adequate inducement to accept,0.26213446874999136,0.0,0.0
+86,115_010_001_02_18,"establishment to be inspected at a view , from a ",0.002250417001050664,"establishment to be inspected as a crew , from a",0.26213446874999136,0.0625,0.2
+87,116_287_002_01_01,4,7.774999903631397e-05,cf,0.26213446874999136,2.0,1.0
+88,116_287_002_02_01," "" away from the Colony was now ""   ( says he )   "" a matter of some ",0.0015879160000622505,"""away from the Boling was seen "" I'm suretter of some",0.3094846667499951,0.38095238095238093,0.6470588235294118
+89,116_287_002_02_09," "" those companions who had been the causes of their transporta- ",0.001311834001171519,These comparisons who had been the causes of their own #,0.3094846667499951,0.25396825396825395,0.45454545454545453
+90,116_287_002_02_10,"- "" tion to this Country , not many could hope to obtain the",0.0013792079989798367,""" aim to this country , sent many could hope to obtain the",0.3094846667499951,0.15,0.2857142857142857
+91,116_287_002_02_27,and lawless tyranny .  _  ,0.0004988330001651775,and knowledge tyranny .,0.3094846667499951,0.34782608695652173,0.4
+92,116_287_002_02_30,of ,8.962499850895256e-05,of,0.3094846667499951,0.0,0.0
+93,071_166_001_04_09,"tendered it , or none that is sufficient to warrant the employ=",0.001643583000259241,"under it , or more than it sufficient to command the emptly",0.3094846667499951,0.25396825396825395,0.5
+94,073_073_001_01_01,80,4.387499939184636e-05,sloi,0.3094846667499951,2.0,1.0
+95,073_073_001_03_17,matter .,0.0001749580005707685,matter .,0.3094846667499951,0.0,0.0
+96,116_078_001_02_05," "" same articles could have been sent out for from England , with",0.0015272920009010704,""" some articles could have been sent out for from England , with",0.32694562500000757,0.015625,0.07692307692307693
+97,116_078_001_02_19," "" to each , were now issued to the convicts . ""  _ ",0.0009955000004993053,"to carry more more ignored to the convicts . """,0.32694562500000757,0.3673469387755102,0.5384615384615384
+98,116_078_001_02_22," "" necessaries as they required from those who had been long in the ",0.0014481250000244472,""" Inseparous as they required from these who had been long on the",0.32694562500000757,0.13636363636363635,0.23076923076923078
+99,116_078_001_02_29," "" as in several of the last arrivals from England , certain articles ,",0.0015348340002674377,""" as in several of the last arrivals from England , Captain articles ,",0.32694562500000757,0.04285714285714286,0.07142857142857142

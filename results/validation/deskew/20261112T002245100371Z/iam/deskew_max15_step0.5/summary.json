@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "deskew_max15_step0.5",
+  "sample_count": 100,
+  "cer": 0.011767368182846799,
+  "wer": 0.041666666666666664,
+  "preprocessing_seconds": 6.069851289003964,
+  "inference_seconds": 29.434172833000048
+}

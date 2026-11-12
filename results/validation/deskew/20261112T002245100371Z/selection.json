@@ -1,0 +1,29 @@
+{
+  "best_overall": "deskew_max10_step0.25",
+  "best_deskew": "deskew_max10_step0.25",
+  "deskew_parameters": {
+    "name": "deskew",
+    "enabled": true,
+    "max_angle": 10,
+    "angle_step": 0.25,
+    "estimator": "otsu_projection_difference",
+    "resampling": "bicubic",
+    "expand": true,
+    "fill": "white"
+  },
+  "criterion": "lowest equal-dataset mean corpus CER; WER tie-breaker; baseline eligible",
+  "dataset_winners": [
+    {
+      "dataset": "bentham",
+      "configuration": "deskew_max10_step0.25",
+      "cer": 0.1560315670800451,
+      "wer": 0.29988974641675853
+    },
+    {
+      "dataset": "iam",
+      "configuration": "baseline",
+      "cer": 0.011541072640868975,
+      "wer": 0.0438034188034188
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "dataset": "bentham",
+  "configuration": "combined",
+  "sample_count": 250,
+  "cer": 0.15236051502145923,
+  "wer": 0.4189390183440754,
+  "preprocessing_seconds": 24.24777891299709,
+  "inference_seconds": 70.18671420699502
+}

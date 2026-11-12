@@ -1,5 +1,43 @@
 # HTR preprocessing experiments
 
+## Bentham dataset
+
+[Bentham R0](https://huggingface.co/datasets/staghado/Bentham) is stored locally
+under `data/bentham/`, which is ignored by Git. The repository distributes raw
+archives, so use the local loader rather than Hugging Face `load_dataset`.
+To reproduce the download (about 3.5 GB; allow about 9 GB including extraction):
+
+```sh
+.venv/bin/python -m src.load_dataset.bentham --download
+```
+
+The downloader pins commit `bfd99574602e2abbe7896255b1fd5e114f68571a`,
+verifies archive SHA-256 checksums, safely extracts both archives, and records
+`source.json`. No additional dependencies are needed beyond the existing setup.
+From a notebook with the project root on `sys.path`:
+
+```python
+from src.load_dataset.bentham import load_bentham_dataset, get_sample
+
+dataset = load_bentham_dataset(split="validation")
+sample = get_sample(dataset, 0)
+display(sample["image"])
+print(sample["ground_truth"])
+```
+
+The Dataset provides `id`, `image`, and `text`, supports indexing and `select`,
+and lazily decodes original line images, preserving their modes (including RGBA).
+For preprocessing steps requiring L/RGB, composite transparency onto white and
+convert to RGB consistently for baseline and every treatment; preserve originals.
+Its default path works from
+notebook subdirectories; pass `data_dir` to use another location. Supplied
+train/validation/test line partitions and their order are preserved. Use validation
+for development and reserve test for final evaluation. Transcriptions retain
+punctuation spacing; only the terminal newline is removed. Images are paired
+with the supplied line transcripts, not PAGE XML IDs, which may differ.
+Record the source commit and split in experiments. The Hugging Face repository
+does not declare a license; verify usage terms before redistributing the data.
+
 Experiment A [Part 3](notebooks/experiments/experiment_a_part_3.ipynb) compares
 baseline and the Part 2 order (grayscale → denoising → deskewing → CLAHE) with
 grayscale → CLAHE → denoising → deskewing. All three are freshly evaluated on

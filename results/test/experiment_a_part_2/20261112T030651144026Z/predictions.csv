@@ -1,0 +1,1001 @@
+index,sample_id,ground_truth,preprocessing_seconds,prediction,inference_seconds,cer,wer,dataset,configuration
+0,sample_11,round a doll's house .,1.7042000763467513e-05,round a doll's house .,0.7406380312500005,0.0,0.0,iam,baseline
+1,sample_18,such as a chair and a motor-car . The idea is to see what happens when,1.8790999092743732e-05,such as a chair and a motor-car . The idea is to see what happens when,0.7406380312500005,0.0,0.0,iam,baseline
+2,sample_26,essay on soldiering which stated that a fighting,2.3374999727820978e-05,essory on coldbenting which started that a fighting,0.7406380312500005,0.14583333333333334,0.375,iam,baseline
+3,sample_37,Northern defiance . The cameras played continuously on his,2.0834000679315068e-05,Northern Defiance . The cameras played continuously on his,0.7406380312500005,0.017241379310344827,0.1111111111111111,iam,baseline
+4,sample_47,Britain was slipping behind ... .,1.7915999706019647e-05,Britain was slipping behind ... .,0.7406380312500005,0.0,0.0,iam,baseline
+5,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .",2.0249999579391442e-05,"could at the chaos by placing the fragments , or sheets , or pages , in order .",0.7406380312500005,0.02531645569620253,0.05555555555555555,iam,baseline
+6,sample_72,how this enlargement was effected nor has he,4.97090004500933e-05,how this enlargement was effected nor has he,0.7406380312500005,0.0,0.0,iam,baseline
+7,sample_80,wording . It is not possible to establish any one,3.354199907334987e-05,wording . It is not possible to establish any one,0.7406380312500005,0.0,0.0,iam,baseline
+8,sample_91,impossible to say .,2.9709000955335796e-05,unpassible to say .,0.25441319787501016,0.15789473684210525,0.25,iam,baseline
+9,sample_123,Against these advantages the codex was fragile and,7.000000005064066e-05,against these advantages the codex was fragile and,0.25441319787501016,0.02,0.125,iam,baseline
+10,sample_126,end could be cut off . If the text was longer than,3.433399979257956e-05,end could be cut off . If the text was longer than,0.25441319787501016,0.0,0.0,iam,baseline
+11,sample_128,while one whole side of his roll was unused .,3.2665999242453836e-05,while one whole side of his roll was unused .,0.25441319787501016,0.0,0.0,iam,baseline
+12,sample_131,"in the case of the single-sheet quire , an extra",0.00019312500080559403,"in the case of the single-sheet quite , an extra",0.25441319787501016,0.020833333333333332,0.1,iam,baseline
+13,sample_141,supply . The pools are probably natural springs,4.9124999350169674e-05,supply . The pads and probably natural springs,0.25441319787501016,0.10638297872340426,0.25,iam,baseline
+14,sample_156,"This man is the worm , the creature that",0.00011179200009792112,This man is the warm the creature that,0.25441319787501016,0.075,0.2222222222222222,iam,baseline
+15,sample_165,"beginning . It is "" the stone , which the builders",7.433300015691202e-05,"beginning . It is the stone , which the builders",0.25441319787501016,0.04,0.09090909090909091,iam,baseline
+16,sample_189,come across human Shamirs and they leave,3.108300006715581e-05,"cope , across human Shamfirs , and they leave",0.30263771349996205,0.15,0.5714285714285714,iam,baseline
+17,sample_230,"adds and in your soul , searching your soul .",2.9042001187917776e-05,"odds and in your soul , searching your soul .",0.30263771349996205,0.022222222222222223,0.1,iam,baseline
+18,sample_239,them without visionary power .,1.7750000552041456e-05,them without visionary power .,0.30263771349996205,0.0,0.0,iam,baseline
+19,sample_248,And the tsitsits had a message sealed inside the knots,6.858300002932083e-05,And the tsitsits had a message sealed inside the knots,0.30263771349996205,0.0,0.0,iam,baseline
+20,sample_255,"We eat it . We accept it , to show we have self-control",5.716600026062224e-05,We eat it . We accept it . to show we have self-control,0.30263771349996205,0.01818181818181818,0.07692307692307693,iam,baseline
+21,sample_268,11 ) . That gives us freedom from want .,1.5499999790336005e-05,all . That gives us freedom from work .,0.30263771349996205,0.175,0.3,iam,baseline
+22,sample_277,and the sweet Mortar in which we dip-in represents,5.083299947727937e-05,and the sweet Mortar in which we die-in represents,0.30263771349996205,0.02,0.1111111111111111,iam,baseline
+23,sample_292,burdens of Egypt : How was it that Israel was,1.0041998393717222e-05,burdens of Egypt . How was it that Israel was,0.30263771349996205,0.022222222222222223,0.1,iam,baseline
+24,sample_320,himself immortal by becoming associated with,2.7375001081964e-05,himself immortal by becoming associated with,0.28879392712497065,0.0,0.0,iam,baseline
+25,sample_336,mutual . But Laud was no Romanizer . One of his,2.579200008767657e-05,muteal . But land was no Romanizer . One of his,0.28879392712497065,0.06382978723404255,0.18181818181818182,iam,baseline
+26,sample_351,"by laughing at what are very real fears . As adults , we know",2.0166000467725098e-05,"by laughing at what are very real fears . As adults , we know",0.28879392712497065,0.0,0.0,iam,baseline
+27,sample_352,but to a child they are very real . Not that I am suggesting,1.4165998436510563e-05,but to a child they are very real . Not that I am suggesting,0.28879392712497065,0.0,0.0,iam,baseline
+28,sample_363,the harvest of which may still be being,1.791600152500905e-05,the harvest of which may still be being,0.28879392712497065,0.0,0.0,iam,baseline
+29,sample_373,which occur less frequently than,1.2290998711250722e-05,which occur less frequently than,0.28879392712497065,0.0,0.0,iam,baseline
+30,sample_377,frightening possibilities and yet by facing,1.595799949427601e-05,frightening possibilities and yet by facing,0.28879392712497065,0.0,0.0,iam,baseline
+31,sample_384,the stronger we become .,1.2500000593718141e-05,the stronger we become .,0.28879392712497065,0.0,0.0,iam,baseline
+32,sample_394,"secret plan , Of the things He will",0.00010574999942036811,"secret plan , Of the things the will",0.2457544478750151,0.05714285714285714,0.125,iam,baseline
+33,sample_408,"the mind . Very few people , under normal",5.983400114928372e-05,"the mind . Very few people , under normal",0.2457544478750151,0.0,0.0,iam,baseline
+34,sample_418,noting the effect of a new stimulus on some-,9.183300062431954e-05,making the spirit of a new stimuter on some-,0.2457544478750151,0.25,0.3333333333333333,iam,baseline
+35,sample_422,"the washing-up - while others , if they",8.637500104669016e-05,"the Washington-up - while others , if they",0.2457544478750151,0.10256410256410256,0.125,iam,baseline
+36,sample_426,her boy friend calls and go for a long walk .,0.0001156250000349246,her boy friend calls and go for a long walk .,0.2457544478750151,0.0,0.0,iam,baseline
+37,sample_427,"Even more simply , test your own reactions",7.504099994548596e-05,"Even more simply , best your own reactions",0.2457544478750151,0.023809523809523808,0.125,iam,baseline
+38,sample_451,"from America weeks , from the Far East ,",7.97909997345414e-05,"from America weeks , from the Far East ,",0.2457544478750151,0.0,0.0,iam,baseline
+39,sample_466,travel day by day .,4.599999920174014e-05,travel day by day .,0.2457544478750151,0.0,0.0,iam,baseline
+40,sample_468,pipeline of the railway on which they,4.037500002596062e-05,pipeline of the railway on which they,0.21505627600004118,0.0,0.0,iam,baseline
+41,sample_469,"In many cases , their homes know little of",2.991600013046991e-05,"In many cases , their homes know little of",0.21505627600004118,0.0,0.0,iam,baseline
+42,sample_471,are possibly like in the surroundings of their,2.0375000531203113e-05,are possibly like in the surroundings of their,0.21505627600004118,0.0,0.0,iam,baseline
+43,sample_472,a ' double ' life without ever deliberately,1.3208000382292084e-05,a ' double life without ever deliberately,0.21505627600004118,0.046511627906976744,0.125,iam,baseline
+44,sample_485,after time we forget something and have to go back,2.2416999854613096e-05,after time we forget something and have to go back,0.21505627600004118,0.0,0.0,iam,baseline
+45,sample_486,write out all the necessary jobs waiting to,1.3958000636193901e-05,while out off the necessary jobs waiting to,0.21505627600004118,0.11627906976744186,0.25,iam,baseline
+46,sample_489,"be done and then work quietly through them ,",3.362499955983367e-05,"We done and then work quietly through them ,",0.21505627600004118,0.022727272727272728,0.1111111111111111,iam,baseline
+47,sample_490,thing else . If we would only sit down and,2.325000059499871e-05,thing the Tyre would only sit down and,0.21505627600004118,0.21428571428571427,0.4,iam,baseline
+48,sample_512,day timetable .,2.4291999579872936e-05,day timetable .,0.2494470625001668,0.0,0.0,iam,baseline
+49,sample_513,"As it is , with so much of our life already",2.8500000553322025e-05,"As it is , with so much of our life already",0.2494470625001668,0.0,0.0,iam,baseline
+50,sample_514,"to five of the timetable , the following",2.2708998585585505e-05,"to five of the timetable , the following",0.2494470625001668,0.0,0.0,iam,baseline
+51,sample_541,done ( or must be done because of other predetermined factors,2.3374999727820978e-05,done ( or must be done because of other predetermined factors,0.2494470625001668,0.0,0.0,iam,baseline
+52,sample_543,thing at a time . A list or a plan enables us to,1.4584000382455997e-05,thing of time . A listor a plan matter or to,0.2494470625001668,0.25,0.46153846153846156,iam,baseline
+53,sample_579,answer or that our sugya is quoting from,1.3708000551559962e-05,answer or that our suaya is quoting from,0.2494470625001668,0.025,0.125,iam,baseline
+54,sample_597,part of the verse .,2.0957999367965385e-05,part of the verse .,0.2494470625001668,0.0,0.0,iam,baseline
+55,sample_601,become so well known that it was,2.9000000722589903e-05,become so well known that it was,0.2494470625001668,0.0,0.0,iam,baseline
+56,sample_611,"the court of Shem , the court of Samuel of Ramah ,",3.925000055460259e-05,"the court of Svein , the court of Samuel of Ranch ,",0.2754816146248231,0.1,0.16666666666666666,iam,baseline
+57,sample_619,"the potentialities of the craft , and crochet was",2.487500023562461e-05,"the potentialities of the craft , and crochet was",0.2754816146248231,0.0,0.0,iam,baseline
+58,sample_624,herring having some orientation with the,1.345899909210857e-05,herring leaving some orientation with the,0.2754816146248231,0.05,0.16666666666666666,iam,baseline
+59,sample_628,is always from the north ) .,2.2750000425730832e-05,is always from the mall ) .,0.2754816146248231,0.17857142857142858,0.14285714285714285,iam,baseline
+60,sample_638,"movements , although primarily",1.0416000804980285e-05,"Movements , although primarily",0.2754816146248231,0.03333333333333333,0.25,iam,baseline
+61,sample_640,"geography . Geography , too , names the",1.129100019170437e-05,"geography . Geography , too , makes the",0.2754816146248231,0.05128205128205128,0.125,iam,baseline
+62,sample_641,a deep-water channel to the Dogger where,2.429200139886234e-05,a deepmaster channel to the Dogger where,0.2754816146248231,0.075,0.14285714285714285,iam,baseline
+63,sample_642,Their descent stops at the end of the light pressure . But,2.9415999961202033e-05,Their descent stops at the end of the light pressure . But,0.2754816146248231,0.0,0.0,iam,baseline
+64,sample_652,going to travel a hundred,3.108300006715581e-05,giving to travel a hundred,0.247662239625015,0.08,0.2,iam,baseline
+65,sample_654,other banks are most of them,2.8083000870537944e-05,other banks are most of them,0.247662239625015,0.0,0.0,iam,baseline
+66,sample_677,and Suffolk beaches .,2.245799987576902e-05,and Suffolk beaches .,0.247662239625015,0.0,0.0,iam,baseline
+67,sample_708,aware of the moving footrope before,2.0542000129353255e-05,aware of the moving footrope before,0.247662239625015,0.0,0.0,iam,baseline
+68,sample_711,Let us consider first what would,2.1208001271588728e-05,tet us consider first what would,0.247662239625015,0.03125,0.16666666666666666,iam,baseline
+69,sample_750,trails . It was learned that Elizabeth Camp had been lending,0.0001543340003991034,trails . It was learned that Elizabeth Camp had been learning,0.247662239625015,0.05,0.09090909090909091,iam,baseline
+70,sample_761,been broken off after one particular,3.600000127335079e-05,been broken off # after one particular,0.247662239625015,0.05555555555555555,0.16666666666666666,iam,baseline
+71,sample_763,"description , but the man was not traced .",1.9874998542945832e-05,"description , but the man was not extracted",0.247662239625015,0.11904761904761904,0.2222222222222222,iam,baseline
+72,sample_789,wrote an anti-railway industrialist when it was,5.104100091557484e-05,wrote an anti-railway industrialist when it was,0.29151636987512575,0.0,0.0,iam,baseline
+73,sample_798,darkness .,1.5915999028948136e-05,at a business .,0.29151636987512575,0.8,1.5,iam,baseline
+74,sample_815,"of foul play , the verdict brought in was that there",4.9500000386615284e-05,"of foul play , the verdict brought in was that there",0.29151636987512575,0.0,0.0,iam,baseline
+75,sample_816,"24 , 1905 , a Sunday , Sub-Inspector Peacock , of",2.8667000151472166e-05,"24, 1903 , a Sunday , Sub- Inspector Peacock , of",0.29151636987512575,0.061224489795918366,0.45454545454545453,iam,baseline
+76,sample_817,Though in the minds of most people there was,1.7749998733052053e-05,Though in the minds of most people there was,0.29151636987512575,0.0,0.0,iam,baseline
+77,sample_825,had walked deliberately into the blackness and,1.4709001334267668e-05,had valued deliberately into the placeness and,0.29151636987512575,0.08695652173913043,0.2857142857142857,iam,baseline
+78,sample_831,was found to have her own silk scarf drawn,2.0290999600547366e-05,was found to have her own silk scarf drawn,0.29151636987512575,0.0,0.0,iam,baseline
+79,sample_840,"Both her wrists bore the marks of severe bruising ,",2.5499999537714757e-05,"Both her wrists bore the man's of severe bruising ,",0.29151636987512575,0.0392156862745098,0.1,iam,baseline
+80,sample_841,and there were other injuries on her body which had,5.4999998610583134e-05,and there were other injuries on her body which had,0.24559151037487936,0.0,0.0,iam,baseline
+81,sample_875,music to which the Frenchman would not dance ;,2.870900061680004e-05,"music to which the Frenchman would not dance , '",0.24559151037487936,0.06521739130434782,0.2222222222222222,iam,baseline
+82,sample_877,"many centuries ago , in some cave or hilly",2.166599915653933e-05,"many centuries ago , in some cave or hilly",0.24559151037487936,0.0,0.0,iam,baseline
+83,sample_879,"hide , did our forebears home from the chase",1.4958000974729657e-05,"hide , did our forebears home from the chase",0.24559151037487936,0.0,0.0,iam,baseline
+84,sample_905,It is a far enough cry from the primitive,2.1750000087195076e-05,It is a far enough cry from primitive,0.24559151037487936,0.0975609756097561,0.1111111111111111,iam,baseline
+85,sample_907,showing a guest something of ourselves .,1.6874999346327968e-05,showing a guest something of ourselves .,0.24559151037487936,0.0,0.0,iam,baseline
+86,sample_949,his birthright to him for a mess of pottage - and,2.5041999833774753e-05,his birthright to him for a mess of cottage - and,0.24559151037487936,0.02040816326530612,0.09090909090909091,iam,baseline
+87,sample_953,"Does one , however , know who first thought",1.8000000636675395e-05,"Does one , however know who first thought",0.24559151037487936,0.046511627906976744,0.1111111111111111,iam,baseline
+88,sample_983,and intellect . A remarkable peculiarity in the banquets,4.4041000364813954e-05,and intellect . A remarkable peculiarity in the banquets,0.3385091249999732,0.0,0.0,iam,baseline
+89,sample_1014,"In China , for instance , dried rats are esteemed",2.220799979113508e-05,"In China , for instance , dried rats are esteemed",0.3385091249999732,0.0,0.0,iam,baseline
+90,sample_1030,If that country had not been for so long a battlefield red,3.1042000045999885e-05,If that country had not been for so long a battlefield red,0.3385091249999732,0.0,0.0,iam,baseline
+91,sample_1031,provides many Magyar dishes with a vivid and brilliant,2.249999852210749e-05,provides many Magyar dishes with a vivid and brilliant,0.3385091249999732,0.0,0.0,iam,baseline
+92,sample_1034,"with the blood shed to defend Christian civilisation ,",3.191600080754142e-05,"with the blood shed to defend Christian civilisation ,",0.3385091249999732,0.0,0.0,iam,baseline
+93,sample_1053,possibly comparable alone to a gypsy,4.1291999878012575e-05,possibly comparable alone to a gypsy,0.3385091249999732,0.0,0.0,iam,baseline
+94,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,",3.670799924293533e-05,"noble dish is , A sort of soups , or broth , or brew ,",0.3385091249999732,0.018867924528301886,0.06666666666666667,iam,baseline
+95,sample_1112,welcomed by men of genius as well as the foods for,1.6332998711732216e-05,welcomed by men of genius as well as the foods for,0.3385091249999732,0.0,0.0,iam,baseline
+96,sample_1143,It was naturally a highly popular victory with the,2.245799987576902e-05,It was naturally a highly popular victory with the,0.30737781249990803,0.0,0.0,iam,baseline
+97,sample_1148,a great sailor and an able strategist .,1.4750001355423592e-05,a great sailor and an able strategist .,0.30737781249990803,0.0,0.0,iam,baseline
+98,sample_1165,the longbows of yeomen could pierce the,2.4124999981722794e-05,the longbows of yeoman could pierce the,0.30737781249990803,0.02564102564102564,0.14285714285714285,iam,baseline
+99,sample_1174,It seems obvious that if an expedition to,1.9249999240855686e-05,It seems obvious that if an expedition to,0.30737781249990803,0.0,0.0,iam,baseline
+100,sample_1176,"Calais , Cherbourg , Brest , Bordeaux and Bayonne ,",9.749999662744813e-06,"Palais , Claybourg , Great , Bordeaux and Bayonne ,",0.30737781249990803,0.11764705882352941,0.3,iam,baseline
+101,sample_1191,"war , there was a constant stirring of",3.554099930624943e-05,"war , there was a constant stirring of",0.30737781249990803,0.0,0.0,iam,baseline
+102,sample_1198,ceptions of governmental duties must be,2.608299837447703e-05,ceptions of governmental duties must be,0.30737781249990803,0.0,0.0,iam,baseline
+103,sample_1203,guilds of a city . A mediaeval tax was,4.2875000872300006e-05,guilds of a city . A mediaeval tax was,0.30737781249990803,0.0,0.0,iam,baseline
+104,sample_1205,"monasteries , manors , townships , or wards and",0.0002264160011691274,"monasteries , manors , townships , or words and",0.2664153853750122,0.02127659574468085,0.1111111111111111,iam,baseline
+105,sample_1211,was quite alien to mediaeval thought - its,0.00013774999933957588,was quite alien to mediaeval thought - its,0.2664153853750122,0.0,0.0,iam,baseline
+106,sample_1213,substitute was the mutual self-help of,0.00014000000010128133,substitute was the mutual self-help of,0.2664153853750122,0.0,0.0,iam,baseline
+107,sample_1242,"nal funds , they were usually granted an",6.74580005579628e-05,"nal founds , they were usually pranted on",0.2664153853750122,0.075,0.375,iam,baseline
+108,sample_1254,vely simple obligations of the feudal pyramid,8.86249999894062e-05,rely simple obligations of the feudal pyramid,0.2664153853750122,0.022222222222222223,0.14285714285714285,iam,baseline
+109,sample_1285,merchants who could tempt court and,5.649999911838677e-05,merchants who could tempt court and,0.2664153853750122,0.0,0.0,iam,baseline
+110,sample_1292,"John de Kyrkby , a Londoner , was one of",7.599999844387639e-05,"John de Kyrkby , a Londoner , was one of",0.2664153853750122,0.0,0.0,iam,baseline
+111,sample_1301,because no machinery was provided for,4.033400000480469e-05,because not machinery was provided for,0.2664153853750122,0.02702702702702703,0.16666666666666666,iam,baseline
+112,sample_1327,of blood from the wound . Arterial diastole is,2.2375001208274625e-05,of blood from the wound . Arterial diastate is,0.26040702074988076,0.043478260869565216,0.1111111111111111,iam,baseline
+113,sample_1336,ventricular one slowly and,1.424999936716631e-05,ventricular one slowly fast and,0.26040702074988076,0.19230769230769232,0.25,iam,baseline
+114,sample_1341,ways .,2.362500163144432e-05,ways .,0.26040702074988076,0.0,0.0,iam,baseline
+115,sample_1357,they would be there to begin the meeting .,1.78339996637078e-05,they would be there to begin the meeting .,0.26040702074988076,0.0,0.0,iam,baseline
+116,sample_1376,at funerals . Religion was one of his pet,4.0209000871982425e-05,at funerals . Religion was one of his pet,0.26040702074988076,0.0,0.0,iam,baseline
+117,sample_1383,Although his ideas were diametrically opposed,1.0792000466608442e-05,Although his ideas were disambically general,0.26040702074988076,0.24444444444444444,0.3333333333333333,iam,baseline
+118,sample_1386,to those of parsons he got on wonderfully well,1.2542001059046015e-05,to those of persons be got on wordsfully well,0.26040702074988076,0.10869565217391304,0.3333333333333333,iam,baseline
+119,sample_1395,"Liberals , they were going to fight the Labour",1.1166999684064649e-05,"liberals , they were going to fight the Labour",0.26040702074988076,0.021739130434782608,0.1111111111111111,iam,baseline
+120,sample_1407,"After the First World War , 1914 , I did not visit",2.179200055252295e-05,"After the first World War , 1914 , I did not visit",0.2605788073749409,0.02,0.08333333333333333,iam,baseline
+121,sample_1410,Towards the end of my five and a half years',1.650000012887176e-05,Towards the end of my five and a half years',0.2605788073749409,0.0,0.0,iam,baseline
+122,sample_1412,1924 I was in a different parish in Surrey .,1.5333000192185864e-05,1924 I was in a different parish in Surrey .,0.2605788073749409,0.0,0.0,iam,baseline
+123,sample_1413,a village choral society and conduct it .,1.2000000424450263e-05,a village choral society and conduct it .,0.2605788073749409,0.0,0.0,iam,baseline
+124,sample_1417,at Tatsfield to the great modern church of St. Mark's,3.0208000680431724e-05,at Tatsfield to the great modern church of St Mark's,0.2605788073749409,0.018867924528301886,0.1,iam,baseline
+125,sample_1439,wives and relations of the soldiers to get their ' Separation ',1.529200017102994e-05,wives and relations of the soldiers to get their ' Separation ?,0.2605788073749409,0.015873015873015872,0.08333333333333333,iam,baseline
+126,sample_1468,evidently not passed on that information ;,1.783299921953585e-05,evidently not passed on that information ;,0.2605788073749409,0.0,0.0,iam,baseline
+127,sample_1481,became great sighs of ecstacy .,2.6917001378023997e-05,became and notials of economic,0.2605788073749409,0.5161290322580645,0.6666666666666666,iam,baseline
+128,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,3.445800030021928e-05,abroad ; and no pedestrian to cross his path nor to wait,0.26099876562489044,0.0,0.0,iam,baseline
+129,sample_1512,"Deadly stillness , deadly portent !",2.008400042541325e-05,"Deadly stillness , deadly patient !",0.26099876562489044,0.08571428571428572,0.16666666666666666,iam,baseline
+130,sample_1515,flying saucer was tilting and dipping over,1.7915999706019647e-05,flying cancer was tilting and dipping over,0.26099876562489044,0.047619047619047616,0.14285714285714285,iam,baseline
+131,sample_1526,selves in their zeal to get their orders and to carry,1.8916000044555403e-05,selves in these zeal to get their orders and to carry,0.26099876562489044,0.03773584905660377,0.09090909090909091,iam,baseline
+132,sample_1548,not have been entirely an objective suggestion,2.0375000531203113e-05,net have been entirely an objective suggestion,0.26099876562489044,0.021739130434782608,0.14285714285714285,iam,baseline
+133,sample_1550,working out . It occurred to Steve that this may,1.1374999303370714e-05,working out . It occurred to Steve that this may,0.26099876562489044,0.0,0.0,iam,baseline
+134,sample_1558,So they proceeded to see if the coast,2.754199886112474e-05,So they proceeded to see if the coast,0.26099876562489044,0.0,0.0,iam,baseline
+135,sample_1568,"down , up and down .",1.6250000044237822e-05,"down , up and down .",0.26099876562489044,0.0,0.0,iam,baseline
+136,sample_1572,communication and of a vague,0.00012045799849147443,communication and of a vague,0.3022790051250013,0.0,0.0,iam,baseline
+137,sample_1583,the Avenue from its many tributary streets . It might have,3.0125000193947926e-05,the Avenue from its many trilmonary streets . It might have,0.3022790051250013,0.06896551724137931,0.09090909090909091,iam,baseline
+138,sample_1585,"walked , or drove , or waited as a person possessed of",1.754100048856344e-05,"walked , or drove , or waited as a person possessed of",0.3022790051250013,0.0,0.0,iam,baseline
+139,sample_1587,he waited . The bus stop was a deserted island on an empty street .,1.716699989628978e-05,he waited . The bus stop was a deserted island on a empty street .,0.3022790051250013,0.014925373134328358,0.06666666666666667,iam,baseline
+140,sample_1589,"as arranged , but he consoled himself by",1.2624999726540409e-05,"as arranged , but he consulted himself by",0.3022790051250013,0.05,0.125,iam,baseline
+141,sample_1591,January or early February . Angelina might be a,1.3416998626780696e-05,January or early February . Angelina might be a,0.3022790051250013,0.0,0.0,iam,baseline
+142,sample_1593,"back on Moon again , and able to do",1.729199902911205e-05,"book on Moon again , and able to do",0.3022790051250013,0.05714285714285714,0.1111111111111111,iam,baseline
+143,sample_1597,Then he would go back to Plato for a final spell of,1.6040999980759807e-05,Then he would go back to Plato for a final spell of,0.3022790051250013,0.0,0.0,iam,baseline
+144,sample_1616,"never her husband , a fact he accepted as inevitable . "" I guess",2.741699972830247e-05,"never her husband , a fact he accepted as inevitable . "" I guess",0.28671342712505066,0.0,0.0,iam,baseline
+145,sample_1621,penetrate beyond the minds of astronomers was of general,1.9249999240855686e-05,exertimate beyond the minds of astronomers was of general,0.28671342712505066,0.08928571428571429,0.1111111111111111,iam,baseline
+146,sample_1669,trans-economic .,1.2583999705384485e-05,transuming a recession in C.,0.28671342712505066,1.0625,2.5,iam,baseline
+147,sample_1680,"Mos have an un-American love of parades , and",3.683399881992955e-05,"Most have an un-American love of parades , and",0.28671342712505066,0.022222222222222223,0.1111111111111111,iam,baseline
+148,sample_1703,shadows beyond the river . ' Something moved . ',1.8417000319459476e-05,shadows beyond the river . ' Something moved . ',0.28671342712505066,0.0,0.0,iam,baseline
+149,sample_1704,can you . Look over there . ' He pointed to the,2.6832998628378846e-05,can you look over there . ' He pointed to the,0.28671342712505066,0.06382978723404255,0.16666666666666666,iam,baseline
+150,sample_1713,may have thought I had become unbalanced,1.5665998944314197e-05,may have thought I had become unbalanced,0.28671342712505066,0.0,0.0,iam,baseline
+151,sample_1714,"to entertain for an instant the idea , the",1.4207998901838437e-05,"to entertain for an instant the idea , the",0.28671342712505066,0.0,0.0,iam,baseline
+152,sample_1728,"thoughtful , but that was his habit . Indeed",3.6082999940845184e-05,"thoughtful , but that was his habit . Indeed",0.4417381979999391,0.0,0.0,iam,baseline
+153,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",3.654100146377459e-05,""" speaking , Hodgold . "" He sought to endorid hair in his arms . But he was too later .",0.4417381979999391,0.2261904761904762,0.23809523809523808,iam,baseline
+154,sample_1741,heart that Morfydd was leaving him as surely as she was leaving Dinas .,1.7874999684863724e-05,heart that Malayah was becoming hair as surely as she was learning studies .,0.4417381979999391,0.2676056338028169,0.35714285714285715,iam,baseline
+155,sample_1748,damn bus .,1.5041998267406598e-05,dann loss .,0.4417381979999391,0.4,0.6666666666666666,iam,baseline
+156,sample_1756,"the mask , now , Ifor did . "" Dai Pugh , "" he bellowed . "" Leap on your bicycle",1.9292001525172964e-05,"the mark , now . Ifor had , "" Asa itself , "" he followed . "" Begun can your triangle",0.4417381979999391,0.3291139240506329,0.47619047619047616,iam,baseline
+157,sample_1766,"was , as he feared , departed out of his life ,",2.0916999346809462e-05,"was , as he feared , departed out of his life ,",0.4417381979999391,0.0,0.0,iam,baseline
+158,sample_1770,"he still loved her dearly . Already , even",2.0125000446569175e-05,"he still loved her dearly . Already , even",0.4417381979999391,0.0,0.0,iam,baseline
+159,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",1.900000097521115e-05,""" Where are we going ? "" he echoed Cadwalladder .",0.4417381979999391,0.020833333333333332,0.09090909090909091,iam,baseline
+160,sample_1791,running into Llangrwl bus station .,5.183299981581513e-05,running into Llangrwl bus station .,0.27763936974997705,0.0,0.0,iam,baseline
+161,sample_1792,"his head . "" God bless my immortal soul , """,4.654199983633589e-05,"his head . "" God bless my immortal soul , """,0.27763936974997705,0.0,0.0,iam,baseline
+162,sample_1797,"folded it , and glanced idly out of the",2.262499947391916e-05,"folded it , and glanced idly out of the",0.27763936974997705,0.0,0.0,iam,baseline
+163,sample_1798,"soul , "" said Megan Thomas tartly .",1.8667000404093415e-05,"sord , "" Said Megan Thomas hardly .",0.27763936974997705,0.14285714285714285,0.375,iam,baseline
+164,sample_1831,"restive queue of people in the bus station ,",2.6499999876250513e-05,"sertive queue of people in the bus station ,",0.27763936974997705,0.045454545454545456,0.1111111111111111,iam,baseline
+165,sample_1842,his Eth . Morfydd thought of Dai . The,1.845900078478735e-05,his 5th. Morfydd thought of Dai . The,0.27763936974997705,0.05263157894736842,0.2222222222222222,iam,baseline
+166,sample_1862,""" Do as I say , driver . "" Very stern , the reverend",1.6332998711732216e-05,""" Do of I say , driver . "" Very stern , the revered",0.27763936974997705,0.057692307692307696,0.14285714285714285,iam,baseline
+167,sample_1869,"Stared back did Price the Provisions , unwinking .",2.720800148381386e-05,"Stared back did Price the Provisional , unworking .",0.27763936974997705,0.08,0.2222222222222222,iam,baseline
+168,sample_1876,"began to read . "" Six loaves , four pounds butter ,",3.40410006174352e-05,"began to read . "" Six looms , four pounds better ,",0.31168005200015614,0.0784313725490196,0.16666666666666666,iam,baseline
+169,sample_1883,"' Be silent , woman , and listen , ' Band Appa Bondi said .",3.574999936972745e-05,"' Be silent , woman , and listen , ' Bond Appa Bondi said",0.31168005200015614,0.05084745762711865,0.13333333333333333,iam,baseline
+170,sample_1888,tigerfly is not a tigerfly until it changes . So humans,2.429100095469039e-05,rigerfly is not a tigerfly until it changes . So humans,0.31168005200015614,0.01818181818181818,0.09090909090909091,iam,baseline
+171,sample_1892,Flor were listening .,1.5666999388486147e-05,For were listening .,0.31168005200015614,0.047619047619047616,0.25,iam,baseline
+172,sample_1912,Chief Captive said . Suddenly his second head roused,3.8541998947039247e-05,Chief Captive said . Suddenly his second head roused,0.31168005200015614,0.0,0.0,iam,baseline
+173,sample_1920,"The flyman with ear lobes and thumbs connected ,",2.658300036273431e-05,"The flyman with ear lobes and thumbs connected ,",0.31168005200015614,0.0,0.0,iam,baseline
+174,sample_1927,from harm . ',1.4125000234344043e-05,from harm . ',0.31168005200015614,0.0,0.0,iam,baseline
+175,sample_1936,"asked . ' What else ? Flor and Lily-yo , you arrive",2.2665999495075084e-05,"asked . ' What else ? Flor and Lily-yo , you arrive",0.31168005200015614,0.0,0.0,iam,baseline
+176,sample_1968,so much confidence in her . Once again,3.0499999411404133e-05,to which confidence in her . Once again,0.2302634115001183,0.10526315789473684,0.25,iam,baseline
+177,sample_2029,movements of the Bentley . It had passed,1.7750000552041456e-05,improvement of the Bentley . It had passed,0.2302634115001183,0.1,0.125,iam,baseline
+178,sample_2056,express their disgust at Sir John's abominable treatment,1.4582999938284047e-05,express their biggest # at Sir. John's admirable treatment,0.2302634115001183,0.16071428571428573,0.5,iam,baseline
+179,sample_2094,"fault . """,9.667000995250419e-06,"fault . """,0.2302634115001183,0.0,0.0,iam,baseline
+180,sample_2106,"wherefores of your actions , "" he said",1.8208998881164007e-05,"wherefores of your actions , "" he said",0.2302634115001183,0.0,0.0,iam,baseline
+181,sample_2139,precisely the remark she had made to Guy .,1.799999881768599e-05,precisely the remark she had made to buy .,0.2302634115001183,0.023809523809523808,0.1111111111111111,iam,baseline
+182,sample_2147,your knowledge of all the affairs of the,1.491599869041238e-05,vocor knowledge of all the affairs of the,0.2302634115001183,0.075,0.125,iam,baseline
+183,sample_2165,"man was , she thought impatiently ,",1.462500040361192e-05,"man was , she thought impatently ,",0.2302634115001183,0.02857142857142857,0.14285714285714285,iam,baseline
+184,sample_2178,"would be 3"" plenty , plenty sad "" not to be back",5.166600021766499e-05,"would be 3""plenty , plenty sad "" not to be back at",0.29587310412489387,0.08333333333333333,0.25,iam,baseline
+185,sample_2183,"to all kin' o' boats , wid d'ose big , big",2.366700027778279e-05,"to all trial of Scouts , which chose big , big",0.29587310412489387,0.30952380952380953,0.45454545454545453,iam,baseline
+186,sample_2184,We all know how Balicou Island dangerous,1.8250000721309334e-05,We all know how Balicou Island dangerous,0.29587310412489387,0.0,0.0,iam,baseline
+187,sample_2192,"day . Though he did not refuse wine , which the",2.9916998755652457e-05,"day . Though he did not refuse wine , which , the",0.29587310412489387,0.0425531914893617,0.09090909090909091,iam,baseline
+188,sample_2204,with part of that howling northwest gale .,1.4291001207311638e-05,with part of that howling northwest gate .,0.29587310412489387,0.023809523809523808,0.125,iam,baseline
+189,sample_2208,"by trying to come home now , even if he did promise ?",2.5207998987752944e-05,"by trying to come home now , even if he did promise ?",0.29587310412489387,0.0,0.0,iam,baseline
+190,sample_2212,yawl recover .,1.4708999515278265e-05,yourst recover .,0.29587310412489387,0.35714285714285715,0.3333333333333333,iam,baseline
+191,sample_2213,"weather side of that pier ! He 'll wreck ! """,2.137500086973887e-05,weather side of that pier ! He'll speak I'll,0.29587310412489387,0.18181818181818182,0.45454545454545453,iam,baseline
+192,sample_2218,is going to try to make a landing on the,4.2083000153070316e-05,is going to try to make a landing on the,0.32862213025009623,0.0,0.0,iam,baseline
+193,sample_2220,jibbing the boom to which he had the,2.141599907190539e-05,jibbing the boom to which he had the,0.32862213025009623,0.0,0.0,iam,baseline
+194,sample_2224,"of wet canvas , Bill cleared the",2.016700091189705e-05,"of wet canvas , Bill cleared the",0.32862213025009623,0.0,0.0,iam,baseline
+195,sample_2231,"everything , when he wants to . """,2.9499999072868377e-05,"everything , When he means to , """,0.32862213025009623,0.15151515151515152,0.375,iam,baseline
+196,sample_2244,water in her . I wouldn't be,2.2292000721790828e-05,wrote in her . I wouldn't be,0.32862213025009623,0.10714285714285714,0.14285714285714285,iam,baseline
+197,sample_2261,With four doing the job and the waves,1.3625000065076165e-05,With four doing the jobs and the waves,0.32862213025009623,0.02702702702702703,0.125,iam,baseline
+198,sample_2264,"exclaimed the judge . "" Toss them on the grass",1.729199902911205e-05,"exclaimed the judge . "" Toss them on the grass",0.32862213025009623,0.0,0.0,iam,baseline
+199,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he",3.3166999855893664e-05,"don't you ? "" John gave a short laugh . "" I did , "" he",0.32862213025009623,0.0,0.0,iam,baseline
+200,sample_2290,and tonic .,2.5207998987752944e-05,and tenie .,0.30681327087495447,0.18181818181818182,0.3333333333333333,iam,baseline
+201,sample_2297,must have been worth a great deal to the proprietors,1.908300146169495e-05,must have been worth a great deal to the propriers,0.30681327087495447,0.038461538461538464,0.1,iam,baseline
+202,sample_2326,one in return and he was lonely .,1.5834000805625692e-05,one in return and he was lonely .,0.30681327087495447,0.0,0.0,iam,baseline
+203,sample_2333,all else . We pride ourselves about accuracy on,1.6792000678833574e-05,all else . We pride ourselves about accuracy on,0.30681327087495447,0.0,0.0,iam,baseline
+204,sample_2358,going to take over command of Pericles . Am I,3.7290999898687005e-05,going to take over command of Pericles . Am I,0.30681327087495447,0.0,0.0,iam,baseline
+205,sample_2368,"off it , "" said Bawley . "" The proprietor of the Daily",2.387500171607826e-05,"off it . "" said Bawley . "" The proprietor of the Daily",0.30681327087495447,0.018518518518518517,0.07692307692307693,iam,baseline
+206,sample_2395,"away from Service matters , was an excellent",1.279199932469055e-05,"away from Service matters , was an excellent",0.30681327087495447,0.0,0.0,iam,baseline
+207,sample_2398,"of the work is done . "" He held out a card .",1.2792001143679954e-05,"of the work is done . "" He held out a card .",0.30681327087495447,0.0,0.0,iam,baseline
+208,sample_2422,affair of Parsifal . Harry had lost a good deal of weight .,4.079100108356215e-05,officier of Parsifal . Harry had last a good deal of weight .,0.3088922812501096,0.0847457627118644,0.15384615384615385,iam,baseline
+209,sample_2445,"my mind . "" This would be as good a place",1.4417000784305856e-05,"my mind . "" This would he as good a place",0.3088922812501096,0.024390243902439025,0.09090909090909091,iam,baseline
+210,sample_2449,"in , Johnny . "" "" I know . But if lead starts",2.0707999283331446e-05,"in , Johnny . "" I know . But if lead starts",0.3088922812501096,0.044444444444444446,0.07692307692307693,iam,baseline
+211,sample_2452,men who 'll be after that coach I 'm interested,3.429100070206914e-05,men who'll be after that coach I'm interceded,0.3088922812501096,0.10638297872340426,0.5,iam,baseline
+212,sample_2469,""" Maybe you don't know about Appleton ,",1.5166999219218269e-05,""" Maybe you don't know about Appleton ,",0.3088922812501096,0.0,0.0,iam,baseline
+213,sample_2489,"into draws , circling a big mesa by a",1.2749998859362677e-05,"site draws , circling a big area by a",0.3088922812501096,0.16216216216216217,0.2222222222222222,iam,baseline
+214,sample_2501,we figured would lead to the miners' camp .,3.491700044833124e-05,we figured world lead to the miners' camp .,0.3088922812501096,0.023255813953488372,0.1111111111111111,iam,baseline
+215,sample_2505,in pairs .,1.0457999451318756e-05,an inquiry,0.3088922812501096,0.8,1.0,iam,baseline
+216,sample_2513,got no whiskers so as you can see . Just you,5.2958001106162556e-05,get no missiles so as you can see . Just you,0.26030060412495004,0.1590909090909091,0.18181818181818182,iam,baseline
+217,sample_2519,was never long on patience .,3.1208999644150026e-05,was never long on patience .,0.26030060412495004,0.0,0.0,iam,baseline
+218,sample_2520,"wavered . We sat our horses , waiting . "" Looks as",4.383300074550789e-05,"wavored . We sat our horses , waiting . "" looks as",0.26030060412495004,0.04,0.16666666666666666,iam,baseline
+219,sample_2522,"though they 're expecting trouble , "" I said . "" Where",1.6417001461377367e-05,"though they're expecting trouble , "" I said . "" Where",0.26030060412495004,0.018518518518518517,0.16666666666666666,iam,baseline
+220,sample_2528,in a huddle upon an upturned wheelbarrow .,3.587500032153912e-05,in a huddle upon an upturned wheelbarrow .,0.26030060412495004,0.0,0.0,iam,baseline
+221,sample_2541,dly decadence and absorption in debase-,1.779200101736933e-05,ally decadence and absorption in defense-,0.26030060412495004,0.1282051282051282,0.3333333333333333,iam,baseline
+222,sample_2549,speak normally .,1.8958000509883277e-05,speak normally .,0.26030060412495004,0.0,0.0,iam,baseline
+223,sample_2562,"windows , sir , they date back to",5.566700019699056e-05,"windows , sir , they date been to",0.26030060412495004,0.09090909090909091,0.125,iam,baseline
+224,sample_2596,"shoulder . "" That 's a pretty girl ! "" Gay glanced behind her , "" Isn't she",3.033400025742594e-05,"shoulder . That's a pretty girl ! "" Gay glanced behind her , "" Don't she",0.3739310260000366,0.06666666666666667,0.2222222222222222,iam,baseline
+225,sample_2605,to the bar . Doc and Lilyan were,2.2959000489208847e-05,to the bar . Doc and Lilyan were,0.3739310260000366,0.0,0.0,iam,baseline
+226,sample_2614,had bought a drink and taken it outside .,0.00012991699986741878,had bought a drink and taken it outside,0.3739310260000366,0.04878048780487805,0.1111111111111111,iam,baseline
+227,sample_2620,"gesture of hopelessness , knowing that her",2.0041999960085377e-05,"gesteats of hopelessness , launching that her",0.3739310260000366,0.21428571428571427,0.2857142857142857,iam,baseline
+228,sample_2624,decided to go back and join Lilyan and,1.7374999515595846e-05,decided to go back and join Libyan and,0.3739310260000366,0.02631578947368421,0.125,iam,baseline
+229,sample_2630,"anything , "" Gay told herself desperately ,",1.758299913490191e-05,"anything , "" Gay told herself desperately ,",0.3739310260000366,0.0,0.0,iam,baseline
+230,sample_2632,"Simone on to the floor . "" It doesn't mean",4.075000106240623e-05,"Simone on to the floor . "" It doesn't mean",0.3739310260000366,0.0,0.0,iam,baseline
+231,sample_2643,"dance , "" Doc's cheery voice came as a",1.824999890231993e-05,"dance , "" Doc's cheery voice came as a",0.3739310260000366,0.0,0.0,iam,baseline
+232,sample_2686,No other news except that Elaine is engaged,9.333300113212317e-05,No other news except Elaine is engaged,0.2926724792500863,0.11627906976744186,0.125,iam,baseline
+233,sample_2693,"and going to marry a foreigner ... """,2.183399919886142e-05,"and going to marry a foreigner ... """,0.2926724792500863,0.0,0.0,iam,baseline
+234,sample_2723,been standing in for Luke Parsons at his surgery in,2.0041999960085377e-05,been standing in for Luke Parsons at his surgery in,0.2926724792500863,0.0,0.0,iam,baseline
+235,sample_2732,when she was not free ; this much they had,2.39589990087552e-05,when she was not free ; this much they had,0.2926724792500863,0.0,0.0,iam,baseline
+236,sample_2769,Gubbins boy thought he saw you at the Load of Trouble .,2.5082999854930677e-05,gubbins boy thought he saw you at the head of Trouble .,0.2926724792500863,0.05454545454545454,0.16666666666666666,iam,baseline
+237,sample_2772,""" What about it , my sweet ? "" "" Well , "" she laughed",2.2707999960402958e-05,""" What about it , my sweet ? "" "" Well , "" she laughed",0.2926724792500863,0.0,0.0,iam,baseline
+238,sample_2780,Though Diana knew the name of every,3.533300150593277e-05,Though Diana knew the name of every,0.2926724792500863,0.0,0.0,iam,baseline
+239,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,2.11669994314434e-05,""" But I want it can protested . It's my ring . """,0.2926724792500863,0.18181818181818182,0.35294117647058826,iam,baseline
+240,sample_2806,seeing the look of admiration and revelation,5.574999886448495e-05,seeing the look of admiration and revelation,0.26356174999978066,0.0,0.0,iam,baseline
+241,sample_2807,"from his pocket . "" At a price , "" he concluded ,",1.8291999367647804e-05,"from his pocket . "" At a price , "" he concluded ,",0.26356174999978066,0.0,0.0,iam,baseline
+242,sample_2839,"with a gesture she knew so well ,",1.3708000551559962e-05,"with a gesture she knew so well ,",0.26356174999978066,0.0,0.0,iam,baseline
+243,sample_2840,scription for the sedatives . You,1.1540998457348906e-05,scriptions for the sedatives . You,0.26356174999978066,0.030303030303030304,0.16666666666666666,iam,baseline
+244,sample_2863,all she could hear were Nicholas's,1.7124999430961907e-05,all she could hear were Nicholas's,0.26356174999978066,0.0,0.0,iam,baseline
+245,sample_2864,what they were saying . Sandra,1.2624999726540409e-05,what they were saying . Sandra,0.26356174999978066,0.0,0.0,iam,baseline
+246,sample_2871,"little joy , or satisfaction , it had",1.6459000107715838e-05,"little joy , or satisfaction , it had",0.26356174999978066,0.0,0.0,iam,baseline
+247,sample_2877,no matter how one might want to,1.462500040361192e-05,in a matter how one might want to,0.26356174999978066,0.0967741935483871,0.2857142857142857,iam,baseline
+248,sample_2902,the deceit . The lies . ',2.300000051036477e-05,the deceit's Thebes . ',0.44476762500016775,0.2,0.5714285714285714,iam,baseline
+249,sample_2908,"His digressions too , seemed to have no other",1.9875000361935236e-05,"His discussions too , seemed to have no other",0.44476762500016775,0.06666666666666667,0.1111111111111111,iam,baseline
+0,sample_11,round a doll's house .,0.05562083299992082,round a doll's house .,0.743927927124787,0.0,0.0,iam,combined
+1,sample_18,such as a chair and a motor-car . The idea is to see what happens when,0.07697300000108953,such as a chair and a motor-car . The idea is to see what happens when,0.743927927124787,0.0,0.0,iam,combined
+2,sample_26,essay on soldiering which stated that a fighting,0.07694495899886533,assay on coldbenting which started that a frightening,0.743927927124787,0.1875,0.5,iam,combined
+3,sample_37,Northern defiance . The cameras played continuously on his,0.07091387500076962,Northern Defiance . The cameras played continuously on his,0.743927927124787,0.017241379310344827,0.1111111111111111,iam,combined
+4,sample_47,Britain was slipping behind ... .,0.06936637500075449,Britain was sleeping behind ... .,0.743927927124787,0.06060606060606061,0.16666666666666666,iam,combined
+5,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .",0.06466204200114589,"could at the chance by placing the fragments , or sheets , or pages , in order .",0.743927927124787,0.06329113924050633,0.1111111111111111,iam,combined
+6,sample_72,how this enlargement was effected nor has he,0.054904167000131565,how this enlargement was effected nor has he,0.743927927124787,0.0,0.0,iam,combined
+7,sample_80,wording . It is not possible to establish any one,0.05425975000071048,wording . It is not possible to establish any one,0.743927927124787,0.0,0.0,iam,combined
+8,sample_91,impossible to say .,0.03746108300038031,unpassible to say .,0.2464095468751566,0.15789473684210525,0.25,iam,combined
+9,sample_123,Against these advantages the codex was fragile and,0.059505209001144976,against these advantages the codex was fragile and,0.2464095468751566,0.02,0.125,iam,combined
+10,sample_126,end could be cut off . If the text was longer than,0.06063766700026463,end could be cut off . If the text was longer than,0.2464095468751566,0.0,0.0,iam,combined
+11,sample_128,while one whole side of his roll was unused .,0.05979820800166635,while one whole side of his roll was unused .,0.2464095468751566,0.0,0.0,iam,combined
+12,sample_131,"in the case of the single-sheet quire , an extra",0.05682716699993762,"in the case of the single-sheet quite , an extra",0.2464095468751566,0.020833333333333332,0.1,iam,combined
+13,sample_141,supply . The pools are probably natural springs,0.05167816699940886,supply . The parts once probably nullival springs,0.2464095468751566,0.23404255319148937,0.375,iam,combined
+14,sample_156,"This man is the worm , the creature that",0.06799354100076016,This man is the warm the creature that,0.2464095468751566,0.075,0.2222222222222222,iam,combined
+15,sample_165,"beginning . It is "" the stone , which the builders",0.05952308300038567,"beginning . It is "" the stone , which the builders",0.2464095468751566,0.0,0.0,iam,combined
+16,sample_189,come across human Shamirs and they leave,0.06323679200068,"come , across human Shamirs and they leave",0.32345124999983454,0.05,0.14285714285714285,iam,combined
+17,sample_230,"adds and in your soul , searching your soul .",0.057042041000386234,"odds and in your soul , searching your soul .",0.32345124999983454,0.022222222222222223,0.1,iam,combined
+18,sample_239,them without visionary power .,0.06198258299991721,them without visionary power .,0.32345124999983454,0.0,0.0,iam,combined
+19,sample_248,And the tsitsits had a message sealed inside the knots,0.0691585419990588,And the tsitsits had a message sealed inside the knots,0.32345124999983454,0.0,0.0,iam,combined
+20,sample_255,"We eat it . We accept it , to show we have self-control",0.09429579100105911,"We eat it . We accept it , to show we have self-confitol",0.32345124999983454,0.05454545454545454,0.07692307692307693,iam,combined
+21,sample_268,11 ) . That gives us freedom from want .,0.055962417000046116,Mr. Chart gives us freedom from work .,0.32345124999983454,0.25,0.5,iam,combined
+22,sample_277,and the sweet Mortar in which we dip-in represents,0.09128979199886089,and the sweet Mortar in which we die-in represents,0.32345124999983454,0.02,0.1111111111111111,iam,combined
+23,sample_292,burdens of Egypt : How was it that Israel was,0.054501250000612345,burdens of Egypt . How was it that Israel was,0.32345124999983454,0.022222222222222223,0.1,iam,combined
+24,sample_320,himself immortal by becoming associated with,0.06448441600150545,himself immortal by becoming associated with,0.2765555833750568,0.0,0.0,iam,combined
+25,sample_336,mutual . But Laud was no Romanizer . One of his,0.07195808300093631,muteal . But land was no Romanizer . One of his,0.2765555833750568,0.06382978723404255,0.18181818181818182,iam,combined
+26,sample_351,"by laughing at what are very real fears . As adults , we know",0.07158787499975006,"by laughing at what are very real fears . As adults , we knows",0.2765555833750568,0.01639344262295082,0.07142857142857142,iam,combined
+27,sample_352,but to a child they are very real . Not that I am suggesting,0.04862920899904566,but to a child they are very real . Not that I am suggesting,0.2765555833750568,0.0,0.0,iam,combined
+28,sample_363,the harvest of which may still be being,0.0690517919992999,the harvest of which may still be being,0.2765555833750568,0.0,0.0,iam,combined
+29,sample_373,which occur less frequently than,0.061825666000004276,which occur less frequently than,0.2765555833750568,0.0,0.0,iam,combined
+30,sample_377,frightening possibilities and yet by facing,0.058788874999663676,frightening possibilities and yet by facing,0.2765555833750568,0.0,0.0,iam,combined
+31,sample_384,the stronger we become .,0.07053820799956156,the stronger we become .,0.2765555833750568,0.0,0.0,iam,combined
+32,sample_394,"secret plan , Of the things He will",0.07336608399964462,"secret plan , Of the things the will",0.22974870837492745,0.05714285714285714,0.125,iam,combined
+33,sample_408,"the mind . Very few people , under normal",0.04845845800082316,"the mind . Very few people , under normal",0.22974870837492745,0.0,0.0,iam,combined
+34,sample_418,noting the effect of a new stimulus on some-,0.05410812499940221,making the effect of a new stimuter on some-,0.22974870837492745,0.13636363636363635,0.2222222222222222,iam,combined
+35,sample_422,"the washing-up - while others , if they",0.05660391600031289,"the Washington-up - while others , if they",0.22974870837492745,0.10256410256410256,0.125,iam,combined
+36,sample_426,her boy friend calls and go for a long walk .,0.07134741700065206,her boy friend calls and go for a long walk .,0.22974870837492745,0.0,0.0,iam,combined
+37,sample_427,"Even more simply , test your own reactions",0.07028429199999664,"even more simply , best your own reactions",0.22974870837492745,0.047619047619047616,0.25,iam,combined
+38,sample_451,"from America weeks , from the Far East ,",0.07383950000075856,"from America weeks , from the Far East ,",0.22974870837492745,0.0,0.0,iam,combined
+39,sample_466,travel day by day .,0.03791400000045542,travel day by day .,0.22974870837492745,0.0,0.0,iam,combined
+40,sample_468,pipeline of the railway on which they,0.07668050000029325,pipeline of the railway on which they,0.2462258072498571,0.0,0.0,iam,combined
+41,sample_469,"In many cases , their homes know little of",0.0568181660000846,"In many cases , their homes know little of",0.2462258072498571,0.0,0.0,iam,combined
+42,sample_471,are possibly like in the surroundings of their,0.08763008300047659,are possibly like in the surroundings of their,0.2462258072498571,0.0,0.0,iam,combined
+43,sample_472,a ' double ' life without ever deliberately,0.07904012499966484,a ' double life without ever dell' bierately,0.2462258072498571,0.13953488372093023,0.375,iam,combined
+44,sample_485,after time we forget something and have to go back,0.0798958750001475,after time we forget something and have to go back,0.2462258072498571,0.0,0.0,iam,combined
+45,sample_486,write out all the necessary jobs waiting to,0.0817667920000531,while out of the necessary jobs waiting to,0.2462258072498571,0.11627906976744186,0.25,iam,combined
+46,sample_489,"be done and then work quietly through them ,",0.05363224999928207,"We done and then work quietly through them ,",0.2462258072498571,0.022727272727272728,0.1111111111111111,iam,combined
+47,sample_490,thing else . If we would only sit down and,0.05071437500009779,thing the Tyre would only sit down and,0.2462258072498571,0.21428571428571427,0.4,iam,combined
+48,sample_512,day timetable .,0.03468766699916159,day timetable .,0.2449089062499752,0.0,0.0,iam,combined
+49,sample_513,"As it is , with so much of our life already",0.054354709000108414,"As it is , with so much of our life already",0.2449089062499752,0.0,0.0,iam,combined
+50,sample_514,"to five of the timetable , the following",0.06582587499906367,"to five of the timetable , the following",0.2449089062499752,0.0,0.0,iam,combined
+51,sample_541,done ( or must be done because of other predetermined factors,0.06126333400061412,done ( or must be done because of other predetermined factors,0.2449089062499752,0.0,0.0,iam,combined
+52,sample_543,thing at a time . A list or a plan enables us to,0.04830516600122792,thing of time . A listor a plan matter or to,0.2449089062499752,0.25,0.46153846153846156,iam,combined
+53,sample_579,answer or that our sugya is quoting from,0.08094904199970188,answer or that ever suaya is quoting from,0.2449089062499752,0.1,0.25,iam,combined
+54,sample_597,part of the verse .,0.04322008300005109,part of the verse .,0.2449089062499752,0.0,0.0,iam,combined
+55,sample_601,become so well known that it was,0.07587833299839986,become so well known that it was,0.2449089062499752,0.0,0.0,iam,combined
+56,sample_611,"the court of Shem , the court of Samuel of Ramah ,",0.060589375001654844,"the court of Svein , the court of Samuel of Ramah ,",0.29425283337491237,0.06,0.08333333333333333,iam,combined
+57,sample_619,"the potentialities of the craft , and crochet was",0.06168204200002947,"the potentialities of the craft , and crochet was",0.29425283337491237,0.0,0.0,iam,combined
+58,sample_624,herring having some orientation with the,0.053506791999097914,serving leaving some orientation with the,0.29425283337491237,0.1,0.3333333333333333,iam,combined
+59,sample_628,is always from the north ) .,0.06634499999927357,is always from the mould .,0.29425283337491237,0.21428571428571427,0.2857142857142857,iam,combined
+60,sample_638,"movements , although primarily",0.06228783400001703,"Moeemundo , although primarily",0.29425283337491237,0.16666666666666666,0.25,iam,combined
+61,sample_640,"geography . Geography , too , names the",0.06682258299952082,"geography . Geography , too , makes the",0.29425283337491237,0.05128205128205128,0.125,iam,combined
+62,sample_641,a deep-water channel to the Dogger where,0.07819745799861266,a deepmaster channel to the Dogger where,0.29425283337491237,0.075,0.14285714285714285,iam,combined
+63,sample_642,Their descent stops at the end of the light pressure . But,0.050196915999549674,Their descent stops at the end of the light pressure . But,0.29425283337491237,0.0,0.0,iam,combined
+64,sample_652,going to travel a hundred,0.08729662500081758,giving to travel a hundred,0.27720583849986724,0.08,0.2,iam,combined
+65,sample_654,other banks are most of them,0.0926320830003533,other banks are most of them,0.27720583849986724,0.0,0.0,iam,combined
+66,sample_677,and Suffolk beaches .,0.05751149999923655,and Suffolk beaches .,0.27720583849986724,0.0,0.0,iam,combined
+67,sample_708,aware of the moving footrope before,0.07265975000154867,aware of the moving footrope before,0.27720583849986724,0.0,0.0,iam,combined
+68,sample_711,Let us consider first what would,0.07775924999987183,tet us consider first what would,0.27720583849986724,0.03125,0.16666666666666666,iam,combined
+69,sample_750,trails . It was learned that Elizabeth Camp had been lending,0.08635258300091664,trails . It was learned that Eli-abeth Camp had been leading,0.27720583849986724,0.03333333333333333,0.18181818181818182,iam,combined
+70,sample_761,been broken off after one particular,0.061653583999941475,been broken off # after one particular,0.27720583849986724,0.05555555555555555,0.16666666666666666,iam,combined
+71,sample_763,"description , but the man was not traced .",0.07062954200046079,"description , but the man was not extracted",0.27720583849986724,0.11904761904761904,0.2222222222222222,iam,combined
+72,sample_789,wrote an anti-railway industrialist when it was,0.06705116699959035,wrote an antiqu-railway industrialist when it was,0.2910892447498554,0.0425531914893617,0.14285714285714285,iam,combined
+73,sample_798,darkness .,0.028914667000208283,darkness .,0.2910892447498554,0.0,0.0,iam,combined
+74,sample_815,"of foul play , the verdict brought in was that there",0.0772148340001877,"of foul play , the verdict brought in was that there",0.2910892447498554,0.0,0.0,iam,combined
+75,sample_816,"24 , 1905 , a Sunday , Sub-Inspector Peacock , of",0.07052762499915843,"24, 1908 , a Sunday , Sub- Inspector Peacock , of",0.2910892447498554,0.061224489795918366,0.45454545454545453,iam,combined
+76,sample_817,Though in the minds of most people there was,0.07860024999899906,Though in the minds of most people there was,0.2910892447498554,0.0,0.0,iam,combined
+77,sample_825,had walked deliberately into the blackness and,0.05668970800070383,had valued deliberately into the placeness and,0.2910892447498554,0.08695652173913043,0.2857142857142857,iam,combined
+78,sample_831,was found to have her own silk scarf drawn,0.05292291700061469,was found to have her own silk scarf drawn,0.2910892447498554,0.0,0.0,iam,combined
+79,sample_840,"Both her wrists bore the marks of severe bruising ,",0.0686537089986814,"Both her wrists bore the man's of severe bruising ,",0.2910892447498554,0.0392156862745098,0.1,iam,combined
+80,sample_841,and there were other injuries on her body which had,0.059313707999535836,and there were other injuries on her body which had,0.24553581249983836,0.0,0.0,iam,combined
+81,sample_875,music to which the Frenchman would not dance ;,0.07520224999825587,"music to which the Frenchman would not dance , '",0.24553581249983836,0.06521739130434782,0.2222222222222222,iam,combined
+82,sample_877,"many centuries ago , in some cave or hilly",0.08245799999895098,"many centuries ago , in some cave or hilly",0.24553581249983836,0.0,0.0,iam,combined
+83,sample_879,"hide , did our forebears home from the chase",0.06850966700039862,"hide , did our forebears home from the chase",0.24553581249983836,0.0,0.0,iam,combined
+84,sample_905,It is a far enough cry from the primitive,0.05251433299963537,It is a far enough any from primitive,0.24553581249983836,0.14634146341463414,0.2222222222222222,iam,combined
+85,sample_907,showing a guest something of ourselves .,0.07848787500006438,showing a guest something of ourselves .,0.24553581249983836,0.0,0.0,iam,combined
+86,sample_949,his birthright to him for a mess of pottage - and,0.07652983299885818,his birthright to him for a mess of cottage - and,0.24553581249983836,0.02040816326530612,0.09090909090909091,iam,combined
+87,sample_953,"Does one , however , know who first thought",0.05586879200018302,"does one , however know who first thought",0.24553581249983836,0.06976744186046512,0.2222222222222222,iam,combined
+88,sample_983,and intellect . A remarkable peculiarity in the banquets,0.07634187499934342,and intellect . A remarkable peculiarity in the banquets,0.3242006718749053,0.0,0.0,iam,combined
+89,sample_1014,"In China , for instance , dried rats are esteemed",0.06730829200023436,"In China , for instance , dried rats are esteemed",0.3242006718749053,0.0,0.0,iam,combined
+90,sample_1030,If that country had not been for so long a battlefield red,0.0781595410007867,If that country had not been for so long a battlefield red,0.3242006718749053,0.0,0.0,iam,combined
+91,sample_1031,provides many Magyar dishes with a vivid and brilliant,0.07663816700005555,provides many Magyar dishes with a vivid and brilliant,0.3242006718749053,0.0,0.0,iam,combined
+92,sample_1034,"with the blood shed to defend Christian civilisation ,",0.07016850000036357,"with the blood shed to defend Christian civilisation ,",0.3242006718749053,0.0,0.0,iam,combined
+93,sample_1053,possibly comparable alone to a gypsy,0.08422812499884458,possibly comparable alone to a gypsy,0.3242006718749053,0.0,0.0,iam,combined
+94,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,",0.07579612500012445,"noble dish is , A sort of soups , or broth , or brew ,",0.3242006718749053,0.018867924528301886,0.06666666666666667,iam,combined
+95,sample_1112,welcomed by men of genius as well as the foods for,0.06317541600037657,welcomed by men of genius as well as the foods for,0.3242006718749053,0.0,0.0,iam,combined
+96,sample_1143,It was naturally a highly popular victory with the,0.06461079200016684,It was naturally a highly popular victory with the,0.30746317712487325,0.0,0.0,iam,combined
+97,sample_1148,a great sailor and an able strategist .,0.052400292001038906,a great sailor and an able strategist .,0.30746317712487325,0.0,0.0,iam,combined
+98,sample_1165,the longbows of yeomen could pierce the,0.07501154199962912,the longbows of yeoman could pierce the,0.30746317712487325,0.02564102564102564,0.14285714285714285,iam,combined
+99,sample_1174,It seems obvious that if an expedition to,0.05145749999974214,It seems obvious that if an expedition to,0.30746317712487325,0.0,0.0,iam,combined
+100,sample_1176,"Calais , Cherbourg , Brest , Bordeaux and Bayonne ,",0.07262241700118466,"Calais , Cherbourg , Great , Fordeans and Bayonne ,",0.30746317712487325,0.09803921568627451,0.2,iam,combined
+101,sample_1191,"war , there was a constant stirring of",0.07940891700127395,"war , there was a constant stirring of",0.30746317712487325,0.0,0.0,iam,combined
+102,sample_1198,ceptions of governmental duties must be,0.06939845899978536,ceptions of governmental duties must be,0.30746317712487325,0.0,0.0,iam,combined
+103,sample_1203,guilds of a city . A mediaeval tax was,0.07522037499984435,guilds of a city . A mediaeval tax was,0.30746317712487325,0.0,0.0,iam,combined
+104,sample_1205,"monasteries , manors , townships , or wards and",0.08782170800077438,"monasteries , manors , townships , or words and",0.26699910412503414,0.02127659574468085,0.1111111111111111,iam,combined
+105,sample_1211,was quite alien to mediaeval thought - its,0.06925445800152374,was quite alien to mediaeval thought - its,0.26699910412503414,0.0,0.0,iam,combined
+106,sample_1213,substitute was the mutual self-help of,0.16481008399932762,"substitute was the mutual "" self-help of",0.26699910412503414,0.05263157894736842,0.16666666666666666,iam,combined
+107,sample_1242,"nal funds , they were usually granted an",0.10121258399885846,"nal founds , they were usually pranted on",0.26699910412503414,0.075,0.375,iam,combined
+108,sample_1254,vely simple obligations of the feudal pyramid,0.08294754100097634,rely simple obligations of the feudal pyramid,0.26699910412503414,0.022222222222222223,0.14285714285714285,iam,combined
+109,sample_1285,merchants who could tempt court and,0.09958829100105504,merchants who could tempt court and,0.26699910412503414,0.0,0.0,iam,combined
+110,sample_1292,"John de Kyrkby , a Londoner , was one of",0.14731462499912595,"John de Kyrkby , a Londoner , was one of",0.26699910412503414,0.0,0.0,iam,combined
+111,sample_1301,because no machinery was provided for,0.08185787500042352,because not machinery was provided for,0.26699910412503414,0.02702702702702703,0.16666666666666666,iam,combined
+112,sample_1327,of blood from the wound . Arterial diastole is,0.059322000000975095,of blood from the wound . Arterial diastate is,0.26048359374999563,0.043478260869565216,0.1111111111111111,iam,combined
+113,sample_1336,ventricular one slowly and,0.08685433399841713,ventricular one slowly fast and,0.26048359374999563,0.19230769230769232,0.25,iam,combined
+114,sample_1341,ways .,0.020583333000104176,ways .,0.26048359374999563,0.0,0.0,iam,combined
+115,sample_1357,they would be there to begin the meeting .,0.055006333999699564,they would be there to begin the meeting .,0.26048359374999563,0.0,0.0,iam,combined
+116,sample_1376,at funerals . Religion was one of his pet,0.07755991599879053,at funerals . Religion was one of his pet,0.26048359374999563,0.0,0.0,iam,combined
+117,sample_1383,Although his ideas were diametrically opposed,0.05218691700065392,Although his ideas were disambically general,0.26048359374999563,0.24444444444444444,0.3333333333333333,iam,combined
+118,sample_1386,to those of parsons he got on wonderfully well,0.07789541599959193,to those of persons be got on wordsfully well,0.26048359374999563,0.10869565217391304,0.3333333333333333,iam,combined
+119,sample_1395,"Liberals , they were going to fight the Labour",0.06445595800141746,"liberals , they were going to fight the Labour",0.26048359374999563,0.021739130434782608,0.1111111111111111,iam,combined
+120,sample_1407,"After the First World War , 1914 , I did not visit",0.07137991700074053,"After the first World War , 1 ?r. I did not visit",0.27522864062507324,0.12,0.25,iam,combined
+121,sample_1410,Towards the end of my five and a half years',0.04906149999987974,Towards the end of my five and a half years',0.27522864062507324,0.0,0.0,iam,combined
+122,sample_1412,1924 I was in a different parish in Surrey .,0.05508399999962421,1924 I was in a different parish in Surrey .,0.27522864062507324,0.0,0.0,iam,combined
+123,sample_1413,a village choral society and conduct it .,0.06908024999938789,a village choral society and conduct it .,0.27522864062507324,0.0,0.0,iam,combined
+124,sample_1417,at Tatsfield to the great modern church of St. Mark's,0.06913766699835833,at Tatsfield to the great modern church of St. Mark's,0.27522864062507324,0.0,0.0,iam,combined
+125,sample_1439,wives and relations of the soldiers to get their ' Separation ',0.05970462499863061,wives and relations of the soldiers to get their ' Separation ?,0.27522864062507324,0.015873015873015872,0.08333333333333333,iam,combined
+126,sample_1468,evidently not passed on that information ;,0.058370040998852346,evidently not passed on that information ;,0.27522864062507324,0.0,0.0,iam,combined
+127,sample_1481,became great sighs of ecstacy .,0.06906312499995693,became about nails of erosion .,0.27522864062507324,0.45161290322580644,0.5,iam,combined
+128,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,0.07305920799990417,abroad ; and no pedestrian to cross his path nor to wait,0.26666321874995447,0.0,0.0,iam,combined
+129,sample_1512,"Deadly stillness , deadly portent !",0.07177162500011036,"Deadly stillness , deadly patient !",0.26666321874995447,0.08571428571428572,0.16666666666666666,iam,combined
+130,sample_1515,flying saucer was tilting and dipping over,0.0731327079993207,flying cancer was tilting and dipping over,0.26666321874995447,0.047619047619047616,0.14285714285714285,iam,combined
+131,sample_1526,selves in their zeal to get their orders and to carry,0.08199320799940324,selves in their goal to get their orders and to carry,0.26666321874995447,0.03773584905660377,0.09090909090909091,iam,combined
+132,sample_1548,not have been entirely an objective suggestion,0.05174004099899321,not have been entirely an objective suggestion,0.26666321874995447,0.0,0.0,iam,combined
+133,sample_1550,working out . It occurred to Steve that this may,0.07200087499950314,working out . It occurred to Steve that this may,0.26666321874995447,0.0,0.0,iam,combined
+134,sample_1558,So they proceeded to see if the coast,0.059998082999300095,So they proceeded to see if the coast,0.26666321874995447,0.0,0.0,iam,combined
+135,sample_1568,"down , up and down .",0.04683720799948787,"down , up and down .",0.26666321874995447,0.0,0.0,iam,combined
+136,sample_1572,communication and of a vague,0.08399549999921874,communication and of a vague,0.2925899896249575,0.0,0.0,iam,combined
+137,sample_1583,the Avenue from its many tributary streets . It might have,0.04873333300020022,the Avenue from its many trilmonary streets . It might have,0.2925899896249575,0.06896551724137931,0.09090909090909091,iam,combined
+138,sample_1585,"walked , or drove , or waited as a person possessed of",0.06617704200107255,"walked , or drove , or waited as a person possessed of",0.2925899896249575,0.0,0.0,iam,combined
+139,sample_1587,he waited . The bus stop was a deserted island on an empty street .,0.06212425000012445,he waited . The bus stop was a deserted island on a empty street .,0.2925899896249575,0.014925373134328358,0.06666666666666667,iam,combined
+140,sample_1589,"as arranged , but he consoled himself by",0.08376429199961422,"as arranged , but he consulted himself by",0.2925899896249575,0.05,0.125,iam,combined
+141,sample_1591,January or early February . Angelina might be a,0.08545020900055533,January or early February . Angelina might be a,0.2925899896249575,0.0,0.0,iam,combined
+142,sample_1593,"back on Moon again , and able to do",0.08673245899990434,"back on Moon again , and able to do",0.2925899896249575,0.0,0.0,iam,combined
+143,sample_1597,Then he would go back to Plato for a final spell of,0.05171637500097859,Then he would go back to Plato for a final spell of,0.2925899896249575,0.0,0.0,iam,combined
+144,sample_1616,"never her husband , a fact he accepted as inevitable . "" I guess",0.07696049999867682,"never her husband , a fact he accepted as inevitable . "" I guess",0.28514017187512763,0.0,0.0,iam,combined
+145,sample_1621,penetrate beyond the minds of astronomers was of general,0.08552475000033155,exertimate beyond the minds of astronomers was of general,0.28514017187512763,0.08928571428571429,0.1111111111111111,iam,combined
+146,sample_1669,trans-economic .,0.05839437499889755,transuming in a Belgian crisis i. c.,0.28514017187512763,1.625,3.5,iam,combined
+147,sample_1680,"Mos have an un-American love of parades , and",0.07577012500041747,"Most have an un-American love of parades , and",0.28514017187512763,0.022222222222222223,0.1111111111111111,iam,combined
+148,sample_1703,shadows beyond the river . ' Something moved . ',0.051897583000027225,shadows beyond the river . ' Something moved . ',0.28514017187512763,0.0,0.0,iam,combined
+149,sample_1704,can you . Look over there . ' He pointed to the,0.06349641700035136,can you look over there . ' He pointed to the,0.28514017187512763,0.06382978723404255,0.16666666666666666,iam,combined
+150,sample_1713,may have thought I had become unbalanced,0.04997433299831755,may have thought I had become unbalanced,0.28514017187512763,0.0,0.0,iam,combined
+151,sample_1714,"to entertain for an instant the idea , the",0.08277354100027878,"to entertain for an instant the idea , the",0.28514017187512763,0.0,0.0,iam,combined
+152,sample_1728,"thoughtful , but that was his habit . Indeed",0.07355916599954071,"thoughtful , but that was his habit . Indeed",0.4600341822501832,0.0,0.0,iam,combined
+153,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",0.058443500000066706,""" spending , Ardydd . "" He sought to endorid hair in his arms . But he was too later .",0.4600341822501832,0.20238095238095238,0.23809523809523808,iam,combined
+154,sample_1741,heart that Morfydd was leaving him as surely as she was leaving Dinas .,0.07663683399914589,heart that Malayah was learning their as surely as she was learning studies .,0.4600341822501832,0.2535211267605634,0.35714285714285715,iam,combined
+155,sample_1748,damn bus .,0.030060417000640882,dann bowls .,0.4600341822501832,0.4,0.6666666666666666,iam,combined
+156,sample_1756,"the mask , now , Ifor did . "" Dai Pugh , "" he bellowed . "" Leap on your bicycle",0.05000391599969589,"the mark , now . Ifor had , "" Asa itself , "" he followed . "" Begun can your triangle",0.4600341822501832,0.3291139240506329,0.47619047619047616,iam,combined
+157,sample_1766,"was , as he feared , departed out of his life ,",0.05733900000086578,"was , as he feared , departed out of his life ,",0.4600341822501832,0.0,0.0,iam,combined
+158,sample_1770,"he still loved her dearly . Already , even",0.05622987500100862,"he still loved her dearly . Already , even",0.4600341822501832,0.0,0.0,iam,combined
+159,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",0.04865937500107975,""" Where are we going ? "" he echoed Cadwalladder .",0.4600341822501832,0.020833333333333332,0.09090909090909091,iam,combined
+160,sample_1791,running into Llangrwl bus station .,0.08504304199959734,running into Llangrwl bus station .,0.27523766674994476,0.0,0.0,iam,combined
+161,sample_1792,"his head . "" God bless my immortal soul , """,0.06902508399980434,"his head . "" God bless my immortal soul , """,0.27523766674994476,0.0,0.0,iam,combined
+162,sample_1797,"folded it , and glanced idly out of the",0.08653766700081178,"folded it , and glanced idly out of the",0.27523766674994476,0.0,0.0,iam,combined
+163,sample_1798,"soul , "" said Megan Thomas tartly .",0.07823729200026719,"sord , "" Said Megan Thomas hardly .",0.27523766674994476,0.14285714285714285,0.375,iam,combined
+164,sample_1831,"restive queue of people in the bus station ,",0.07134299999961513,"sertive queue of people in the bus station ,",0.27523766674994476,0.045454545454545456,0.1111111111111111,iam,combined
+165,sample_1842,his Eth . Morfydd thought of Dai . The,0.07044766700164473,his 5th. Morfydd thought of Dai's The,0.27523766674994476,0.10526315789473684,0.4444444444444444,iam,combined
+166,sample_1862,""" Do as I say , driver . "" Very stern , the reverend",0.08783699999912642,""" Do at I say , driver . "" Very stern , the revered",0.27523766674994476,0.038461538461538464,0.14285714285714285,iam,combined
+167,sample_1869,"Stared back did Price the Provisions , unwinking .",0.055479207998359925,"Stared back did Price the Provisional , unwriting .",0.27523766674994476,0.1,0.2222222222222222,iam,combined
+168,sample_1876,"began to read . "" Six loaves , four pounds butter ,",0.06445783299932373,"began to read . "" Six looms , four pounds better ,",0.3063284479999311,0.0784313725490196,0.16666666666666666,iam,combined
+169,sample_1883,"' Be silent , woman , and listen , ' Band Appa Bondi said .",0.0684090840004501,"' Be silent , woman , and listen , ' Bond Appa Bondi said",0.3063284479999311,0.05084745762711865,0.13333333333333333,iam,combined
+170,sample_1888,tigerfly is not a tigerfly until it changes . So humans,0.08128279099946667,rigerfly is not a tigerfly until it changes . So humans,0.3063284479999311,0.01818181818181818,0.09090909090909091,iam,combined
+171,sample_1892,Flor were listening .,0.04844858400065277,Flor were listening .,0.3063284479999311,0.0,0.0,iam,combined
+172,sample_1912,Chief Captive said . Suddenly his second head roused,0.08887829200102715,Chief Captive said . Suddenly his second head roused,0.3063284479999311,0.0,0.0,iam,combined
+173,sample_1920,"The flyman with ear lobes and thumbs connected ,",0.08522274999995716,"The flyman with ear lobes and thumbs connected ,",0.3063284479999311,0.0,0.0,iam,combined
+174,sample_1927,from harm . ',0.04010937500061118,from harm . ',0.3063284479999311,0.0,0.0,iam,combined
+175,sample_1936,"asked . ' What else ? Flor and Lily-yo , you arrive",0.07538916599878576,"asked . ' What else ? ' Flor and Lily-yo , you arrive",0.3063284479999311,0.0392156862745098,0.08333333333333333,iam,combined
+176,sample_1968,so much confidence in her . Once again,0.08560312500048894,to march confidence in her . Once again,0.24456134887509506,0.07894736842105263,0.25,iam,combined
+177,sample_2029,movements of the Bentley . It had passed,0.06840991699937149,movement of the Bentley . It had passed,0.24456134887509506,0.025,0.125,iam,combined
+178,sample_2056,express their disgust at Sir John's abominable treatment,0.041368583999428665,ex per their biggest # at Sir. John's admirable treatment,0.24456134887509506,0.23214285714285715,0.75,iam,combined
+179,sample_2094,"fault . """,0.023216042000058223,"pault . """,0.24456134887509506,0.1111111111111111,0.3333333333333333,iam,combined
+180,sample_2106,"wherefores of your actions , "" he said",0.05410775000018475,"wherefores of your actions , "" he said",0.24456134887509506,0.0,0.0,iam,combined
+181,sample_2139,precisely the remark she had made to Guy .,0.06081183300011617,precisely the remark she had made to buy .,0.24456134887509506,0.023809523809523808,0.1111111111111111,iam,combined
+182,sample_2147,your knowledge of all the affairs of the,0.08458166700074798,your knowledge of all the affairs of the,0.24456134887509506,0.0,0.0,iam,combined
+183,sample_2165,"man was , she thought impatiently ,",0.07929237499956798,"man was , she thought impatently ,",0.24456134887509506,0.02857142857142857,0.14285714285714285,iam,combined
+184,sample_2178,"would be 3"" plenty , plenty sad "" not to be back",0.08218808400124544,"would be 3""plenty , plenty sad "" not to be back at",0.2995830937500159,0.08333333333333333,0.25,iam,combined
+185,sample_2183,"to all kin' o' boats , wid d'ose big , big",0.06918383300035202,"to all trial of Scouts , which chose big , big",0.2995830937500159,0.30952380952380953,0.45454545454545453,iam,combined
+186,sample_2184,We all know how Balicou Island dangerous,0.0796673329987243,We all know how Balicou Island dangerous,0.2995830937500159,0.0,0.0,iam,combined
+187,sample_2192,"day . Though he did not refuse wine , which the",0.05960449999838602,"day . Through the did not refuse wine , which , the",0.2995830937500159,0.0851063829787234,0.2727272727272727,iam,combined
+188,sample_2204,with part of that howling northwest gale .,0.06319995800004108,with part of that howling northwest gate .,0.2995830937500159,0.023809523809523808,0.125,iam,combined
+189,sample_2208,"by trying to come home now , even if he did promise ?",0.07376495800053817,"by trying to come home now , even if he did produce ?",0.2995830937500159,0.05660377358490566,0.07692307692307693,iam,combined
+190,sample_2212,yawl recover .,0.03540537499975471,yourst recover .,0.2995830937500159,0.35714285714285715,0.3333333333333333,iam,combined
+191,sample_2213,"weather side of that pier ! He 'll wreck ! """,0.059808957999848644,weather side of that pier ! He'll speak I'll,0.2995830937500159,0.18181818181818182,0.45454545454545453,iam,combined
+192,sample_2218,is going to try to make a landing on the,0.058043540999278775,is going to try to make a landing on the,0.322856958374814,0.0,0.0,iam,combined
+193,sample_2220,jibbing the boom to which he had the,0.05770016700080305,jibbing the boom to which he had the,0.322856958374814,0.0,0.0,iam,combined
+194,sample_2224,"of wet canvas , Bill cleared the",0.08540037499915343,"of wet canvas , Bill cleared the",0.322856958374814,0.0,0.0,iam,combined
+195,sample_2231,"everything , when he wants to . """,0.05289666700082307,"everything , When he means to , """,0.322856958374814,0.15151515151515152,0.375,iam,combined
+196,sample_2244,water in her . I wouldn't be,0.06140787500044098,wrote in her . I wouldn't be,0.322856958374814,0.10714285714285714,0.14285714285714285,iam,combined
+197,sample_2261,With four doing the job and the waves,0.052866957999867736,With four doing the jobs and the waves,0.322856958374814,0.02702702702702703,0.125,iam,combined
+198,sample_2264,"exclaimed the judge . "" Toss them on the grass",0.08067495899922505,"exclaimed the judge . "" Toss them on the grass",0.322856958374814,0.0,0.0,iam,combined
+199,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he",0.06677574999957869,"don't you ? "" John gave a short laugh . "" I did , "" he",0.322856958374814,0.0,0.0,iam,combined
+200,sample_2290,and tonic .,0.033866958001453895,and tenic .,0.3072824947500976,0.09090909090909091,0.3333333333333333,iam,combined
+201,sample_2297,must have been worth a great deal to the proprietors,0.06954612499976065,must have been worth a great deal to the proprio for,0.3072824947500976,0.07692307692307693,0.2,iam,combined
+202,sample_2326,one in return and he was lonely .,0.07162270799926773,one in return and he was lonely .,0.3072824947500976,0.0,0.0,iam,combined
+203,sample_2333,all else . We pride ourselves about accuracy on,0.05492258300000685,all else . We pride ourselves about accuracy on,0.3072824947500976,0.0,0.0,iam,combined
+204,sample_2358,going to take over command of Pericles . Am I,0.06280208399948606,going to take over command of Pericles . Am I,0.3072824947500976,0.0,0.0,iam,combined
+205,sample_2368,"off it , "" said Bawley . "" The proprietor of the Daily",0.07735054200020386,"off it . "" said Bawley . "" The proprietor of the Daily",0.3072824947500976,0.018518518518518517,0.07692307692307693,iam,combined
+206,sample_2395,"away from Service matters , was an excellent",0.06701000000066415,"away from Service matters , was an excellent",0.3072824947500976,0.0,0.0,iam,combined
+207,sample_2398,"of the work is done . "" He held out a card .",0.07914833299946622,"of the work is done . "" He held out a card .",0.3072824947500976,0.0,0.0,iam,combined
+208,sample_2422,affair of Parsifal . Harry had lost a good deal of weight .,0.05902204099947994,officier of Parsifal . Harry had last a good deal of weight .,0.30681275525012097,0.0847457627118644,0.15384615384615385,iam,combined
+209,sample_2445,"my mind . "" This would be as good a place",0.052887750000081724,"my mind . "" This would he as good a place",0.30681275525012097,0.024390243902439025,0.09090909090909091,iam,combined
+210,sample_2449,"in , Johnny . "" "" I know . But if lead starts",0.053669375000026776,"in , Johnny . "" "" I know . But if lead starts",0.30681275525012097,0.0,0.0,iam,combined
+211,sample_2452,men who 'll be after that coach I 'm interested,0.07440420799866843,men who'll be after that coach I'm interceded,0.30681275525012097,0.10638297872340426,0.5,iam,combined
+212,sample_2469,""" Maybe you don't know about Appleton ,",0.06053954199887812,""" Maybe you don't know about Appleton ,",0.30681275525012097,0.0,0.0,iam,combined
+213,sample_2489,"into draws , circling a big mesa by a",0.09027087499998743,"with draws , circling a bigmber by a",0.30681275525012097,0.1891891891891892,0.3333333333333333,iam,combined
+214,sample_2501,we figured would lead to the miners' camp .,0.07673583299947495,we figured would lead to the miners' camp .,0.30681275525012097,0.0,0.0,iam,combined
+215,sample_2505,in pairs .,0.02725766699950327,cis pairs .,0.30681275525012097,0.2,0.3333333333333333,iam,combined
+216,sample_2513,got no whiskers so as you can see . Just you,0.07895395800005645,get no wireless so as you can see . Just you,0.25999944274985864,0.13636363636363635,0.18181818181818182,iam,combined
+217,sample_2519,was never long on patience .,0.06759812500058615,was never long on patience .,0.25999944274985864,0.0,0.0,iam,combined
+218,sample_2520,"wavered . We sat our horses , waiting . "" Looks as",0.06607008299943118,"wavored . We just our horses , waiting . "" looks as",0.25999944274985864,0.1,0.25,iam,combined
+219,sample_2522,"though they 're expecting trouble , "" I said . "" Where",0.0562370829993597,"though they're expecting trouble , "" I said . "" Where",0.25999944274985864,0.018518518518518517,0.16666666666666666,iam,combined
+220,sample_2528,in a huddle upon an upturned wheelbarrow .,0.08117491700068058,in a huddle upon an upturned wheelbarrow .,0.25999944274985864,0.0,0.0,iam,combined
+221,sample_2541,dly decadence and absorption in debase-,0.05879383300089103,ally decadence and absorption in defense-,0.25999944274985864,0.1282051282051282,0.3333333333333333,iam,combined
+222,sample_2549,speak normally .,0.03952149999895482,speak normally .,0.25999944274985864,0.0,0.0,iam,combined
+223,sample_2562,"windows , sir , they date back to",0.08095166599923687,"windows , sir , they date been to",0.25999944274985864,0.09090909090909091,0.125,iam,combined
+224,sample_2596,"shoulder . "" That 's a pretty girl ! "" Gay glanced behind her , "" Isn't she",0.05822754200016789,"shoulder . "" That's a pretty girl ! "" Gay glanced behind her , "" Don't she",0.39716586975009704,0.04,0.16666666666666666,iam,combined
+225,sample_2605,to the bar . Doc and Lilyan were,0.07110287499926926,to the ball . Doc and Lilyan well,0.39716586975009704,0.125,0.25,iam,combined
+226,sample_2614,had bought a drink and taken it outside .,0.08203624999987369,had bought a drink and taken it outside .,0.39716586975009704,0.0,0.0,iam,combined
+227,sample_2620,"gesture of hopelessness , knowing that her",0.08761329100161674,"gesture of hopelessness , launching that her",0.39716586975009704,0.11904761904761904,0.14285714285714285,iam,combined
+228,sample_2624,decided to go back and join Lilyan and,0.07736254199880932,decided to go back and join Libyan and,0.39716586975009704,0.02631578947368421,0.125,iam,combined
+229,sample_2630,"anything , "" Gay told herself desperately ,",0.07234054099899367,"anything , "" Gay told herself desperately ,",0.39716586975009704,0.0,0.0,iam,combined
+230,sample_2632,"Simone on to the floor . "" It doesn't mean",0.08229479100009485,"Simone on to the floor . "" It doesn't mean",0.39716586975009704,0.0,0.0,iam,combined
+231,sample_2643,"dance , "" Doc's cheery voice came as a",0.07722966700021061,"dance , "" Doc's cheery voice came as a",0.39716586975009704,0.0,0.0,iam,combined
+232,sample_2686,No other news except that Elaine is engaged,0.08926066700041702,No other news except Elaine is engaged,0.2915659583750312,0.11627906976744186,0.125,iam,combined
+233,sample_2693,"and going to marry a foreigner ... """,0.06801770800120721,"and going to marry a foreigner ... . """,0.2915659583750312,0.05555555555555555,0.125,iam,combined
+234,sample_2723,been standing in for Luke Parsons at his surgery in,0.06927816700044787,been standing in for Luke Parsons at his surgery in,0.2915659583750312,0.0,0.0,iam,combined
+235,sample_2732,when she was not free ; this much they had,0.05107766599940078,when she was not free ; this much they had,0.2915659583750312,0.0,0.0,iam,combined
+236,sample_2769,Gubbins boy thought he saw you at the Load of Trouble .,0.07495437500074331,gubbins boy thought he saw you at the head of Trouble .,0.2915659583750312,0.05454545454545454,0.16666666666666666,iam,combined
+237,sample_2772,""" What about it , my sweet ? "" "" Well , "" she laughed",0.058986000000004424,""" What about it , my sweet ? "" "" Well , "" she laughed",0.2915659583750312,0.0,0.0,iam,combined
+238,sample_2780,Though Diana knew the name of every,0.06496437500027241,Though Diana knew the name of every,0.2915659583750312,0.0,0.0,iam,combined
+239,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,0.055115332999776,""" But I want it can protested . It's my ring . """,0.2915659583750312,0.18181818181818182,0.35294117647058826,iam,combined
+240,sample_2806,seeing the look of admiration and revelation,0.06759291699927417,seeing the look of admiration and revelation,0.26100303125008395,0.0,0.0,iam,combined
+241,sample_2807,"from his pocket . "" At a price , "" he concluded ,",0.05901175000144576,"from his pocket . "" At a price , "" he concluded ,",0.26100303125008395,0.0,0.0,iam,combined
+242,sample_2839,"with a gesture she knew so well ,",0.07628912499967555,"will a gesture she knew so well ,",0.26100303125008395,0.06060606060606061,0.125,iam,combined
+243,sample_2840,scription for the sedatives . You,0.05074108400003752,scriptions for the sedatives . You,0.26100303125008395,0.030303030303030304,0.16666666666666666,iam,combined
+244,sample_2863,all she could hear were Nicholas's,0.0633551669998269,all she could hear were Nicholas's,0.26100303125008395,0.0,0.0,iam,combined
+245,sample_2864,what they were saying . Sandra,0.054804207999040955,what they were saying . Sandra,0.26100303125008395,0.0,0.0,iam,combined
+246,sample_2871,"little joy , or satisfaction , it had",0.06880266699954518,"little joy , or satisfaction , it had",0.26100303125008395,0.0,0.0,iam,combined
+247,sample_2877,no matter how one might want to,0.07972670799972548,in a matter how one might want to,0.26100303125008395,0.0967741935483871,0.2857142857142857,iam,combined
+248,sample_2902,the deceit . The lies . ',0.0619904579998547,the deceit . ' The Lies . ',0.46399716650012124,0.12,0.2857142857142857,iam,combined
+249,sample_2908,"His digressions too , seemed to have no other",0.08828279199951794,"His discussions too , seemed to have no other",0.46399716650012124,0.06666666666666667,0.1111111111111111,iam,combined
+0,096_028_001_01_03,in paving the way to the consideration of ,0.0006152919995656703,imparing the way to the confidentialain of,0.28054900524989534,0.24390243902439024,0.375,bentham,baseline
+1,096_028_001_01_06,much time in explaining the nature & ,0.0004325419995439006,mutations in explaining the feature,0.28054900524989534,0.2777777777777778,0.5714285714285714,bentham,baseline
+2,096_028_001_01_08,"in misapplying those which do: & therefore, ",0.00044516599882626906,in missupplying those which do . To therefore,0.28054900524989534,0.16279069767441862,0.7142857142857143,bentham,baseline
+3,096_028_001_01_11,has hitherto advanced. ,0.0001968750002561137,has in the streets and scattered .,0.28054900524989534,0.8181818181818182,2.0,bentham,baseline
+4,097_186_001_01_01,Note ( ) to p. ,8.04170012997929e-05,Note ( help,0.28054900524989534,0.42857142857142855,0.6,bentham,baseline
+5,097_186_001_01_08,"encouraged me in a hope, which however has in some respects ",0.00040308300049218815,"encouraged me for a hope , which however has in some respects",0.28054900524989534,0.06779661016949153,0.2727272727272727,bentham,baseline
+6,097_186_001_01_09,proved delusive: that I should with ease to myself and with ,0.00034633299947017804,"proved defensive . What I should , with care to myself and with",0.28054900524989534,0.1694915254237288,0.45454545454545453,bentham,baseline
+7,097_186_001_01_15,indulged! The seeds of the vexations which had so disappointed ,0.0003714579997904366,indulged . The sorts of them were colours which had so distinguished,0.28054900524989534,0.3548387096774194,0.7,bentham,baseline
+8,097_186_001_01_20,"mean not to change my system; which, be assured, from being cal- ",0.0004182500015303958,"snean next to change my system . Which , he offered , from being cut",0.32251726037497974,0.265625,0.8333333333333334,bentham,baseline
+9,097_186_001_01_23,will be a matter of no immediate concern to me; if I succeed only ,0.0004113329996471293,"well be a matter of no immediate concern to say "" if I succeed only",0.32251726037497974,0.09230769230769231,0.21428571428571427,bentham,baseline
+10,097_186_001_01_28,be prevailed upon not to overstock us with the worst description ,0.0003671670001494931,be prevailed that he created as with the word description,0.32251726037497974,0.296875,0.5454545454545454,bentham,baseline
+11,097_186_001_01_31,industrious and well disposed become a continual prey to the ,0.0003472500011412194,under-in and well disposed became a continental party to the,0.32251726037497974,0.23333333333333334,0.4,bentham,baseline
+12,096_038_003_01_08,prescribes it. ,0.00016804200095066335,foreword best .,0.32251726037497974,0.6428571428571429,1.5,bentham,baseline
+13,071_163_004_01_01,16 ,2.1124998966115527e-05,16,0.32251726037497974,0.0,0.0,bentham,baseline
+14,071_163_004_02_01,C ,2.7583000701270066e-05,c.,0.32251726037497974,2.0,1.0,bentham,baseline
+15,071_163_004_03_01,Frauds relative to the Coin. ,0.0003922500000044238,Friends relative to the COVID .,0.32251726037497974,0.2857142857142857,0.6,bentham,baseline
+16,071_163_004_04_02,On this account it comes to be the more material to ,0.00024212500102294143,On this account it comes to her two more material to,0.26036808325011407,0.0784313725490196,0.18181818181818182,bentham,baseline
+17,071_163_004_04_03,search out by a circumstantial description the several pre= ,0.0002612919997773133,search out by a circumstantial description the several few,0.26036808325011407,0.05084745762711865,0.1111111111111111,bentham,baseline
+18,071_163_004_04_11,"a greater surface; as it were, to observation ( and from ",0.0003014579997397959,"a greater surface , as it went to observationland from",0.26036808325011407,0.14285714285714285,0.5454545454545454,bentham,baseline
+19,071_163_004_04_18,are introductory. ,8.137499935401138e-05,are introductory .,0.26036808325011407,0.058823529411764705,1.0,bentham,baseline
+20,071_108_002_02_01,C ,2.1249999917927198e-05,ci,0.26036808325011407,2.0,1.0,bentham,baseline
+21,071_108_002_04_01,It will be necessary to define what shall be deemed ,0.0004104170002392493,It will be necessary to define what shall he deems,0.26036808325011407,0.058823529411764705,0.2,bentham,baseline
+22,071_108_002_04_10,=ed in the manner mentioned in the Book of Procedure. Tit. ,0.00037183399945206475,ed in the manner mentioned in the Book of Procedure . I'll,0.26036808325011407,0.10344827586206896,0.36363636363636365,bentham,baseline
+23,071_108_002_04_11,"As to foreigners, upon their coming into the country ",0.00033304199860140216,"Mr. to Foreigners , upon their coming into the country",0.26036808325011407,0.09615384615384616,0.3333333333333333,bentham,baseline
+24,071_108_002_04_12,let them be obliged to declare upon oath whether they are married ,0.00044350000098347664,Let them he obliged to declare upon oath whether they are married,0.30700995312508894,0.03076923076923077,0.16666666666666666,bentham,baseline
+25,071_108_002_04_13,"or single; and if single whether Bachelors or Spinsters, Widowers ",0.00042175000089628156,"or single , and if single whether Mughalors or Ministers , Welowers",0.30700995312508894,0.18461538461538463,0.6,bentham,baseline
+26,071_108_002_04_14,"or Widows. Of these declarations let Registers be kept, of which, ",0.00038308300099743064,"or Midours . Of these declarations let Angisters be kept , of which ,",0.30700995312508894,0.12307692307692308,0.6363636363636364,bentham,baseline
+27,071_108_002_04_15,"previous to their being married, copies should be required to be ",0.0004475839996302966,"previous to their being married , copies should be required to be",0.30700995312508894,0.015625,0.18181818181818182,bentham,baseline
+28,071_108_002_04_16,"produced. If married, certificates of the death of the Wife or ",0.00044187499952386133,"produced . If married , certificates of the death of the life or",0.30700995312508894,0.04838709677419355,0.45454545454545453,bentham,baseline
+29,071_108_002_04_18,uncertain prudence of individuals. The declarations above men= ,0.00044499999967229087,uncertain preference of individuals . The declarations above new-,0.30700995312508894,0.12903225806451613,0.5,bentham,baseline
+30,115_007_002_01_04,1st. To furnish the prisoners with a constant supply ,0.0004399999997986015,""" . Informish the prisoners with a constant supply",0.30700995312508894,0.15384615384615385,0.3333333333333333,bentham,baseline
+31,115_007_002_01_07,2nd. To keep them clad in state of lightness and ,0.00046712499897694215,a. To keep them clad in a state of light-refs and,0.30700995312508894,0.16666666666666666,0.3,bentham,baseline
+32,115_007_002_01_09,classes or even in the improved prisons. ,0.0010145419983018655,clafees or even in the improved poisons .,0.24485146875008468,0.1,0.42857142857142855,bentham,baseline
+33,115_007_002_01_10,3rd. To keep them supplyed with separate beds and ,0.0009444999996048864,# So keep them supplied with separate beds and,0.24485146875008468,0.12244897959183673,0.3333333333333333,bentham,baseline
+34,115_007_002_01_13,4th. To insure to them a sufficient supply of artificial ,0.0010168749995500548,# To ensure to them a sufficient supply of artificial,0.24485146875008468,0.08928571428571429,0.2,bentham,baseline
+35,115_007_002_01_18,weather. ,0.0001229999998031417,weather .,0.24485146875008468,0.125,2.0,bentham,baseline
+36,115_007_002_01_25,without any of those opportunities of promiscuous ,0.0006603750007343479,without any of those opportunities of promiscuous,0.24485146875008468,0.0,0.0,bentham,baseline
+37,072_069_002_01_01,C ,3.5708999348571524e-05,c.,0.24485146875008468,2.0,1.0,bentham,baseline
+38,072_069_002_03_01,Offences against Justice. ,0.0004403329985507298,Offences against the slice .,0.24485146875008468,0.24,1.0,bentham,baseline
+39,072_069_002_04_03,"any of them have failed, in that case Justice cannot ",0.0004922499992972007,"any of them hand failed , in that , even whether cannot",0.24485146875008468,0.2692307692307692,0.6,bentham,baseline
+40,072_069_002_04_04,have been properly administered. There cannot therefore ,0.000458874999822001,have been properly administered . There cannot therefore,0.2735856562499066,0.01818181818181818,0.2857142857142857,bentham,baseline
+41,072_069_002_04_11,new expedient that gives an additional chance for the ,0.00033229200016648974,new independent that gained an additional character for the,0.2735856562499066,0.24528301886792453,0.3333333333333333,bentham,baseline
+42,072_069_002_04_12,prescribes the observance of ,0.00012804200014215894,foreworkers the observance of,0.2735856562499066,0.25,0.25,bentham,baseline
+43,072_069_002_04_13,"attainment of these ends and <gap/> it accordingly, ",0.0004034590001538163,attainment of these ends and # it accordingly,0.2735856562499066,0.13725490196078433,0.25,bentham,baseline
+44,072_069_002_05_01,Note ,4.066700057592243e-05,note .,0.2735856562499066,0.75,2.0,bentham,baseline
+45,072_069_002_05_02,begins earlier. The business of a civil Judge extends to the in= ,0.0003525419997458812,legiant earlier . The business of a civil Judge extends to the,0.2735856562499066,0.125,0.3333333333333333,bentham,baseline
+46,072_069_002_05_04,were they to perform such or such acts in future such acts ,0.0003057080011785729,where they to perform much or such acts in future such acts,0.2735856562499066,0.034482758620689655,0.16666666666666666,bentham,baseline
+47,072_069_002_05_08,him. ,2.90830012090737e-05,him .,0.2735856562499066,0.25,2.0,bentham,baseline
+48,116_064_001_01_03,II Collins ,0.00014004100012243725,11 Leollins .,0.32062627612504,0.6,1.5,bentham,baseline
+49,116_064_001_02_02,"leaving behind them their spears, &c. and about 20 bushels of ",0.0003336669997224817,"Leaning behind them . Heist spears , He , and about 20 hundreds of",0.32062627612504,0.2786885245901639,0.7272727272727273,bentham,baseline
+50,116_064_001_02_06,"""the inhabitants of the different settlements, were kindly treated, ",0.00040945900036604144,"the inhabitants of the different settlements , were kindly treated ,",0.32062627612504,0.04477611940298507,0.5555555555555556,bentham,baseline
+51,116_064_001_02_11,"""had been bred among the white people, and who, from being ",0.0003267499996582046,"That been bred among the white people , and wine , from heavy",0.32062627612504,0.1896551724137931,0.5454545454545454,bentham,baseline
+52,116_064_001_02_15,"""and taken to the same savage mode of living, where the sup- ",0.00032412499967904296,"band taken to the same sense , most of living , where the self",0.32062627612504,0.21666666666666667,0.5833333333333334,bentham,baseline
+53,116_064_001_02_18,"""personal safety which they enjoyed, a young young woman, the ",0.0004085830005351454,""" personal safety which they enjoyed , a young wrong woman , the",0.32062627612504,0.09836065573770492,0.7,bentham,baseline
+54,116_064_001_02_23,"""common mode of chastising their women), and then put an end to ",0.00031687500086263753,"Consessess made of chastising their economy , and then sent an aid to",0.32062627612504,0.36507936507936506,0.5,bentham,baseline
+55,116_064_001_02_30,"""imagined that they were stimulated to this destructive conduct by ",0.0010275839995301794,""" imagined that they were disqualified to this destruction conduct by",0.32062627612504,0.16666666666666666,0.4,bentham,baseline
+56,116_064_001_02_32,"""the time of their committing these depravations. In order to get ",0.00030449999940174166,the time of their committing these representations . In order to get,0.2755996771250011,0.12307692307692308,0.2727272727272727,bentham,baseline
+57,116_064_001_02_36,"""they valued the peace and good order of the settlement, and their ",0.0003341250012454111,"They valued the peace and good order of the settlement , and their",0.2755996771250011,0.045454545454545456,0.25,bentham,baseline
+58,116_064_001_02_37,"""own security, to assist in apprehending and bringing them to ",0.0002785420001600869,""" more security , to assist in appreciableenburg and bringing them to",0.2755996771250011,0.22950819672131148,0.5,bentham,baseline
+59,035_321_001_02_02,parties whether or no Quasi-Trial shall have ,0.000668665999910445,"parties , whether or no chair's denial shall have",0.2755996771250011,0.25,0.42857142857142855,bentham,baseline
+60,035_321_001_02_03,"place: if any one says yes, he appoints day & ",0.0006725839994032867,"phana's if any one says yes , he appoints Day &",0.2755996771250011,0.15555555555555556,0.4,bentham,baseline
+61,035_321_001_02_04,"hour: earlier or ulterior time, if applied for, are ",0.0006560840010934044,"hunner , earlier or anterior times , if applied for , even",0.2755996771250011,0.27450980392156865,0.8888888888888888,bentham,baseline
+62,035_321_001_02_05,granted by him or refused: if Quasi Trial be ,0.0008225829988077749,greated by Quinn as refused : if Edward Arnold has,0.2755996771250011,0.4772727272727273,0.8888888888888888,bentham,baseline
+63,035_321_001_02_10,but unless for special and extraordinary reason as- ,0.0007012080004642485,that unlike for special and extraordinary reason of,0.2755996771250011,0.17647058823529413,0.375,bentham,baseline
+64,035_321_001_02_13,has been consumed before the suit has thus been ,0.0009465410003031138,has been consumed before the suit has thus been,0.29346230212513547,0.0,0.0,bentham,baseline
+65,035_321_001_02_14,rendered ripe for definitive decrees. ,0.0006003750004310859,hard and rifles for definitive devices .,0.29346230212513547,0.35135135135135137,1.0,bentham,baseline
+66,035_321_001_02_20,"gued and considered, the question of law. ",0.0007426659994962392,"gina and considered , the question of law .",0.29346230212513547,0.12195121951219512,0.7142857142857143,bentham,baseline
+67,035_321_001_02_22,which a hearing before a Quasi Jury has place ,0.0007792079995851964,which is becoming leftover Ontario fury has place,0.29346230212513547,0.37777777777777777,0.6666666666666666,bentham,baseline
+68,035_321_001_02_23,are those on which Appeal for Quasi misdecision ,0.0007824170006642817,new those on which Appeal for Chinese mindacion,0.29346230212513547,0.2765957446808511,0.375,bentham,baseline
+69,072_167_002_04_03,[(D) Uneasiness] It matters not how slight the contact + is by ,0.0004164160000073025,( I'll maximize I all matters not have slight the frontset # by,0.29346230212513547,0.46774193548387094,0.75,bentham,baseline
+70,072_167_002_04_05,be sufficient to produce uneasiness in a man if it be against his ,0.00037037499896541703,her sufficient to produce a renaissance in a man if it has against his,0.29346230212513547,0.23076923076923078,0.3076923076923077,bentham,baseline
+71,072_167_002_04_06,(E) Farther ,3.4583001252030954e-05,# altogether .,0.29346230212513547,0.9090909090909091,1.5,bentham,baseline
+72,072_167_002_05_03, 1. For the cases in which a man may happen to be con= ,0.00027004099865735043,to . For the cases in which a man may happen to be can -,0.2983798177499466,0.11320754716981132,0.3076923076923077,bentham,baseline
+73,072_167_002_05_06,":sive, or unwholesome, occupations. See ",0.00017008299982990138,"river , or unwholesome , occupations . See",0.2983798177499466,0.15384615384615385,1.2,bentham,baseline
+74,116_406_001_01_13,30. _ A Barrister and sufficient number of Atornies ,0.0007815409990143962,30. A Barrister and sufficient number ofatories,0.2983798177499466,0.09803921568627451,0.3333333333333333,bentham,baseline
+75,116_406_001_01_15,criminal cases; and to conduct indictments for ,0.0005360420000215527,criminal cases ; and to conduct indictments for,0.2983798177499466,0.021739130434782608,0.2857142857142857,bentham,baseline
+76,116_406_001_01_23,"fines, or temporary confinement, should be permitted ",0.0007967500005179318,"fines , or temporary confinement , should be permitted",0.2983798177499466,0.038461538461538464,0.5714285714285714,bentham,baseline
+77,116_406_001_01_26,"32. _ Executions are of no utility, either for punishing ",0.0010420420003356412,"32 .locountions are of no utility , either for punishing",0.2983798177499466,0.16071428571428573,0.5,bentham,baseline
+78,115_080_003_02_01,"the whole produce and profit of their labour, and the ",0.00043820799874083605,"the whole produce and profits of their Labour , and the",0.2983798177499466,0.05660377358490566,0.3,bentham,baseline
+79,115_080_003_02_08,-ved to the choice of the said Jeremy Bentham and ,0.00040087500019581057,used to the choice of the said Jeremy Danthan was,0.2983798177499466,0.16326530612244897,0.3,bentham,baseline
+80,115_080_003_02_11,their hands to labour. ,0.00017262499932257924,their hands to labour .,0.2629934583751492,0.045454545454545456,0.5,bentham,baseline
+81,115_080_003_02_21,clean sheeting or blanketing being supplied to each ,0.0005538329987757606,clean shutting or blanketing being supplies to each,0.2629934583751492,0.058823529411764705,0.25,bentham,baseline
+82,115_080_003_02_24,and in ever part thereof be sufficiently warmed & ,0.0004504169992287643,and in every part thereof he sufficiently warned &,0.2629934583751492,0.061224489795918366,0.3333333333333333,bentham,baseline
+83,115_080_003_02_25,lighted. ,6.620899875997566e-05,laughter .,0.2629934583751492,0.5,2.0,bentham,baseline
+84,115_080_003_02_26,Art.11. No prisoner shall be suffered to have access ,0.0003997920011897804,that . If . No prisoner shall be suffered to have angles,0.2629934583751492,0.23076923076923078,0.5555555555555556,bentham,baseline
+85,071_021_002_02_01,G ,4.020799860882107e-05,cr,0.2629934583751492,2.0,1.0,bentham,baseline
+86,071_021_002_04_03,the ,2.6541998522588983e-05,the,0.2629934583751492,0.0,0.0,bentham,baseline
+87,071_021_002_04_04,regards the matter of fact or the matter of law. It regards ,0.00044058300045435317,regends the matter of fact or smaller of laws . It regards,0.2629934583751492,0.1694915254237288,0.4166666666666667,bentham,baseline
+88,071_021_002_04_09,"to do you such damage, whereas in truth he had a ",0.0005536249991564546,"to do you such damage , whereas in truth he had a",0.26047296875003667,0.020833333333333332,0.18181818181818182,bentham,baseline
+89,071_021_002_04_10,General Extenuation ,0.00011791700126195792,General explanation .,0.26047296875003667,0.3684210526315789,1.0,bentham,baseline
+90,071_021_002_04_12,[(B1 Injury] It matters not to whom the injury in ques= ,0.0004337499995017424,""" Injury all matters not to whom the injury in guests",0.26047296875003667,0.2,0.36363636363636365,bentham,baseline
+91,071_021_002_04_18,4. Even to the party himself by whom the provocation is ,0.00040350000017497223,A. Even to the party himself by whom the provocation is,0.26047296875003667,0.01818181818181818,0.09090909090909091,bentham,baseline
+92,071_021_002_04_19,given: for every man ought to be dear to every man. ,0.0004277909993106732,given : for every man ought to be down to every mass .,0.26047296875003667,0.13725490196078433,0.45454545454545453,bentham,baseline
+93,071_021_002_04_20,Accordingly if you think you observe any person giving ,0.0004463340010261163,Accordingly if you think you observes every person giving,0.26047296875003667,0.09259259259259259,0.2222222222222222,bentham,baseline
+94,071_021_002_04_22,"you to think of his behaviour, are provoked to strike ",0.000405624999984866,"you to think of his behaviour , are provoked to strike",0.26047296875003667,0.018867924528301886,0.2,bentham,baseline
+95,115_070_002_02_03,"persons intitled to take out Administration to, the personal ",0.0003231669998058351,"persons intitled to take out Administration to , the personal",0.26047296875003667,0.016666666666666666,0.2222222222222222,bentham,baseline
+96,115_070_002_02_06,for the value of the said Buildings and other irremoveable ,0.0003594579993659863,for the value of the mid Buildings and other circumveable,0.30697394274989165,0.10344827586206896,0.2,bentham,baseline
+97,115_070_002_02_09,-ing thereon and occupied therewith : And in default of such ,0.00038020799911464565,ing thereon and occupied there with : And in default of such,0.30697394274989165,0.03333333333333333,0.2727272727272727,bentham,baseline
+98,115_070_002_02_11,shall remain and continue in such legal representatives or ,0.0002875420013879193,shall remain and continue in such legal representatives or,0.30697394274989165,0.0,0.0,bentham,baseline
+99,115_070_002_02_14,"made or to have been made to such Survivor , for or on account ",0.000324333999742521,"made or to have been made to suchdriver , for or on acesmit",0.30697394274989165,0.14516129032258066,0.21428571428571427,bentham,baseline
+100,115_070_002_02_15,"of the maintenance of the said Establishment , shall during the ",0.00034004199915216304,"of the maintenance of the said establishment , shall during the",0.30697394274989165,0.015873015873015872,0.09090909090909091,bentham,baseline
+101,115_070_002_02_16,same period continue to be made unto the person or persons ,0.0003459999988990603,some period continue to be made into the person or persons,0.30697394274989165,0.034482758620689655,0.18181818181818182,bentham,baseline
+102,115_070_002_02_22,an umpire. ,5.4583999371971004e-05,an umpire .,0.30697394274989165,0.1,1.0,bentham,baseline
+103,115_077_002_01_01,9 ,1.712500124995131e-05,ailey,0.30697394274989165,5.0,1.0,bentham,baseline
+104,115_077_002_02_01,and building one or more Penitentiary House or Houses ,0.0004882080011157086,and building one or more . Penitentiary House or Houses,0.244977687500068,0.03773584905660377,0.1111111111111111,bentham,baseline
+105,115_077_002_02_02,upon the said Ground in such manner and under ,0.00034791600046446547,upon the said Ground in such manner and under,0.244977687500068,0.0,0.0,bentham,baseline
+106,115_077_002_02_03,"and for such considerations, terms, conditions, powers, ",0.00037616599911416415,"and for such considerations , terms , conditions , powers ,",0.244977687500068,0.07272727272727272,1.1428571428571428,bentham,baseline
+107,115_077_002_02_04,limitations and restrictions as the said Commissioners ,0.00039354200089292135,limulations and restrictions as the said bormfighters,0.244977687500068,0.18518518518518517,0.2857142857142857,bentham,baseline
+108,115_077_002_02_06,to be inserted in such Contract or Contracts such law- ,0.0003190829993400257,to be inserted in such Contract or Contracts such law-,0.244977687500068,0.0,0.0,bentham,baseline
+109,115_077_002_02_07,"-ful clauses, covenants and agreements, as shall be re- ",0.00043266700049571227,"ful clauses , evenants and agreements , as shall be re",0.244977687500068,0.10909090909090909,0.7777777777777778,bentham,baseline
+110,115_077_002_02_08,-quisite to enforce the execution of the same according- ,0.0004068340003868798,pliable to enforce the execution of the same according,0.244977687500068,0.125,0.2222222222222222,bentham,baseline
+111,115_077_002_02_11,Piece of Ground has been fixed upon accordingly and ,0.00046983399988675956,lace of ground has been fixed upon accordingly and,0.244977687500068,0.0784313725490196,0.2222222222222222,bentham,baseline
+112,115_077_002_02_12,the said Jeremy Bentham appointed sole Feoffee for ,0.0005741250006394694,the said Jeremy Bentham appointed sole degree for,0.3024809427499804,0.08,0.125,bentham,baseline
+113,115_077_002_02_17,to erect and adapt to the purpose aforesaid a build- ,0.0003638340003817575,to crack and adapt to the purpose aforesaid a build -,0.3024809427499804,0.07692307692307693,0.3,bentham,baseline
+114,115_077_002_02_22,Jeremy Bentham under the name of a Panopticon ,0.0004607499995472608,Jeremy Bentham under the name of a Pangplain,0.3024809427499804,0.1111111111111111,0.125,bentham,baseline
+115,115_077_002_02_26,-spection of any person or number of persons in ,0.00044970800081500784,flection of any person or number of persons in,0.3024809427499804,0.06382978723404255,0.1111111111111111,bentham,baseline
+116,115_077_002_02_27,charge ,4.2875000872300006e-05,change .,0.3024809427499804,0.5,2.0,bentham,baseline
+117,115_111_004_02_01,"extension of the Colony Plan, or adoption of some ",0.00035062499955529347,"entention of the colony . Alan , or exception of some",0.3024809427499804,0.22448979591836735,0.6666666666666666,bentham,baseline
+118,115_111_004_02_09,"out of the question, or rather that it was perfectly ",0.0003543330003594747,"out of the question , or rather that it was perfectly",0.3024809427499804,0.019230769230769232,0.2,bentham,baseline
+119,115_111_004_02_11,"Mr Bentham was, for months together, with the ",0.0003248329994676169,""" Mr. Brenthouse was , for merstler together , with the",0.3024809427499804,0.35555555555555557,1.0,bentham,baseline
+120,115_111_004_02_12,privit of Government and at the recommendation of ,0.0004955840013280977,"priority of Government , and at the recommendation of",0.25181713025017416,0.10204081632653061,0.25,bentham,baseline
+121,115_111_004_02_14,Proprietors for the purchase of the Land: Government ,0.0014000000010128133,Depricions for the purchase of the Land-Government,0.25181713025017416,0.15384615384615385,0.375,bentham,baseline
+122,115_111_004_02_17,-prietors not complying; an Act of Parliament for ,0.000604666998697212,priators set complying ; and itt of Parliament for,0.25181713025017416,0.16326530612244897,0.75,bentham,baseline
+123,115_111_004_02_18,this and other purposes was thought necessary: and ,0.00041679199966893066,this acid other purposes was thought mereditary : and,0.25181713025017416,0.16,0.375,bentham,baseline
+124,115_111_004_02_19,"upon that occasion it was, that it was notified to ",0.00044016699939675163,"upon that occasion it was , that it was solelyed to",0.25181713025017416,0.12,0.3,bentham,baseline
+125,115_111_004_02_23,but that due satisfaction should be made to Mr ,0.00039870900036476087,but that the satisfaction should be made to . Mr.,0.25181713025017416,0.10869565217391304,0.3333333333333333,bentham,baseline
+126,115_111_004_02_24,Bentham and his Representatives. No reason was ,0.0006227080011740327,Bentham and his Representatives . No reason was,0.25181713025017416,0.021739130434782608,0.2857142857142857,bentham,baseline
+127,115_111_004_02_27,upon ,2.8417000066838227e-05,offics .,0.25181713025017416,2.0,2.0,bentham,baseline
+128,072_050_003_04_10,mankind in general . The least therefore which is expected ,0.0004153749996476108,mankind in general . The least therefore which is expected,0.2629865521250849,0.0,0.0,bentham,baseline
+129,072_050_003_04_11,from the State of which the Pirate is a member is that ,0.00042841599861276336,From the state of which the Senate is a member is that,0.2629865521250849,0.09259259259259259,0.25,bentham,baseline
+130,072_050_003_04_18,particularly with regard to accomplices ; because their ,0.00047016600001370534,particularly with regard to accomplices ; because there,0.2629865521250849,0.03636363636363636,0.125,bentham,baseline
+131,072_050_003_04_20,while ,4.174999958195258e-05,while,0.2629865521250849,0.0,0.0,bentham,baseline
+132,072_050_003_04_21,:nions of a particular state which his excursions are ,0.0004162090008321684,pinions of a particular plate-switch his excursions were,0.2629865521250849,0.18867924528301888,0.4444444444444444,bentham,baseline
+133,115_009_002_02_02,as follows_ ,0.00011758400069084018,as follows .,0.2629865521250849,0.18181818181818182,1.0,bentham,baseline
+134,115_009_002_02_05,-dequate  to each man's desires. ,0.0002772919997369172,desquate to each man's desires .,0.2629865521250849,0.0967741935483871,0.6,bentham,baseline
+135,115_009_002_02_07,"-ness, superior to what is usual among the lower clas- ",0.0005614999990939396,""" nefer , superior to what is usual among the lower class",0.2629865521250849,0.12962962962962962,0.4,bentham,baseline
+136,115_009_002_02_10,"bedding, competent to their situation, and in a state ",0.0005254580009932397,"bedding , competent to their situation , and in a state",0.24538740100001633,0.03773584905660377,0.4444444444444444,bentham,baseline
+137,115_009_002_02_12,4th To insure to them a sufficient supply of artificial ,0.0004712919999292353,""" I'm to increase to them a sufficient supply of artificial",0.24538740100001633,0.2,0.4,bentham,baseline
+138,115_009_002_02_19,"practice so happily received, every kind of strong & ",0.0004937920002703322,"practice so happily received , every kind of strong #",0.24538740100001633,0.038461538461538464,0.3333333333333333,bentham,baseline
+139,115_009_002_02_23,"though mitigated seclusion, in small assorted com- ",0.0005014580001443392,"though integrated seduction , in small assorted com-",0.24538740100001633,0.18,0.42857142857142855,bentham,baseline
+140,115_009_002_02_27,have been expected from solitude. ,0.0003950000009353971,have been expected from solitude .,0.24538740100001633,0.030303030303030304,0.4,bentham,baseline
+141,073_068_001_03_02,yet themselves reducible to some one or other of ,0.00045495800077333115,yet themselves a terrible to some one or other of,0.24538740100001633,0.125,0.2222222222222222,bentham,baseline
+142,073_068_001_03_07,Consciousness might by infer'd with equal ,0.00035708399991563056,Consciousments might be infers with equal,0.24538740100001633,0.14634146341463414,0.5,bentham,baseline
+143,073_068_001_03_08,Satisfaction & Certainty from any of the respective ,0.0004692920010711532, Satisfaction to Certainty from any of the respective,0.24538740100001633,0.0392156862745098,0.125,bentham,baseline
+144,073_068_001_03_11,Establishment of them as the Subjects of distinct ,0.00044366600013745483,Establishment of them as the Subjects of distinct,0.30691701562500384,0.0,0.0,bentham,baseline
+145,073_068_001_03_16,"so clear, as that the Jury could concur in affirming ",0.0005258330002106959,"to clear , as that the jury could concur in affirming",0.30691701562500384,0.057692307692307696,0.4,bentham,baseline
+146,073_068_001_03_18,that of the others: hence if the Interrogatories ,0.00055495900051028,-ing that of the others . Hence if the Interrogatories,0.30691701562500384,0.16666666666666666,0.5,bentham,baseline
+147,116_387_001_01_06,"Mr Bentham, is intended to accommodate. I have ",0.0004256669999449514,"Mr. B.emlasm , is intended to accommodate them",0.30691701562500384,0.2826086956521739,0.75,bentham,baseline
+148,116_387_001_01_07,examined the Acts of the 19th & 34th of his present ,0.0007580830006190808,"accompanied the State of the 1900s. "" 3/2 "" if this presents",0.30691701562500384,0.45098039215686275,0.8181818181818182,bentham,baseline
+149,116_387_001_01_08,"Majesty, relative to the building of Penitentiary Houses ",0.0005470410014822846,"diapesty , valatore to the building of Christianity Africans",0.30691701562500384,0.42857142857142855,0.625,bentham,baseline
+150,116_387_001_01_12,such Penitentiary Houses should be used principally ,0.00046295899846882094,"much Questionatory issues , should be used primarily",0.30691701562500384,0.43137254901960786,0.7142857142857143,bentham,baseline
+151,116_387_001_01_21,"though it may increase, yet the increase of live ",0.0004090830007044133,"through it may increase , yet the increase of them",0.30691701562500384,0.125,0.4444444444444444,bentham,baseline
+152,116_387_001_01_22,Stock use will probably more than counter balance the ,0.0003365419997862773,"which we will # virtually # more than "" country balances the",0.29128790100003243,0.37735849056603776,0.8888888888888888,bentham,baseline
+153,116_387_001_01_24,will probably more than counterbalance the difference. ,0.0005496659996424569,will probably more than comfortable issues . Her differences,0.29128790100003243,0.3333333333333333,0.7142857142857143,bentham,baseline
+154,116_072_001_02_08,"""settlers and others were informed, that when any individual should ",0.00030416700064961333,"settlers and there were informed , that whom any individual should",0.29128790100003243,0.08955223880597014,0.5,bentham,baseline
+155,116_072_001_02_10,"""store, they might make the same known to the commissary, ",0.00031837499955145177,"Flore , they might make the same knows to the corresponding",0.29128790100003243,0.2631578947368421,0.4,bentham,baseline
+156,116_072_001_02_14,"""enter into an agreement or contract for a certain length of time, ",0.0002970420009660302,""" under into an agreement or contracts for a certain length of time ,",0.29128790100003243,0.07575757575757576,0.4166666666666667,bentham,baseline
+157,116_072_001_02_15,"""and on such conditions as should be agreed, with any person who ",0.00025908400129992515,""" and on such conditions as should be agreed , with any person who",0.29128790100003243,0.03125,0.3333333333333333,bentham,baseline
+158,116_072_001_02_23,"P. 196. January 1799. ""Wheat at this time bore a high price ",0.00032604199986963067,"people . January 1999 . "" Wheat at this time , here a highly praise",0.29128790100003243,0.3050847457627119,0.8333333333333334,bentham,baseline
+159,116_072_001_02_26,"""bushel."" ",4.9084001148003154e-05,"basketball . """,0.29128790100003243,1.0,3.0,bentham,baseline
+160,072_049_002_01_01,C ,4.470899875741452e-05,c.i,0.2652117343750433,3.0,1.0,bentham,baseline
+161,072_049_002_04_06,"offences against property, offences against reputation, and ",0.0008199170006264467,"Hences against property , officers against reputation , and",0.2652117343750433,0.13559322033898305,0.8571428571428571,bentham,baseline
+162,072_049_002_04_09,within the dominions of a third state it is from such third ,0.00044283399984124117,within the dominions of a third states it is from each third,0.2652117343750433,0.05084745762711865,0.16666666666666666,bentham,baseline
+163,072_049_002_04_19,of a fellow member; it will hardly expect more. ,0.0005387919991335366,"of a follow-members , it will hardly expect more .",0.2652117343750433,0.1276595744680851,0.4444444444444444,bentham,baseline
+164,072_049_002_04_22,:ber will naturally be that to which the injured state ,0.0007863329992687795,has well naturally be that to which the ingredients,0.2652117343750433,0.2222222222222222,0.4,bentham,baseline
+165,071_022_003_01_01,23. ,4.24169993493706e-05,hit .,0.2652117343750433,1.3333333333333333,2.0,bentham,baseline
+166,071_022_003_02_01,C ,4.004199945484288e-05,c.,0.2652117343750433,2.0,1.0,bentham,baseline
+167,071_022_003_04_02,the circumstances at his leisure could or could not have ,0.00042379200021969154,the circumstances at his leisure could or could not have,0.2652117343750433,0.0,0.0,bentham,baseline
+168,071_022_003_04_05,the time. ,0.00011825000001408625,the time .,0.30389902599995366,0.1111111111111111,1.0,bentham,baseline
+169,071_022_003_04_14,":with to kill him or hurt him more than was necessary, it ",0.0004113329996471293,"health to kill him or hunt him more than was regularly , it",0.30389902599995366,0.21052631578947367,0.3333333333333333,bentham,baseline
+170,071_022_003_04_15,shall still be accounted justifiable self-defence ,0.0003325419984321343,shall still he accounted justifiable self-defence,0.30389902599995366,0.02040816326530612,0.16666666666666666,bentham,baseline
+171,071_022_003_04_16,[(B) Uncertain efficacy] As if in the case just mentioned it hap= ,0.0004972500009898795,# Macmillain efficacy ? As if in the case just mentioned it happy,0.30389902599995366,0.2153846153846154,0.4166666666666667,bentham,baseline
+172,071_022_003_04_18,:much that it would have been doubtful whether with the less ,0.0005238329995336244,""" A smooth that it would have been doubtful whether with the light",0.30389902599995366,0.2,0.36363636363636365,bentham,baseline
+173,071_022_003_04_19,"powerful weapon of the two, you could have effectually defend= ",0.0005646250010613585,""" Powerful weapon of the two , you could have officially defended",0.30389902599995366,0.16129032258064516,0.6,bentham,baseline
+174,073_002_002_01_02,to this Lawyer ,8.479200005240273e-05,to this lawyers,0.30389902599995366,0.14285714285714285,0.3333333333333333,bentham,baseline
+175,073_002_002_01_03,"ing four Guineas for four Volumes of his Truths, ",0.0004981250003766036,ing four businesses for four volumes of his books,0.30389902599995366,0.25,0.3333333333333333,bentham,baseline
+176,073_002_002_01_05,self- ,4.479099879972637e-05,jelfa,0.2528246302501884,0.4,1.0,bentham,baseline
+177,073_002_002_01_06,"may want, will his be all of the same sort? ",0.0005206250007177005,"many meant , said this he told the blame about",0.2528246302501884,0.4883720930232558,0.9,bentham,baseline
+178,073_002_002_01_11,frequently covenants with her Friends to allow ,0.00036537499909172766,frequently governments with her friends to allow,0.2528246302501884,0.10869565217391304,0.2857142857142857,bentham,baseline
+179,073_002_002_01_13,"the Author I may also see, that ""if she has ",0.0005167500003153691,"the American Library also see , that if what has",0.2528246302501884,0.3953488372093023,0.7,bentham,baseline
+180,073_002_002_01_19,"general Words to assure, me that she cannot have, ",0.0005808749992866069,"general funds to acquire , more that she cannot have",0.2528246302501884,0.20408163265306123,0.5555555555555556,bentham,baseline
+181,073_002_002_01_20,such and such Consequences will follow. But ,0.0003685410010803025,such and such consequences will follow . But,0.2528246302501884,0.046511627906976744,0.42857142857142855,bentham,baseline
+182,073_002_002_01_21,is not a Man to be put into Possession of the Law ,0.0004420419991220115,is not a man to be sent into Opposition of the Law,0.2528246302501884,0.22448979591836735,0.25,bentham,baseline
+183,035_327_001_02_05,may happen that in the eyes of the Legislature the ,0.0007594159997097449,may happen that in the ages of the legislature the,0.2528246302501884,0.06,0.2,bentham,baseline
+184,035_327_001_02_11,case it may perhaps be deemed fit by the Le- ,0.0008005830004549352,case it may perhaps he seemed fit by the idea .,0.2629540624998299,0.1590909090909091,0.4,bentham,baseline
+185,035_327_001_02_12,"-gislature, in the framing of the Penal Code, to ",0.0008261670009233057,"gislative , in the framing of the Penal Code , to",0.2629540624998299,0.10416666666666667,0.4444444444444444,bentham,baseline
+186,035_327_001_02_13,"lay down as the general rule, that in these easy ",0.000676042000122834,"long down as the general rule , that in these cases",0.2629540624998299,0.14583333333333334,0.4,bentham,baseline
+187,035_327_001_02_16,appellation which may serve for a general indication ,0.0007099590002326295,appellation which may serve for a general education,0.2629540624998299,0.057692307692307696,0.125,bentham,baseline
+188,035_327_001_02_19,Quasi Trial ,0.0001440839987481013,Annensi Social,0.2629540624998299,0.7272727272727273,1.0,bentham,baseline
+189,035_327_001_02_20,"Art. 12. Among two circumstances, by the consider- ",0.0005674160001944983,"that . 12 . Among these circumstances , by the murder .",0.2629540624998299,0.34,1.125,bentham,baseline
+190,035_327_001_02_21,"-ation of which, this opinion may on the part of the ",0.0005818749996251427,"ations of which , this opinion may on the point of the",0.2629540624998299,0.11538461538461539,0.36363636363636365,bentham,baseline
+191,035_327_001_02_22,Legislature be perhaps produced are the following ,0.0007383339998341398,legislature he perhaps produced over the following,0.2629540624998299,0.10204081632653061,0.42857142857142855,bentham,baseline
+192,035_327_001_02_23,1 ,4.137500036449637e-05,1,0.3108749687501131,0.0,0.0,bentham,baseline
+193,002_579_001_02_07,way as that in question in the former case as in the latter. ,0.0006713750008202624,way as that in question is the former case as in the letter .,0.3108749687501131,0.05,0.23076923076923078,bentham,baseline
+194,071_181_004_03_01,Of Frauds relative to the Coin. ,0.0004118329998163972,Of Fraudds relatives to their Poppes .,0.3108749687501131,0.3225806451612903,0.8333333333333334,bentham,baseline
+195,071_181_004_04_03,Reasons. ,8.633300058136228e-05,reasons .,0.3108749687501131,0.25,2.0,bentham,baseline
+196,071_181_004_04_11,here is that the mischief is not to be estimated from the ef= ,0.0003232500002923189,here is that the unischief is not to be estimated from the af-,0.3108749687501131,0.06557377049180328,0.15384615384615385,bentham,baseline
+197,071_181_004_04_13,when the Habit is taken into the Account the one practice ,0.0002268329990329221,when the stalit is taken into the descent the ones practice,0.3108749687501131,0.15789473684210525,0.2727272727272727,bentham,baseline
+198,071_181_004_04_14,does not seem to demand in any considerable degree a great= ,0.0002875419995689299,does not seem to demand in any considerable degree a great,0.3108749687501131,0.01694915254237288,0.09090909090909091,bentham,baseline
+199,071_181_004_04_15,:er punishment than the other. Where the profit upon a ,0.00024987500000861473,for punishment than the other . Where they profit upon a,0.3108749687501131,0.07407407407407407,0.4,bentham,baseline
+200,071_181_004_04_19,upon ,4.1291999878012575e-05,exppons .,0.3081635364999329,1.5,2.0,bentham,baseline
+201,071_151_003_04_03,which the several articles happen to be in use. Mean while any ,0.0003333330005261814,which the general articles happen to the in use . Mean while any,0.3081635364999329,0.08064516129032258,0.3333333333333333,bentham,baseline
+202,071_151_003_04_04,frauds that can be committed in relation to any of those articles ,0.00030266599969763774,funded that can be committed in relation to any of those articles,0.3081635364999329,0.07692307692307693,0.08333333333333333,bentham,baseline
+203,071_151_003_04_10,:pose and in every convenient place is the business of the Sove: ,0.0003509999987727497,power and in every convenient place is the business of the show .,0.3081635364999329,0.125,0.25,bentham,baseline
+204,071_151_003_04_11,:reign. To give these institutions their full effect and render the ,0.0003723339996213326,reign . To give these institutions their full effect and under the,0.3081635364999329,0.05970149253731343,0.2727272727272727,bentham,baseline
+205,071_151_003_04_12,occasions of punishing the offence less frequent the following ,0.00032920800003921613,occasions of punishing the offence life frequent the following,0.3081635364999329,0.04838709677419355,0.1111111111111111,bentham,baseline
+206,071_151_003_04_20,III. To cause frequent visitations to be made by certain offi: ,0.00029025000003457535,1952 . To cause frequent institutions take made by certain offer .,0.3081635364999329,0.25806451612903225,0.6363636363636364,bentham,baseline
+207,071_201_003_04_01,of distant danger: nor whether by fear of danger to his per= ,0.0003090409991273191,of dictatorial charges : more whether he flew a clear degree to his poor .,0.3081635364999329,0.55,0.9166666666666666,bentham,baseline
+208,071_201_003_04_07,in concert. ,6.320800093817525e-05,in concert .,0.2764173124999161,0.09090909090909091,1.0,bentham,baseline
+209,071_201_003_04_09,"tumult which are committed on the same occasion, or not ",0.0002372920007474022,"limit which are committed on the same occasion , or not",0.2764173124999161,0.09090909090909091,0.3,bentham,baseline
+210,071_201_003_04_13,Reasons. ,5.666700053552631e-05,theasonal .,0.2764173124999161,0.625,2.0,bentham,baseline
+211,071_201_003_04_15,"same tumult to sit a watch upon each other, and do what ",0.00021595799989881925,"same turned to oil a coach upon each other , and does not",0.2764173124999161,0.2727272727272727,0.5833333333333334,bentham,baseline
+212,071_201_003_04_16,is in their power to moderate each others violence. By this ,0.0003022499986400362,is in this manner to modernials each other's violence . Why that,0.2764173124999161,0.2711864406779661,0.7272727272727273,bentham,baseline
+213,071_201_003_04_17,means it is subservient to the purpose of prevention. ,0.0002477910002198769,means it is subsequent to the transfer of haementies .,0.2764173124999161,0.2830188679245283,0.4444444444444444,bentham,baseline
+214,071_201_003_04_18,2. It also gives a much better chance to parties injured ,0.000298708000627812,2 . It also gives a much better chance to parties injured,0.2764173124999161,0.017857142857142856,0.18181818181818182,bentham,baseline
+215,071_201_003_04_19,of obtaining compleat compensation than they would other= ,0.0002944999996543629,of obtaining excellent compensation than they would them .,0.2764173124999161,0.17543859649122806,0.375,bentham,baseline
+216,071_201_003_04_20,:wise have: and making the damage fall upon the au= ,0.0003249159999541007,"review house , and making the damage full upon the sum-",0.2617746979999538,0.27450980392156865,0.5,bentham,baseline
+217,116_633_002_01_01,44 ,3.2500000088475645e-05,lolly,0.2617746979999538,2.5,1.0,bentham,baseline
+218,116_633_002_02_01,few drops from it to save this worthy gentleman. ,0.0003779580001719296,grew drops from it to save this worthy gentlemen .,0.2617746979999538,0.08333333333333333,0.3333333333333333,bentham,baseline
+219,116_633_002_02_02,If it be in the power of virtue to give a claim to ,0.0004019999996671686,this be in the power of virtue to give a clean to,0.2617746979999538,0.14,0.23076923076923078,bentham,baseline
+220,116_633_002_02_06,"Speak to him then, my Lord, once more: _ ",0.0002491249997547129,"break to him . Now , anybody once more :",0.2617746979999538,0.4,0.7777777777777778,bentham,baseline
+221,116_633_002_02_07,say to him any thing that will make him easy. ,0.00039362500137940515,say to him any thing that will make him easy .,0.2617746979999538,0.022222222222222223,0.2,bentham,baseline
+222,116_633_002_02_09,circumstances: _ whisper to him that all this Ma- ,0.00024670800121384673,circumstances : - whisper to know that all this other,0.2617746979999538,0.22448979591836735,0.5555555555555556,bentham,baseline
+223,116_633_002_02_12,can be a matter of more profound indifference to ,0.00029533399901993107,can be a matter of more profound indifference to,0.2617746979999538,0.0,0.0,bentham,baseline
+224,116_633_002_02_19,"or unimproved, be ever given to Noble Lords, whose ",0.0003706250008690404,"is unengineered , he ever given to the bladder , whose",0.3071321822499158,0.44,0.7777777777777778,bentham,baseline
+225,116_633_002_02_21,"fatal to Acts of Parliament: _ assure him, that neither ",0.00038624999979219865,"fatal to their q Parliament ? - ignore him , that neither",0.3071321822499158,0.2727272727272727,0.8,bentham,baseline
+226,116_633_002_02_22,"by the great person, nor by any other, is the purse ",0.0003787909990933258,"by the one great person , nor by any other , is the person",0.3071321822499158,0.17647058823529413,0.5454545454545454,bentham,baseline
+227,116_633_002_02_24,"a particular purpose, and to oblige a friend: certify ",0.00034454200067557395,"a particular purpose , and to obligo a friend : certify",0.3071321822499158,0.05660377358490566,0.5555555555555556,bentham,baseline
+228,071_030_001_03_01,Of Irreparable Personal Injuries ,0.0004943750009260839,Offshoreparable Personal Injuries .,0.3071321822499158,0.1875,0.75,bentham,baseline
+229,071_030_001_04_02,Irreparable Personal Injuries are either 1. Irre= ,0.0001871250005933689,"Amphanauble Personalencies are either 10-free ,",0.3071321822499158,0.3673469387755102,0.7142857142857143,bentham,baseline
+230,071_030_001_04_14,"[A Shape] As if his nose or ears or lips be split, or ",0.00032937499963736627,""" Thatself all of his sense or ears or light has well , or",0.3071321822499158,0.4528301886792453,0.6923076923076923,bentham,baseline
+231,071_030_001_04_18,2 ,1.7833001038525254e-05,2,0.3071321822499158,0.0,0.0,bentham,baseline
+232,071_030_001_04_24,III ,4.333400102041196e-05,clack back .,0.2992829427498691,4.0,3.0,bentham,baseline
+233,071_030_001_04_25,(A) ,2.4791001123958267e-05,pick up,0.2992829427498691,2.3333333333333335,2.0,bentham,baseline
+234,073_083_001_03_01,Where the quantity of damage which was intended is the ,0.0004714169990620576,Where the quantity of damage which was intended is the,0.2992829427498691,0.0,0.0,bentham,baseline
+235,073_083_001_03_02,"very quantity which eventually ensues, the act may be said ",0.0004636670000763843,every quantity which eventually comes the act may bound,0.2992829427498691,0.1896551724137931,0.4,bentham,baseline
+236,073_083_001_03_04,"-quences; when not so much, inadequately; when more, ",0.00039812500108382665,"quences , when not so much , inadequately ; when more ,",0.2992829427498691,0.11538461538461539,1.0,bentham,baseline
+237,073_083_001_03_05,more than adequately ,0.00013137499990989454,more than adequately,0.2992829427498691,0.0,0.0,bentham,baseline
+238,073_083_001_03_07,whose leg you have broken. If ,0.00018241699945065193,where leg you have broken . If,0.2992829427498691,0.10344827586206896,0.5,bentham,baseline
+239,073_083_001_03_11,"that he might be obliged to have his fore-arm cut off, and the ",0.00042729100096039474,"that he might be obliged to have his far arm cut of , and the",0.2992829427498691,0.06451612903225806,0.3076923076923077,bentham,baseline
+240,073_083_001_03_14,"would suffer from the loss of a fore-arm, in either of these ",0.0005973750012344681,"would suffer from the life of a forearm , in either of these",0.2975458281250667,0.08333333333333333,0.25,bentham,baseline
+241,073_083_001_03_17,If your intention was only to hurt him in the fore- ,0.0008679589991515968,Afghanization was only to hunt him in the free,0.2975458281250667,0.27450980392156865,0.45454545454545453,bentham,baseline
+242,073_083_001_03_19,e ,3.254200055380352e-05,2 .,0.2975458281250667,3.0,2.0,bentham,baseline
+243,073_083_001_03_22,was- ,5.837500066263601e-05,neave .,0.2975458281250667,1.5,2.0,bentham,baseline
+244,116_286_002_02_06,"injustice. On the former supposition, arrangements would have been ",0.00043779099905805197,"justice . On the former supposition , arrangements would have been",0.2975458281250667,0.06060606060606061,0.4444444444444444,bentham,baseline
+245,116_286_002_02_13,obstacle might till then have been opposed as such to his escape. ,0.0003164999998261919,"tetrack , might tell them have been opposed as such to his escape",0.2975458281250667,0.15384615384615385,0.4166666666666667,bentham,baseline
+246,116_286_002_02_14,Whatever had been the term of punishment fixed by each man's ,0.0003533340004651109,Whatever had been the term of punishment fired by each man's,0.2975458281250667,0.016666666666666666,0.09090909090909091,bentham,baseline
+247,116_286_002_02_24,rendering it neither more nor less easy than under the old ,0.000308832999508013,scuddering it another more more life easy them wonder the old,0.2975458281250667,0.27586206896551724,0.5454545454545454,bentham,baseline
+248,116_286_002_02_29,There remains the line of supposed profitable injustice _ ,0.0002971660014736699,those remains the line of supposed profitable injustice .,0.27318354150065716,0.07017543859649122,0.2222222222222222,bentham,baseline
+249,116_286_002_02_30,of ,2.845800008799415e-05,yt.,0.27318354150065716,1.5,1.0,bentham,baseline
+0,096_028_001_01_03,in paving the way to the consideration of ,0.10268449999966833,imparing therapy to the confidential view of,0.3078600781250316,0.36585365853658536,0.75,bentham,combined
+1,096_028_001_01_06,much time in explaining the nature & ,0.09756704099891067,muzzline in explaining the future #,0.3078600781250316,0.2222222222222222,0.5714285714285714,bentham,combined
+2,096_028_001_01_08,"in misapplying those which do: & therefore, ",0.0963889590002509,in missupplying those which do . to therefore,0.3078600781250316,0.16279069767441862,0.7142857142857143,bentham,combined
+3,096_028_001_01_11,has hitherto advanced. ,0.05320891699921049,has in the show-,0.3078600781250316,0.6818181818181818,1.0,bentham,combined
+4,097_186_001_01_01,Note ( ) to p. ,0.021941458000583225,Note . Let,0.3078600781250316,0.5,0.8,bentham,combined
+5,097_186_001_01_08,"encouraged me in a hope, which however has in some respects ",0.11870000000089931,"encouraged me to a hope , which however has in five respects",0.3078600781250316,0.1016949152542373,0.36363636363636365,bentham,combined
+6,097_186_001_01_09,proved delusive: that I should with ease to myself and with ,0.11713254099959158,"proved delusive : What I should , with case to my-and with",0.3078600781250316,0.1694915254237288,0.6363636363636364,bentham,combined
+7,097_186_001_01_15,indulged! The seeds of the vexations which had so disappointed ,0.09359329200015054,indulged . The sorts of those corrections which had so distinguished,0.3078600781250316,0.3225806451612903,0.6,bentham,combined
+8,097_186_001_01_20,"mean not to change my system; which, be assured, from being cal- ",0.09916879100092046,"snean next to change my system . Which , he offered from being cut",0.3325676458748603,0.265625,0.75,bentham,combined
+9,097_186_001_01_23,will be a matter of no immediate concern to me; if I succeed only ,0.11575920799987216,"will be a mother of no immediate cananda to me , 4 if I succeed any",0.3325676458748603,0.2,0.42857142857142855,bentham,combined
+10,097_186_001_01_28,be prevailed upon not to overstock us with the worst description ,0.10005558399825532,be provided # not to conclude us with the word description,0.3325676458748603,0.28125,0.36363636363636365,bentham,combined
+11,097_186_001_01_31,industrious and well disposed become a continual prey to the ,0.125572540999201,induction and well disposal became a continual party to the,0.3325676458748603,0.15,0.4,bentham,combined
+12,096_038_003_01_08,prescribes it. ,0.04396883299887122,framework .,0.3325676458748603,0.7857142857142857,1.0,bentham,combined
+13,071_163_004_01_01,16 ,0.005305249998855288,to,0.3325676458748603,1.0,1.0,bentham,combined
+14,071_163_004_02_01,C ,0.005444415999591001,cis,0.3325676458748603,3.0,1.0,bentham,combined
+15,071_163_004_03_01,Frauds relative to the Coin. ,0.08532279200153425,Friends relative to the Covers .,0.3325676458748603,0.2857142857142857,0.6,bentham,combined
+16,071_163_004_04_02,On this account it comes to be the more material to ,0.13458991699917533,On this account it comes to her two more material to,0.25509863537490673,0.0784313725490196,0.18181818181818182,bentham,combined
+17,071_163_004_04_03,search out by a circumstantial description the several pre= ,0.15363183400040725,search out by a circumstantial description . This several fear,0.25509863537490673,0.15254237288135594,0.3333333333333333,bentham,combined
+18,071_163_004_04_11,"a greater surface; as it were, to observation ( and from ",0.2198339999995369,"agricates surface , as it went to observation land from",0.25509863537490673,0.19642857142857142,0.5454545454545454,bentham,combined
+19,071_163_004_04_18,are introductory. ,0.06471679199967184,are introductory .,0.25509863537490673,0.058823529411764705,1.0,bentham,combined
+20,071_108_002_02_01,C ,0.00657929199951468,Ci.,0.25509863537490673,2.0,1.0,bentham,combined
+21,071_108_002_04_01,It will be necessary to define what shall be deemed ,0.18179849999978615,It will be necessary to define what shall be deemed,0.25509863537490673,0.0,0.0,bentham,combined
+22,071_108_002_04_10,=ed in the manner mentioned in the Book of Procedure. Tit. ,0.19684358399899793,red in the manner mentioned in the Book of Procedure . Till,0.25509863537490673,0.06896551724137931,0.36363636363636365,bentham,combined
+23,071_108_002_04_11,"As to foreigners, upon their coming into the country ",0.11094833399874915,"As to foreigners , upon their coming into the country",0.25509863537490673,0.019230769230769232,0.2222222222222222,bentham,combined
+24,071_108_002_04_12,let them be obliged to declare upon oath whether they are married ,0.10547912500078382,left them he obliged to declare upon oath whether they are married,0.3243069218749497,0.03076923076923077,0.16666666666666666,bentham,combined
+25,071_108_002_04_13,"or single; and if single whether Bachelors or Spinsters, Widowers ",0.09801204199902713,"or singles , and if single whether the chalers or diameters , Widowed",0.3243069218749497,0.26153846153846155,0.7,bentham,combined
+26,071_108_002_04_14,"or Widows. Of these declarations let Registers be kept, of which, ",0.09511612499954936,"or Midours . Of these declarations led Angisters he kept , of which",0.3243069218749497,0.15384615384615385,0.7272727272727273,bentham,combined
+27,071_108_002_04_15,"previous to their being married, copies should be required to be ",0.09962224999981117,"precious to their being married , copies should be required to be",0.3243069218749497,0.03125,0.2727272727272727,bentham,combined
+28,071_108_002_04_16,"produced. If married, certificates of the death of the Wife or ",0.10535791700021946,"produced . If married , certificates of the death of the life or-",0.3243069218749497,0.06451612903225806,0.5454545454545454,bentham,combined
+29,071_108_002_04_18,uncertain prudence of individuals. The declarations above men= ,0.10516337499939254,uncertain predecessor of individuals . The declarations above mass-,0.3243069218749497,0.1774193548387097,0.5,bentham,combined
+30,115_007_002_01_04,1st. To furnish the prisoners with a constant supply ,0.12626770800125087,""" . Informish the prisoners with a constant supply",0.3243069218749497,0.15384615384615385,0.3333333333333333,bentham,combined
+31,115_007_002_01_07,2nd. To keep them clad in state of lightness and ,0.13191787499999919,"a "" To keep them clad in a state of light-refs and",0.3243069218749497,0.1875,0.4,bentham,combined
+32,115_007_002_01_09,classes or even in the improved prisons. ,0.08929150000039954,clafees or even in the improved poisons .,0.24611234887493083,0.1,0.42857142857142855,bentham,combined
+33,115_007_002_01_10,3rd. To keep them supplyed with separate beds and ,0.11599241700059792,# To keep them supplied with separate beds and,0.24611234887493083,0.10204081632653061,0.2222222222222222,bentham,combined
+34,115_007_002_01_13,4th. To insure to them a sufficient supply of artificial ,0.11498874999961117,# To ensure to them a sufficient supply of artificial,0.24611234887493083,0.08928571428571429,0.2,bentham,combined
+35,115_007_002_01_18,weather. ,0.018351916000028723,weather .,0.24611234887493083,0.125,2.0,bentham,combined
+36,115_007_002_01_25,without any of those opportunities of promiscuous ,0.13030991599953268,without any of those opportunities of promiscuous,0.24611234887493083,0.0,0.0,bentham,combined
+37,072_069_002_01_01,C ,0.005094916999951238,ci,0.24611234887493083,2.0,1.0,bentham,combined
+38,072_069_002_03_01,Offences against Justice. ,0.11323812499904307,Offences against Justice .,0.24611234887493083,0.04,0.6666666666666666,bentham,combined
+39,072_069_002_04_03,"any of them have failed, in that case Justice cannot ",0.10966695800016169,"any of them hand failed , in that case . Justice cannot",0.24611234887493083,0.09615384615384616,0.4,bentham,combined
+40,072_069_002_04_04,have been properly administered. There cannot therefore ,0.09019658299985167,have been properly administered . They cannot therefore,0.27540434374986944,0.05454545454545454,0.42857142857142855,bentham,combined
+41,072_069_002_04_11,new expedient that gives an additional chance for the ,0.08903508399998827,newemplement that gives an additional chance for the,0.27540434374986944,0.09433962264150944,0.2222222222222222,bentham,combined
+42,072_069_002_04_12,prescribes the observance of ,0.04817491700123355,foresorbies the observance of,0.27540434374986944,0.17857142857142858,0.25,bentham,combined
+43,072_069_002_04_13,"attainment of these ends and <gap/> it accordingly, ",0.10875037500045437,attainment of these ends and # it accordingly,0.27540434374986944,0.13725490196078433,0.25,bentham,combined
+44,072_069_002_05_01,Note ,0.011838624999654712,note .,0.27540434374986944,0.75,2.0,bentham,combined
+45,072_069_002_05_02,begins earlier. The business of a civil Judge extends to the in= ,0.09932429199943726,legiant earlier . The business of a civil Judge extends to the ten,0.27540434374986944,0.109375,0.3333333333333333,bentham,combined
+46,072_069_002_05_04,were they to perform such or such acts in future such acts ,0.12634170799901767,new they to perform much or such acts in future such acts,0.27540434374986944,0.06896551724137931,0.16666666666666666,bentham,combined
+47,072_069_002_05_08,him. ,0.007499125000322238,human .,0.27540434374986944,1.0,2.0,bentham,combined
+48,116_064_001_01_03,II Collins ,0.024562709000747418,the Orleans .,0.3293321562498477,0.9,1.5,bentham,combined
+49,116_064_001_02_02,"leaving behind them their spears, &c. and about 20 bushels of ",0.0981218329998228,"Racing behind them their spears , he and about 20 hundreds of",0.3293321562498477,0.19672131147540983,0.45454545454545453,bentham,combined
+50,116_064_001_02_06,"""the inhabitants of the different settlements, were kindly treated, ",0.11226270800034399,"the inhabitants of the different settlements , were kindly treated ,",0.3293321562498477,0.04477611940298507,0.5555555555555556,bentham,combined
+51,116_064_001_02_11,"""had been bred among the white people, and who, from being ",0.09542795900051715,"That been bred among the white people , and wine , from heavy",0.3293321562498477,0.1896551724137931,0.5454545454545454,bentham,combined
+52,116_064_001_02_15,"""and taken to the same savage mode of living, where the sup- ",0.10615245900044101,"lead taken to the same survey most of living , where the wife",0.3293321562498477,0.25,0.5,bentham,combined
+53,116_064_001_02_18,"""personal safety which they enjoyed, a young young woman, the ",0.1305049999991752,""" personal safety which they enjoyed , a young young woman , the",0.3293321562498477,0.04918032786885246,0.6,bentham,combined
+54,116_064_001_02_23,"""common mode of chastising their women), and then put an end to ",0.10256183399906149,""" Consessess made of chastising their economy , and how sent an aid to",0.3293321562498477,0.4126984126984127,0.6666666666666666,bentham,combined
+55,116_064_001_02_30,"""imagined that they were stimulated to this destructive conduct by ",0.10458087500046531,""" imagined about they were stimulated to this destructive conduct by",0.3293321562498477,0.07575757575757576,0.3,bentham,combined
+56,116_064_001_02_32,"""the time of their committing these depravations. In order to get ",0.11630474999947182,the time of their committing these representations . In order to get,0.29719902087504124,0.12307692307692308,0.2727272727272727,bentham,combined
+57,116_064_001_02_36,"""they valued the peace and good order of the settlement, and their ",0.11633479200099828,"they valued the peace and good order of the settlement , and their",0.29719902087504124,0.030303030303030304,0.25,bentham,combined
+58,116_064_001_02_37,"""own security, to assist in apprehending and bringing them to ",0.10426783399998385,""" more security , to , about in appreciable being said bringing them to",0.29719902087504124,0.3442622950819672,0.9,bentham,combined
+59,035_321_001_02_02,parties whether or no Quasi-Trial shall have ,0.13051762500072073,"parties , whether or no chair's denial shall have",0.29719902087504124,0.25,0.42857142857142855,bentham,combined
+60,035_321_001_02_03,"place: if any one says yes, he appoints day & ",0.13474350000069535,"placed : if any one says yes , he appoints Day &",0.29719902087504124,0.08888888888888889,0.5,bentham,combined
+61,035_321_001_02_04,"hour: earlier or ulterior time, if applied for, are ",0.1260569170008239,"hunner , earlier or anterior times , if applied for , even",0.29719902087504124,0.27450980392156865,0.8888888888888888,bentham,combined
+62,035_321_001_02_05,granted by him or refused: if Quasi Trial be ,0.14486454199868604,greated by Quinn as wifered : if Edward Israel has,0.29719902087504124,0.5681818181818182,0.8888888888888888,bentham,combined
+63,035_321_001_02_10,but unless for special and extraordinary reason as- ,0.1420562080002128,that unlike for special and extraordinary reason of,0.29719902087504124,0.17647058823529413,0.375,bentham,combined
+64,035_321_001_02_13,has been consumed before the suit has thus been ,0.14248045800013642,has been consumed before the suit has thus been,0.30793853124987436,0.0,0.0,bentham,combined
+65,035_321_001_02_14,rendered ripe for definitive decrees. ,0.11923220800053969,reached rifles for definitive devices .,0.30793853124987436,0.2972972972972973,0.8,bentham,combined
+66,035_321_001_02_20,"gued and considered, the question of law. ",0.132159832999605,quake and considered the question of law .,0.30793853124987436,0.14634146341463414,0.5714285714285714,bentham,combined
+67,035_321_001_02_22,which a hearing before a Quasi Jury has place ,0.13975858300000255,which is becoming before a Chinese Yugoslav place,0.30793853124987436,0.4,0.5555555555555556,bentham,combined
+68,035_321_001_02_23,are those on which Appeal for Quasi misdecision ,0.141564790999837,new those on which Appeal for business-mindeeview,0.30793853124987436,0.3404255319148936,0.375,bentham,combined
+69,072_167_002_04_03,[(D) Uneasiness] It matters not how slight the contact + is by ,0.1045212500011985,( I Uncasineful all matters not how slight the frontant's big,0.30793853124987436,0.3064516129032258,0.6666666666666666,bentham,combined
+70,072_167_002_04_05,be sufficient to produce uneasiness in a man if it be against his ,0.10251145800066297,her sufficient to produce a mereasingly in a man if it has against his,0.30793853124987436,0.2,0.3076923076923077,bentham,combined
+71,072_167_002_04_06,(E) Farther ,0.009162750000541564,treatanthed .,0.30793853124987436,0.8181818181818182,1.0,bentham,combined
+72,072_167_002_05_03, 1. For the cases in which a man may happen to be con= ,0.11463595799978066,to For the cases in which a man may happen to be con-,0.2765644687499389,0.05660377358490566,0.15384615384615385,bentham,combined
+73,072_167_002_05_06,":sive, or unwholesome, occupations. See ",0.057573624999349704,"silver , or unwholesome , occupational . Yet",0.2765644687499389,0.2564102564102564,1.4,bentham,combined
+74,116_406_001_01_13,30. _ A Barrister and sufficient number of Atornies ,0.16790058300102828,30 . A barrister and sufficient number ofatories,0.2765644687499389,0.11764705882352941,0.5555555555555556,bentham,combined
+75,116_406_001_01_15,criminal cases; and to conduct indictments for ,0.13555779200032703,criminal cured ; and to conduct indictments for,0.2765644687499389,0.08695652173913043,0.2857142857142857,bentham,combined
+76,116_406_001_01_23,"fines, or temporary confinement, should be permitted ",0.1469914580011391,"fines , or temporary confinement , should be permitted",0.2765644687499389,0.038461538461538464,0.5714285714285714,bentham,combined
+77,116_406_001_01_26,"32. _ Executions are of no utility, either for punishing ",0.17733591700016405,"32 .locountions are of no utility , either for punishing",0.2765644687499389,0.16071428571428573,0.5,bentham,combined
+78,115_080_003_02_01,"the whole produce and profit of their labour, and the ",0.10125995800081,"the whole produce and profits of their Labour , and the",0.2765644687499389,0.05660377358490566,0.3,bentham,combined
+79,115_080_003_02_08,-ved to the choice of the said Jeremy Bentham and ,0.10547020800004248,used to the choice of the said for every Danthanian,0.2765644687499389,0.2653061224489796,0.4,bentham,combined
+80,115_080_003_02_11,their hands to labour. ,0.04170245800014527,their hands to labour .,0.2606073957499575,0.045454545454545456,0.5,bentham,combined
+81,115_080_003_02_21,clean sheeting or blanketing being supplied to each ,0.11482504200102994,Jean Shuting or Blanketing being supplied to each,0.2606073957499575,0.11764705882352941,0.375,bentham,combined
+82,115_080_003_02_24,and in ever part thereof be sufficiently warmed & ,0.10893487499924959,and in every part thereof be sufficiently warned &,0.2606073957499575,0.04081632653061224,0.2222222222222222,bentham,combined
+83,115_080_003_02_25,lighted. ,0.019580457999836653,lighters .,0.2606073957499575,0.375,2.0,bentham,combined
+84,115_080_003_02_26,Art.11. No prisoner shall be suffered to have access ,0.09111333299915714,that . No prisoner shall be suffered to have aughs,0.2606073957499575,0.19230769230769232,0.3333333333333333,bentham,combined
+85,071_021_002_02_01,G ,0.007161249999626307,c.,0.2606073957499575,2.0,1.0,bentham,combined
+86,071_021_002_04_03,the ,0.005643166001391364,the,0.2606073957499575,0.0,0.0,bentham,combined
+87,071_021_002_04_04,regards the matter of fact or the matter of law. It regards ,0.11354320899954473,regends the matter of fact or smaller of laws . It regards,0.2606073957499575,0.1694915254237288,0.4166666666666667,bentham,combined
+88,071_021_002_04_09,"to do you such damage, whereas in truth he had a ",0.11840283300080046,"to do you much damage , whereas in truth he had a",0.2715792968749611,0.041666666666666664,0.2727272727272727,bentham,combined
+89,071_021_002_04_10,General Extenuation ,0.03652266699828033,General Examination,0.2715792968749611,0.21052631578947367,0.5,bentham,combined
+90,071_021_002_04_12,[(B1 Injury] It matters not to whom the injury in ques= ,0.1119643330002873,""" Anyway I all matters not to whom the injury in guess",0.2715792968749611,0.2727272727272727,0.45454545454545453,bentham,combined
+91,071_021_002_04_18,4. Even to the party himself by whom the provocation is ,0.09913787500045146,A. Even to the party himself by whom the provocation is,0.2715792968749611,0.01818181818181818,0.09090909090909091,bentham,combined
+92,071_021_002_04_19,given: for every man ought to be dear to every man. ,0.10542954199991073,given : for every man ought to be down to every man .,0.2715792968749611,0.09803921568627451,0.45454545454545453,bentham,combined
+93,071_021_002_04_20,Accordingly if you think you observe any person giving ,0.10986012499961362,Accordingly if you think you observes any person giving,0.2715792968749611,0.018518518518518517,0.1111111111111111,bentham,combined
+94,071_021_002_04_22,"you to think of his behaviour, are provoked to strike ",0.10356504199990013,"you to think of his behaviour , are provoked to strike",0.2715792968749611,0.018867924528301886,0.2,bentham,combined
+95,115_070_002_02_03,"persons intitled to take out Administration to, the personal ",0.12699733299996296,"person's intitled to take out Administration to , the personal",0.2715792968749611,0.03333333333333333,0.3333333333333333,bentham,combined
+96,115_070_002_02_06,for the value of the said Buildings and other irremoveable ,0.12279791699984344,for the value of the mid Buildings and other circumveable,0.276705973999924,0.10344827586206896,0.2,bentham,combined
+97,115_070_002_02_09,-ing thereon and occupied therewith : And in default of such ,0.12512995799988857,ing thereon and occupied there with : And in default of such,0.276705973999924,0.03333333333333333,0.2727272727272727,bentham,combined
+98,115_070_002_02_11,shall remain and continue in such legal representatives or ,0.1127024999987043,shall remain and continue in such legal representatives or,0.276705973999924,0.0,0.0,bentham,combined
+99,115_070_002_02_14,"made or to have been made to such Survivor , for or on account ",0.12765516699982982,"made or to have been made to such Survivor , for or on account",0.276705973999924,0.0,0.0,bentham,combined
+100,115_070_002_02_15,"of the maintenance of the said Establishment , shall during the ",0.1151895830007561,"of the maintenance of the said establishment , shall during the",0.276705973999924,0.015873015873015872,0.09090909090909091,bentham,combined
+101,115_070_002_02_16,same period continue to be made unto the person or persons ,0.08731787500073551,some period continue to be made into the person or persons,0.276705973999924,0.034482758620689655,0.18181818181818182,bentham,combined
+102,115_070_002_02_22,an umpire. ,0.018698333000429557,an umpire .,0.276705973999924,0.1,1.0,bentham,combined
+103,115_077_002_01_01,9 ,0.004491957999562146,0 1,0.276705973999924,3.0,2.0,bentham,combined
+104,115_077_002_02_01,and building one or more Penitentiary House or Houses ,0.12052774999938265,and building one or more Sanitentiary House or Houses,0.26169000000004417,0.03773584905660377,0.1111111111111111,bentham,combined
+105,115_077_002_02_02,upon the said Ground in such manner and under ,0.13011541699961526,upon the said Ground in such manner and index,0.26169000000004417,0.044444444444444446,0.1111111111111111,bentham,combined
+106,115_077_002_02_03,"and for such considerations, terms, conditions, powers, ",0.09263604100124212,"and for such considerations , terms , conditions , powers ,",0.26169000000004417,0.07272727272727272,1.1428571428571428,bentham,combined
+107,115_077_002_02_04,limitations and restrictions as the said Commissioners ,0.11075054200045997,limulations and restrictions as the said Commissioners,0.26169000000004417,0.037037037037037035,0.14285714285714285,bentham,combined
+108,115_077_002_02_06,to be inserted in such Contract or Contracts such law- ,0.11188712500006659,We inserted in such Contract or Contracts such law-,0.26169000000004417,0.07407407407407407,0.2,bentham,combined
+109,115_077_002_02_07,"-ful clauses, covenants and agreements, as shall be re- ",0.1023886670009233,"ful clauses , evenants and agreements , as shall be re-",0.26169000000004417,0.09090909090909091,0.6666666666666666,bentham,combined
+110,115_077_002_02_08,-quisite to enforce the execution of the same according- ,0.10004004199981864,middle to enforce the execution of the same according,0.26169000000004417,0.125,0.2222222222222222,bentham,combined
+111,115_077_002_02_11,Piece of Ground has been fixed upon accordingly and ,0.10603108299983433,lace of ground has been fired upon accordingly and,0.26169000000004417,0.09803921568627451,0.3333333333333333,bentham,combined
+112,115_077_002_02_12,the said Jeremy Bentham appointed sole Feoffee for ,0.10964158400020096,the said Jeremy Bentham appointed sole degree for,0.26081973437499073,0.08,0.125,bentham,combined
+113,115_077_002_02_17,to erect and adapt to the purpose aforesaid a build- ,0.10269937500015658,were and adapt to the purpose oforesaid a build-,0.26081973437499073,0.11538461538461539,0.3,bentham,combined
+114,115_077_002_02_22,Jeremy Bentham under the name of a Panopticon ,0.10498720900068292,foreing Bentham under the name of a Pangplain,0.26081973437499073,0.2222222222222222,0.25,bentham,combined
+115,115_077_002_02_26,-spection of any person or number of persons in ,0.10575783300009789,faction of any person or number of persons in,0.26081973437499073,0.0851063829787234,0.1111111111111111,bentham,combined
+116,115_077_002_02_27,charge ,0.014556541998899775,damage .,0.26081973437499073,1.0,2.0,bentham,combined
+117,115_111_004_02_01,"extension of the Colony Plan, or adoption of some ",0.0879777499994816,"ustension of the colony . Alan , or adoption of some",0.26081973437499073,0.14285714285714285,0.5555555555555556,bentham,combined
+118,115_111_004_02_09,"out of the question, or rather that it was perfectly ",0.117505500000334,"out of the question , or rather that it was perfectly",0.26081973437499073,0.019230769230769232,0.2,bentham,combined
+119,115_111_004_02_11,"Mr Bentham was, for months together, with the ",0.12520804199994018,""" Mr. Bentham was , for another together , with the",0.26081973437499073,0.2222222222222222,0.875,bentham,combined
+120,115_111_004_02_12,privit of Government and at the recommendation of ,0.0930886250007461,"family of Government , and at the recommendation of",0.23114071875011177,0.16326530612244897,0.25,bentham,combined
+121,115_111_004_02_14,Proprietors for the purchase of the Land: Government ,0.09995645799972408,Prepriators for the purchase of the Land-Government,0.23114071875011177,0.07692307692307693,0.375,bentham,combined
+122,115_111_004_02_17,-prietors not complying; an Act of Parliament for ,0.09569333299987193,"priators not complying , are old of Parliament for",0.23114071875011177,0.1836734693877551,0.625,bentham,combined
+123,115_111_004_02_18,this and other purposes was thought necessary: and ,0.11445575000107056,this and other purposes was thought mereditary : and,0.23114071875011177,0.12,0.25,bentham,combined
+124,115_111_004_02_19,"upon that occasion it was, that it was notified to ",0.12366908399962995,"upon that occasion it was , that it was notified to",0.23114071875011177,0.02,0.2,bentham,combined
+125,115_111_004_02_23,but that due satisfaction should be made to Mr ,0.09432983300030173,but that due satisfaction should be made to . Mr.,0.23114071875011177,0.06521739130434782,0.2222222222222222,bentham,combined
+126,115_111_004_02_24,Bentham and his Representatives. No reason was ,0.12499724999906903,Bentham and his Representatives . No reason was,0.23114071875011177,0.021739130434782608,0.2857142857142857,bentham,combined
+127,115_111_004_02_27,upon ,0.005774875000497559,lighter .,0.23114071875011177,2.25,2.0,bentham,combined
+128,072_050_003_04_10,mankind in general . The least therefore which is expected ,0.09627879199979361,mankind in general . The least therefore which is expected,0.2846060312499503,0.0,0.0,bentham,combined
+129,072_050_003_04_11,from the State of which the Pirate is a member is that ,0.10097116699944308,from the state of which the Circle is a member is that,0.2846060312499503,0.07407407407407407,0.16666666666666666,bentham,combined
+130,072_050_003_04_18,particularly with regard to accomplices ; because their ,0.10085266600071918,particularly with regard to accomplices ; because there,0.2846060312499503,0.03636363636363636,0.125,bentham,combined
+131,072_050_003_04_20,while ,0.009330374999990454,while,0.2846060312499503,0.0,0.0,bentham,combined
+132,072_050_003_04_21,:nions of a particular state which his excursions are ,0.09827374999986205,pinions of a particular state-switch his excursions were,0.2846060312499503,0.1509433962264151,0.4444444444444444,bentham,combined
+133,115_009_002_02_02,as follows_ ,0.04042316699997173,as follows .,0.2846060312499503,0.18181818181818182,1.0,bentham,combined
+134,115_009_002_02_05,-dequate  to each man's desires. ,0.09831183300047996,desquale to each man's desires .,0.2846060312499503,0.12903225806451613,0.6,bentham,combined
+135,115_009_002_02_07,"-ness, superior to what is usual among the lower clas- ",0.11443304099884699,""" neffs , superior to what is usual among the lower class",0.2846060312499503,0.1111111111111111,0.4,bentham,combined
+136,115_009_002_02_10,"bedding, competent to their situation, and in a state ",0.12788512499901117,"bedding , competent to their situation , and in a state",0.24551680724994185,0.03773584905660377,0.4444444444444444,bentham,combined
+137,115_009_002_02_12,4th To insure to them a sufficient supply of artificial ,0.12815770899942436,""" To ensure to them a sufficient supply of artificial",0.24551680724994185,0.07272727272727272,0.2,bentham,combined
+138,115_009_002_02_19,"practice so happily received, every kind of strong & ",0.13165654099975654,"practice so happily received , every kind of strong #",0.24551680724994185,0.038461538461538464,0.3333333333333333,bentham,combined
+139,115_009_002_02_23,"though mitigated seclusion, in small assorted com- ",0.13043233300049906,"though integrated seduction , in small assorted com-",0.24551680724994185,0.18,0.42857142857142855,bentham,combined
+140,115_009_002_02_27,have been expected from solitude. ,0.09256008299962559,have been expected from solitude .,0.24551680724994185,0.030303030303030304,0.4,bentham,combined
+141,073_068_001_03_02,yet themselves reducible to some one or other of ,0.1170189999993454,"yet themselves , Possible to some one or other if",0.24551680724994185,0.14583333333333334,0.3333333333333333,bentham,combined
+142,073_068_001_03_07,Consciousness might by infer'd with equal ,0.09803079199991771,Commissioner's might be infers with equal,0.24551680724994185,0.2682926829268293,0.5,bentham,combined
+143,073_068_001_03_08,Satisfaction & Certainty from any of the respective ,0.12948441699882096, Satisfaction to Certainty from any of the rejection,0.24551680724994185,0.11764705882352941,0.25,bentham,combined
+144,073_068_001_03_11,Establishment of them as the Subjects of distinct ,0.09402120799859404,Establishment of them as the Subjects of distinct,0.2786845521250143,0.0,0.0,bentham,combined
+145,073_068_001_03_16,"so clear, as that the Jury could concur in affirming ",0.1113045410002087,"so clear , as that the jury could concurs in affirming",0.2786845521250143,0.057692307692307696,0.4,bentham,combined
+146,073_068_001_03_18,that of the others: hence if the Interrogatories ,0.11781174999850919,everything that of the others . Avenue if the Interrogatories,0.2786845521250143,0.3333333333333333,0.5,bentham,combined
+147,116_387_001_01_06,"Mr Bentham, is intended to accommodate. I have ",0.10681079099958879,"Mr. Jonathan , is intended to accommodate them",0.2786845521250143,0.2608695652173913,0.75,bentham,combined
+148,116_387_001_01_07,examined the Acts of the 19th & 34th of his present ,0.1416994169994723,examount the date of the 1980s 3th-of his presenter,0.2786845521250143,0.29411764705882354,0.6363636363636364,bentham,combined
+149,116_387_001_01_08,"Majesty, relative to the building of Penitentiary Houses ",0.12880037499962782,"slapily , relative to the building of elementary Africans",0.2786845521250143,0.3392857142857143,0.5,bentham,combined
+150,116_387_001_01_12,such Penitentiary Houses should be used principally ,0.11427233299946238,much Observatory Grosses should be used primarily,0.2786845521250143,0.37254901960784315,0.5714285714285714,bentham,combined
+151,116_387_001_01_21,"though it may increase, yet the increase of live ",0.1314211669996439,"though it may increase , yet the increase of them",0.2786845521250143,0.10416666666666667,0.3333333333333333,bentham,combined
+152,116_387_001_01_22,Stock use will probably more than counter balance the ,0.12776662500073144,that he was virtually more than court balance the,0.27701401049989727,0.32075471698113206,0.5555555555555556,bentham,combined
+153,116_387_001_01_24,will probably more than counterbalance the difference. ,0.1301802920006594,will probably more than comfortable issues . Her difference,0.27701401049989727,0.3333333333333333,0.7142857142857143,bentham,combined
+154,116_072_001_02_08,"""settlers and others were informed, that when any individual should ",0.12133958399863332,"settlers and others were informed , that whom any individual should",0.27701401049989727,0.05970149253731343,0.4,bentham,combined
+155,116_072_001_02_10,"""store, they might make the same known to the commissary, ",0.1143409159994917,"close , they might make the same kinases to the corresponding",0.27701401049989727,0.3508771929824561,0.4,bentham,combined
+156,116_072_001_02_14,"""enter into an agreement or contract for a certain length of time, ",0.11915670899907127,"Earlier into an agreement or contracts for a certain length of time ,",0.27701401049989727,0.10606060606060606,0.3333333333333333,bentham,combined
+157,116_072_001_02_15,"""and on such conditions as should be agreed, with any person who ",0.11109516600117786,""" and on such conditions as should be agreed , with any person notes",0.27701401049989727,0.109375,0.4166666666666667,bentham,combined
+158,116_072_001_02_23,"P. 196. January 1799. ""Wheat at this time bore a high price ",0.12334895899948606,"people , January 1979 . What at this time , love a high price",0.27701401049989727,0.2711864406779661,0.5833333333333334,bentham,combined
+159,116_072_001_02_26,"""bushel."" ",0.012321041998802684,"clashed . """,0.27701401049989727,0.6666666666666666,3.0,bentham,combined
+160,072_049_002_01_01,C ,0.006582166000953293,C.,0.24497847387510774,1.0,1.0,bentham,combined
+161,072_049_002_04_06,"offences against property, offences against reputation, and ",0.1172260000003007,"Hences against property , offences against reputation , and",0.24497847387510774,0.0847457627118644,0.7142857142857143,bentham,combined
+162,072_049_002_04_09,within the dominions of a third state it is from such third ,0.09939804200075741,within the dominions of a third state this from such third,0.24497847387510774,0.03389830508474576,0.16666666666666666,bentham,combined
+163,072_049_002_04_19,of a fellow member; it will hardly expect more. ,0.09850087499944493,"of a follow-member , it will hardly expect more .",0.24497847387510774,0.10638297872340426,0.4444444444444444,bentham,combined
+164,072_049_002_04_22,:ber will naturally be that to which the injured state ,0.12727216699931887,has well naturally be that to which the ingredients started,0.24497847387510774,0.25925925925925924,0.4,bentham,combined
+165,071_022_003_01_01,23. ,0.0068069170010858215,to,0.24497847387510774,1.0,1.0,bentham,combined
+166,071_022_003_02_01,C ,0.007721707999735372,c.,0.24497847387510774,2.0,1.0,bentham,combined
+167,071_022_003_04_02,the circumstances at his leisure could or could not have ,0.09351062499990803,the circumstances at his leisure could or could not have,0.24497847387510774,0.0,0.0,bentham,combined
+168,071_022_003_04_05,the time. ,0.02612145800048893,the time .,0.284409760374956,0.1111111111111111,1.0,bentham,combined
+169,071_022_003_04_14,":with to kill him or hurt him more than was necessary, it ",0.10377245799827506,"health to kill him or hunt him more than was regularly , it",0.284409760374956,0.21052631578947367,0.3333333333333333,bentham,combined
+170,071_022_003_04_15,shall still be accounted justifiable self-defence ,0.10132975000124134,shall still he accounted justifiable self-defence,0.284409760374956,0.02040816326530612,0.16666666666666666,bentham,combined
+171,071_022_003_04_16,[(B) Uncertain efficacy] As if in the case just mentioned it hap= ,0.11725258300066344,# Uncertain efficacy . As if in the case just mentioned it had,0.284409760374956,0.12307692307692308,0.3333333333333333,bentham,combined
+172,071_022_003_04_18,:much that it would have been doubtful whether with the less ,0.11032504200011317,""" I amish that it would have been doubtful whether with the left",0.284409760374956,0.15,0.36363636363636365,bentham,combined
+173,071_022_003_04_19,"powerful weapon of the two, you could have effectually defend= ",0.12154329199984204,""" Powerful weapons of the two , you could have officially defended",0.284409760374956,0.1774193548387097,0.7,bentham,combined
+174,073_002_002_01_02,to this Lawyer ,0.029968333001306746,to this lawyers,0.284409760374956,0.14285714285714285,0.3333333333333333,bentham,combined
+175,073_002_002_01_03,"ing four Guineas for four Volumes of his Truths, ",0.11723220800013223,ing from Quinning for four volumes of his father,0.284409760374956,0.2916666666666667,0.4444444444444444,bentham,combined
+176,073_002_002_01_05,self- ,0.010114708999026334,jelf .,0.24627872400014894,0.6,2.0,bentham,combined
+177,073_002_002_01_06,"may want, will his be all of the same sort? ",0.15285162500003935,"may want , will his life # if the same sort",0.24627872400014894,0.20930232558139536,0.6,bentham,combined
+178,073_002_002_01_11,frequently covenants with her Friends to allow ,0.11026770799981023,frequently coverants with her friends to allow,0.24627872400014894,0.043478260869565216,0.2857142857142857,bentham,combined
+179,073_002_002_01_13,"the Author I may also see, that ""if she has ",0.13463304200013226,"the American Library also see , that if she has",0.24627872400014894,0.32558139534883723,0.6,bentham,combined
+180,073_002_002_01_19,"general Words to assure, me that she cannot have, ",0.13219383400064544,"general funds to figure , more that she cannot have",0.24627872400014894,0.20408163265306123,0.5555555555555556,bentham,combined
+181,073_002_002_01_20,such and such Consequences will follow. But ,0.09636020800098777,such and such consequences will follow . But,0.24627872400014894,0.046511627906976744,0.42857142857142855,bentham,combined
+182,073_002_002_01_21,is not a Man to be put into Possession of the Law ,0.10233537499880185,is not a man to be put into Opposition of the Law,0.24627872400014894,0.16326530612244897,0.16666666666666666,bentham,combined
+183,035_327_001_02_05,may happen that in the eyes of the Legislature the ,0.133429208999587,may happen that in the ages of the legislature the,0.24627872400014894,0.06,0.2,bentham,combined
+184,035_327_001_02_11,case it may perhaps be deemed fit by the Le- ,0.1506561669993971,case it may perhaps he seemed fit by the clan,0.26666670312511087,0.13636363636363635,0.3,bentham,combined
+185,035_327_001_02_12,"-gislature, in the framing of the Penal Code, to ",0.14538449999963632,"gislative , in the framing of the Penal lake , to",0.26666670312511087,0.16666666666666666,0.4444444444444444,bentham,combined
+186,035_327_001_02_13,"lay down as the general rule, that in these easy ",0.13882462500077963,"laydown as the general rule , that in these cases",0.26666670312511087,0.10416666666666667,0.5,bentham,combined
+187,035_327_001_02_16,appellation which may serve for a general indication ,0.1487212920001184,appellation which may serve for a general education,0.26666670312511087,0.057692307692307696,0.125,bentham,combined
+188,035_327_001_02_19,Quasi Trial ,0.03792912499920931,Annassi Social,0.26666670312511087,0.6363636363636364,1.0,bentham,combined
+189,035_327_001_02_20,"Art. 12. Among two circumstances, by the consider- ",0.12695391700071923,"that . 12 . Among these circumstances , by the murder .",0.26666670312511087,0.34,1.125,bentham,combined
+190,035_327_001_02_21,"-ation of which, this opinion may on the part of the ",0.12701799999922514,"ations of which , this opinion may on the part of the",0.26666670312511087,0.057692307692307696,0.2727272727272727,bentham,combined
+191,035_327_001_02_22,Legislature be perhaps produced are the following ,0.14275633299985202,legislature the perhaps produced are the following,0.26666670312511087,0.061224489795918366,0.2857142857142857,bentham,combined
+192,035_327_001_02_23,1 ,0.006513874999654945,1 .,0.29314384374993097,2.0,1.0,bentham,combined
+193,002_579_001_02_07,way as that in question in the former case as in the latter. ,0.12170608299857122,every as that in question in the former case as in the letter .,0.29314384374993097,0.1,0.23076923076923078,bentham,combined
+194,071_181_004_03_01,Of Frauds relative to the Coin. ,0.08873283300090407,Of Fraudded relatives to their Spanish .,0.29314384374993097,0.41935483870967744,0.8333333333333334,bentham,combined
+195,071_181_004_04_03,Reasons. ,0.029035042000032263,Reasones .,0.29314384374993097,0.25,2.0,bentham,combined
+196,071_181_004_04_11,here is that the mischief is not to be estimated from the ef= ,0.09414358399953926,heaver's that the mischief is not to be estimated from the afc,0.29314384374993097,0.09836065573770492,0.23076923076923078,bentham,combined
+197,071_181_004_04_13,when the Habit is taken into the Account the one practice ,0.10489520800001628,when the start is taken into the moment the one practice,0.29314384374993097,0.15789473684210525,0.18181818181818182,bentham,combined
+198,071_181_004_04_14,does not seem to demand in any considerable degree a great= ,0.11918816700017487,does not seem to demand in any considerable degree in great,0.29314384374993097,0.05084745762711865,0.18181818181818182,bentham,combined
+199,071_181_004_04_15,:er punishment than the other. Where the profit upon a ,0.09538408300068113,""" or punishment than the other . Where this profit upon a",0.29314384374993097,0.1111111111111111,0.5,bentham,combined
+200,071_181_004_04_19,upon ,0.00867912500143575,exposes .,0.30197686449992034,1.75,2.0,bentham,combined
+201,071_151_003_04_03,which the several articles happen to be in use. Mean while any ,0.12520937499903084,which the general articles happen to the in use . Mean while any,0.30197686449992034,0.08064516129032258,0.3333333333333333,bentham,combined
+202,071_151_003_04_04,frauds that can be committed in relation to any of those articles ,0.10271508299956622,trade that can be committed in relation to any flower articles,0.30197686449992034,0.13846153846153847,0.25,bentham,combined
+203,071_151_003_04_10,:pose and in every convenient place is the business of the Sove: ,0.12459266599944385,""" How and in every convenient place is the business of the show .",0.30197686449992034,0.15625,0.3333333333333333,bentham,combined
+204,071_151_003_04_11,:reign. To give these institutions their full effect and render the ,0.11957220799922652,reign . To give these institutions their full effect and under the,0.30197686449992034,0.05970149253731343,0.2727272727272727,bentham,combined
+205,071_151_003_04_12,occasions of punishing the offence less frequent the following ,0.12050054100109264,readions of punishing the offence's life frequent the following,0.30197686449992034,0.14516129032258066,0.3333333333333333,bentham,combined
+206,071_151_003_04_20,III. To cause frequent visitations to be made by certain offi: ,0.12639274999855843,# . To cause frequent institutions take made by certain life .,0.30197686449992034,0.24193548387096775,0.6363636363636364,bentham,combined
+207,071_201_003_04_01,of distant danger: nor whether by fear of danger to his per= ,0.11460662500030594,of distant danger : more whether he fear of damages - to his poor .,0.30197686449992034,0.23333333333333334,0.6666666666666666,bentham,combined
+208,071_201_003_04_07,in concert. ,0.017883665999761433,in concert .,0.31733020837509684,0.09090909090909091,1.0,bentham,combined
+209,071_201_003_04_09,"tumult which are committed on the same occasion, or not ",0.10506870800054458,"limit which are committed on the same occasion , or not",0.31733020837509684,0.09090909090909091,0.3,bentham,combined
+210,071_201_003_04_13,Reasons. ,0.0160501660011505,reasoned .,0.31733020837509684,0.5,2.0,bentham,combined
+211,071_201_003_04_15,"same tumult to sit a watch upon each other, and do what ",0.10333504200025345,"came turnett to sit a coach , whom each other , and does that",0.31733020837509684,0.3090909090909091,0.75,bentham,combined
+212,071_201_003_04_16,is in their power to moderate each others violence. By this ,0.09530987500147603,is in their power to moderate each other's violence . Why this,0.31733020837509684,0.06779661016949153,0.36363636363636365,bentham,combined
+213,071_201_003_04_17,means it is subservient to the purpose of prevention. ,0.11741166600040742,means it is subsequent to the transfer of haemelers .,0.31733020837509684,0.32075471698113206,0.4444444444444444,bentham,combined
+214,071_201_003_04_18,2. It also gives a much better chance to parties injured ,0.11963870799991128,Mr. It also gives a much better chance to parties in junked,0.31733020837509684,0.08928571428571429,0.2727272727272727,bentham,combined
+215,071_201_003_04_19,of obtaining compleat compensation than they would other= ,0.12076670799979183,of obtaining a violent compensation than they would other .,0.31733020837509684,0.14035087719298245,0.5,bentham,combined
+216,071_201_003_04_20,:wise have: and making the damage fall upon the au= ,0.12726766699961445,"succeed have , and making the damage full upon the aim :",0.2802875990000757,0.2549019607843137,0.6,bentham,combined
+217,116_633_002_01_01,44 ,0.005504208000274957,2p.Cap,0.2802875990000757,3.0,1.0,bentham,combined
+218,116_633_002_02_01,few drops from it to save this worthy gentleman. ,0.09295891700094217,few drops from it to save this worthy gentlemen .,0.2802875990000757,0.041666666666666664,0.2222222222222222,bentham,combined
+219,116_633_002_02_02,If it be in the power of virtue to give a claim to ,0.09821179099890287,this be in the power of virtue to give a claim to,0.2802875990000757,0.08,0.15384615384615385,bentham,combined
+220,116_633_002_02_06,"Speak to him then, my Lord, once more: _ ",0.09219854200091504,"break to him , how , my Lord , once more :",0.2802875990000757,0.25,0.8888888888888888,bentham,combined
+221,116_633_002_02_07,say to him any thing that will make him easy. ,0.09491916699880676,say to him anything that will make him easy .,0.2802875990000757,0.044444444444444446,0.4,bentham,combined
+222,116_633_002_02_09,circumstances: _ whisper to him that all this Ma- ,0.11644929100111767,circumstances : - whisper to him that all this was,0.2802875990000757,0.08163265306122448,0.4444444444444444,bentham,combined
+223,116_633_002_02_12,can be a matter of more profound indifference to ,0.12062662499920407,can be a matter of more profound indifference to,0.2802875990000757,0.0,0.0,bentham,combined
+224,116_633_002_02_19,"or unimproved, be ever given to Noble Lords, whose ",0.09715358300127264,"or contemporised , he ever given to the bladder , whose",0.3046352707499409,0.38,0.6666666666666666,bentham,combined
+225,116_633_002_02_21,"fatal to Acts of Parliament: _ assure him, that neither ",0.1045292500002688,"fasted to detery Parliament ? - again him , that neither",0.3046352707499409,0.32727272727272727,0.8,bentham,combined
+226,116_633_002_02_22,"by the great person, nor by any other, is the purse ",0.10171383299893932,"by the one great person , nor by any other , is the peers",0.3046352707499409,0.17647058823529413,0.5454545454545454,bentham,combined
+227,116_633_002_02_24,"a particular purpose, and to oblige a friend: certify ",0.12712029199974495,"a particular purpose , and to obliga a friend : certify",0.3046352707499409,0.05660377358490566,0.5555555555555556,bentham,combined
+228,071_030_001_03_01,Of Irreparable Personal Injuries ,0.10282312500021362,Off Unreplaceable Personal Injuries .,0.3046352707499409,0.25,0.75,bentham,combined
+229,071_030_001_04_02,Irreparable Personal Injuries are either 1. Irre= ,0.09966420800083142,"Amphanauble Personal objectives are either 10 . Ames ,",0.3046352707499409,0.42857142857142855,0.8571428571428571,bentham,combined
+230,071_030_001_04_14,"[A Shape] As if his nose or ears or lips be split, or ",0.10088145800000348,""" Thatself all of his score or came on light her side , or",0.3046352707499409,0.5094339622641509,0.8461538461538461,bentham,combined
+231,071_030_001_04_18,2 ,0.004817167000510381,2',0.3046352707499409,1.0,1.0,bentham,combined
+232,071_030_001_04_24,III ,0.007456208000803599,tell of the,0.2974364270000933,3.6666666666666665,3.0,bentham,combined
+233,071_030_001_04_25,(A) ,0.005782624999483232,ple A,0.2974364270000933,1.6666666666666667,2.0,bentham,combined
+234,073_083_001_03_01,Where the quantity of damage which was intended is the ,0.11284258299929206,there the quantity of damage which was intended in the,0.2974364270000933,0.037037037037037035,0.2,bentham,combined
+235,073_083_001_03_02,"very quantity which eventually ensues, the act may be said ",0.12419762500030629,every quantity which eventually comes that may boward,0.2974364270000933,0.22413793103448276,0.6,bentham,combined
+236,073_083_001_03_04,"-quences; when not so much, inadequately; when more, ",0.09966916699886497,"quences , whom not so much , inadequately ; when more ,",0.2974364270000933,0.15384615384615385,1.125,bentham,combined
+237,073_083_001_03_05,more than adequately ,0.04554212500079302,more than adequately,0.2974364270000933,0.0,0.0,bentham,combined
+238,073_083_001_03_07,whose leg you have broken. If ,0.06535341600101674,where leg you have broken . If,0.2974364270000933,0.10344827586206896,0.5,bentham,combined
+239,073_083_001_03_11,"that he might be obliged to have his fore-arm cut off, and the ",0.12558133300080954,"that he might be obliged to have his far arm cut of , and the",0.2974364270000933,0.06451612903225806,0.3076923076923077,bentham,combined
+240,073_083_001_03_14,"would suffer from the loss of a fore-arm, in either of these ",0.12316408299921022,"would suffer from the life of a forearm , in either of these",0.2650586718750674,0.08333333333333333,0.25,bentham,combined
+241,073_083_001_03_17,If your intention was only to hurt him in the fore- ,0.0992374170000403,If your intention was only to hunt him in the face,0.2650586718750674,0.0784313725490196,0.18181818181818182,bentham,combined
+242,073_083_001_03_19,e ,0.004399458000989398,2tes,0.2650586718750674,3.0,1.0,bentham,combined
+243,073_083_001_03_22,was- ,0.011287833000096725,neave .,0.2650586718750674,1.5,2.0,bentham,combined
+244,116_286_002_02_06,"injustice. On the former supposition, arrangements would have been ",0.09602950000044075,"injustice . On the former supposition , arrangements would have been",0.2650586718750674,0.030303030303030304,0.4444444444444444,bentham,combined
+245,116_286_002_02_13,obstacle might till then have been opposed as such to his escape. ,0.10825858400130528,detacle might tell them have been opposed as such to his escape,0.2650586718750674,0.09230769230769231,0.3333333333333333,bentham,combined
+246,116_286_002_02_14,Whatever had been the term of punishment fixed by each man's ,0.09919654199984507,Whatever had been the term of punishment fixed by each man's,0.2650586718750674,0.0,0.0,bentham,combined
+247,116_286_002_02_24,rendering it neither more nor less easy than under the old ,0.11451941700033785,remearing it neither more more life easy than under the old,0.2650586718750674,0.13793103448275862,0.2727272727272727,bentham,combined
+248,116_286_002_02_29,There remains the line of supposed profitable injustice _ ,0.11296662499989907,those remains the line of supposed profitable injustice .,0.28155222949953895,0.07017543859649122,0.2222222222222222,bentham,combined
+249,116_286_002_02_30,of ,0.007069584000419127,at,0.28155222949953895,1.0,1.0,bentham,combined

@@ -1,0 +1,9 @@
+{
+  "dataset": "bentham",
+  "configuration": "clahe_clip2_grid4x4",
+  "sample_count": 100,
+  "cer": 0.15512965050732808,
+  "wer": 0.30099228224917307,
+  "preprocessing_seconds": 0.1178457449987036,
+  "inference_seconds": 28.561334373996942
+}

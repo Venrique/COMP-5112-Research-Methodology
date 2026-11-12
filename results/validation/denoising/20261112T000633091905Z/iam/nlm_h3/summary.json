@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "nlm_h3",
+  "sample_count": 100,
+  "cer": 0.011767368182846799,
+  "wer": 0.0438034188034188,
+  "preprocessing_seconds": 5.588846167996962,
+  "inference_seconds": 29.247812877001707
+}

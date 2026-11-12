@@ -1,0 +1,9 @@
+{
+  "dataset": "bentham",
+  "configuration": "nlm_template3",
+  "sample_count": 100,
+  "cer": 0.15873731679819617,
+  "wer": 0.2954796030871003,
+  "preprocessing_seconds": 13.295350538999628,
+  "inference_seconds": 28.86590749900097
+}

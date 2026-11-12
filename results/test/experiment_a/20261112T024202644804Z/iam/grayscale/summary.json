@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "grayscale",
+  "sample_count": 250,
+  "cer": 0.04776260009420631,
+  "wer": 0.10812023328847016,
+  "preprocessing_seconds": 0.01089266400958877,
+  "inference_seconds": 72.02086433300065
+}

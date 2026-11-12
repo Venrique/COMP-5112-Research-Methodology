@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "intensity_normalization",
+  "sample_count": 250,
+  "cer": 0.04634950541686293,
+  "wer": 0.10812023328847016,
+  "preprocessing_seconds": 0.1662184529905062,
+  "inference_seconds": 72.65978949700002
+}

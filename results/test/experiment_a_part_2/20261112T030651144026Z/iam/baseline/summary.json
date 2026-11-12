@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "baseline",
+  "sample_count": 250,
+  "cer": 0.04776260009420631,
+  "wer": 0.10812023328847016,
+  "preprocessing_seconds": 0.007902452001872007,
+  "inference_seconds": 75.54761058299846
+}

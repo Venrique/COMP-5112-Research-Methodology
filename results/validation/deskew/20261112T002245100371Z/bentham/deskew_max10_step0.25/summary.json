@@ -1,0 +1,9 @@
+{
+  "dataset": "bentham",
+  "configuration": "deskew_max10_step0.25",
+  "sample_count": 100,
+  "cer": 0.1560315670800451,
+  "wer": 0.29988974641675853,
+  "preprocessing_seconds": 4.245054130999051,
+  "inference_seconds": 27.943198288998246
+}

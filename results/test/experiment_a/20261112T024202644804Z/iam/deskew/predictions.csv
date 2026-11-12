@@ -1,0 +1,251 @@
+index,sample_id,ground_truth,preprocessing_seconds,prediction,inference_seconds,cer,wer
+0,sample_11,round a doll's house .,0.011068124998928397,round a doll's house .,0.34043628125004943,0.0,0.0
+1,sample_18,such as a chair and a motor-car . The idea is to see what happens when,0.01919916699989699,such as a chair and a motor-car . The idea is to see what happens when,0.34043628125004943,0.0,0.0
+2,sample_26,essay on soldiering which stated that a fighting,0.007522249999965425,essory on coldbenting which started that a fighting,0.34043628125004943,0.14583333333333334,0.375
+3,sample_37,Northern defiance . The cameras played continuously on his,0.013208333000875427,Northern Defiance . The cameras played continuously on his,0.34043628125004943,0.017241379310344827,0.1111111111111111
+4,sample_47,Britain was slipping behind ... .,0.0063461249992542434,Britain was slipping behind ... .,0.34043628125004943,0.0,0.0
+5,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .",0.011500915999931749,"could at the chaos by placing the fragments , or sheets , or pages , in order .",0.34043628125004943,0.02531645569620253,0.05555555555555555
+6,sample_72,how this enlargement was effected nor has he,0.011427666000599856,how this enlargement was effected nor has he,0.34043628125004943,0.0,0.0
+7,sample_80,wording . It is not possible to establish any one,0.01138537500082748,wording . It is not possible to establish any one,0.34043628125004943,0.0,0.0
+8,sample_91,impossible to say .,0.003410833000089042,unpassible to say .,0.26181091150010616,0.15789473684210525,0.25
+9,sample_123,Against these advantages the codex was fragile and,0.011232667000513175,against these advantages the codex was fragile and,0.26181091150010616,0.02,0.125
+10,sample_126,end could be cut off . If the text was longer than,0.010871499998756917,end could be cut off . If the text was longer than,0.26181091150010616,0.0,0.0
+11,sample_128,while one whole side of his roll was unused .,0.010794957999678445,while one whole side of his roll was unused .,0.26181091150010616,0.0,0.0
+12,sample_131,"in the case of the single-sheet quire , an extra",0.01144695800030604,"in the case of the single-sheet quite , an extra",0.26181091150010616,0.020833333333333332,0.1
+13,sample_141,supply . The pools are probably natural springs,0.010316416000932804,supply . The pads once probably nullival springs,0.26181091150010616,0.23404255319148937,0.375
+14,sample_156,"This man is the worm , the creature that",0.013149124999472406,This man is the warm the creature that,0.26181091150010616,0.075,0.2222222222222222
+15,sample_165,"beginning . It is "" the stone , which the builders",0.010535000001254957,"beginning . It is the stone , which the builders",0.26181091150010616,0.04,0.09090909090909091
+16,sample_189,come across human Shamirs and they leave,0.012680583000474144,"cope , across human Shamfirs , and they leave",0.3023546406247988,0.15,0.5714285714285714
+17,sample_230,"adds and in your soul , searching your soul .",0.012317624999923282,"odds and in your soul , searching your soul .",0.3023546406247988,0.022222222222222223,0.1
+18,sample_239,them without visionary power .,0.008168958000169368,them without visionary power .,0.3023546406247988,0.0,0.0
+19,sample_248,And the tsitsits had a message sealed inside the knots,0.01563824999902863,And the tsitsits had a message sealed inside the knots,0.3023546406247988,0.0,0.0
+20,sample_255,"We eat it . We accept it , to show we have self-control",0.02656833299988648,We eat it . We accept it . to show we have self-control,0.3023546406247988,0.01818181818181818,0.07692307692307693
+21,sample_268,11 ) . That gives us freedom from want .,0.012463832999856095,all . That gives us freedom from work .,0.3023546406247988,0.175,0.3
+22,sample_277,and the sweet Mortar in which we dip-in represents,0.04198108400123601,and the sweet Mortar in which we die-in represents,0.3023546406247988,0.02,0.1111111111111111
+23,sample_292,burdens of Egypt : How was it that Israel was,0.01132799999868439,burdens of Egypt . How was it that Israel was,0.3023546406247988,0.022222222222222223,0.1
+24,sample_320,himself immortal by becoming associated with,0.012230459000420524,himself immortal by becoming associated with,0.27652836462493724,0.0,0.0
+25,sample_336,mutual . But Laud was no Romanizer . One of his,0.015504875000260654,mutual . But land was no Romanizer . One of his,0.27652836462493724,0.0425531914893617,0.09090909090909091
+26,sample_351,"by laughing at what are very real fears . As adults , we know",0.006574540999281453,"by laughing at what are very real fears . As adults , we know",0.27652836462493724,0.0,0.0
+27,sample_352,but to a child they are very real . Not that I am suggesting,0.008048792000408866,but to a child they are very real . Not that I am suggesting,0.27652836462493724,0.0,0.0
+28,sample_363,the harvest of which may still be being,0.012772041000062018,the harvest of which may still be being,0.27652836462493724,0.0,0.0
+29,sample_373,which occur less frequently than,0.006661792000159039,which occur less frequently than,0.27652836462493724,0.0,0.0
+30,sample_377,frightening possibilities and yet by facing,0.010531792000620044,frightening possibilities and yet by facing,0.27652836462493724,0.0,0.0
+31,sample_384,the stronger we become .,0.0077447079984267475,the stronger we become .,0.27652836462493724,0.0,0.0
+32,sample_394,"secret plan , Of the things He will",0.008496582999214297,"secret plan , Of the things the will",0.2301259948749248,0.05714285714285714,0.125
+33,sample_408,"the mind . Very few people , under normal",0.008354916999451234,"the mind . Very few people , under normal",0.2301259948749248,0.0,0.0
+34,sample_418,noting the effect of a new stimulus on some-,0.009141874999841093,making the spirit of a new stimuter on some-,0.2301259948749248,0.25,0.3333333333333333
+35,sample_422,"the washing-up - while others , if they",0.009526959000140778,"the Washington-up - while others , if they",0.2301259948749248,0.10256410256410256,0.125
+36,sample_426,her boy friend calls and go for a long walk .,0.012956333001056919,her boy friend calls and go for a long walk .,0.2301259948749248,0.0,0.0
+37,sample_427,"Even more simply , test your own reactions",0.013532457998735481,"Even more simply , best your own reactions",0.2301259948749248,0.023809523809523808,0.125
+38,sample_451,"from America weeks , from the Far East ,",0.014245082998968428,"from America weeks , from the Far East ,",0.2301259948749248,0.0,0.0
+39,sample_466,travel day by day .,0.003989458000432933,travel day by day .,0.2301259948749248,0.0,0.0
+40,sample_468,pipeline of the railway on which they,0.00904070800061163,pipeline of the railway on which they,0.2159102656248706,0.0,0.0
+41,sample_469,"In many cases , their homes know little of",0.009981791999962297,"In many cases , their homes know little of",0.2159102656248706,0.0,0.0
+42,sample_471,are possibly like in the surroundings of their,0.009909958000207553,are possibly like in the surroundings of their,0.2159102656248706,0.0,0.0
+43,sample_472,a ' double ' life without ever deliberately,0.007638374998350628,a ' double life without ever deliberately,0.2159102656248706,0.046511627906976744,0.125
+44,sample_485,after time we forget something and have to go back,0.00897212500058231,after time we forget something and have to go back,0.2159102656248706,0.0,0.0
+45,sample_486,write out all the necessary jobs waiting to,0.007434458999341587,while out off the necessary jobs waiting to,0.2159102656248706,0.11627906976744186,0.25
+46,sample_489,"be done and then work quietly through them ,",0.010649374999047723,"We done and then work quietly through them ,",0.2159102656248706,0.022727272727272728,0.1111111111111111
+47,sample_490,thing else . If we would only sit down and,0.008433250000962289,thing the Tyre would only sit down and,0.2159102656248706,0.21428571428571427,0.4
+48,sample_512,day timetable .,0.006305082999460865,day timetable .,0.24639106774998254,0.0,0.0
+49,sample_513,"As it is , with so much of our life already",0.014037708000614657,"As it is , with so much of our life already",0.24639106774998254,0.0,0.0
+50,sample_514,"to five of the timetable , the following",0.009712625000247499,"to five of the timetable , the following",0.24639106774998254,0.0,0.0
+51,sample_541,done ( or must be done because of other predetermined factors,0.01287104199946043,done ( or must be done because of other predetermined factors,0.24639106774998254,0.0,0.0
+52,sample_543,thing at a time . A list or a plan enables us to,0.008765749998929095,thing of time . A listor a plan matter or to,0.24639106774998254,0.25,0.46153846153846156
+53,sample_579,answer or that our sugya is quoting from,0.00941729199985275,answer or that our suaya is quoting from,0.24639106774998254,0.025,0.125
+54,sample_597,part of the verse .,0.004886499998974614,part of the verse .,0.24639106774998254,0.0,0.0
+55,sample_601,become so well known that it was,0.016687249999449705,become so well known that it was,0.24639106774998254,0.0,0.0
+56,sample_611,"the court of Shem , the court of Samuel of Ramah ,",0.011123041998871486,"the court of Svein , the court of Samuel of Ranch ,",0.2760434948750117,0.1,0.16666666666666666
+57,sample_619,"the potentialities of the craft , and crochet was",0.012230124999405234,"the potentialities of the craft , and crochet was",0.2760434948750117,0.0,0.0
+58,sample_624,herring having some orientation with the,0.010551875000601285,herring leaving some orientation with the,0.2760434948750117,0.05,0.16666666666666666
+59,sample_628,is always from the north ) .,0.0073799159999907715,is always from the mall ) .,0.2760434948750117,0.17857142857142858,0.14285714285714285
+60,sample_638,"movements , although primarily",0.006891958000778686,"Moeemun's , although primarily",0.2760434948750117,0.13333333333333333,0.25
+61,sample_640,"geography . Geography , too , names the",0.005745041000409401,"geography . Geography , too , makes the",0.2760434948750117,0.05128205128205128,0.125
+62,sample_641,a deep-water channel to the Dogger where,0.007001500000114902,a deepmaster channel to the Dogger where,0.2760434948750117,0.075,0.14285714285714285
+63,sample_642,Their descent stops at the end of the light pressure . But,0.008168332999048289,Their descent stops at the end of the light pressure . But,0.2760434948750117,0.0,0.0
+64,sample_652,going to travel a hundred,0.0057129580000037095,giving to travel a hundred,0.2865930051250416,0.08,0.2
+65,sample_654,other banks are most of them,0.011445542000728892,other banks are most of them,0.2865930051250416,0.0,0.0
+66,sample_677,and Suffolk beaches .,0.005138250000527478,and Suffolk beaches .,0.2865930051250416,0.0,0.0
+67,sample_708,aware of the moving footrope before,0.006286541000008583,aware of the moving footrope before,0.2865930051250416,0.0,0.0
+68,sample_711,Let us consider first what would,0.006737625000823755,tet us consider first what would,0.2865930051250416,0.03125,0.16666666666666666
+69,sample_750,trails . It was learned that Elizabeth Camp had been lending,0.02770395900006406,trails . It was learned that Eli-abeth Camp had been leading,0.2865930051250416,0.03333333333333333,0.18181818181818182
+70,sample_761,been broken off after one particular,0.012671707998379134,been broken off - after one particular,0.2865930051250416,0.05555555555555555,0.16666666666666666
+71,sample_763,"description , but the man was not traced .",0.021324917001038557,"description , but the man was not attracted",0.2865930051250416,0.11904761904761904,0.2222222222222222
+72,sample_789,wrote an anti-railway industrialist when it was,0.012907334001283743,wrote an anti-railway industrialist when it was,0.29230268225001055,0.0,0.0
+73,sample_798,darkness .,0.0030531249994965037,alazinger .,0.29230268225001055,0.7,0.5
+74,sample_815,"of foul play , the verdict brought in was that there",0.023317458000747138,"of foul play , the verdict brought in was that there",0.29230268225001055,0.0,0.0
+75,sample_816,"24 , 1905 , a Sunday , Sub-Inspector Peacock , of",0.021612916998492437,"24, 1908 , a Sunday , Sub- Inspector Peacock , of",0.29230268225001055,0.061224489795918366,0.45454545454545453
+76,sample_817,Though in the minds of most people there was,0.017962916999749723,Though in the minds of most people there was,0.29230268225001055,0.0,0.0
+77,sample_825,had walked deliberately into the blackness and,0.01160479200007103,had valued deliberately into the placeness and,0.29230268225001055,0.08695652173913043,0.2857142857142857
+78,sample_831,was found to have her own silk scarf drawn,0.009162874999674386,was found to have her own silk scarf drawn,0.29230268225001055,0.0,0.0
+79,sample_840,"Both her wrists bore the marks of severe bruising ,",0.013038416998824687,"Both her wrists bore the man's of severe bruising ,",0.29230268225001055,0.0392156862745098,0.1
+80,sample_841,and there were other injuries on her body which had,0.013665166999999201,and there were other injuries on her body which had,0.24614990112490887,0.0,0.0
+81,sample_875,music to which the Frenchman would not dance ;,0.014688582999951905,"music to which the Frenchman would not dance , '",0.24614990112490887,0.06521739130434782,0.2222222222222222
+82,sample_877,"many centuries ago , in some cave or hilly",0.007846000000427011,"many centuries ago , in some cave or hilly",0.24614990112490887,0.0,0.0
+83,sample_879,"hide , did our forebears home from the chase",0.007638749999387073,"hide , did our forebears home from the chase",0.24614990112490887,0.0,0.0
+84,sample_905,It is a far enough cry from the primitive,0.011220833999686874,It is a far enough cry from primitive,0.24614990112490887,0.0975609756097561,0.1111111111111111
+85,sample_907,showing a guest something of ourselves .,0.009718166000311612,showing a great something of ourselves .,0.24614990112490887,0.05,0.14285714285714285
+86,sample_949,his birthright to him for a mess of pottage - and,0.017098250000344706,his birthright to him for a mess of cottage - and,0.24614990112490887,0.02040816326530612,0.09090909090909091
+87,sample_953,"Does one , however , know who first thought",0.009781499999007792,"Does one , however know who first thought",0.24614990112490887,0.046511627906976744,0.1111111111111111
+88,sample_983,and intellect . A remarkable peculiarity in the banquets,0.017774583999198512,and intellect . A remarkable peculiarity in the banquets,0.32422542187487124,0.0,0.0
+89,sample_1014,"In China , for instance , dried rats are esteemed",0.013953333000245038,"In China , for instance , dried rats are esteemed",0.32422542187487124,0.0,0.0
+90,sample_1030,If that country had not been for so long a battlefield red,0.01535633299863548,If that country had not been for so long a battlefield red,0.32422542187487124,0.0,0.0
+91,sample_1031,provides many Magyar dishes with a vivid and brilliant,0.01778783299960196,provides many Mayyar dishes with a vivid and brilliant,0.32422542187487124,0.018518518518518517,0.1111111111111111
+92,sample_1034,"with the blood shed to defend Christian civilisation ,",0.021932916999503504,"with the blood shed to defend Christian civilisation ,",0.32422542187487124,0.0,0.0
+93,sample_1053,possibly comparable alone to a gypsy,0.028188917000079527,possibly comparable alone to a gypsy,0.32422542187487124,0.0,0.0
+94,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,",0.015912790999209392,"noble dish is , A sort of soups , or broth , or brew ,",0.32422542187487124,0.018867924528301886,0.06666666666666667
+95,sample_1112,welcomed by men of genius as well as the foods for,0.0065549579994694795,welcomed by men of genius as well as the foods for,0.32422542187487124,0.0,0.0
+96,sample_1143,It was naturally a highly popular victory with the,0.013456457998472615,It was naturally a highly popular victory with the,0.2924928542499856,0.0,0.0
+97,sample_1148,a great sailor and an able strategist .,0.008838834000926,a great sailor and an able strategist .,0.2924928542499856,0.0,0.0
+98,sample_1165,the longbows of yeomen could pierce the,0.006749624999429216,the longbows of yeoman could pierce the,0.2924928542499856,0.02564102564102564,0.14285714285714285
+99,sample_1174,It seems obvious that if an expedition to,0.00995412500014936,It seems obvious that if an expedition to,0.2924928542499856,0.0,0.0
+100,sample_1176,"Calais , Cherbourg , Brest , Bordeaux and Bayonne ,",0.008292374999655294,"Calais , Cherbourg , Great , Bardean and Bayonne ,",0.2924928542499856,0.09803921568627451,0.2
+101,sample_1191,"war , there was a constant stirring of",0.01778195900078572,"war , there was a constant stirring of",0.2924928542499856,0.0,0.0
+102,sample_1198,ceptions of governmental duties must be,0.01246829200135835,ceptions of governmental duties must be,0.2924928542499856,0.0,0.0
+103,sample_1203,guilds of a city . A mediaeval tax was,0.023415249999743537,guilds of a city . A mediaeval tax was,0.2924928542499856,0.0,0.0
+104,sample_1205,"monasteries , manors , townships , or wards and",0.025893874999383115,"monasteries , manors , townships , or words and",0.2618948646249919,0.02127659574468085,0.1111111111111111
+105,sample_1211,was quite alien to mediaeval thought - its,0.018434957999488688,was quite alien to mediaeval thought - its,0.2618948646249919,0.0,0.0
+106,sample_1213,substitute was the mutual self-help of,0.01936299999943003,substitute was the mutual self-help of,0.2618948646249919,0.0,0.0
+107,sample_1242,"nal funds , they were usually granted an",0.008442249998552143,"nal founds , they were usually pranted on",0.2618948646249919,0.075,0.375
+108,sample_1254,vely simple obligations of the feudal pyramid,0.010272584000631468,rely simple obligations of the feudal pyramid,0.2618948646249919,0.022222222222222223,0.14285714285714285
+109,sample_1285,merchants who could tempt court and,0.010786832999656326,merchants who could tempt court and,0.2618948646249919,0.0,0.0
+110,sample_1292,"John de Kyrkby , a Londoner , was one of",0.013385875001404202,"John de Kyrkby , a Londoner , was one of",0.2618948646249919,0.0,0.0
+111,sample_1301,because no machinery was provided for,0.006175708000228042,because not machinery was provided for,0.2618948646249919,0.02702702702702703,0.16666666666666666
+112,sample_1327,of blood from the wound . Arterial diastole is,0.011824499999420368,of blood from the wound . Arterial diastate is,0.2678660833748836,0.043478260869565216,0.1111111111111111
+113,sample_1336,ventricular one slowly and,0.010307124999599182,ventricular one slowly fast and,0.2678660833748836,0.19230769230769232,0.25
+114,sample_1341,ways .,0.002178583999921102,ways .,0.2678660833748836,0.0,0.0
+115,sample_1357,they would be there to begin the meeting .,0.009740250001414097,they would be there to begin the meeting .,0.2678660833748836,0.0,0.0
+116,sample_1376,at funerals . Religion was one of his pet,0.008915332999094971,at funerals . Religion was one of his pet,0.2678660833748836,0.0,0.0
+117,sample_1383,Although his ideas were diametrically opposed,0.010791583999889554,Although his ideas were disambically general,0.2678660833748836,0.24444444444444444,0.3333333333333333
+118,sample_1386,to those of parsons he got on wonderfully well,0.009127707999141421,to those of persons be got on wordsfully well,0.2678660833748836,0.10869565217391304,0.3333333333333333
+119,sample_1395,"Liberals , they were going to fight the Labour",0.005871708000995568,"liberals , they were going to fight the Labour",0.2678660833748836,0.021739130434782608,0.1111111111111111
+120,sample_1407,"After the First World War , 1914 , I did not visit",0.010251334000713541,"After the first World War , 1914 , I did not visit",0.2667879271250513,0.02,0.08333333333333333
+121,sample_1410,Towards the end of my five and a half years',0.010989791999236331,Towards the end of my five and a half years',0.2667879271250513,0.0,0.0
+122,sample_1412,1924 I was in a different parish in Surrey .,0.018541666000601253,1924 I was in a different parish in Surrey .,0.2667879271250513,0.0,0.0
+123,sample_1413,a village choral society and conduct it .,0.008033959000385948,a village choral society and conduct it .,0.2667879271250513,0.0,0.0
+124,sample_1417,at Tatsfield to the great modern church of St. Mark's,0.024103957999614067,at Tatsfield to the great modern church of St Mark's,0.2667879271250513,0.018867924528301886,0.1
+125,sample_1439,wives and relations of the soldiers to get their ' Separation ',0.018320291999771143,wives and relations of the soldiers to get their ' Separation ?,0.2667879271250513,0.015873015873015872,0.08333333333333333
+126,sample_1468,evidently not passed on that information ;,0.014947292000215384,evidently not passed on that information ;,0.2667879271250513,0.0,0.0
+127,sample_1481,became great sighs of ecstacy .,0.016674250000505708,became and notials of economic,0.2667879271250513,0.5161290322580645,0.6666666666666666
+128,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,0.007025707998764119,abroad ; and no pedestrian to cross his path nor to wait,0.2622147031249824,0.0,0.0
+129,sample_1512,"Deadly stillness , deadly portent !",0.007933791999676032,"Deadly stillness , deadly patient !",0.2622147031249824,0.08571428571428572,0.16666666666666666
+130,sample_1515,flying saucer was tilting and dipping over,0.008064582998486003,flying cancer was tilting and dipping over,0.2622147031249824,0.047619047619047616,0.14285714285714285
+131,sample_1526,selves in their zeal to get their orders and to carry,0.009584040999470744,selves in their goal to get their orders and to carry,0.2622147031249824,0.03773584905660377,0.09090909090909091
+132,sample_1548,not have been entirely an objective suggestion,0.010581707998426282,not have been entirely an objective suggestion,0.2622147031249824,0.0,0.0
+133,sample_1550,working out . It occurred to Steve that this may,0.00808833299925027,working out . It occurred to Steve that this may,0.2622147031249824,0.0,0.0
+134,sample_1558,So they proceeded to see if the coast,0.012428292000549845,So they proceeded to see if the coast,0.2622147031249824,0.0,0.0
+135,sample_1568,"down , up and down .",0.00506462499834015,"down , up and down .",0.2622147031249824,0.0,0.0
+136,sample_1572,communication and of a vague,0.005536790999030927,communication and of a vague,0.29344115100002455,0.0,0.0
+137,sample_1583,the Avenue from its many tributary streets . It might have,0.008072500000707805,the Avenue from its many trilmonary streets . It might have,0.29344115100002455,0.06896551724137931,0.09090909090909091
+138,sample_1585,"walked , or drove , or waited as a person possessed of",0.013659542000823421,"walked , or drove , or waited as a person possessed of",0.29344115100002455,0.0,0.0
+139,sample_1587,he waited . The bus stop was a deserted island on an empty street .,0.010818291000759928,he waited . The bus stop was a deserted island on a empty street .,0.29344115100002455,0.014925373134328358,0.06666666666666667
+140,sample_1589,"as arranged , but he consoled himself by",0.009689333999631344,"as arranged , but he consulted himself by",0.29344115100002455,0.05,0.125
+141,sample_1591,January or early February . Angelina might be a,0.00999141699867323,January or early February . Angelina might be a,0.29344115100002455,0.0,0.0
+142,sample_1593,"back on Moon again , and able to do",0.009962459000234958,"back on Moon again , and able to do",0.29344115100002455,0.0,0.0
+143,sample_1597,Then he would go back to Plato for a final spell of,0.010618332999001723,Then he would go back to Plato for a final spell of,0.29344115100002455,0.0,0.0
+144,sample_1616,"never her husband , a fact he accepted as inevitable . "" I guess",0.007157957999879727,"never her husband , a fact he accepted as inevitable . "" I guess",0.27720013025009393,0.0,0.0
+145,sample_1621,penetrate beyond the minds of astronomers was of general,0.007600625000122818,exertimate beyond the minds of astronomers was of general,0.27720013025009393,0.08928571428571429,0.1111111111111111
+146,sample_1669,trans-economic .,0.006338292001601076,transuming a dozen ones i.c.,0.27720013025009393,1.125,2.5
+147,sample_1680,"Mos have an un-American love of parades , and",0.023521459001131007,"Most have an un-American love of parades , and",0.27720013025009393,0.022222222222222223,0.1111111111111111
+148,sample_1703,shadows beyond the river . ' Something moved . ',0.009137625000221306,shadows beyond the river . ' Something moved . ',0.27720013025009393,0.0,0.0
+149,sample_1704,can you . Look over there . ' He pointed to the,0.013820583000779152,can you look over there . ' He pointed to the,0.27720013025009393,0.06382978723404255,0.16666666666666666
+150,sample_1713,may have thought I had become unbalanced,0.008276292001028196,may have thought I had become unbalanced,0.27720013025009393,0.0,0.0
+151,sample_1714,"to entertain for an instant the idea , the",0.00946358299916028,"to entertain for an instant the idea , the",0.27720013025009393,0.0,0.0
+152,sample_1728,"thoughtful , but that was his habit . Indeed",0.007084332999511389,"thoughtful , but that was his habit . Indeed",0.4419371353751558,0.0,0.0
+153,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",0.010018666998803383,""" speaking , Hodgold . "" He sought to endorid hair in his arms . But he was too later .",0.4419371353751558,0.2261904761904762,0.23809523809523808
+154,sample_1741,heart that Morfydd was leaving him as surely as she was leaving Dinas .,0.008416167000177666,heart that thought was learning hair as surely as she was leaving Olivier .,0.4419371353751558,0.23943661971830985,0.2857142857142857
+155,sample_1748,damn bus .,0.0030672080010845093,dann bowls .,0.4419371353751558,0.4,0.6666666666666666
+156,sample_1756,"the mask , now , Ifor did . "" Dai Pugh , "" he bellowed . "" Leap on your bicycle",0.008056874999965657,"the mark , now . Ifor had , "" Asa itself , "" he followed . "" Begun can your triangle",0.4419371353751558,0.3291139240506329,0.47619047619047616
+157,sample_1766,"was , as he feared , departed out of his life ,",0.011454167000920279,"was , as he feared , departed out of his life ,",0.4419371353751558,0.0,0.0
+158,sample_1770,"he still loved her dearly . Already , even",0.011101833000793704,"he still loved her dearly . Already , even",0.4419371353751558,0.0,0.0
+159,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",0.008049374999245629,""" Where are we going ? "" he echoed Cadwalladder .",0.4419371353751558,0.020833333333333332,0.09090909090909091
+160,sample_1791,running into Llangrwl bus station .,0.0112174160003633,running into Llangrwl bus station .,0.28452442187494853,0.0,0.0
+161,sample_1792,"his head . "" God bless my immortal soul , """,0.014103125000474392,"his head . "" God bless my immortal soul , """,0.28452442187494853,0.0,0.0
+162,sample_1797,"folded it , and glanced idly out of the",0.007582541000374476,"folded it , and glanced idly out of the",0.28452442187494853,0.0,0.0
+163,sample_1798,"soul , "" said Megan Thomas tartly .",0.007182375000411412,"sord , "" Said Megan Thomas hardly .",0.28452442187494853,0.14285714285714285,0.375
+164,sample_1831,"restive queue of people in the bus station ,",0.01303383400045277,"sertive queue of people in the bus station ,",0.28452442187494853,0.045454545454545456,0.1111111111111111
+165,sample_1842,his Eth . Morfydd thought of Dai . The,0.01423008300116635,his 5th. Morfydd thought of Dai's The,0.28452442187494853,0.10526315789473684,0.4444444444444444
+166,sample_1862,""" Do as I say , driver . "" Very stern , the reverend",0.009666459000072791,""" Do at I say , driver . "" Very stern , the revered",0.28452442187494853,0.038461538461538464,0.14285714285714285
+167,sample_1869,"Stared back did Price the Provisions , unwinking .",0.011549917000593268,"Stared back did Price the Provisional , unwishing .",0.28452442187494853,0.08,0.2222222222222222
+168,sample_1876,"began to read . "" Six loaves , four pounds butter ,",0.019873416000336874,"began to read . "" Six looms , four pounds better ,",0.3116893541250647,0.0784313725490196,0.16666666666666666
+169,sample_1883,"' Be silent , woman , and listen , ' Band Appa Bondi said .",0.02583066700026393,"' Be silent , woman , and listen , ' Bond Appa Bondi said",0.3116893541250647,0.05084745762711865,0.13333333333333333
+170,sample_1888,tigerfly is not a tigerfly until it changes . So humans,0.02419324999937089,rigerfly is not a tigerfly until it changes . So humans,0.3116893541250647,0.01818181818181818,0.09090909090909091
+171,sample_1892,Flor were listening .,0.006924125000296044,For were listening .,0.3116893541250647,0.047619047619047616,0.25
+172,sample_1912,Chief Captive said . Suddenly his second head roused,0.024008208001760067,Chief Captive said . Suddenly his second head roused,0.3116893541250647,0.0,0.0
+173,sample_1920,"The flyman with ear lobes and thumbs connected ,",0.022234624999327934,"The flyman with ear lobes and thumbs connected ,",0.3116893541250647,0.0,0.0
+174,sample_1927,from harm . ',0.004116291000173078,from harm . ',0.3116893541250647,0.0,0.0
+175,sample_1936,"asked . ' What else ? Flor and Lily-yo , you arrive",0.017572583999935887,"asked . ' What else ? Flor and Lily-yo , you arrive",0.3116893541250647,0.0,0.0
+176,sample_1968,so much confidence in her . Once again,0.010331125000448083,to march confidence in her . Once again,0.2323342603749552,0.07894736842105263,0.25
+177,sample_2029,movements of the Bentley . It had passed,0.005926499999986845,improvement of the Bentley . It had passed,0.2323342603749552,0.1,0.125
+178,sample_2056,express their disgust at Sir John's abominable treatment,0.003618958000515704,express their biggest # at Sir. John's admirable treatment,0.2323342603749552,0.16071428571428573,0.5
+179,sample_2094,"fault . """,0.002569000000221422,"pault . """,0.2323342603749552,0.1111111111111111,0.3333333333333333
+180,sample_2106,"wherefores of your actions , "" he said",0.010550125000008848,"wherefores of your actions , "" he said",0.2323342603749552,0.0,0.0
+181,sample_2139,precisely the remark she had made to Guy .,0.012957208999068826,precisely the remark she had made to buy .,0.2323342603749552,0.023809523809523808,0.1111111111111111
+182,sample_2147,your knowledge of all the affairs of the,0.009888874999887776,your knowledge of all the affairs of the,0.2323342603749552,0.0,0.0
+183,sample_2165,"man was , she thought impatiently ,",0.0070046250002633315,"man was , she thought impatently ,",0.2323342603749552,0.02857142857142857,0.14285714285714285
+184,sample_2178,"would be 3"" plenty , plenty sad "" not to be back",0.0198510840000381,"would be 3""plenty , plenty sad "" not to be back at",0.29386995824984297,0.08333333333333333,0.25
+185,sample_2183,"to all kin' o' boats , wid d'ose big , big",0.0058618340008251835,"to all trial of Scouts , which chose big , big",0.29386995824984297,0.30952380952380953,0.45454545454545453
+186,sample_2184,We all know how Balicou Island dangerous,0.008819124999718042,We all know how Balicou Island dangerous,0.29386995824984297,0.0,0.0
+187,sample_2192,"day . Though he did not refuse wine , which the",0.010454833000039798,"day . Though he did not refuse wine , which , the",0.29386995824984297,0.0425531914893617,0.09090909090909091
+188,sample_2204,with part of that howling northwest gale .,0.012827500000639702,with part of that howling northwest gate .,0.29386995824984297,0.023809523809523808,0.125
+189,sample_2208,"by trying to come home now , even if he did promise ?",0.012960166999619105,"by trying to come home now , even if he did promise ?",0.29386995824984297,0.0,0.0
+190,sample_2212,yawl recover .,0.0035746249996009283,yourst recover .,0.29386995824984297,0.35714285714285715,0.3333333333333333
+191,sample_2213,"weather side of that pier ! He 'll wreck ! """,0.0111097079989122,weather side of that pier ! He'll speak I'll,0.29386995824984297,0.18181818181818182,0.45454545454545453
+192,sample_2218,is going to try to make a landing on the,0.01012141600040195,is going to try to make a landing on the,0.32445176562509914,0.0,0.0
+193,sample_2220,jibbing the boom to which he had the,0.009327166000730358,jibbing the boom to which he had the,0.32445176562509914,0.0,0.0
+194,sample_2224,"of wet canvas , Bill cleared the",0.007550209000328323,"of wet canvas , Bill cleared the",0.32445176562509914,0.0,0.0
+195,sample_2231,"everything , when he wants to . """,0.008775250000326196,"everything , When he means to , """,0.32445176562509914,0.15151515151515152,0.375
+196,sample_2244,water in her . I wouldn't be,0.010618541000440018,wrote in her . I wouldn't be,0.32445176562509914,0.10714285714285714,0.14285714285714285
+197,sample_2261,With four doing the job and the waves,0.009494916999756242,With four doing the jobs and the waves,0.32445176562509914,0.02702702702702703,0.125
+198,sample_2264,"exclaimed the judge . "" Toss them on the grass",0.007484833999114926,"exclaimed the judge . "" Toss them on the grass",0.32445176562509914,0.0,0.0
+199,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he",0.014956875000279979,"don't you ? "" John gave a short laugh . "" I did , "" he",0.32445176562509914,0.0,0.0
+200,sample_2290,and tonic .,0.003713833999427152,and tenie .,0.30933649999997215,0.18181818181818182,0.3333333333333333
+201,sample_2297,must have been worth a great deal to the proprietors,0.014126374999250402,must have been worth a great deal to the propriers,0.30933649999997215,0.038461538461538464,0.1
+202,sample_2326,one in return and he was lonely .,0.005960042000879184,one in return and he was lonely .,0.30933649999997215,0.0,0.0
+203,sample_2333,all else . We pride ourselves about accuracy on,0.009509666000667494,all else . We pride ourselves about accuracy on,0.30933649999997215,0.0,0.0
+204,sample_2358,going to take over command of Pericles . Am I,0.011290999998891493,going to take over command of Pericles . Am I,0.30933649999997215,0.0,0.0
+205,sample_2368,"off it , "" said Bawley . "" The proprietor of the Daily",0.006751375000021653,"off it . "" said Bawley . "" The proprietor of the Daily",0.30933649999997215,0.018518518518518517,0.07692307692307693
+206,sample_2395,"away from Service matters , was an excellent",0.0061030830001982395,"away from Service matters , was an excellent",0.30933649999997215,0.0,0.0
+207,sample_2398,"of the work is done . "" He held out a card .",0.0070850000010977965,"of the work is done . "" He held out a card .",0.30933649999997215,0.0,0.0
+208,sample_2422,affair of Parsifal . Harry had lost a good deal of weight .,0.011082291999628069,officier of Parsifal . Harry had last a good deal of weight .,0.3160493697500897,0.0847457627118644,0.15384615384615385
+209,sample_2445,"my mind . "" This would be as good a place",0.010444292000101996,"my mind . "" This would he as good a place",0.3160493697500897,0.024390243902439025,0.09090909090909091
+210,sample_2449,"in , Johnny . "" "" I know . But if lead starts",0.010823249998793472,"in , Johnny . "" I know . But if lead starts",0.3160493697500897,0.044444444444444446,0.07692307692307693
+211,sample_2452,men who 'll be after that coach I 'm interested,0.013633792001201073,men who'll be after that coach I'm interceded,0.3160493697500897,0.10638297872340426,0.5
+212,sample_2469,""" Maybe you don't know about Appleton ,",0.011659083000267856,""" Maybe you don't know about Appleton ,",0.3160493697500897,0.0,0.0
+213,sample_2489,"into draws , circling a big mesa by a",0.009834333000981132,"site draws , circling a bigmba by a",0.3160493697500897,0.16216216216216217,0.3333333333333333
+214,sample_2501,we figured would lead to the miners' camp .,0.01726879200032272,we figured would lead to the miners' camp .,0.3160493697500897,0.0,0.0
+215,sample_2505,in pairs .,0.0028394589990057284,an inquiry .,0.3160493697500897,0.6,0.6666666666666666
+216,sample_2513,got no whiskers so as you can see . Just you,0.025122000000919797,get no missiles so as you can see . Just you,0.2662313749999612,0.1590909090909091,0.18181818181818182
+217,sample_2519,was never long on patience .,0.010225832998912665,was never long on patience .,0.2662313749999612,0.0,0.0
+218,sample_2520,"wavered . We sat our horses , waiting . "" Looks as",0.015940417000820162,"wavored . We sat our horses , waiting . "" looks as",0.2662313749999612,0.04,0.16666666666666666
+219,sample_2522,"though they 're expecting trouble , "" I said . "" Where",0.01257666700075788,"though they're expecting trouble , "" I said . "" Where",0.2662313749999612,0.018518518518518517,0.16666666666666666
+220,sample_2528,in a huddle upon an upturned wheelbarrow .,0.023474834000808187,in a huddle upon an upturned wheelbarrow .,0.2662313749999612,0.0,0.0
+221,sample_2541,dly decadence and absorption in debase-,0.015621750000718748,ally decadence and absorption in defense-,0.2662313749999612,0.1282051282051282,0.3333333333333333
+222,sample_2549,speak normally .,0.005767624999862164,speak normally .,0.2662313749999612,0.0,0.0
+223,sample_2562,"windows , sir , they date back to",0.024630750000142143,"windows , sir , they date been to",0.2662313749999612,0.09090909090909091,0.125
+224,sample_2596,"shoulder . "" That 's a pretty girl ! "" Gay glanced behind her , "" Isn't she",0.010103874999913387,"shoulder . That's a pretty girl ! "" Gay glanced behind her , "" Don't she",0.3725917448750806,0.06666666666666667,0.2222222222222222
+225,sample_2605,to the bar . Doc and Lilyan were,0.013895750000301632,to the ball . Doc and Lilyan well,0.3725917448750806,0.125,0.25
+226,sample_2614,had bought a drink and taken it outside .,0.0245481669990113,had bought a drink and taken it outside .,0.3725917448750806,0.0,0.0
+227,sample_2620,"gesture of hopelessness , knowing that her",0.019851291999657406,"gesture of hopelessness , launching that her",0.3725917448750806,0.11904761904761904,0.14285714285714285
+228,sample_2624,decided to go back and join Lilyan and,0.016318458001478575,decided to go back and join Libyan and,0.3725917448750806,0.02631578947368421,0.125
+229,sample_2630,"anything , "" Gay told herself desperately ,",0.012611624999408377,"anything , "" Gay told herself desperately ,",0.3725917448750806,0.0,0.0
+230,sample_2632,"Simone on to the floor . "" It doesn't mean",0.024819374999424326,"Simone on to the floor . "" It doesn't mean",0.3725917448750806,0.0,0.0
+231,sample_2643,"dance , "" Doc's cheery voice came as a",0.0069720000010420335,"dance , "" Doc's cheery voice came as a",0.3725917448750806,0.0,0.0
+232,sample_2686,No other news except that Elaine is engaged,0.010450040999785415,No other news except Elaine is engaged,0.29261678650004797,0.11627906976744186,0.125
+233,sample_2693,"and going to marry a foreigner ... """,0.006896458000483108,"and going to marry a foreigner ... """,0.29261678650004797,0.0,0.0
+234,sample_2723,been standing in for Luke Parsons at his surgery in,0.007754415999443154,been standing in for Luke Parsons at his surgery in,0.29261678650004797,0.0,0.0
+235,sample_2732,when she was not free ; this much they had,0.010629332999087637,when she was not free ; this much they had,0.29261678650004797,0.0,0.0
+236,sample_2769,Gubbins boy thought he saw you at the Load of Trouble .,0.013185083000280429,gubbins boy thought he saw you at the head of Trouble .,0.29261678650004797,0.05454545454545454,0.16666666666666666
+237,sample_2772,""" What about it , my sweet ? "" "" Well , "" she laughed",0.00935895800103026,""" What about it , my sweet ? "" "" Well , "" she laughed",0.29261678650004797,0.0,0.0
+238,sample_2780,Though Diana knew the name of every,0.016376542000216432,Though Diana knew the name of every,0.29261678650004797,0.0,0.0
+239,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,0.010619874999974854,""" But I want it can protested . It's my ring . """,0.29261678650004797,0.18181818181818182,0.35294117647058826
+240,sample_2806,seeing the look of admiration and revelation,0.015146666999498848,seeing the look of admiration and revelation,0.2620355728749928,0.0,0.0
+241,sample_2807,"from his pocket . "" At a price , "" he concluded ,",0.012237124999955995,"from his pocket . "" At a price , "" he concluded ,",0.2620355728749928,0.0,0.0
+242,sample_2839,"with a gesture she knew so well ,",0.008157500000379514,"will a gesture she knew so well ,",0.2620355728749928,0.06060606060606061,0.125
+243,sample_2840,scription for the sedatives . You,0.004114499999559484,scriptions for the sedatives . You,0.2620355728749928,0.030303030303030304,0.16666666666666666
+244,sample_2863,all she could hear were Nicholas's,0.012947540999448393,all she could hear were Nicholas's,0.2620355728749928,0.0,0.0
+245,sample_2864,what they were saying . Sandra,0.00475712500156078,what they were saying . Sandra,0.2620355728749928,0.0,0.0
+246,sample_2871,"little joy , or satisfaction , it had",0.006153624999569729,"little joy , or satisfaction , it had",0.2620355728749928,0.0,0.0
+247,sample_2877,no matter how one might want to,0.007853082999645267,in a matter how one might want to,0.2620355728749928,0.0967741935483871,0.2857142857142857
+248,sample_2902,the deceit . The lies . ',0.007061457999952836,the deceit's theories . ',0.27251902100033476,0.2,0.5714285714285714
+249,sample_2908,"His digressions too , seemed to have no other",0.009777375000339816,"His discussions too , seemed to have no other",0.27251902100033476,0.06666666666666667,0.1111111111111111

@@ -38,6 +38,7 @@ ENV/
 # Datasets
 # =========================
 #data/
+/data/bentham/
 datasets/
 *.csv
 !templates/local_images.csv
