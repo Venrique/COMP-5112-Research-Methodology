@@ -1,0 +1,27 @@
+{
+  "best_overall": "nlm_h1",
+  "best_denoising": "nlm_h1",
+  "denoising_parameters": {
+    "name": "non_local_means",
+    "enabled": true,
+    "h": 1.0,
+    "h_color": 3.0,
+    "template_window_size": 7,
+    "search_window_size": 21
+  },
+  "criterion": "lowest equal-dataset mean corpus CER; WER tie-breaker; baseline eligible",
+  "dataset_winners": [
+    {
+      "dataset": "bentham",
+      "configuration": "nlm_h1",
+      "cer": 0.15467869222096955,
+      "wer": 0.2932745314222712
+    },
+    {
+      "dataset": "iam",
+      "configuration": "nlm_h7",
+      "cer": 0.010862186014935505,
+      "wer": 0.0405982905982906
+    }
+  ]
+}

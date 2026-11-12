@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "clahe_configurations": 5,
+  "baseline_configurations": 1,
+  "validation_samples_per_dataset": 100,
+  "completed_dataset_configuration_pairs": 12,
+  "seed": 42
+}

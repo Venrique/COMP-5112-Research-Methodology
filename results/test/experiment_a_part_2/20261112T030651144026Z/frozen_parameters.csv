@@ -1,0 +1,13 @@
+dataset,technique,parameters
+iam,intensity_normalization,"{""name"": ""intensity_normalization"", ""enabled"": true, ""processing"": ""global min-max over all channels; round to uint8; constant unchanged"", ""output_range"": [0, 255]}"
+iam,grayscale,"{""name"": ""grayscale"", ""enabled"": true, ""output_mode"": ""L""}"
+iam,denoising,"{""name"": ""non_local_means"", ""enabled"": true, ""h"": 7.0, ""h_color"": 3.0, ""template_window_size"": 7, ""search_window_size"": 21}"
+iam,deskew,"{""name"": ""deskew"", ""enabled"": true, ""max_angle"": 5, ""angle_step"": 0.5, ""estimator"": ""otsu_projection_difference"", ""resampling"": ""bicubic"", ""expand"": true, ""fill"": ""white""}"
+iam,clahe,"{""name"": ""clahe"", ""enabled"": true, ""clip_limit"": 1, ""tile_grid_size"": [8, 8], ""processing"": ""grayscale directly; RGB via LAB luminance""}"
+iam,size_normalization,"{""name"": ""size_normalization"", ""enabled"": true, ""target_height"": 128, ""resampling"": ""LANCZOS"", ""preserve_aspect_ratio"": true, ""width_rounding"": ""nearest integer, ties to even; minimum 1""}"
+bentham,intensity_normalization,"{""name"": ""intensity_normalization"", ""enabled"": true, ""processing"": ""global min-max over all channels; round to uint8; constant unchanged"", ""output_range"": [0, 255]}"
+bentham,grayscale,"{""name"": ""grayscale"", ""enabled"": true, ""output_mode"": ""L""}"
+bentham,denoising,"{""name"": ""non_local_means"", ""enabled"": true, ""h"": 1.0, ""h_color"": 3.0, ""template_window_size"": 7, ""search_window_size"": 21}"
+bentham,deskew,"{""name"": ""deskew"", ""enabled"": true, ""max_angle"": 10, ""angle_step"": 0.25, ""estimator"": ""otsu_projection_difference"", ""resampling"": ""bicubic"", ""expand"": true, ""fill"": ""white""}"
+bentham,clahe,"{""name"": ""clahe"", ""enabled"": true, ""clip_limit"": 2, ""tile_grid_size"": [16, 16], ""processing"": ""grayscale directly; RGB via LAB luminance""}"
+bentham,size_normalization,"{""name"": ""size_normalization"", ""enabled"": true, ""target_height"": 128, ""resampling"": ""LANCZOS"", ""preserve_aspect_ratio"": true, ""width_rounding"": ""nearest integer, ties to even; minimum 1""}"

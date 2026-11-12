@@ -1,0 +1,3 @@
+dataset,configuration,sample_count,cer,wer,preprocessing_seconds,inference_seconds,cer_delta_vs_baseline,wer_delta_vs_baseline
+bentham,baseline,100,0.15963923337091318,0.2954796030871003,0.032620792996567616,28.34978566600148,0.0,0.0
+iam,baseline,100,0.011541072640868975,0.0438034188034188,0.002182954000090831,37.38686166599928,0.0,0.0

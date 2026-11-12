@@ -1,0 +1,9 @@
+{
+  "dataset": "bentham",
+  "configuration": "intensity_normalization",
+  "sample_count": 100,
+  "cer": 0.15377677564825254,
+  "wer": 0.29768467475192945,
+  "preprocessing_seconds": 0.17573721398366615,
+  "inference_seconds": 27.712733961005142
+}

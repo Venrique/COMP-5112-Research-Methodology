@@ -1,0 +1,977 @@
+index,sample_id,ground_truth,preprocessing_seconds,prediction,inference_seconds,cer,wer
+0,sample_0,It was a splendid interpretation of the,4.6207999730540905e-05,It was a splendid interpretation of that,1.0149974843749305,0.05128205128205128,0.14285714285714285
+1,sample_1,sympathetic C O . Paul Daneman gave another,1.6416999642387964e-05,sympathetic CO . Paul Daneman gave another,1.0149974843749305,0.023255813953488372,0.25
+2,sample_2,"part . The rest of the cast were well chosen ,",1.3457999557431322e-05,"part . The rest of the cast were well chosen ,",1.0149974843749305,0.0,0.0
+3,sample_3,with James Maxwell making a fine job of the,1.0667000424291473e-05,with James Maxwell making a fine job of the,1.0149974843749305,0.0,0.0
+4,sample_4,""" The Little Key . """,7.58399983169511e-06,""" The Little Key . """,1.0149974843749305,0.0,0.0
+5,sample_5,first-class performance last night as a,1.0124999789695721e-05,first-class performance last night as a,1.0149974843749305,0.0,0.0
+6,sample_6,wartime naval officer in the B B C's,1.4209000255505089e-05,wartime naval officer in the BBC's,1.0149974843749305,0.05555555555555555,0.375
+7,sample_7,the imagination which asked the viewer to,1.1416999768698588e-05,the imagination which asked the viewer to,1.0149974843749305,0.0,0.0
+8,sample_8,""" Britain - Blood , Sweat , and Tears ... Plus",1.887500002339948e-05,"' Britain - Blood ' , Tweet , and Tears ... . Plus",0.31768905212504706,0.15217391304347827,0.36363636363636365
+9,sample_9,The play was no more than a figment of,7.999999979801942e-06,The play was no more than a figment of,0.31768905212504706,0.0,0.0
+10,sample_10,effect . MORE than 100 viewers complained to,7.708999874012079e-06,effect . MORE than 100 viewers complained to,0.31768905212504706,0.0,0.0
+11,sample_11,production by Michael Hayes . He captured,7.208999704744201e-06,production by Michael Hayes . He captured,0.31768905212504706,0.0,0.0
+12,sample_12,the atmosphere of fog and mystery to great,6.7909995777881704e-06,the atmosphere of fog and mystery to great,0.31768905212504706,0.0,0.0
+13,sample_13,believe in a beautiful ghost . It would have been,8.25000006443588e-06,believe in a beautiful ghost . It would have been,0.31768905212504706,0.0,0.0
+14,sample_14,"the B B C last night that an Amercian film ,",8.707999768375885e-06,"the BBC last night that an American film ,",0.31768905212504706,0.09090909090909091,0.36363636363636365
+15,sample_15,"Twenty Years , "" was anti-British .",6.333999408525415e-06,"Twenty Years "" , was anti-British .",0.31768905212504706,0.05714285714285714,0.2857142857142857
+16,sample_16,an impossible piece of television but for clever,2.912499985541217e-05,an impossible piece of television but for clever,0.36251400000003287,0.0,0.0
+17,sample_17,It also parades Gina Lollobrigida in a selection of neglige*?,4.391699985717423e-05,It also parades Gina Lollobrigida in a selection of neglige - 2,0.36251400000003287,0.06557377049180328,0.3
+18,sample_18,Lollobrigida . In the holiday seasonal months before and,2.2916000489203725e-05,Lollobrigida . In the holiday seasonal months before and,0.36251400000003287,0.0,0.0
+19,sample_19,Mr. Hudson is an American millionaire who spends each,6.241600021894556e-05,Mr. Hudson is an American millionaire who spends each,0.36251400000003287,0.0,0.0
+20,sample_20,and Rock Hudson at the wheel of a shining silver Rolls-Royce .,2.4041999495238997e-05,and Rock Hudson at the wheel of a shining silver Rolls-Royce,0.36251400000003287,0.03225806451612903,0.08333333333333333
+21,sample_21,hotel .,9.166999916487839e-06,hotel .,0.36251400000003287,0.0,0.0
+22,sample_22,after this annual idyll his major-domo ( Walter Slezak,2.1750000087195076e-05,after this annual idyll his major-domo ( Walter Slezak,0.36251400000003287,0.0,0.0
+23,sample_23,"2e-and-nightie ensembles not too well designed for sleeping in ,",1.7709000530885532e-05,"2e-and-nightie ensembles not too well designed for sleeping in ,",0.36251400000003287,0.0,0.0
+24,sample_24,September in his Italian villa and the company of Signorina,2.337500063731568e-05,September in his Italian villa and the company of Signorina,0.2753024113750371,0.0,0.0
+25,sample_25,at his most nauseating ) turns the palazzo into a luxury,8.415999218414072e-06,at his most nauseating ) turns the palazzo into a luxury,0.2753024113750371,0.0,0.0
+26,sample_26,revised even before the upheaval . The ingenuity,1.1874999472638592e-05,revised even before the upheaval . The ingenuity,0.2753024113750371,0.0,0.0
+27,sample_27,Most of those who expound a theory of textual,9.209000381815713e-06,Most of those who expound a theory of textual,0.2753024113750371,0.0,0.0
+28,sample_28,written entirely by one author before the,8.292000529763754e-06,written entirely by one author before the,0.2753024113750371,0.0,0.0
+29,sample_29,to suppose that the original book had been,1.8125000678992365e-05,to suppose that the original book had been,0.2753024113750371,0.0,0.0
+30,sample_30,argument against them .,1.0624999958963599e-05,argument against them,0.2753024113750371,0.08695652173913043,0.25
+31,sample_31,of the theories is impressive and is the best,1.8415999875287525e-05,of the theories is impressive and is the best,0.2753024113750371,0.0,0.0
+32,sample_32,dislocation take it for granted that the Gospel was,6.525000026158523e-05,dislocation take it for granted that the Gospel was,0.24748281249992488,0.0,0.0
+33,sample_33,disturbance took place but a few leave it open,4.945899945596466e-05,disturbance took place but a few leave it open,0.24748281249992488,0.0,0.0
+34,sample_34,Thomas Spreng,2.0000000404252205e-05,Thomas Spreng,0.24748281249992488,0.0,0.0
+35,sample_35,which text is used .,1.9791999875451438e-05,which text is used .,0.24748281249992488,0.0,0.0
+36,sample_36,The most convenient one for the authors,6.829199992353097e-05,The most convenient one for the authors,0.24748281249992488,0.0,0.0
+37,sample_37,it is not a matter of the greatest importance,3.5041000046476256e-05,it is not a matter of the greatest importance,0.24748281249992488,0.0,0.0
+38,sample_38,has been the text of A. Souter . In this,7.47499998396961e-05,has been the text of A. Souter . In this,0.24748281249992488,0.0,0.0
+39,sample_39,version of the text the Fourth Gospel is,3.379100053280126e-05,version of the text the Fourth Gospel is,0.24748281249992488,0.0,0.0
+40,sample_40,"printed as just over 1,000 different nouns ,",1.5833000361453742e-05,"printed as just over 1,000 different nouns ,",0.29167581249998875,0.0,0.0
+41,sample_41,"verbs , and other parts of speech occurring",7.791999451001175e-06,"verbs , and other parts of speech occurring",0.29167581249998875,0.0,0.0
+42,sample_42,forms . There are other texts which could,9.083000804821495e-06,forms . There are other texts which could,0.29167581249998875,0.0,0.0
+43,sample_43,"15,695 times in their different grammatical",1.0083999768539798e-05,"15,695 times in their different grammatical",0.29167581249998875,0.0,0.0
+44,sample_44,"have been used , and ( as shown in Table 1 )",7.0000005507608876e-06,"have been used , and ( as shown in Table 1 )",0.29167581249998875,0.0,0.0
+45,sample_45,is a matter of editorial decision rather,7.665999874006957e-06,is a matter of editorial decision rather,0.29167581249998875,0.0,0.0
+46,sample_46,Souter and the other texts is rather,9.95800019154558e-06,Souter and the other texts is rather,0.29167581249998875,0.0,0.0
+47,sample_47,"of Souter's text and the 15,416 of Nestle's .",9.249999493476935e-06,"of Souter's text and the 15,416 of Nestle's .",0.29167581249998875,0.0,0.0
+48,sample_48,large . But the British text includes,9.254100041289348e-05,large . But the British text includes,0.24470909374997518,0.0,0.0
+49,sample_49,"for 178 words out of 279 , which is",7.749999895168003e-06,"for 178 words out of 279 , which is",0.24470909374997518,0.0,0.0
+50,sample_50,"the paragraph 7.53-8.11 , the Woman",8.166000043274835e-06,"the paragraph 7.53-8.11 , the Woman",0.24470909374997518,0.0,0.0
+51,sample_51,At first sight the difference between,7.083000127749983e-06,At first sight the difference between,0.24470909374997518,0.0,0.0
+52,sample_52,"taken in Adultery , and this accounts",7.292000191227999e-06,"taken in Adultery , and this accounts",0.24470909374997518,0.0,0.0
+53,sample_53,The omission or inclusion of this paragraph,8.458000593236648e-06,the omission or inclusion of this paragraph,0.24470909374997518,0.023255813953488372,0.14285714285714285
+54,sample_54,"the difference between the 15,695 words",8.166000043274835e-06,"the difference between the 15,695 words",0.24470909374997518,0.0,0.0
+55,sample_55,is derived . Qoheleth has a second,6.541999937326182e-06,in derived . Qoheleth has a second,0.24470909374997518,0.029411764705882353,0.14285714285714285
+56,sample_56,VINEYARDS ( 1 Kings 4.25 ; S. of Sol. 8.11 ) .,2.2834000446891878e-05,UNOYARDS ( 1 Kings 4.25 ; S. of Sol. 8.11 ),0.35852680212508403,0.10869565217391304,0.16666666666666666
+57,sample_57,"The word is a Persian loan-word ,",6.750000466126949e-06,"The word is a Persian loan-word ,",0.35852680212508403,0.0,0.0
+58,sample_58,in Neh. 2.8 and S. of Sol. 4.13 .,8.25000006443588e-06,in Neh. 2.8 and S. of Sol. 4.13 .,0.35852680212508403,0.0,0.0
+59,sample_59,"pairi-deaza , from which our word paradise",7.417000233544968e-06,"pairi-deaza , from which our word paradise",0.35852680212508403,0.0,0.0
+60,sample_60,no happier than Adam was !,1.0417000339657534e-05,no happier than Adam was ?,0.35852680212508403,0.038461538461538464,0.16666666666666666
+61,sample_61,Close to the building projects would be the,1.3666000086232089e-05,Close to the building projects would be the,0.35852680212508403,0.0,0.0
+62,sample_62,paradise at his disposal but he is,9.749999662744813e-06,paradise at his disposal but he is,0.35852680212508403,0.0,0.0
+63,sample_63,The word is used in the singular,6.624999514315277e-06,The word is used in the singular,0.35852680212508403,0.0,0.0
+64,sample_64,"the Paradise , the only place where the Shamir",3.837500025838381e-05,"the Paradise , the only place where the Shamir",0.2950255312499621,0.0,0.0
+65,sample_65,"Prince of the Demons , "" Ashmodeus "" to bring him",1.3665999176737387e-05,"Prince of the Demons , "" Ashmodeus "" to bring him",0.2950255312499621,0.0,0.0
+66,sample_66,"Shamir had not been placed under his charge , as",1.6125000001920853e-05,"Shamir had not been placed under his change , as",0.2950255312499621,0.020833333333333332,0.1
+67,sample_67,there is no Shamir in Gehenna ( Hell ) . An eagle,1.3249999938125256e-05,there is no Shamir in Gehenna ( Hell ) . An eagle,0.2950255312499621,0.0,0.0
+68,sample_68,could be found .,1.024999983201269e-05,could be found .,0.2950255312499621,0.0,0.0
+69,sample_69,"brought the Shamir to Solomon from Eden ,",1.912500010803342e-05,brought the Shamir to Solomon from Galen,0.2950255312499621,0.12195121951219512,0.25
+70,sample_70,the Shamir and Ashmodeus told him that the,1.7875000594358426e-05,the Shamir and Ashmodeus told him that the,0.2950255312499621,0.0,0.0
+71,sample_71,"According to the legend , Solomon had asked the",1.1916999937966466e-05,"According to the legend , Solomon had asked the",0.2950255312499621,0.0,0.0
+72,sample_72,as a very precious diamond-stone and very adamant .,2.3499999770137947e-05,as a very precious diamond - stone and very adamant,0.27580698437509454,0.0784313725490196,0.4444444444444444
+73,sample_73,"the existence of it . These birds are , the Cherubim",2.537500040489249e-05,"the existence of it . These birds are , the Cherubim",0.27580698437509454,0.0,0.0
+74,sample_74,and the Seraphim . We are also told that the Shamir,9.708999641588889e-06,and the Seraphim . We are also told that the Shamir,0.27580698437509454,0.0,0.0
+75,sample_75,"a sanctuary , and only some rare birds know",9.792000128072686e-06,"a sanctuary , and only some rare birds know",0.27580698437509454,0.0,0.0
+76,sample_76,"is the stylus used by Moses , and this stylus is described",8.457999683741946e-06,"is the stylus used by Moses , and this stylus is described",0.27580698437509454,0.0,0.0
+77,sample_77,The Talmud describes that the Shamir lives in,2.3249999685504008e-05,The Talmud describes that the Shamir lives in,0.27580698437509454,0.0,0.0
+78,sample_78,"as days of HEAVEN ON EARTH "" That",6.8340004872879945e-06,"as days of HEAVEN ON EARTH , That",0.27580698437509454,0.030303030303030304,0.125
+79,sample_79,"days of your children in the land , which",1.2000000424450263e-05,"days of your children in the land , which",0.27580698437509454,0.0,0.0
+80,sample_80,means the Kingdom of Messianic Righteousness,2.404099996056175e-05,means the Kingdom of Messianic Righteousness .,0.2754836197499344,0.045454545454545456,0.16666666666666666
+81,sample_81,"the Lord swear unto your father to give them ,",1.4958000065234955e-05,"the Lord swear unto your father to give them ,",0.2754836197499344,0.0,0.0
+82,sample_82,And we will nail the Divine Law on the,3.683400063891895e-05,And we will nail the Divine Law on the,0.2754836197499344,0.0,0.0
+83,sample_83,""" That your days may be multiplied and the",8.625000191386789e-06,""" That your days may be multiplied and the",0.2754836197499344,0.0,0.0
+84,sample_84,door posts of the house and upon the gates .,7.916999493318144e-06,door parts of the house and upon the gates .,0.2754836197499344,0.045454545454545456,0.1
+85,sample_85,( Talmud Sanh. 99A ) .,1.141600023402134e-05,( Talmud Sanh. 99A ),0.2754836197499344,0.09090909090909091,0.16666666666666666
+86,sample_86,"The Messusah , which is nailed on the doorposts",2.1083999854454305e-05,"The Messusah , which is nailed on the doorposts",0.2754836197499344,0.0,0.0
+87,sample_87,"of the Shmah ( Numbers 15 , 37-41 ) is",7.832999472157098e-06,"of the Shmah ( Numbers 15 , 37-41 ) is",0.2754836197499344,0.0,0.0
+88,sample_88,"story , which is also in the Hagadah that",2.166699960071128e-05,"story , which is also in the Hagadah that",0.2762318801250103,0.0,0.0
+89,sample_89,"the "" tsitsits "" . This lesson used to be read",1.929099926201161e-05,"the "" tsitsits , . This lesson used to be read",0.2762318801250103,0.021739130434782608,0.09090909090909091
+90,sample_90,contains those two lessons . The third lesson,8.041000000957865e-06,contains those two lessons . The third lesson,0.2762318801250103,0.0,0.0
+91,sample_91,nearly seventy and I had not succeeded that,1.304199940932449e-05,nearly seventy and I had not succeeded that,0.2762318801250103,0.0,0.0
+92,sample_92,only in the morning . And the Talmud tells a,6.582999958482105e-06,only in the morning . And the Talmud tells a,0.2762318801250103,0.0,0.0
+93,sample_93,"called "" the going-out of the land of",5.99999930273043e-06,"called "" the going-out of the land of",0.2762318801250103,0.0,0.0
+94,sample_94,"Rabbi Eleasar ben Assarja said , "" I am",1.208400044561131e-05,"Rabbi Eleasar ben Assarja said , "" I am",0.2762318801250103,0.0,0.0
+95,sample_95,"Egypt "" . It starts with the story of the fringes",6.416999895009212e-06,"Egypt "" It starts with the story of the fringes",0.2762318801250103,0.04081632653061224,0.09090909090909091
+96,sample_96,means in the day-time ; all the days of,1.249999968422344e-05,means in the day-time ; all the days of,0.244918369750053,0.0,0.0
+97,sample_97,it important that when we read the,9.04199987417087e-06,it important that when we read the,0.244918369750053,0.0,0.0
+98,sample_98,should remember the Great,7.208000170066953e-06,should remember the Great,0.244918369750053,0.0,0.0
+99,sample_99,"Ben Zoma said : "" The days of 1thy life",2.5582999114703853e-05,"Ben Zoma said : "" The days of 1thy life",0.244918369750053,0.0,0.0
+100,sample_100,with the fringes ( the tsitsits ) .,7.624999852851033e-06,with the fringes ( the tsitsits ) .,0.244918369750053,0.0,0.0
+101,sample_101,"Shmah "" to be willing to hear , "" we",7.083000127749983e-06,"Shmah "" to be willing to hear , "" we",0.244918369750053,0.0,0.0
+102,sample_102,"1thy life means even at night-time . """,6.958000085433014e-06,"1thy life means even at night-time . """,0.244918369750053,0.0,0.0
+103,sample_103,Deliverance : Passover and its connection,1.183299991680542e-05,Deliverance : Passover and its connection,0.244918369750053,0.0,0.0
+104,sample_104,( Berochoth . ) And the Rabbis thought,1.7500000467407517e-05,( Berochoth ) And the Rabbis thought,0.32255206249999446,0.05263157894736842,0.125
+105,sample_105,"resent the "" Bread of Poverty "" which our fore-fathers",2.5749999622348696e-05,"resent the "" Bread of Poverty "" which our fore-fathers",0.32255206249999446,0.0,0.0
+106,sample_106,and we invite anybody who wishes to partake in our,1.1042000551242381e-05,and we invite anybody who wishes to partake in our,0.32255206249999446,0.0,0.0
+107,sample_107,"and eat , Anybody who is thirsty , let him come and",2.6916999559034593e-05,"and eat , Anybody who is this city , let him come and",0.32255206249999446,0.0784313725490196,0.16666666666666666
+108,sample_108,"were eating in Mitzrajim , to show they were willing to learn ;",1.1625000297499355e-05,"were eating in Mitzrajim , to show they were willing to learn ;",0.32255206249999446,0.0,0.0
+109,sample_109,"start the Seder showing the Matzos , that they rep-",1.1166999684064649e-05,"start the Seder showing the Matzos , that they rep-",0.32255206249999446,0.0,0.0
+110,sample_110,"drink . """,9.749999662744813e-06,"drink . """,0.32255206249999446,0.0,0.0
+111,sample_111,Leaning back carries the concealed message . And we,3.6749999708263204e-05,Leaning back carries the concealed message . And we,0.32255206249999446,0.0,0.0
+112,sample_112,"discussions , saying : "" Anybody who is hungry , let him come",1.9750000319618266e-05,"discussions , saying : "" Anybody who is hungry , let him come",0.35784633324999504,0.0,0.0
+113,sample_113,"demptions are asked at the Seder-evening about these "" four",1.208400044561131e-05,"demptions are asked at the Seder-evening about these "" four",0.35784633324999504,0.0,0.0
+114,sample_114,really interrogations to examine into the principles of the four re-,1.5499999790336005e-05,really interrogations to examine into the principles of the four-re-,0.35784633324999504,0.014705882352941176,0.18181818181818182
+115,sample_115,"symbols "" ( the MANISHTANO ) . And the person who asks these",1.3083999874652363e-05,"symbols "" ( the MANISHTANO ) . And the person who asks these",0.35784633324999504,0.0,0.0
+116,sample_116,conducting the Seder .,6.958000085433014e-06,conducting the Seder .,0.35784633324999504,0.0,0.0
+117,sample_117,And we want all to eat and drink His Great Philosophy of the,2.1083999854454305e-05,And we want all to eat and drink His Great Philosophy of the,0.35784633324999504,0.0,0.0
+118,sample_118,questions is seeking the opinion of the one who is,1.0666999514796771e-05,questions is seeking the opinion of the one who is,0.35784633324999504,0.0,0.0
+119,sample_119,"four ways of Israel's redemption . Hence "" four questions "" , which are",2.1374999960244168e-05,"four ways of Israel's redemption . Hence "" four questions "" , which are",0.35784633324999504,0.0,0.0
+120,sample_120,to help them to face whatever it is that,2.979199962283019e-05,to help them to face whatever it is that,0.21504884887497155,0.0,0.0
+121,sample_121,"of use telling even children , as I have",1.9874999452440534e-05,"of use telling even children , as I have",0.21504884887497155,0.0,0.0
+122,sample_122,irrational pre-conceived notions - or to,2.433299960102886e-05,irrational pre-conceived notions - or to,0.21504884887497155,0.0,0.0
+123,sample_123,fears are based upon completely,1.0665999980119523e-05,fears are based upon completely,0.21504884887497155,0.0,0.0
+124,sample_124,to pull themselves together . Far better,9.41600046644453e-06,to pull themselves together . Far better,0.21504884887497155,0.0,0.0
+125,sample_125,cause and then deal with it ; show it,1.8916999579232652e-05,cause and then deal with it ; show it,0.21504884887497155,0.0,0.0
+126,sample_126,In the first place it is not a great deal,9.084000339498743e-06,In the first place it is not a great deal,0.21504884887497155,0.0,0.0
+127,sample_127,"already suggested , not to be silly or",1.645800057303859e-05,"already suggested , not to be silly or",0.21504884887497155,0.0,0.0
+128,sample_128,"is worrying them , to find the original",2.4292000489367638e-05,"is worrying them , to find the original",0.3075028958750181,0.0,0.0
+129,sample_129,up either for the sham it is - and many,1.4707999980601016e-05,up either for the sham it is - and many,0.3075028958750181,0.0,0.0
+130,sample_130,on .,3.916999958164524e-06,on .,0.3075028958750181,0.0,0.0
+131,sample_131,There are several instances where he seemed unable to go,6.875000508443918e-06,There are several instances where he seemed unable to go,0.3075028958750181,0.0,0.0
+132,sample_132,"too many details , would help many a child to make a",1.5792000340297818e-05,"too many details , would help many a child to make a",0.3075028958750181,0.0,0.0
+133,sample_133,proper adjustment to life as it grows up . Let us look,7.624999852851033e-06,proper adjustment to life as it grows up . Let us look,0.3075028958750181,0.0,0.0
+134,sample_134,"A little more honesty , even if one refrains from going into",9.499999578110874e-06,"A little more honesty , even if one refrains from going into",0.3075028958750181,0.0,0.0
+135,sample_135,"at Jesus . We do not , I think , see there a life without fear .",1.8458999875292648e-05,"at Jesus . We do not , I think , see there a life without fear",0.3075028958750181,0.03125,0.058823529411764705
+136,sample_136,Amen . MOST people would probably regard tiredness as a,1.7833000129030552e-05,Amen . MOST people would probably regard tiredness as a,0.2913501614999632,0.0,0.0
+137,sample_137,partly true . Many people wake up tired of a morning and no,2.8166999982204288e-05,partly true . Many people wake up tired of a morning and no,0.2913501614999632,0.0,0.0
+138,sample_138,purely physical thing . The cure for which is sleep . This is only,1.6958999367489014e-05,pureally physical thing . The cure for which is sleep . This is only,0.2913501614999632,0.030303030303030304,0.07142857142857142
+139,sample_139,"amount of rest seems to make any difference . Sleep , to be",1.2832999345846474e-05,"amount of rest seems to make any difference . Sleep , to be",0.2913501614999632,0.0,0.0
+140,sample_140,from innocence .,8.167000487446785e-06,from innocence .,0.2913501614999632,0.0,0.0
+141,sample_141,"effective , must be of that child-like quality which comes",1.6125000001920853e-05,"effective , must be of that child-like quality which comes",0.2913501614999632,0.0,0.0
+142,sample_142,Nor is she necessarily being deceitful . She really did feel tired,1.2624999726540409e-05,War is she necessarily being deceitful . She really did feel tired,0.2913501614999632,0.030303030303030304,0.08333333333333333
+143,sample_143,with our mental state as with our physical exhaustion . A,1.541600067866966e-05,with our mental state as with our physical exhaustion . A,0.2913501614999632,0.0,0.0
+144,sample_144,disturbed mind can bring the healthiest body to a sense,2.058300015050918e-05,disturbed mind can bring the healthiest body to a sense,0.3063656250000122,0.0,0.0
+145,sample_145,"of fatigue . They wonder why they get no rest at night ,",7.292000191227999e-06,"of fatigue . They wonder why they get no rest at night ,",0.3063656250000122,0.0,0.0
+146,sample_146,until the mind got the necessary injection of a fresh - and an,7.167000148911029e-06,until the mind got the necessary injection of a fresh - and an,0.3063656250000122,0.0,0.0
+147,sample_147,"attractive - interest ! Tiredness has , therefore , as much to do",9.166999916487839e-06,"attractive - interest ! Tiredness has , therefore , as much to do",0.3063656250000122,0.0,0.0
+148,sample_148,even if they do sleep .,5.541000064113177e-06,even if they do sleep .,0.3063656250000122,0.0,0.0
+149,sample_149,we lose this way in the course of a day we would be,7.70800033933483e-06,we lose this way in the course of a day we would be,0.3063656250000122,0.0,0.0
+150,sample_150,"staggered . Some of it is inevitable , and we do not want to",6.91700006427709e-06,"staggered . Some of it is inevitable , and we do not want to",0.3063656250000122,0.0,0.0
+151,sample_151,through .,3.958999513997696e-06,through .,0.3063656250000122,0.0,0.0
+152,sample_152,If we ever stopped to consider how much energy - and time -,2.0500000573520083e-05,If we ever stopped to consider how much energy - and time -,0.2606841250000116,0.0,0.0
+153,sample_153,"become too pernickety . Nevertheless , we could all probably",1.0292000297340564e-05,"become too pernickety . Nevertheless , we could all probably",0.2606841250000116,0.0,0.0
+154,sample_154,be a little more orderly for we so frequently just muddle,2.40420004047337e-05,be a little more orderly for we so frequently just muddle,0.2606841250000116,0.0,0.0
+155,sample_155,worse the school system whereby for,8.25000006443588e-06,worse the school system whereby for,0.2606841250000116,0.0,0.0
+156,sample_156,a critic may say - you are calling,9.791999218577985e-06,a critic may say - you are calling,0.2606841250000116,0.0,0.0
+157,sample_157,"they say , to get into a rut . Save us",1.3166999451641459e-05,"they say , to get into a rut . Save us",0.2606841250000116,0.0,0.0
+158,sample_158,"us to adventure , do not strangle us before",6.441700043069432e-05,"us to adventure , do not strangle us before",0.2606841250000116,0.0,0.0
+159,sample_159,"exactly what , on any given day of the",1.2041999980283435e-05,"exactly what , on any given day of the",0.2606841250000116,0.0,0.0
+160,sample_160,we start by putting us into a strait-jacket,3.4084000617440324e-05,we start by putting us into a strait-jacket,0.24517313012506747,0.0,0.0
+161,sample_161,"routine destroys the soul . It is so easy ,",3.999999989900971e-05,"routine destroys the soul . It is so easy ,",0.24517313012506747,0.0,0.0
+162,sample_162,from the school curriculum and even,1.1750000339816324e-05,from the school curriculum and even,0.24517313012506747,0.0,0.0
+163,sample_163,There may be some who will argue that,1.9999999494757503e-05,There may be some who will argue that,0.24517313012506747,0.0,0.0
+164,sample_164,"week , they are going to have . If - such",4.037500002596062e-05,"week , they are going to have . If - such",0.24517313012506747,0.0,0.0
+165,sample_165,meals everybody knows beforehand,2.1040999854449183e-05,meals everybody knows beforehand,0.24517313012506747,0.0,0.0
+166,sample_166,that he was a great man for lace - paying,8.292000529763754e-06,that he was a great man for lace - paying,0.24517313012506747,0.0,0.0
+167,sample_167,didn't mean he was prepared to do as much,7.708999874012079e-06,didn't mean he was prepared to do as much,0.24517313012506747,0.0,0.0
+168,sample_168,and I fell out about my not being willing,2.0292000044719316e-05,and I fell out about my not being willing,0.2966817656249532,0.0,0.0
+169,sample_169,as much as 3 for a lace collar . But this,1.7833000129030552e-05,as much as 3 for a lace collar . But this,0.2966817656249532,0.0,0.0
+170,sample_170,We know from the diaries of Samuel Pepys,8.708999303053133e-06,We know from the diaries of Samuel Pepys,0.2966817656249532,0.0,0.0
+171,sample_171,to have her gown laced . ',7.209000614238903e-06,to have her gown laced . ',0.2966817656249532,0.0,0.0
+172,sample_172,"for his lady , for he records testily : ' My wife",7.917000402812846e-06,"for his lady , for he records testily : ' My wife",0.2966817656249532,0.0,0.0
+173,sample_173,reign of Charles 2 stating : ' Lost : a lawn 1hand-,9.499999578110874e-06,reign of Charles 2 stating : ' Last : a lawn 1hand-,0.2966817656249532,0.0196078431372549,0.08333333333333333
+174,sample_174,fine Point lace about four fingers broad ' and,7.417000233544968e-06,fine Point lace about four fingers broad ' and,0.2966817656249532,0.0,0.0
+175,sample_175,among the effects left by Nell Gwyn is an,6.875000508443918e-06,among the effects left by Nell Gwyn is an,0.2966817656249532,0.0,0.0
+176,sample_176,unpaid bill for ' scarlet satin shoes with,3.5457999729260337e-05,unpaid bill for ' scarlet satin shoes with,0.2310669531250369,0.0,0.0
+177,sample_177,kercher with a broad hem laced round with,3.0125000193947926e-05,kercher with a broad hem laced round with,0.2310669531250369,0.0,0.0
+178,sample_178,silver lace ' . The records of these tender trifles,1.7332999959762674e-05,silver lace ' . The records of these tender trifles,0.2310669531250369,0.0,0.0
+179,sample_179,are very touching but then lace does place,1.6916000276978593e-05,are very touching but then lace does place,0.2310669531250369,0.0,0.0
+180,sample_180,upon everything a delicate sentiment .,1.6250000044237822e-05,upon everything a delicate sentiment .,0.2310669531250369,0.0,0.0
+181,sample_181,"We read , with sympathy , an advertisement in the",1.4541000382450875e-05,"We read , with sympathy , an advertisement in the",0.2310669531250369,0.0,0.0
+182,sample_182,this is seen on the 150 miles of spawning,1.887500002339948e-05,this is seen on the 150 miles of spawning,0.2310669531250369,0.0,0.0
+183,sample_183,The effect of bottom congestion due to,2.1208999896771275e-05,The effect of bottom congestion due to,0.2310669531250369,0.0,0.0
+184,sample_184,them - thank Heaven ! A good picture of,3.137499970762292e-05,them - thank Heaven ! A good picture of,0.20186657299996114,0.0,0.0
+185,sample_185,"for spawning . Both result in crowding ,",9.95800019154558e-06,"for spawning . Both result in crowding ,",0.20186657299996114,0.0,0.0
+186,sample_186,the light pressure is inevitably mixed,1.0124999789695721e-05,the light pressure is inevitably mixed,0.20186657299996114,0.0,0.0
+187,sample_187,with that of the suitability of ground,9.499999578110874e-06,with that of the suitability of ground,0.20186657299996114,0.0,0.0
+188,sample_188,grounds from the Viking in the north down,3.195899989805184e-05,grounds from the Viking in the north down,0.20186657299996114,0.0,0.0
+189,sample_189,the western edge of the Norwegian,8.37500010675285e-06,the western edge of the Norwegian,0.20186657299996114,0.0,0.0
+190,sample_190,so there is no need to try to separate,2.4416000087512657e-05,so there is no need to try to separate,0.20186657299996114,0.0,0.0
+191,sample_191,Deep .,5.416000021796208e-06,deep .,0.20186657299996114,0.16666666666666666,0.5
+192,sample_192,to the Klondykes and the Reef along,2.074999974865932e-05,to the Klondykes and the Reef along,0.2483112708750923,0.0,0.0
+193,sample_193,"to this fishery , which unfortunately seems",1.9707999854290392e-05,"to this fishery , which unfortunately seems",0.2483112708750923,0.0,0.0
+194,sample_194,"at slack waters , even in daylight",1.2666000657191034e-05,"at slack waters , even in daylight",0.2483112708750923,0.0,0.0
+195,sample_195,The East Anglian behaviour ( see p. 82 ),9.375000445288606e-06,The East Anglian behaviour ( see p. 82 ),0.2483112708750923,0.0,0.0
+196,sample_196,"sometimes ; and the high swimming ,",8.958999387687072e-06,"sometimes ; and the high swimming ,",0.2483112708750923,0.0,0.0
+197,sample_197,"summer fisheries . There is the "" swim """,1.820899979065871e-05,"summer fisheries . There is the "" swim """,0.2483112708750923,0.0,0.0
+198,sample_198,has always differed from that of the,1.0417000339657534e-05,has always differed from that of the,0.2483112708750923,0.0,0.0
+199,sample_199,when fish are caught only in the top,9.624999620427843e-06,when fish are caught only in the top,0.2483112708750923,0.0,0.0
+200,sample_200,fascinating behaviour mysteries are peculiar,1.9458000679151155e-05,fascinating behaviour mysteries are peculiar,0.23899064587510566,0.0,0.0
+201,sample_201,to be dying out ; but a full discussion of,1.5708000319136772e-05,to be dying out ; but a full discussion of,0.23899064587510566,0.0,0.0
+202,sample_202,them is beyond the present scope .,1.3500000022759195e-05,them is beyond the present scope .,0.23899064587510566,0.0,0.0
+203,sample_203,few yards of netting . These and other,1.4125000234344043e-05,few yards of netting . These and other,0.23899064587510566,0.0,0.0
+204,sample_204,footrope of a trawl does this . Films,1.4209000255505089e-05,footrope of a trawl does this . Films,0.23899064587510566,0.0,0.0
+205,sample_205,the water or along the ground .,9.665999641583767e-06,the water or along the ground .,0.23899064587510566,0.0,0.0
+206,sample_206,a seine net in just the same way after,1.862499993876554e-05,a seine net in just the same way after,0.23899064587510566,0.0,0.0
+207,sample_207,"sends before it a kind of scaring effect ,",1.4958000065234955e-05,"sends before it a kind of scaring effect ,",0.23899064587510566,0.0,0.0
+208,sample_208,Underwater films suggest that the,2.6624999918567482e-05,Underwater films suggest that the,0.23543827612502355,0.0,0.0
+209,sample_209,"that all fishing gear , when moving ,",1.4958000065234955e-05,"that all fishing gear , when moving ,",0.23543827612502355,0.0,0.0
+210,sample_210,The Bow-wave Theory . This assumes,1.0333999853173736e-05,The Bow-wave Theory . This assumes,0.23543827612502355,0.0,0.0
+211,sample_211,probably through waves or vibrations in,1.7624999600229785e-05,probably through waves or vibrations in,0.23543827612502355,0.0,0.0
+212,sample_212,have also shown plaice moving before,1.5499999790336005e-05,have also shown plaice moving before,0.23543827612502355,0.0,0.0
+213,sample_213,being gathered inwards by the ropes .,1.4416000340133905e-05,being gathered inwards by the ropes .,0.23543827612502355,0.0,0.0
+214,sample_214,of her sisters . A young man from Reading named Marshall,1.1790999451477546e-05,of her sisters . A young man from Reading named Marshall,0.23543827612502355,0.0,0.0
+215,sample_215,"had at first been considered as belonging to the killer ,",1.329200040345313e-05,"had at first been considered as belonging to the killer ,",0.23543827612502355,0.0,0.0
+216,sample_216,"Even the bone cuff-links found beside the body , which",2.4541999664506875e-05,"Even the bone cuff-links found beside the body , which",0.33787089062502673,0.0,0.0
+217,sample_217,had an uncomfortable time in the presence of the coroner .,9.374999535793904e-06,had an uncomfortable time in the presence of the coroner .,0.33787089062502673,0.0,0.0
+218,sample_218,they had been borrowed by Elizabeth Camp from one,8.709000212547835e-06,they had been borrowed by Elizabeth Camp from one,0.33787089062502673,0.0,0.0
+219,sample_219,"proved yet another red herring , for it was learned that",9.16600038181059e-06,"proved yet another red herring , for it was learned that",0.33787089062502673,0.0,0.0
+220,sample_220,"his military bearing ) , and this was accepted .",7.2500006353948265e-06,"his military bearing ) , and this was accepted",0.33787089062502673,0.041666666666666664,0.1
+221,sample_221,"to have been away for four days . Not in itself a crime , but , added to",1.0707999535952695e-05,"to have been away for four days . Not in itself a crime , but , added to",0.33787089062502673,0.0,0.0
+222,sample_222,explain . His story was that he had left home to try to,8.041999535635114e-06,explain . His strong was that he had left home to try to,0.33787089062502673,0.05454545454545454,0.07692307692307693
+223,sample_223,"dford for a false moustache , it left him with something to",1.6709000192349777e-05,"Alford for a false moustache , it left him with something to",0.33787089062502673,0.03389830508474576,0.08333333333333333
+224,sample_224,the knowledge that he had gone shopping in the town of Guil-,4.470800013223197e-05,the knowledge that he had gone shopping in the town of Guil-,0.2789015312499714,0.0,0.0
+225,sample_225,"This man was known to have left his home on February 11 , and",8.499999239575118e-06,"This man was known to have left his home on February 11 , and",0.2789015312499714,0.0,0.0
+226,sample_226,join the Army ( presumably feeling that a moustache might enhance,9.667000085755717e-06,join the Army ( presumably feeling that a moustache might enhance,0.2789015312499714,0.0,0.0
+227,sample_227,At Clapham Junction a ticket-collector,8.332999641424976e-06,at Clapham Junction a ticket-collector,0.2789015312499714,0.02631578947368421,0.2
+228,sample_228,A passenger at Victoria said he had seen,1.3249999938125256e-05,A passenger at Victoria said he had seen,0.2789015312499714,0.0,0.0
+229,sample_229,a train for the short run to Victoria .,2.270900040457491e-05,a train for the short run to Victoria .,0.2789015312499714,0.0,0.0
+230,sample_230,"walking arm in arm . """,1.2708000213024206e-05,"walking arm in arm . """,0.2789015312499714,0.0,0.0
+231,sample_231,was able to identify a photograph of the,9.999999747378752e-06,was able to identify a photograph of the,0.2789015312499714,0.0,0.0
+232,sample_232,"a young lady "" as near as possible """,2.9332999474718235e-05,"a young lady "" as near as possible """,0.21742488537506688,0.0,0.0
+233,sample_233,"like the photograph shown him , with",1.2375000551401172e-05,"like the photograph shown him , with",0.21742488537506688,0.0,0.0
+234,sample_234,"a man "" very close in conversation and",1.275000067835208e-05,"a man "" very close in conversation and",0.21742488537506688,0.0,0.0
+235,sample_235,on platform six waiting to board,1.1667000762827229e-05,an platform six waiting to board,0.21742488537506688,0.03125,0.16666666666666666
+236,sample_236,"girl , and he said he had last seen her",9.125000360654667e-06,"girl , and he said he had last seen her",0.21742488537506688,0.0,0.0
+237,sample_237,at East Croydon . He also believed,1.5124999663385097e-05,at East Croydon . He also believed,0.21742488537506688,0.0,0.0
+238,sample_238,A guard reported that at East Croydon,1.0540999937802553e-05,A guard reported that at East Croydon,0.21742488537506688,0.0,0.0
+239,sample_239,he had seen what was accepted as the,1.6999999388644937e-05,he had seen what was accepted as the,0.21742488537506688,0.0,0.0
+240,sample_240,have joined this train by taking,1.941600021382328e-05,have joined this train by taking,0.18831281249993026,0.0,0.0
+241,sample_241,same couple sitting close together in,9.082999895326793e-06,same couple sitting close together in,0.18831281249993026,0.0,0.0
+242,sample_242,that they had still been together at,1.2291000530240126e-05,that they had still been together at,0.18831281249993026,0.0,0.0
+243,sample_243,train from London Bridge of which,1.2292000064917374e-05,train from London Bridge of which,0.18831281249993026,0.0,0.0
+244,sample_244,a first-class compartment of the,1.0208999810856767e-05,a first-class compartment of the,0.18831281249993026,0.0,0.0
+245,sample_245,one from Victoria and changing,7.791999451001175e-06,one from Victoria and changing,0.18831281249993026,0.0,0.0
+246,sample_246,"South Croydon , and he remembered",1.329200040345313e-05,"South Croydon , and he remembered",0.18831281249993026,0.0,0.0
+247,sample_247,he was in charge . The two could,7.665999874006957e-06,he was in charge . The two could,0.18831281249993026,0.0,0.0
+248,sample_248,"signalman at Purley Oaks , who had",2.362500072194962e-05,"signalman at Purley Oaks , who had",0.21539913025003443,0.0,0.0
+249,sample_249,couple struggling in a first-class,1.383400012855418e-05,couple struggling in a first-class,0.21539913025003443,0.0,0.0
+250,sample_250,"hour before her body was discovered ,",1.4125000234344043e-05,"hour before her body was discovered ,",0.21539913025003443,0.0,0.0
+251,sample_251,Money had been dead for about an,9.667000085755717e-06,Money had been dead for about an,0.21539913025003443,0.0,0.0
+252,sample_252,Medical evidence established that Mary,7.915999958640896e-06,Medical evidence established that Mary,0.21539913025003443,0.0,0.0
+253,sample_253,and this matched reasonably well with,7.2500006353948265e-06,and this matched reasonably well with,0.21539913025003443,0.0,0.0
+254,sample_254,"seen , as the train passed his box , a",8.041999535635114e-06,"seen , as the train passed his box , a",0.21539913025003443,0.0,0.0
+255,sample_255,More important evidence came from a,1.662500017118873e-05,More important evidence came from a,0.21539913025003443,0.0,0.0
+256,sample_256,the timetable of the train in question .,2.5332999939564615e-05,the timetable of the train in question .,0.2061965261250407,0.0,0.0
+257,sample_257,been used to seeing couples engaged in,1.0959000064758584e-05,been used to seeing couples engaged in,0.2061965261250407,0.0,0.0
+258,sample_258,compartment ; but he seemed to have,1.4250000276661012e-05,compartment ; but he seemed to have,0.2061965261250407,0.0,0.0
+259,sample_259,another sense to their aid .,1.1666999853332527e-05,another sense to their aid .,0.2061965261250407,0.0,0.0
+260,sample_260,"progress , because they were men of taste",2.0124999537074473e-05,"progress , because they were men of taste",0.2061965261250407,0.0,0.0
+261,sample_261,"the Egyptians , their cookery made rapid",1.2749999768857379e-05,"the Egyptians , their cookery made rapid",0.2061965261250407,0.0,0.0
+262,sample_262,of the table to the gratification of one,1.2167000022600405e-05,of the table to the gratification of one,0.2061965261250407,0.0,0.0
+263,sample_263,"When , however , the Greeks did learn the",1.9457999769656453e-05,"When , however , the Greeks did learn the",0.2061965261250407,0.0,0.0
+264,sample_264,art of making fireproof earthenware from,1.4582999938284047e-05,art of making fireproof earthenware from,0.22245940624998184,0.0,0.0
+265,sample_265,sense alone . Having exhausted their invention,1.4207999811333138e-05,sense alone . Having exhausted their invention,0.22245940624998184,0.0,0.0
+266,sample_266,fact that they did not confine the resources,9.792000128072686e-06,fact that they did not confine the resources,0.22245940624998184,0.0,0.0
+267,sample_267,the banquets of the ancient world was the,8.292000529763754e-06,the banquets of the ancient world was the,0.22245940624998184,0.0,0.0
+268,sample_268,"palate , they broke fresh ground and called",8.291999620269053e-06,"palate , they broke fresh ground and called",0.22245940624998184,0.0,0.0
+269,sample_269,in the preparation of stimulants for the,9.875000614556484e-06,in the preparation of stimulants for the,0.22245940624998184,0.0,0.0
+270,sample_270,and intellect . A remarkable peculiarity in,9.915999726217706e-06,and intellect . A remarkable peculiarity in,0.22245940624998184,0.0,0.0
+271,sample_271,at their desserts the number of flowers,8.832999810692854e-06,at their desserts the number of flowers,0.22245940624998184,0.0,0.0
+272,sample_272,far exceeded the number of fruits .,1.554200025566388e-05,far exceeded the number of fruits .,0.24806835937499727,0.0,0.0
+273,sample_273,By delicate application of odours and richly-,1.1208000614715274e-05,By delicate application of odours and richly .,0.24806835937499727,0.044444444444444446,0.2857142857142857
+274,sample_274,essential article in their festal preparations ;,1.0959000064758584e-05,"essential article in their festal preparations ,",0.24806835937499727,0.020833333333333332,0.14285714285714285
+275,sample_275,and it is the opinion of Bassius that,1.712500034045661e-05,and it is the opinion of Bassius that,0.24806835937499727,0.0,0.0
+276,sample_276,more exquisite and ethereal enjoyment to,1.4000000192027073e-05,more exquisite and ethereal enjoyment to,0.24806835937499727,0.0,0.0
+277,sample_277,"distilled perfumes , these refined voluptuaries",1.0083999768539798e-05,"distilled perfumes , these refined voluptuaries",0.24806835937499727,0.0,0.0
+278,sample_278,fication of the sense of smelling was a,9.45899955695495e-06,fication of the sense of smelling was a,0.24806835937499727,0.0,0.0
+279,sample_279,the grosser pleasures of the board . The grati-,1.1000000085914508e-05,the grosser pleasures of the board . The grati-,0.24806835937499727,0.0,0.0
+280,sample_280,aroused the fainting appetite and added a,1.2707999303529505e-05,aroused the fainting appetite and added a,0.2315326562500104,0.0,0.0
+281,sample_281,They considered flowers as forming a very,8.957999853009824e-06,They considered flowers as forming a very,0.2315326562500104,0.0,0.0
+282,sample_282,subject of no little importance to the Romans .,1.0042000212706625e-05,subject of no little importance to the Romans,0.2315326562500104,0.0425531914893617,0.1111111111111111
+283,sample_283,smother his courtiers with flowers . Nor was,1.2083000001439359e-05,smother his courtiers with flowers . Nor was,0.2315326562500104,0.0,0.0
+284,sample_284,recreations of Heliogabalus was to,8.042000445129815e-06,recreations of Heliogabalus was to,0.2315326562500104,0.0,0.0
+285,sample_285,medicinal qualities .,6.708000000799075e-06,medicinal qualities .,0.2315326562500104,0.0,0.0
+286,sample_286,it entirely as an object of luxury that the,1.0542000381974503e-05,it entirely as an object of luxury that the,0.2315326562500104,0.0,0.0
+287,sample_287,ancients made use of flowers ; they were,8.416999662586022e-06,ancients made use of flowers ; they were,0.2315326562500104,0.0,0.0
+288,sample_288,essences fell upon him ; and one of the,4.187500053376425e-05,essences fell upon him ; and one of the,0.2324238072500293,0.0,0.0
+289,sample_289,considered to possess sanative and,2.033300006587524e-05,considered to possess sanative and,0.2324238072500293,0.0,0.0
+290,sample_290,"When Nero supped in # his Golden House ,",2.912499985541217e-05,"When Nero supped in # his Golden House ,",0.2324238072500293,0.0,0.0
+291,sample_291,a mingled shower of flowers and odorous,2.1750000087195076e-05,a mingled shower of flowers and odorous,0.2324238072500293,0.0,0.0
+292,sample_292,"ebriety , or , as Bassius less clearly",1.8582999473437667e-05,"ebriety , or , as Bassius less clearly",0.2324238072500293,0.0,0.0
+293,sample_293,power in preventing the approaches of,1.449999945180025e-05,power in preventing the approaches of,0.2324238072500293,0.0,0.0
+294,sample_294,of the brain . It is said that there is,3.9958000343176536e-05,of the brain . It is said that there is,0.2324238072500293,0.0,0.0
+295,sample_295,"According to Pliny , and others , certain",1.8792000446410384e-05,"According to Pliny , and others , certain",0.2324238072500293,0.0,0.0
+296,sample_296,"expresses it , in clarifying the functions",2.6917000468529295e-05,"expresses it , in clarifying the functions",0.21568491674997858,0.0,0.0
+297,sample_297,herbs and flowers proved of sovereign,9.250000402971637e-06,herbs and flowers proved of sovereign,0.21568491674997858,0.0,0.0
+298,sample_298,foodstuffs the traveller occasionally,8.37500010675285e-06,foodstuffs the traveller occasionally,0.21568491674997858,0.0,0.0
+299,sample_299,"nothing new under the sun , but regarding",1.2540999705379363e-05,"nothing new under the sun , but regarding",0.21568491674997858,0.0,0.0
+300,sample_300,encounters a certain measure of novelty .,8.416999662586022e-06,encounters a certain measure of novelty,0.21568491674997858,0.04878048780487805,0.14285714285714285
+301,sample_301,"In China , for instance , dried rats are",7.624999852851033e-06,"In China , for instance , dried rats are",0.21568491674997858,0.0,0.0
+302,sample_302,"white mice served alive , dipped in treacle",9.583000064594671e-06,"white mice served alive , dipped in treacle",0.21568491674997858,0.0,0.0
+303,sample_303,esteemed a delicacy . The visitor is told,7.499999810534064e-06,esteemed a delicacy . The visitor is told,0.21568491674997858,0.0,0.0
+304,sample_304,off a fever . A number of newly-born,2.312500055268174e-05,off a fever . A number of newly-born,0.283078671875046,0.0,0.0
+305,sample_305,and swallowed like a prairie oyster is,9.874999705061782e-06,and swallowed like a prairie oyster is,0.283078671875046,0.0,0.0
+306,sample_306,considered a piece of resistance .,1.3042000318819191e-05,considered a piece of resistance .,0.283078671875046,0.0,0.0
+307,sample_307,and that a stewed black rat will ward,2.541699996072566e-05,and that a stewed black rat will ward,0.283078671875046,0.0,0.0
+308,sample_308,that they restore the hair of the bald,7.8330003816518e-06,that they restore the hair of the bald,0.283078671875046,0.0,0.0
+309,sample_309,"over with flour , you will find a stack of it",8.041000000957865e-06,"over with flour , you will find a stack of it",0.283078671875046,0.0,0.0
+310,sample_310,high opinion of the octopus as an article of diet .,8.832999810692854e-06,high opinion of the octopus as an article of diet,0.283078671875046,0.0392156862745098,0.09090909090909091
+311,sample_311,"it , press it and dry it , in which form , dusted",1.2333000086073298e-05,"it , press it and dry it , in which form , dusted",0.283078671875046,0.0,0.0
+312,sample_312,in almost any provision shop .,2.433300051052356e-05,in almost any provision shop .,0.27837402600005134,0.0,0.0
+313,sample_313,a delicacy while Mediterranean peoples have a,2.112499987561023e-05,a delicacy while Mediterranean peoples have a,0.27837402600005134,0.0,0.0
+314,sample_314,So have the Japanese and the Chinese . The,1.329099995928118e-05,So have the Japanese and the Chinese . The,0.27837402600005134,0.0,0.0
+315,sample_315,Among the natives of Northern Australia lizards,1.62090000230819e-05,Among the natives of Northern Australia lizards,0.27837402600005134,0.0,0.0
+316,sample_316,"Celestials , apart from eating it fresh , squash",1.3750000107393134e-05,"Celestials , apart from eating it fresh , squash",0.27837402600005134,0.0,0.0
+317,sample_317,roasted on the point of a spear are definitely,1.500000053056283e-05,roasted on the point of a spear are definitely,0.27837402600005134,0.0,0.0
+318,sample_318,Commons agreed was that of the first poll-tax . The manifest,1.3458000466926023e-05,Commons agreed was that of the first poll-tax . The manifest,0.27837402600005134,0.0,0.0
+319,sample_319,the remainder . The method of assessment to which the,1.9874999452440534e-05,the remainder . The method of assessment to which the,0.27837402600005134,0.0,0.0
+320,sample_320,"A sum of 160,000 was demanded - a staggering figure",1.6125000001920853e-05,"A sum of 160,000 was demanded - a staggering figure",0.2930987082499996,0.0,0.0
+321,sample_321,two-thirds of this sum providing the clergy supplied,9.583000064594671e-06,two-thirds of this sum providing the clergy supplied,0.2930987082499996,0.0,0.0
+322,sample_322,"was a fairer target , and the Parliament agreed to find",9.874999705061782e-06,"was a fairer target , and the Parliament agreed to find",0.2930987082499996,0.0,0.0
+323,sample_323,weight by a flat-rate tax at treble the rate - every adult,9.250000402971637e-06,weight by a flat-rate tax at treble the rate - every adult,0.2930987082499996,0.0,0.0
+324,sample_324,"corrected by the sliding scale of the second poll-tax ,",1.6167000467248727e-05,"corrected by the sliding scale of the second poll-tax ,",0.2930987082499996,0.0,0.0
+325,sample_325,"had to pay three groats , but this time an adult was re-",9.792000128072686e-06,"had to pay three groats , but this time an adult was re-",0.2930987082499996,0.0,0.0
+326,sample_326,"to mediaeval eyes . It was determined that 100,000",1.754100048856344e-05,"to mediaeval eyes . It was determined that 100,000",0.2930987082499996,0.0,0.0
+327,sample_327,"but this lesson was ignored , and the injustice trebled in",9.874999705061782e-06,"but this lesson was ignored , and the injustice trebled in",0.2930987082499996,0.0,0.0
+328,sample_328,injustice of this method had been to a certain degree,2.841600053216098e-05,infjustice of this method had been to a certain degree,0.230887791624923,0.018867924528301886,0.1
+329,sample_329,"men were out a fortnight , disciplined and solid ,",7.583000297017861e-06,"men were out a fortnight , disciplined and solid ,",0.230887791624923,0.0,0.0
+330,sample_330,common man . ),5.167000381334219e-06,common man . ),0.230887791624923,0.0,0.0
+331,sample_331,when only 20 per cent of them stood to gain,6.833000043116044e-06,when only 20 per cent of them stood to gain,0.230887791624923,0.0,0.0
+332,sample_332,"( In this strike , as reported in the Sheffield",1.3208999916969333e-05,"( In this strike , as reported in the Sheffield",0.230887791624923,0.0,0.0
+333,sample_333,cent made sacrifices for their fellow men ;,6.582999958482105e-06,cent made sacrifices for their fellow men ;,0.230887791624923,0.0,0.0
+334,sample_334,this remarkable strike raised the question of a,5.916999725741334e-06,this remarkable strike raised the question of a,0.230887791624923,0.0,0.0
+335,sample_335,anything from the strike and the other 80 per,5.832999704580288e-06,anything from the strike and the other 80 per,0.230887791624923,0.0,0.0
+336,sample_336,living wage and showed the worth of the,2.058300015050918e-05,living wage and showed the worth of the,0.26081442712495573,0.0,0.0
+337,sample_337,"Guardian in March of that year , 1,000,000",8.041999535635114e-06,"Guardian in March of that year , 1,000,000",0.26081442712495573,0.0,0.0
+338,sample_338,"This new party , the British Socialist Party , was",1.1334000191709492e-05,"This new party , the British Socialist Party , was",0.26081442712495573,0.0,0.0
+339,sample_339,"socialist thought in the city , but sought to create",8.50000014906982e-06,"socialist thought in the city , but sought to create",0.26081442712495573,0.0,0.0
+340,sample_340,people .,1.1541999811015557e-05,people .,0.26081442712495573,0.0,0.0
+341,sample_341,not prepared to accept the role of junior helper,1.0542000381974503e-05,not prepared to accept the role of junior helper,0.26081442712495573,0.0,0.0
+342,sample_342,"in the Labour movement , or of only providing",6.416999895009212e-06,"in the Labour movement , or of only providing",0.26081442712495573,0.0,0.0
+343,sample_343,propaganda in order to increase the volume of,5.791999683424365e-06,propaganda in order to increase the volume of,0.26081442712495573,0.0,0.0
+344,sample_344,in the Labour movement a more militant attitude,2.4916999791457783e-05,in the Labour movement a more militant attitude,0.3604939427499403,0.0,0.0
+345,sample_345,capable of achieving socialism for the working,1.2707999303529505e-05,capable of achieving socialism for the working,0.3604939427499403,0.0,0.0
+346,sample_346,"who was to become a very intimate friend , and I was",1.4958000065234955e-05,"who was to become a very intimate friend , and I was",0.3604939427499403,0.0,0.0
+347,sample_347,solicitor cousin . As Bishop Talbot had told me that I,8.333000550919678e-06,solicitor cousin . As Bishop Talbot had told me that I,0.3604939427499403,0.0,0.0
+348,sample_348,"Vicar of St. Mark's , Woodcote , Purley , a new church built",8.083000466285739e-06,"Vicar of St. Mark's Woodcote , Purley , a new church built",0.3604939427499403,0.03333333333333333,0.07692307692307693
+349,sample_349,"IN 1913 Dr. Burge , Bishop of Southwark , asked me to go as",1.595799949427601e-05,"In 1913 Dr. Burge , Bishop of Southwark , asked me to go as",0.3604939427499403,0.01694915254237288,0.07142857142857142
+350,sample_350,"ought not to spend many years in Tatsfield , we held",7.791999451001175e-06,"ought not to spend many years in Tatsfield , we held",0.3604939427499403,0.0,0.0
+351,sample_351,great family consultations .,7.666000783501659e-06,great family consultations .,0.3604939427499403,0.0,0.0
+352,sample_352,later on joint executor of his estate with his,5.9375000091677066e-05,later on joint executor of his estate with his,0.3097932917499975,0.0,0.0
+353,sample_353,"by the well-known architect Mr. George Fellowes Prynne ,",2.6790999982040375e-05,by the well-known architect Mr. George Fellowes Prynne,0.3097932917499975,0.03571428571428571,0.1111111111111111
+354,sample_354,a close friend of ours .,1.6749999304011e-05,a close friend of ours .,0.3097932917499975,0.0,0.0
+355,sample_355,"his family , and found a very suitable house nearby",2.191600015066797e-05,"his family , and found a very suitable house nearby",0.3097932917499975,0.0,0.0
+356,sample_356,"Dr. John Leake , who lived at Blackheath , and was",3.937499968742486e-05,"Dr. John Leake , who lived at Blackheath , and was",0.3097932917499975,0.0,0.0
+357,sample_357,My eldest brother was then living in Limpsfield with,3.6916999306413345e-05,My eldest brother was then living in Limpsfield with,0.3097932917499975,0.0,0.0
+358,sample_358,at the age of 92 . Dr. Burge was not able to be present,2.1333999939088244e-05,at the age of 92 . Dr. Burge was not able to be present,0.3097932917499975,0.0,0.0
+359,sample_359,"This was taken by the Suffragan Bishop of Woolwich ,",2.39589999182499e-05,"This was taken by the Suffragan Bishop of Woolwich ,",0.3097932917499975,0.0,0.0
+360,sample_360,"where my mother settled , and eventually died in 1926",2.820899953803746e-05,"where my mother settled , and eventually died in 1926",0.24617379687492758,0.0,0.0
+361,sample_361,at the Institution and Induction Service in St. Mark's .,2.299999960087007e-05,at the Institution and Induction Service in St. Mark's,0.24617379687492758,0.03571428571428571,0.1
+362,sample_362,This was called Ellen Avenue when I first went,1.0708000445447396e-05,This was called Ellen Avenue when I first went,0.24617379687492758,0.0,0.0
+363,sample_363,service . I soon saw that the parish needed,9.95800019154558e-06,service . I soon saw that the parish needed,0.24617379687492758,0.0,0.0
+364,sample_364,a flourishing Sunday School and an evening,7.04200010659406e-06,a flourishing Sunday School and an evening,0.24617379687492758,0.0,0.0
+365,sample_365,We also had a little Mission Hall leading off,1.3457999557431322e-05,we also had a little Mission Hall leading off,0.24617379687492758,0.022222222222222223,0.1111111111111111
+366,sample_366,sounding name of Lansdowne Road . There,7.917000402812846e-06,sounding name of Lansdowne Road . There,0.24617379687492758,0.0,0.0
+367,sample_367,district .,3.832999937003478e-06,district .,0.24617379687492758,0.0,0.0
+368,sample_368,"were lots of children there , and we had",1.9624999367806595e-05,"were lots of children there , and we had",0.32353234375000284,0.0,0.0
+369,sample_369,"the Brighton Road , in a street full of small houses .",8.37500010675285e-06,"the Brighton Road , in a street full of small houses .",0.32353234375000284,0.0,0.0
+370,sample_370,"there , but was soon changed into the better-",7.5420002758619376e-06,"there , but was soon changed into the better-",0.32353234375000284,0.0,0.0
+371,sample_371,more help both at the church and Mission,1.0542000381974503e-05,more help both at the church and Mission,0.32353234375000284,0.0,0.0
+372,sample_372,"district and got to know , and be known by , many of",8.37500010675285e-06,"district and got to know , and be known by , many of",0.32353234375000284,0.0,0.0
+373,sample_373,the people of the parish .,6.958000085433014e-06,the people of the parish .,0.32353234375000284,0.0,0.0
+374,sample_374,Most fortunately I was able to engage the Rev. E. U. Evitt in,1.037499987432966e-05,Most fortunately I was able to engage the Rev. E. U. Evitt in,0.32353234375000284,0.0,0.0
+375,sample_375,"Lansdowne Road district , but I needed more help in the",1.6334000065398868e-05,"Lansdowne Road district , but I needed more help in the",0.32353234375000284,0.0,0.0
+376,sample_376,The Church Army Captain had done very good work in the,2.4666999706823844e-05,The Church Army Captain had done very good work in the,0.3082064374999618,0.0,0.0
+377,sample_377,"1913 soon after I had come , and he organized the Mission",1.0333000318496488e-05,"1913 soon after I had come , and he organized the Mission",0.3082064374999618,0.0,0.0
+378,sample_378,church for the full rota of services on Sundays and weekdays .,1.3291999493958429e-05,church for the full rota of services on Sundays and weekdays,0.3082064374999618,0.03225806451612903,0.08333333333333333
+379,sample_379,"that one of us must volunteer . The Bishop , Dr. Burge , did",6.999999641266186e-06,"that one of us must volunteer . The Bishop , Dr. Burge , did",0.3082064374999618,0.0,0.0
+380,sample_380,"not wish me to go then , as I had barely been in the parish",8.999999408842996e-06,"not wish me to go than , as I had barely been in the parish",0.3082064374999618,0.01694915254237288,0.06666666666666667
+381,sample_381,A great blow disturbed all our efforts in the following,8.25000006443588e-06,A great blow disturbed all our efforts in the following,0.3082064374999618,0.0,0.0
+382,sample_382,"the Forces were urgently needed , and I felt clearly",8.957999853009824e-06,"the Forces were urgently needed , and I felt clearly",0.3082064374999618,0.0,0.0
+383,sample_383,"than his Vicar , and he was accepted at once and",1.9375000192667358e-05,"that his Vicar , and he was accepted at once and",0.3082064374999618,0.020833333333333332,0.09090909090909091
+384,sample_384,work until his health broke down and he had a bad,3.4249999771418516e-05,work until his health broke down and he had a bad,0.2961375677499518,0.0,0.0
+385,sample_385,"year , 1914 , when war broke out . Very soon Chaplains for",1.8665999959921464e-05,"year , 1914 , when war broke out . Very soon Chaplains for",0.2961375677499518,0.0,0.0
+386,sample_386,was very soon in France where he did splendid,8.207999599108007e-06,was very soon in France where he did splendid,0.2961375677499518,0.0,0.0
+387,sample_387,"for a year . Mr. Evitt , however , was much less committed",9.749999662744813e-06,"for a year . Mr. Evitt , however , was much less committed",0.2961375677499518,0.0,0.0
+388,sample_388,attack of enteric fever .,7.58399983169511e-06,attack of enteric fever .,0.2961375677499518,0.0,0.0
+389,sample_389,"the date of birth of each child , as had been done",9.999999747378752e-06,"the date of birth of each child , as had been done",0.2961375677499518,0.0,0.0
+390,sample_390,been married . It was not regarded as practicable within,7.749999895168003e-06,been married . It was not regarded as practicable within,0.2961375677499518,0.0,0.0
+391,sample_391,except that they extended to all women who were or had,7.667000318178907e-06,except that they extended to all women who were or had,0.2961375677499518,0.0,0.0
+392,sample_392,in the specialised enquiry for the Royal Commission .,1.445800080546178e-05,in the specialised enquiry for the Royal Commission .,0.2534941093750831,0.0,0.0
+393,sample_393,the limits of the census to include particulars about,1.2667000191868283e-05,the limits of the census to include particulars about,0.2534941093750831,0.0,0.0
+394,sample_394,"The questions about children were the same as in 1951 ,",1.329099995928118e-05,"The questions about children were the same as in 1951 ,",0.2534941093750831,0.0,0.0
+395,sample_395,"went dead again , and Steve had no stomach for",9.874999705061782e-06,"went dead again , and Steve had no stomach for",0.2534941093750831,0.0,0.0
+396,sample_396,should be . Steve got out the car and traversed the,1.395900017087115e-05,should be . Steve got out the car and traversed the,0.2534941093750831,0.0,0.0
+397,sample_397,"in Sussex , in all its obscene details . Then the radio",1.3958999261376448e-05,"in Sussex , in all its obscure details . There the radio",0.2534941093750831,0.07272727272727272,0.16666666666666666
+398,sample_398,"After what seemed an undue period of repetition , the voice",9.207999937643763e-06,"After what seemed an undue period of repetition , the voice",0.2534941093750831,0.0,0.0
+399,sample_399,to keep an appointment with Heather .,8.50000014906982e-06,to keep an appointment with Heather-,0.2534941093750831,0.05405405405405406,0.2857142857142857
+400,sample_400,went on to describe the landing of the Thetan colony,1.9041000086872373e-05,went on to describe the landing of the Thetan colony,0.31256493224998394,0.0,0.0
+401,sample_401,"same empty streets as he had the night before ,",9.70800010691164e-06,"issue empty streets as he had the night before ,",0.31256493224998394,0.06382978723404255,0.1
+402,sample_402,"breakfast . It was a beautiful day , as firsts-of-June",9.250000402971637e-06,"breakback . It was a beautiful day , as firsts-of-June",0.31256493224998394,0.05555555555555555,0.1
+403,sample_403,them .,6.50000038149301e-06,them .,0.31256493224998394,0.0,0.0
+404,sample_404,"among our own people , finding out just how",1.4874999578751158e-05,"among our own people , finding out just how",0.31256493224998394,0.0,0.0
+405,sample_405,We must learn all we can about,1.1457999789854512e-05,We must learn all we can about,0.31256493224998394,0.0,0.0
+406,sample_406,"And third , to study these damned Thetans .",9.165999472315889e-06,"And third , to study these damned Thetans",0.31256493224998394,0.046511627906976744,0.1111111111111111
+407,sample_407,much freedom we can take with safety .,8.167000487446785e-06,much freedom we can take with safety .,0.31256493224998394,0.0,0.0
+408,sample_408,""" Now , to summarize what I think our",1.3625000065076165e-05,""" Now , to summarize what I think our",0.23142714587504543,0.0,0.0
+409,sample_409,"Thetans like the plague , for they must not",7.957999514474068e-06,"Thetans like the plague , for they must not",0.23142714587504543,0.0,0.0
+410,sample_410,"course of action should be . First , to avoid the",7.499999810534064e-06,course of action should be . First to avoid the,0.23142714587504543,0.04081632653061224,0.09090909090909091
+411,sample_411,"find us out ! Second , to tread pretty warily",7.665999874006957e-06,"find us out ! Second , to tread pretty warily",0.23142714587504543,0.0,0.0
+412,sample_412,seats some rows behind him . Steve was,1.079199955711374e-05,seats some rows behind him . Steve was,0.23142714587504543,0.0,0.0
+413,sample_413,faces very disconcerting ; and looking at,7.249999725900125e-06,faces very disconcerting ; and looking at,0.23142714587504543,0.0,0.0
+414,sample_414,Heather he found a welcome relief in her,7.792000360495877e-06,Heather he found on welcome relief in her,0.23142714587504543,0.05,0.125
+415,sample_415,"followed the beaming Dan aboard , taking",7.167000148911029e-06,"followed the beaming Dan aboard , taking",0.23142714587504543,0.0,0.0
+416,sample_416,"beginning to find the stereotyped , flattish , happy",2.3208000129670836e-05,"beginning to find the stereotyped , flattish , happy",0.29304853124995134,0.0,0.0
+417,sample_417,After a long wait a bus appeared and they,9.499999578110874e-06,After a long wait a bus appeared and they,0.29304853124995134,0.0,0.0
+418,sample_418,relatively long doleful one,1.2542000149551313e-05,relatively long doleful one,0.29304853124995134,0.0,0.0
+419,sample_419,"expenses , with the people to whom Moke had",1.7583000044396613e-05,"expenses , with the people to whom Moke had",0.29304853124995134,0.0,0.0
+420,sample_420,lucky to have descended from such economic altitudes .,1.2958000297658145e-05,lucky to have descended from such economic altitudes .,0.29304853124995134,0.0,0.0
+421,sample_421,Tom Dreyfus had a job on the machines in the Secretariat,8.50000014906982e-06,Tom Dreyfus had a job on the machines in the secretariat,0.29304853124995134,0.017857142857142856,0.09090909090909091
+422,sample_422,( Stamp Department ) while Sally sulked at home .,8.292000529763754e-06,( Stamp Department ) while Sally sulked at home,0.29304853124995134,0.04081632653061224,0.1
+423,sample_423,The recovery of his balance was due to the,7.915999958640896e-06,The recovery of his balance was due to the,0.29304853124995134,0.0,0.0
+424,sample_424,sent him : little people who regarded him as,1.662500017118873e-05,sent him : little people who regarded him as,0.21574599999996735,0.0,0.0
+425,sample_425,"fact that he was living , virtually without",9.291999958804809e-06,"fact that he was living , virtually without",0.21574599999996735,0.0,0.0
+426,sample_426,as soon as he had spoken a few,1.0415999895485584e-05,as soon as he had spoken a few,0.21574599999996735,0.0,0.0
+427,sample_427,Know how he did it ? He 's clever on,1.0167000255023595e-05,Know how he did it ? He's clever on,0.21574599999996735,0.027777777777777776,0.2
+428,sample_428,"politics , Lester , give us something on",7.417000233544968e-06,"politics , Lester , give us something an",0.21574599999996735,0.025,0.125
+429,sample_429,craterlet on Face ( ours is an agricultural,7.833999916329049e-06,craterlet on Face ( ours is an agricultural,0.21574599999996735,0.0,0.0
+430,sample_430,your mouth-organ . ',5.666000106430147e-06,your mouth-organ . ',0.21574599999996735,0.0,0.0
+431,sample_431,the mouth-organ . So when he visited some,6.999999641266186e-06,the mouth-organ . So when he visited some,0.21574599999996735,0.0,0.0
+432,sample_432,sentences of his speech : ' Cut the,1.22499995995895e-05,sentences of his speech : ' Cut the,0.29284858325002006,0.0,0.0
+433,sample_433,"Back-Face area ) the cry would go up ,",8.874999366526026e-06,"Back-Face area ) the cry would go up ,",0.29284858325002006,0.0,0.0
+434,sample_434,the Senator who had annoyed the United States,1.0458999895490706e-05,the Senator who had annoyed the United States,0.29284858325002006,0.0,0.0
+435,sample_435,W.C.U. by threatening to loose off one of his,9.250000402971637e-06,M.C.U. by threatening to loose off one of his,0.29284858325002006,0.022222222222222223,0.1111111111111111
+436,sample_436,"bluff to succeed the next time ) and , lately , by",1.2959000741830096e-05,"bluff to succeed the next time ) and , lately , by",0.29284858325002006,0.0,0.0
+437,sample_437,saying that if Mo land-troops had to come to the aid,1.091699959943071e-05,saying that if Mo land-troops had to come to the aid,0.29284858325002006,0.0,0.0
+438,sample_438,"Peron entered , a large man , who had once been",8.333999176102225e-06,"Peron entered , a large man , who had once been",0.29284858325002006,0.0,0.0
+439,sample_439,"wore , and kept on indoors , a fifty gallon hat . Harry was",1.4375000318977982e-05,"wore , and kept on indoors , a fifty gallon hat . Harry was",0.29284858325002006,0.0,0.0
+440,sample_440,by bragging how he had once won a trick from,2.299999960087007e-05,by bragging how he had once won a trick from,0.26166535937500157,0.0,0.0
+441,sample_441,rockets ( an admission which would scarcely help,9.33399951463798e-06,rockets ( an admission which would scarcely help,0.26166535937500157,0.0,0.0
+442,sample_442,"handsome but was now seedy-looking , a sufferer",1.1166999684064649e-05,"handsome but was now seedy-looking , a sufferer",0.26166535937500157,0.0,0.0
+443,sample_443,"prepared for something unpleasant , for this was",9.500000487605575e-06,"prepared for something unpleasant , for this was",0.26166535937500157,0.0,0.0
+444,sample_444,"of the O.G.O. contingent in the Panama region ,",2.991700057464186e-05,at the O.G.O. contingent in the Panama region,0.26166535937500157,0.0851063829787234,0.2222222222222222
+445,sample_445,from stomach-ulcers . In the Back-Face tradition he,1.2333999620750546e-05,from stomach-ulcers . In the Back-Face tradition he,0.26166535937500157,0.0,0.0
+446,sample_446,"ding scale , and left the sum-total of their actions ,",6.8329991336213425e-06,"ding scale , and left the sum-total of their actions ,",0.26166535937500157,0.0,0.0
+447,sample_447,"be a centre of trust , responsible for the maintenance",1.1250000170548446e-05,"be a centre of trust , responsible for the maintenance",0.26166535937500157,0.0,0.0
+448,sample_448,"pressed as when he left Mrs. Halliday's office ,",1.2792000234185252e-05,"pressed as when he left Mrs. Halliday's office ,",0.2789268177500617,0.0,0.0
+449,sample_449,"serve this home of his , in which his heart lay .",6.874999598949216e-06,"serve this home of his , in which his heart lay .",0.2789268177500617,0.0,0.0
+450,sample_450,Here the rocket man's charm was disarming . Yet,7.417000233544968e-06,Here the rocket man's charm was disarming Yet,0.2789268177500617,0.0425531914893617,0.1111111111111111
+451,sample_451,"when the time came to leave , Harry felt as de-",7.5420002758619376e-06,"when the time came to leave , Harry felt as de-",0.2789268177500617,0.0,0.0
+452,sample_452,"The motive would be the same in both cases , to",1.5625000742147677e-05,"The motive would be the same in both cases , to",0.2789268177500617,0.0,0.0
+453,sample_453,did what they had to do to get GO on an expan-,6.708000000799075e-06,did what they had to do to get GO on an expan-,0.2789268177500617,0.0,0.0
+454,sample_454,exactly a month ago . If even Mo statesmen only,6.457999916165136e-06,exactly a month ago . If even Mo statesmen only,0.2789268177500617,0.0,0.0
+455,sample_455,"and their lunar and earthly repercussions , to luck",8.50000014906982e-06,"and their lunar and earthly repercussions , to luck",0.2789268177500617,0.0,0.0
+456,sample_456,"( or to Moke ) , there was a vacuum where there should",1.4583999472961295e-05,"( or to Moke ) , there was a vacuum where there should",0.27654053125002065,0.0,0.0
+457,sample_457,bought their college education forward and,8.166999577952083e-06,bought their college education # forward and,0.27654053125002065,0.047619047619047616,0.16666666666666666
+458,sample_458,the parade .,5.916999725741334e-06,the parade .,0.27654053125002065,0.0,0.0
+459,sample_459,turn . By comparing personal appearances,8.292000529763754e-06,turn . By comparing personal appearances,0.27654053125002065,0.0,0.0
+460,sample_460,"with university records , the agents of the",7.958999958646018e-06,"with university records , the agents of the",0.27654053125002065,0.0,0.0
+461,sample_461,"managers of corporations , together with professors",9.166999916487839e-06,managers of corporations together with professors,0.27654053125002065,0.0392156862745098,0.14285714285714285
+462,sample_462,were now being bought forward in their,8.042000445129815e-06,were now being bought forward in their,0.27654053125002065,0.0,0.0
+463,sample_463,"and women who interested them , and contracts",1.1916999937966466e-05,"and women who interested them , and contracts",0.27654053125002065,0.0,0.0
+464,sample_464,businesses would pick on young men,1.8292000277142506e-05,businesses would pick on young men,0.23014366662494012,0.0,0.0
+465,sample_465,At the centre of each circle stood personnel,2.045800010819221e-05,At the centre of each circle stood personnel,0.23014366662494012,0.0,0.0
+466,sample_466,and their filing clerks . The students had,6.416999895009212e-06,and their filing clerks . The students had,0.23014366662494012,0.0,0.0
+467,sample_467,would be initialled at the end of,8.9169998318539e-06,would be initialled at the end of,0.23014366662494012,0.0,0.0
+468,sample_468,these fine young people was closely geared to,7.625000762345735e-06,these fine young people was closely geared to,0.23014366662494012,0.0,0.0
+469,sample_469,"prospects would depend upon salaries , scholarship for",1.8250000721309334e-05,"prospects would depend upon salaries , scholarship for",0.23014366662494012,0.0,0.0
+470,sample_470,"were really means . So , seeing them revolve in",8.416000127908774e-06,"were really means . So , seeing them revolve in",0.23014366662494012,0.0,0.0
+471,sample_471,"Moke consciously or unconsciously symbolised , any-",6.166999810375273e-06,"Make consciously or unconsciously symbolised , any-",0.23014366662494012,0.0196078431372549,0.14285714285714285
+472,sample_472,"circles , Harry had the feeling that Moke ( or what",2.195799970650114e-05,"circles , Harry had the feeling that Moke ( or what",0.27697539062501164,0.0,0.0
+473,sample_473,"people by the short hairs , and was diverting them ...",1.2167000022600405e-05,"people by the short hairs , and was diverting them ...",0.27697539062501164,0.0,0.0
+474,sample_474,But since starting salaries would depend on grade A,8.750000233703759e-06,But since starting salaries would depend on grade A,0.27697539062501164,0.0,0.0
+475,sample_475,"economic and biological ends which , essentially ,",2.0750000658154022e-05,"economic and biological ends which , essentially",0.27697539062501164,0.04,0.125
+476,sample_476,"or B in the finals next May , and since mating",2.1333999939088244e-05,"or B in the finals next May , and since mating",0.27697539062501164,0.0,0.0
+477,sample_477,way in Harry's mind ) had these splendid young,6.91700006427709e-06,way in Harry's mind ) had these splendid young,0.27697539062501164,0.0,0.0
+478,sample_478,"with black , matted hair and a striking",8.083000466285739e-06,"with black , matted hair and striking",0.27697539062501164,0.05128205128205128,0.125
+479,sample_479,hesitation in saying that they would have,6.91700006427709e-06,hesitation in saying that they would have,0.27697539062501164,0.0,0.0
+480,sample_480,resemblance to the shrunk heads we had,5.7875000493368134e-05,resentplace to the shrunk heads we had,0.20278452600007313,0.10526315789473684,0.14285714285714285
+481,sample_481,made an end of us but for an intervention,1.3500000022759195e-05,made an end of us but for an intervention,0.20278452600007313,0.0,0.0
+482,sample_482,compels me to mention it .,7.624999852851033e-06,compels me to mention it .,0.20278452600007313,0.0,0.0
+483,sample_483,"Small , repulsive creatures they were ,",9.667000085755717e-06,"Small , repulsive creatures they were ,",0.20278452600007313,0.0,0.0
+484,sample_484,"so unexpected , so unusual , that only the",1.0666999514796771e-05,"so unexpected , so unusual , that only the",0.20278452600007313,0.0,0.0
+485,sample_485,necessity of rounding my narrative,7.624999852851033e-06,necessity of rounding my narrative,0.20278452600007313,0.0,0.0
+486,sample_486,gazed at recently ; and I have no,7.125000593077857e-06,gazed at recently ; and I have no,0.20278452600007313,0.0,0.0
+487,sample_487,sible source of authority .,6.875000508443918e-06,sible source of authority .,0.20278452600007313,0.0,0.0
+488,sample_488,prepared for visitors . Mrs Caine said,1.3792000572721008e-05,prepared for visitors . Mrs Caine said,0.20134632812505515,0.0,0.0
+489,sample_489,"and more definite , namely , that",8.166999577952083e-06,"and more definite , namely , that",0.20134632812505515,0.0,0.0
+490,sample_490,another impression that became more,1.5375000657513738e-05,another impression that became more,0.20134632812505515,0.0,0.0
+491,sample_491,she was in touch with an invi-,8.957999853009824e-06,she was in touch with an invi-,0.20134632812505515,0.0,0.0
+492,sample_492,we were to go no further unless and,7.5000007200287655e-06,we were to go no further unless and,0.20134632812505515,0.0,0.0
+493,sample_493,hut had recently been cleaned and,7.124999683583155e-06,hut had recently been cleaned and,0.20134632812505515,0.0,0.0
+494,sample_494,"until we were sent for , confirming",6.958999620110262e-06,"until we were sent for , confirming",0.20134632812505515,0.0,0.0
+495,sample_495,I had a distinct impression that the,7.208999704744201e-06,I had a distinct impression that the,0.20134632812505515,0.0,0.0
+496,sample_496,Caught by a sudden gust of wind ? A,1.5207999240374193e-05,Caught by a sudden gust of wind ? A,0.23033959374993174,0.0,0.0
+497,sample_497,"too carefree , and becoming airborne ?",7.541000741184689e-06,"too carefree , and becoming airborne ?",0.23033959374993174,0.0,0.0
+498,sample_498,single-decker Welsh bus could have got,8.125000022118911e-06,single-decker Welsh bus could have got itself,0.23033959374993174,0.18421052631578946,0.16666666666666666
+499,sample_499,combination of the two ? No one seems,8.291999620269053e-06,combination of the two ? No one seems,0.23033959374993174,0.0,0.0
+500,sample_500,NO ONE has ever satisfactorily explained how a,7.749999895168003e-06,NO ONE has ever satisfactorily explained how a,0.23033959374993174,0.0,0.0
+501,sample_501,itself into orbit . Shooting up over the pass a bit,7.416999324050266e-06,into orbit . Shooting up over the pass a bit,0.23033959374993174,0.13725490196078433,0.09090909090909091
+502,sample_502,to know . But the fact remains that get,7.333999747061171e-06,to know . But the fact remains that get,0.23033959374993174,0.0,0.0
+503,sample_503,itself into orbit it did .,5.791000148747116e-06,itself into orbit it did .,0.23033959374993174,0.0,0.0
+504,sample_504,"And a fine old fuss there was about it , too .",1.529200017102994e-05,"And a fine old fuss there was about it , too",0.26066470312491674,0.043478260869565216,0.08333333333333333
+505,sample_505,Rev. Edwards .,6.374999429681338e-06,Rev. Edwards .,0.26066470312491674,0.0,0.0
+506,sample_506,"Aboard , apart from the crew , were Mrs. Megan",8.207999599108007e-06,"Aboard , apart from the crew , were Mrs. Megan",0.26066470312491674,0.0,0.0
+507,sample_507,"and Miss Ethel Yates , hikers from",1.0167000255023595e-05,"and Miss Ethel Yates , hikers from",0.26066470312491674,0.0,0.0
+508,sample_508,Birmingham ; Price the Provisions ; and the,6.833999577793293e-06,Birmingham ; Price the Provisions ; and the,0.26066470312491674,0.0,0.0
+509,sample_509,Thomas and her five-year-old son Cadwallader ;,8.125000022118911e-06,"Thomas and her five-year-old son Cadwallader ,",0.26066470312491674,0.021739130434782608,0.14285714285714285
+510,sample_510,"Here are the known facts . On 10th July ,",7.499999810534064e-06,"Here are the known facts . On 10th July ,",0.26066470312491674,0.0,0.0
+511,sample_511,pretty little Morfydd Owen ; Mr. Stanley Hayball,7.292000191227999e-06,pretty little Morfydd Owen ; Mr. Stanley Hayball,0.26066470312491674,0.0,0.0
+512,sample_512,left Dinas at two-thirty-five as usual .,1.4207999811333138e-05,left Dinas at two-thirty-five as usual .,0.31114865624999766,0.0,0.0
+513,sample_513,"the bus , the 2.20 from Dinas to Llangrwl ,",8.959000297181774e-06,"the bus , the 2.20 from Dinas to Llangrwl ,",0.31114865624999766,0.0,0.0
+514,sample_514,"Dai Pugh , taking a tearful farewell of",7.708999874012079e-06,"Dai Pugh , taking a tearful farewell of",0.31114865624999766,0.0,0.0
+515,sample_515,"recently been Ifor's typist , but was now",6.874999598949216e-06,"recently been Ifor's typist , but was now",0.31114865624999766,0.0,0.0
+516,sample_516,"Ifor was . For there was his garage hand ,",6.958000085433014e-06,"Ifor was . For there was his garage hand ,",0.31114865624999766,0.0,0.0
+517,sample_517,"is established . Ifor Huw Evans , Propr. ,",8.833000720187556e-06,"is established . Ifor Huw Evans , Propr. ,",0.31114865624999766,0.0,0.0
+518,sample_518,returning to her home town as a,6.2920007621869445e-06,returning to her home town as a,0.31114865624999766,0.0,0.0
+519,sample_519,"Yes , the bus set out from Dinas . So much",8.291999620269053e-06,"Yes , the bus set out from Dinas . So much",0.31114865624999766,0.0,0.0
+520,sample_520,watched it go from the windows of the,2.141599998140009e-05,watched it go from the windows of the,0.29295119275002435,0.0,0.0
+521,sample_521,fully-fledged schoolteacher .,1.1125000128231477e-05,fully-fledged schoolteacher .,0.29295119275002435,0.0,0.0
+522,sample_522,"Dinas Motor Omnibus Co. Very interested ,",1.700000029813964e-05,"Dinas Motor Omnibus Co. Very interested ,",0.29295119275002435,0.0,0.0
+523,sample_523,"Morfydd Owen . Morfydd , who had until",6.874999598949216e-06,"Morfydd Owen . Morfydd , who had until",0.29295119275002435,0.0,0.0
+524,sample_524,"the world , is it ? "" "" For me it is , "" Dai",1.4791000467084814e-05,"the world , is it ? "" "" For me it is , "" Dani",0.29295119275002435,0.022727272727272728,0.06666666666666667
+525,sample_525,"said wretchedly , wiping his hands on his",7.209000614238903e-06,"said wretchedly , wiping his hands on his",0.29295119275002435,0.0,0.0
+526,sample_526,"overalls preparatory to a last embrace . "" You",5.666999641107395e-06,"overalls preparatory to a last embrace . "" You",0.29295119275002435,0.0,0.0
+527,sample_527,"the Mixed Infants of Llangrwl . """,6.208999366208445e-06,"the Mixed Infants of Llangrwl . """,0.29295119275002435,0.0,0.0
+528,sample_528,hand when you are lording it over,1.1958999493799638e-05,hand when you are lording it over,0.23093009374997564,0.0,0.0
+529,sample_529,""" But I 'm only going fifteen miles away , """,1.966699983313447e-05,""" But I'm only going fifteen miles away , """,0.23093009374997564,0.022727272727272728,0.18181818181818182
+530,sample_530,will not be remembering a mere garage,7.415999789373018e-06,will not be remembering a mere garage,0.23093009374997564,0.0,0.0
+531,sample_531,"Morfydd was saying . "" Not the end of",6.625000423809979e-06,"Morfydd was saying . "" Not the end of",0.23093009374997564,0.0,0.0
+532,sample_532,new world she was entering there might,7.417000233544968e-06,new world she was entering there might,0.23093009374997564,0.0,0.0
+533,sample_533,"had qualified as a schoolteacher , poor",1.3208000382292084e-05,"had qualified as a school teacher , poor",0.23093009374997564,0.02564102564102564,0.2857142857142857
+534,sample_534,"could not help wondering whether , now she",7.707999429840129e-06,"could not help wondering whether , now she",0.23093009374997564,0.0,0.0
+535,sample_535,"be boys equally nice , and with far more",5.709000106435269e-06,"be boys equally nice , and with four more",0.23093009374997564,0.05,0.1111111111111111
+536,sample_536,A nice boy of course . But perhaps in the,1.4000000192027073e-05,A nice boy of course . But perhaps in the,0.2922563281249495,0.0,0.0
+537,sample_537,to offer . The conductor rang his bell .,9.95800019154558e-06,to offer . The conductor rang his ball .,0.2922563281249495,0.025,0.1111111111111111
+538,sample_538,""" Silly boy , "" said Morfydd . Though she",6.332999873848166e-06,""" Silly boy , "" said Morfydd . Though she",0.2922563281249495,0.0,0.0
+539,sample_539,little Dai was quite the man for her .,8.457999683741946e-06,little Dai was quite the man for her .,0.2922563281249495,0.0,0.0
+540,sample_540,"swinging down to the darkening earth . "" It",7.874999937484972e-06,"swinging down to the darkening earth . "" It",0.2922563281249495,0.0,0.0
+541,sample_541,Flying Officer who had burst so unceremoniously into his,8.750000233703759e-06,Flying Officer who had burst so unceremoniously into his,0.2922563281249495,0.0,0.0
+542,sample_542,"passed me at fifty thousand feet , sir . It was",7.917000402812846e-06,"passed me at fifty thousand feet , sir . It was",0.2922563281249495,0.0,0.0
+543,sample_543,"office . "" And what did it look like , Broughtons ? Some",7.458000254700892e-06,"office . "" And what did it look like , Broughtons ? Some",0.2922563281249495,0.0,0.0
+544,sample_544,"But the jet aircraft was already miles away ,",2.062499970634235e-05,"But the jet aircraft was already miles away ,",0.34098165624993726,0.0,0.0
+545,sample_545,"climbing steadily . "" Group Captain Llewelyn Jones , Officer",9.665999641583767e-06,"climbing steadily . "" Group Captain Llewelyn Jones , Officer",0.34098165624993726,0.0,0.0
+546,sample_546,"Commanding R.A.F. Station , Dinas , looked keenly at the",8.416999662586022e-06,"Commanding R.A.F. Station , Dinne , looked keenly at the",0.34098165624993726,0.03571428571428571,0.1
+547,sample_547,"sort of rocket ? """,8.291999620269053e-06,"sort of rocket ? """,0.34098165624993726,0.0,0.0
+548,sample_548,"Group Captain looked . "" Broughtons , "" he said silkily .",1.649999921937706e-05,"Group Captain looked . "" Broughtons , "" he said sittily .",0.34098165624993726,0.03508771929824561,0.08333333333333333
+549,sample_549,Flying Officer Broughtons shuffled his feet .,5.750000127591193e-06,Flying Officer Broughtons shuffled his feet,0.34098165624993726,0.044444444444444446,0.14285714285714285
+550,sample_550,"determined . "" It was a bus , sir .",6.958999620110262e-06,"determined . "" It was a bus , sir",0.34098165624993726,0.05714285714285714,0.1
+551,sample_551,"Buses crawl . "" Very pale , Broughtons was . But",1.0917000508925412e-05,"Buses crawl . "" Very pale , Broughtons was . But",0.34098165624993726,0.0,0.0
+552,sample_552,"earth-bound creatures ? Aeroplanes fly , Broughtons .",1.316599991696421e-05,"earth-bound creatures ? Aeroplanes fly , Broughtons",0.3400330572500252,0.03773584905660377,0.125
+553,sample_553,"A single-decker , "" he elaborated . Daggers , the",8.542000614397693e-06,"A single-decker , "" he elaborated . Daggers , the",0.3400330572500252,0.0,0.0
+554,sample_554,""" Didn't they teach you at Cranwell that buses are",8.625000191386789e-06,""" Didn't they teach you at Cranwell that buses are",0.3400330572500252,0.0,0.0
+555,sample_555,""" Well , actually , sir , it looked like - like a bus .",8.082999556791037e-06,""" Well , actually , sir , it looked like - like a bus .",0.3400330572500252,0.0,0.0
+556,sample_556,"back in his chair . "" I see . So you met a bus at",7.45899978937814e-06,"back in his chair . "" I see . So you met a bus at",0.3400330572500252,0.0,0.0
+557,sample_557,fifty thousand feet .,5.333999979484361e-06,fifty thousand feet .,0.3400330572500252,0.0,0.0
+558,sample_558,"sir . It said Llangrwl . "" Llewelyn Jones sat",9.458000022277702e-06,"sir . It simply said Llangrwl . "" Llewelyn Jones sat",0.3400330572500252,0.15555555555555556,0.1
+559,sample_559,They 'd got the lights on . There were people inside .,6.833000043116044e-06,they'd got the lights on . There were people inside,0.3400330572500252,0.07407407407407407,0.25
+560,sample_560,""" Did you see the indicator board ? "" "" Yes , sir . "" "" And",3.4499999856052455e-05,""" Did you see the indicator board ? "" "" Yes , sir . "" "" that",0.3281471093749815,0.06779661016949153,0.058823529411764705
+561,sample_561,"what did it say ? Mystery Tour ? "" Oh , very caustic , that",1.2542000149551313e-05,"what did it say ? Mystery Tour ? "" Oh , very caustic , that",0.3281471093749815,0.0,0.0
+562,sample_562,"Group Captain . But Broughtons stood his ground . "" No ,",1.0167000255023595e-05,"Group Captain . But Broughtons stood his ground . "" No ,",0.3281471093749815,0.0,0.0
+563,sample_563,"Waving . "" Like gimlets , the Station Commander's eyes .",8.50000014906982e-06,"Waving . "" Like gimlets , the Station Commander's eyes .",0.3281471093749815,0.0,0.0
+564,sample_564,"All lit up . Full of people waving as you went past . """,9.667000085755717e-06,"All lit up . Full of people waving as your went past . """,0.3281471093749815,0.01818181818181818,0.07142857142857142
+565,sample_565,"there were anything in Queen's Regulations to cover this ,",2.3374999727820978e-05,"there were anything in Queen's Regulations to cover this ,",0.3281471093749815,0.0,0.0
+566,sample_566,"isn't , "" he ended sadly . "" I tried to read the",9.917000170389656e-06,"isn't , "" he ended sadly . "" I tried to read the",0.3281471093749815,0.0,0.0
+567,sample_567,"Suddenly he crouched forward . "" Broughtons , if I thought",1.0042000212706625e-05,"Suddenly he crouched forward . "" Broughtons , if I thought",0.3281471093749815,0.0,0.0
+568,sample_568,He waited . But his commanding officer appeared to,1.8917000488727354e-05,He waited . But his commanding officer appeared to,0.29339927599994553,0.0,0.0
+569,sample_569,I 'd have you court-martialled . But I know there,1.3500000022759195e-05,I'd have you court - mortialled . But I know there,0.29339927599994553,0.08163265306122448,0.5
+570,sample_570,have forgotten him .,7.0000005507608876e-06,have forgotten him .,0.29339927599994553,0.0,0.0
+571,sample_571,"registration number , sir . But it was getting dark . """,9.04199987417087e-06,"registration number , sir . But it was getting dark . """,0.29339927599994553,0.0,0.0
+572,sample_572,"quarter-hour intervals , regular as clockwork ?",1.408400021318812e-05,"quarter-hour intervals , regular as clockwork ?",0.29339927599994553,0.0,0.0
+573,sample_573,"Time passed . Everyone said , "" Pity about Megan",8.334000085596927e-06,"Time passed . Everyone said , "" Pity about Megan",0.29339927599994553,0.0,0.0
+574,sample_574,"Time passed . The bus climbed , and went quietly",1.4000000192027073e-05,"Time passed . The bus climbed , and went quietly",0.29339927599994553,0.0,0.0
+575,sample_575,"it was a pity at all ; as , indeed , they didn't .",1.1334000191709492e-05,"it was a pity at all ; as , indeed , they didn't .",0.29339927599994553,0.0,0.0
+576,sample_576,remained empty . And so did the arms of Dai,1.9790999431279488e-05,remained empty . And so did the arms of Dai,0.29312599475008483,0.0,0.0
+577,sample_577,"Thomas , isn't it , "" as though they didn't really think",1.0957999620586634e-05,"Thomas , isn't it , "" as though they didn't really think",0.29312599475008483,0.0,0.0
+578,sample_578,beloved was circling the Poles at three-and-a-,1.0167000255023595e-05,beloved was circling the Poles at three-and-a-,0.29312599475008483,0.0,0.0
+579,sample_579,"He saluted , and left the presence , very crestfallen ...",1.1249999261053745e-05,"He saluted , and left the presence , very crestfallen ... .",0.29312599475008483,0.03508771929824561,0.09090909090909091
+580,sample_580,"Pugh . How could they be otherwise , when his",1.4959000509406906e-05,"Pugh . How could they be otherwise , when his",0.29312599475008483,0.0,0.0
+581,sample_581,into orbit . Time passed . The Rev. Edwards' pulpit,9.58299915509997e-06,into orbit . Time passed . The Rev. Edwards' pulpit,0.29312599475008483,0.0,0.0
+582,sample_582,Dinas Advertiser . But the London papers ignored,9.291999958804809e-06,Dinas Advertiser . But the London papers ignored,0.29312599475008483,0.0,0.0
+583,sample_583,they could have measured up the road and,9.041000339493621e-06,they could have measured up the road and,0.29312599475008483,0.0,0.0
+584,sample_584,LOCAL BUS DISAPPEARS announced the,2.6750000870379154e-05,LOCAL BUS DISAPPEARS announced the,0.2777293853749825,0.0,0.0
+585,sample_585,the whole affair . Ifor Evans reported his loss,1.0332999409001786e-05,the whole affair . Ifor Evans reported his loss,0.2777293853749825,0.0,0.0
+586,sample_586,"attitude . Now if there 'd been a good old accident ,",1.0708999980124645e-05,"attitude . Now if there'd been a good old accident ,",0.2777293853749825,0.018867924528301886,0.16666666666666666
+587,sample_587,taken an interest .,1.2583999705384485e-05,taken an interest .,0.2777293853749825,0.0,0.0
+588,sample_588,"a bus , is it . Very careless . "" That was their",1.6416999642387964e-05,"a bus , is it . Very careless . "" That was their",0.2777293853749825,0.0,0.0
+589,sample_589,"to the police . But they only tut-tutted . "" Lost",9.624999620427843e-06,"to the police . But they only tuttutted . "" Lost",0.2777293853749825,0.02040816326530612,0.09090909090909091
+590,sample_590,"mysteries , like the Marie Celeste . Then things",8.833000720187556e-06,"mysteries , like the Marie Celeste . Then things",0.2777293853749825,0.0,0.0
+591,sample_591,But losing a bus ! People were always losing,9.082999895326793e-06,But losing a bus ! People were always losing,0.2777293853749825,0.0,0.0
+592,sample_592,you will be asking .,1.8583999917609617e-05,you will be asking .,0.24714736974999596,0.0,0.0
+593,sample_593,"seemed , for a time , that the whole affair would",1.6916999811655842e-05,"seemed , for a time , that the whole affair would",0.24714736974999596,0.0,0.0
+594,sample_594,began to happen ... But what about the voyagers ?,1.475000044592889e-05,began to happen ... But what about the voyagers ?,0.24714736974999596,0.0,0.0
+595,sample_595,be written off as one of those unexplained,1.037499987432966e-05,be written off as one of those unexplained,0.24714736974999596,0.0,0.0
+596,sample_596,"things . You 'd be surprised , they said . So it",1.9334000171511434e-05,"things . You'd be surprised , they said . So it",0.24714736974999596,0.020833333333333332,0.16666666666666666
+597,sample_597,"a supply of food . """,6.416000360331964e-06,a supply of food .,0.24714736974999596,0.1,0.16666666666666666
+598,sample_598,what does such a person do ? He signals,9.082999895326793e-06,what does such a person do ? He signals,0.24714736974999596,0.0,0.0
+599,sample_599,that of a castaway on a desert island . Now,9.417000001121778e-06,that of a castaway on a desert island . Now,0.24714736974999596,0.0,0.0
+600,sample_600,his position by lighting bonfires or hoisting a,1.4125000234344043e-05,his position by lighting bonfires or hoisting a,0.262040869749967,0.0,0.0
+601,sample_601,"position , "" he said , "" is somewhat analogous to",9.70900055108359e-06,"position , "" he said , "" is somewhat analogous to",0.262040869749967,0.0,0.0
+602,sample_602,"Well , the Rev. Edwards had taken command . "" Our",1.4874999578751158e-05,"Well , the Rev. Edwards had taken command . "" Our",0.262040869749967,0.0,0.0
+603,sample_603,flag on a palm tree . And he tries to ensure,1.104199964174768e-05,flag on a palm tree . And he tries to ensure,0.262040869749967,0.0,0.0
+604,sample_604,""" Can't go lighting bonfires on this bus , """,8.125000022118911e-06,""" Can't go lighting bonfires on this bus , """,0.262040869749967,0.0,0.0
+605,sample_605,"the minister . "" No , we have another way of signalling",9.749999662744813e-06,"the minister . "" No , we have another way of signalling",0.262040869749967,0.0,0.0
+606,sample_606,"continuously . "" Gave him a look , the driver did .",1.2083000001439359e-05,"continuously . "" Grave him a look , the driver did .",0.262040869749967,0.0196078431372549,0.08333333333333333
+607,sample_607,"Company's Regulations . "" "" Of course not , "" agreed",8.749999324209057e-06,"Company's Regulations . "" Of course not , "" agreed",0.262040869749967,0.038461538461538464,0.09090909090909091
+608,sample_608,our position . The driver must sound his horn,1.941700065799523e-05,our position . The driver must sound his horn,0.277185989624968,0.0,0.0
+609,sample_609,"the conductor said firmly . "" Contrary to the",1.2124999557272531e-05,"the conductor said firmly . "" Contrary to the",0.277185989624968,0.0,0.0
+610,sample_610,""" Dinas High Street ? """,6.499999471998308e-06,""" Dinas High Street ? """,0.277185989624968,0.0,0.0
+611,sample_611,""" Where you think we are ? "" he asked rudely .",8.166000043274835e-06,""" Where you think we are ? "" he asked rudely .",0.277185989624968,0.0,0.0
+612,sample_612,""" Then we are saved , "" cried the Rev. Edwards .",8.208000508602709e-06,""" Then we are saved , "" cried the Rev. Edwards .",0.277185989624968,0.0,0.0
+613,sample_613,"Shyly , Morfydd Owen produced a block of",7.125000593077857e-06,"Shyly , Morfydd Owen produced a block of",0.277185989624968,0.0,0.0
+614,sample_614,chocolate .,5.04200033901725e-06,chocolate .,0.277185989624968,0.0,0.0
+615,sample_615,you may join us . ' ' I am Lily-yo . We three,1.5249999705702066e-05,you may join us . ' I am Lily-yo . We three,0.277185989624968,0.044444444444444446,0.07692307692307693
+616,sample_616,"Though your wings and your scars are new ,",2.4750000193307642e-05,"Though your wings and your scars are new ,",0.2665717136250123,0.0,0.0
+617,sample_617,are humans . You are only flymen . We will,2.3333999706665054e-05,are humans . You are only flymen . We will,0.2665717136250123,0.0,0.0
+618,sample_618,not join you . ' The Captives grunted in boredom .,1.0666999514796771e-05,not join your ' The Captives grunted in boredom .,0.2665717136250123,0.04,0.18181818181818182
+619,sample_619,"know little , we know much . '",8.167000487446785e-06,"know little , we know much . '",0.2665717136250123,0.0,0.0
+620,sample_620,The Chief Captive spoke again . ' Always this,1.900000006571645e-05,The Chief Captive spoke again . ' Always this,0.2665717136250123,0.0,0.0
+621,sample_621,talk from you of the Heavy World ! You have,2.3208000129670836e-05,talk from you of the Heavy World ! You have,0.2665717136250123,0.0,0.0
+622,sample_622,"joined us . You are flymen , we are human . You",9.708999641588889e-06,"joined us . You are flymen , we are human . You",0.2665717136250123,0.0,0.0
+623,sample_623,"made nervous by Beryl's silence , drove at reckless",7.207999260572251e-06,"made nervous by Beryl's silence , drove at reckless",0.2665717136250123,0.0,0.0
+624,sample_624,DARKNESS had descended like a curtain by the,2.3499999770137947e-05,DARKNESS had descended like a curtain by the,0.2931046666249131,0.0,0.0
+625,sample_625,his flat for a drink .,7.458000254700892e-06,his flat for a drink .,0.2931046666249131,0.0,0.0
+626,sample_626,"meet the Deanes , and as soon as Guy had",1.6333999155904166e-05,"meet the Deanes , and as soon as long had",0.2931046666249131,0.1,0.1
+627,sample_627,"driven away , invited them casually to come to",1.1416999768698588e-05,"driven away , invited them casually to come to",0.2931046666249131,0.0,0.0
+628,sample_628,the party was over . Piers came strolling out to,1.2333000086073298e-05,the party was over . Piers came strolling out to,0.2931046666249131,0.0,0.0
+629,sample_629,"speed to the Villa , it was quickly evident that",1.8000000636675395e-05,"speed to the Villa , it was quickly evident that",0.2931046666249131,0.0,0.0
+630,sample_630,"time they docked at Belleray . And though Guy ,",1.0708000445447396e-05,"time they docked at Belleray . And though Guy ,",0.2931046666249131,0.0,0.0
+631,sample_631,""" Oh , she was due ! "" And then he added in the same",1.7082999875128735e-05,""" Oh , she was due ! "" And then he added in the same",0.2931046666249131,0.0,0.0
+632,sample_632,"comment , but Beryl said nothing . She was trying",2.3333999706665054e-05,"comment , but Beryl said nothing . She was trying",0.29287160425008096,0.0,0.0
+633,sample_633,"going to live with friends of the bank manager , just",8.457999683741946e-06,"going to live with friends of the bank manager , just",0.29287160425008096,0.0,0.0
+634,sample_634,unnaturally smooth exterior Piers was simmering,1.4707999980601016e-05,unnaturally smooth exterior Piers was simmering,0.29287160425008096,0.0,0.0
+635,sample_635,with anger against her she had no doubt .,6.541999937326182e-06,with anger against her she had no doubt .,0.29287160425008096,0.0,0.0
+636,sample_636,to sort things out in her mind . That beneath his,1.5040999642224051e-05,to sort things out in her mind . That beneath his,0.29287160425008096,0.0,0.0
+637,sample_637,"casual tone , "" She 's not returning to her family . She 's",9.291999958804809e-06,"casual tone , "" She's not returning to her family . She's",0.29287160425008096,0.03389830508474576,0.2857142857142857
+638,sample_638,"this side of Belleray . "" Mrs. Deane made a suitable",9.95800019154558e-06,"this side of Belleray . "" Mrs. Deane made a suitable",0.29287160425008096,0.0,0.0
+639,sample_639,"She avoided his gaze , and tried to ignore that",1.4250000276661012e-05,"She avoided his gaze , and tried to ignore that",0.29287160425008096,0.0,0.0
+640,sample_640,"The mockery in his voice had deepened . "" With",3.616699996200623e-05,"The mockery in his voice had deepened . "" With",0.27841965100003563,0.0,0.0
+641,sample_641,""" You talk as though we were alone on Balicou ! """,1.2709000657196157e-05,""" You talk as though we were alone on Balicou ! """,0.27841965100003563,0.0,0.0
+642,sample_642,""" Whom you never once managed to circumvent . """,1.2624999726540409e-05,""" Whom you never once managed to circumvent . """,0.27841965100003563,0.0,0.0
+643,sample_643,"last impertinent remark . "" With four other people - """,1.1209000149392523e-05,"last impertinent remark . "" With four other people - """,0.27841965100003563,0.0,0.0
+644,sample_644,She met his eyes then .,7.832999472157098e-06,She met his eyes then .,0.27841965100003563,0.0,0.0
+645,sample_645,"all due deference , Miss Deane - come off it ! """,1.0083999768539798e-05,"all due deference , Miss Deane - come off it ! """,0.27841965100003563,0.0,0.0
+646,sample_646,"it as confidential . "" "" My dear Beryl ,",8.708000677870587e-06,"it as confidential . "" My clear Beryl ,",0.27841965100003563,0.1,0.2
+647,sample_647,"not I , who started this conversation . """,2.1500000002561137e-05,"not I , who started this conversation . """,0.27841965100003563,0.0,0.0
+648,sample_648,"slowly , "" If you must drag the truth",1.141700067819329e-05,"slowly , "" If you must drag the truth",0.2773601353750337,0.0,0.0
+649,sample_649,"not . "" He was clearly startled by her",8.541000170225743e-06,"not . "" He was clearly startled by her",0.2773601353750337,0.0,0.0
+650,sample_650,"She wavered , and at last said",1.1875000382133294e-05,"She wavered , and at last said",0.2773601353750337,0.0,0.0
+651,sample_651,"out of me , I must ask you to regard",7.208000170066953e-06,"out of me , I must ask you to regard",0.2773601353750337,0.0,0.0
+652,sample_652,"don't tell me anything , if you 'd rather",7.624999852851033e-06,"don't tell me anything , if you'd rather",0.2773601353750337,0.024390243902439025,0.2222222222222222
+653,sample_653,"words . "" But remember , it was you ,",7.2500006353948265e-06,"words . "" But remember , it was you ,",0.2773601353750337,0.0,0.0
+654,sample_654,out and sucked in his baggy black,6.665999535471201e-06,out and sucked in his baggy black,0.2773601353750337,0.0,0.0
+655,sample_655,"down the lake . 3"" Big blow , Judge , "" re-",5.875000169908162e-06,"down the lake . 3"" Big blow , Judge , "" re-",0.2773601353750337,0.0,0.0
+656,sample_656,marked Willie Kim as the wind billowed,2.1625000044878107e-05,marked Willie Kim as the wind billowed,0.27751742187501804,0.0,0.0
+657,sample_657,blouse and pantaloons .,6.792000021960121e-06,blouse and pantaloons .,0.27751742187501804,0.0,0.0
+658,sample_658,where it had a straight blow of eight miles,8.292000529763754e-06,where it had a straight blow of eight miles,0.27751742187501804,0.0,0.0
+659,sample_659,"now , it could kick up a sea-sized commotion",1.4666999959445093e-05,"now , it could kick up a sea-sized commotion",0.27751742187501804,0.0,0.0
+660,sample_660,"When the wind was on a rampage , as it was",7.04200010659406e-06,"When the wind was on a rampage , as it was",0.27751742187501804,0.0,0.0
+661,sample_661,see that fool boy of mine out there on,5.416000021796208e-06,"see that # had boy of mine out there , in",0.27751742187501804,0.21052631578947367,0.4444444444444444
+662,sample_662,"mild surprise . "" I didn't hear you . Do you",7.167000148911029e-06,"mild , surprise . "" I didn't hear you . Do you",0.27751742187501804,0.045454545454545456,0.09090909090909091
+663,sample_663,"did you come from ? "" the judge said in",5.290999979479238e-06,"did you come from ? "" the judge said in",0.27751742187501804,0.0,0.0
+664,sample_664,drown good man .,1.0583000403130427e-05,drown good man .,0.3113452656249365,0.0,0.0
+665,sample_665,"she blow some more . "" "" Hello , Willie , where",8.25000006443588e-06,"she blow some more . "" "" Hello , Willie , where",0.3113452656249365,0.0,0.0
+666,sample_666,"3"" Blow like hell . Maybe by and by",5.791000148747116e-06,"3"" Blow like hell . Maybe by and by",0.3113452656249365,0.0,0.0
+667,sample_667,"worry , Judge . Big wind like that can't",5.417000465968158e-06,"worry , Judge . Big wind like that can't",0.3113452656249365,0.0,0.0
+668,sample_668,"the lake ? "" 3"" I see him . You don't need",7.040999662422109e-06,"the lake ? "" 3"" I see him . You don't need",0.3113452656249365,0.0,0.0
+669,sample_669,"He no drown , too . Him , his mother throw him into",1.5042000086396001e-05,"He no drown , too , Him , his mother throw him into",0.3113452656249365,0.0196078431372549,0.07692307692307693
+670,sample_670,water to make him swim when he is born .,7.999999979801942e-06,water to make him swim when he is born .,0.3113452656249365,0.0,0.0
+671,sample_671,"Bill is good man , and Bueno Buck is raised on lake .",7.749999895168003e-06,"Bill is good man , and Bueno Buck's rinsed on lake .",0.3113452656249365,0.07547169811320754,0.23076923076923078
+672,sample_672,"Maybe so Bill , he can swim that good , too . """,1.6957999832811765e-05,"Maybe so Bill , he can swim that good , too . """,0.26688000000001466,0.0,0.0
+673,sample_673,prepared to make a safe though violent landing,1.2458999663067516e-05,prepared to make a safe though violent landing,0.26688000000001466,0.0,0.0
+674,sample_674,"might have made an ocean liner envious , seemed",1.2290999620745424e-05,"might have made an ocean liner envious , seemed",0.26688000000001466,0.0,0.0
+675,sample_675,"The yawl , riding the high waves with an air that",9.999999747378752e-06,"The yawl , riding the high waves with an air that",0.26688000000001466,0.0,0.0
+676,sample_676,from the west .,7.0000005507608876e-06,from the west .,0.26688000000001466,0.0,0.0
+677,sample_677,when there came a sudden gust of wind,1.3333000424609054e-05,when there came a sudden gust of wind,0.26688000000001466,0.0,0.0
+678,sample_678,A submariner's wife needed to be spared as much,1.195799995912239e-05,A submariner's wife needed to be spared as much,0.26688000000001466,0.0,0.0
+679,sample_679,"pay Jacky's school fees . "" "" What shall we do",9.04199987417087e-06,"pay Jacky's school fees . "" "" What shall we do",0.26688000000001466,0.0,0.0
+680,sample_680,"subject for discussion . "" It 's a command , "" he said .",1.462500040361192e-05,"subject for discussion . "" It's a command , "" he said .",0.2763271614999212,0.017857142857142856,0.14285714285714285
+681,sample_681,We can do with the extra money . It 'll just about,8.209000043279957e-06,We can do with the extra money . It'll just about,0.2763271614999212,0.02,0.16666666666666666
+682,sample_682,about this house ? - and Jill's school ? - and oh !,8.208000508602709e-06,about this house ? - and Jill's school ? - and oh !,0.2763271614999212,0.0,0.0
+683,sample_683,as possible . Anyway the Parsifal affair was far,7.95800042396877e-06,as possible . Anyway the Parsifal affair was far,0.2763271614999212,0.0,0.0
+684,sample_684,how I hate the Navy !,5.666999641107395e-06,how I hate the Navy !,0.2763271614999212,0.0,0.0
+685,sample_685,too fresh in both their minds to be a comfortable,1.0000000656873453e-05,too fresh in both their minds to be a comfortable,0.2763271614999212,0.0,0.0
+686,sample_686,If I 'd known what it would be like I 'd sooner,8.208000508602709e-06,If I'd known what it would be like I'd sooner,0.2763271614999212,0.0425531914893617,0.3333333333333333
+687,sample_687,"work on Sundays , "" he said . "" They 're worse off than",7.125000593077857e-06,"work on Sundays , "" he said . "" They're worse off than",0.2763271614999212,0.01818181818181818,0.14285714285714285
+688,sample_688,stockbroker chap and shared him with his three,2.3749999854771886e-05,stockbroker chap and shared him with his three,0.26126526562507024,0.0,0.0
+689,sample_689,submariners . You ought to have married that fat,8.875000276020728e-06,submariners . You ought to have married that fact,0.26126526562507024,0.020833333333333332,0.1111111111111111
+690,sample_690,Pericles is a Portsmouth boat . She spends longer,7.999999979801942e-06,Pericles is a Portsmouth boat . She spends longer,0.26126526562507024,0.0,0.0
+691,sample_691,"have married a parson . "" He kissed her . "" Parsons",9.207999937643763e-06,"have married a parson . "" He kissed her . "" Parsons",0.26126526562507024,0.0,0.0
+692,sample_692,mistresses . Anyway it might be much worse .,7.583000297017861e-06,mistresses . Anyway it might be much worse -,0.26126526562507024,0.022727272727272728,0.1111111111111111
+693,sample_693,in harbour than any other submarine .,6.792000021960121e-06,in harbour than any other submarine s.,0.26126526562507024,0.02702702702702703,0.14285714285714285
+694,sample_694,Jill will say about leaving her school . It 's a,9.04199987417087e-06,Jill will say about leaving her school . It's a,0.26126526562507024,0.020833333333333332,0.18181818181818182
+695,sample_695,write to those agents and try to get a flat in,7.708999874012079e-06,write to those agents and try to get a flat in,0.26126526562507024,0.0,0.0
+696,sample_696,"her eyes and reached for her address book . "" I 'll",1.383400012855418e-05,"her eyes and reached for her address book . "" I'll",0.3147684583749424,0.0196078431372549,0.16666666666666666
+697,sample_697,blessing that Jacky 's off to boarding school .,6.833000043116044e-06,blessing that Jacky's off to boarding school .,0.3147684583749424,0.02127659574468085,0.2222222222222222
+698,sample_698,And all the trouble you 've taken with the,9.874999705061782e-06,And all the trouble you've taken with the,0.3147684583749424,0.023809523809523808,0.2222222222222222
+699,sample_699,"Alverstoke , "" she said . "" But I don't know what",9.458000022277702e-06,"Alverstoke , "" she said . "" But I don't know what",0.3147684583749424,0.0,0.0
+700,sample_700,"Practically a shore job . Cheer up . "" She wiped",7.374999768217094e-06,"Practically a shore job . Cheer up . "" She wiped",0.3147684583749424,0.0,0.0
+701,sample_701,garden !,3.5000002753804438e-06,garden !,0.3147684583749424,0.0,0.0
+702,sample_702,"That little beast , Robbie Munyard ! "" Having",6.291999852692243e-06,"that little beast , Robbie Munyard ! "" Having",0.3147684583749424,0.022222222222222223,0.1111111111111111
+703,sample_703,burden and prepared to break up yet,8.916000297176652e-06,whether burden and prepared to break up yet,0.3147684583749424,0.22857142857142856,0.14285714285714285
+704,sample_704,this had already happened half a dozen times .,1.2417000107234344e-05,this had already happened half a dozen times .,0.2307775416250024,0.0,0.0
+705,sample_705,said her say Peggy manfully shouldered her,8.25000006443588e-06,said her say Peggy manfully shouldered her,0.2307775416250024,0.0,0.0
+706,sample_706,another home . In the ten years of married life,8.166000043274835e-06,another home . In the ten years of married life,0.2307775416250024,0.0,0.0
+707,sample_707,Such is the life of a naval officer's wife .,7.165999704739079e-06,Such is the life of a naval officer's wife .,0.2307775416250024,0.0,0.0
+708,sample_708,school ; some of his rigid ideas had been passed,9.04199987417087e-06,school ; some of his rigid ideas had been passed,0.2307775416250024,0.0,0.0
+709,sample_709,John's father had been a naval officer of the old,7.5000007200287655e-06,John's father had been a naval officer of the old,0.2307775416250024,0.0,0.0
+710,sample_710,instilled by martinet parents have a habit of,7.124999683583155e-06,instilled by martinet parents have a habit of,0.2307775416250024,0.0,0.0
+711,sample_711,"plain-clothes on the previous night , but ways",5.5840000641183e-06,"plain-clothes on the previous night , but ways",0.2307775416250024,0.0,0.0
+712,sample_712,"new appointment , at nine a.m. precisely , dressed",2.1875000129512046e-05,"new appointment , at nine a.m. precisely , dressed",0.2457965832500122,0.0,0.0
+713,sample_713,in the modern equivalent of frock-coat and sword .,8.834000254864804e-06,in the modern equivalent of frock-coat and sword .,0.2457965832500122,0.0,0.0
+714,sample_714,"an officer should join a ship , on taking up a",8.167000487446785e-06,"an officer should join a ship , on taking up a",0.2457965832500122,0.0,0.0
+715,sample_715,if John had stepped into Fort Blockhouse clad in,1.608299953659298e-05,if John had stepped into Fort Blockhouse clad in,0.2457965832500122,0.0,0.0
+716,sample_716,on to the second generation . One of these was that,7.415999789373018e-06,on to the second generation . One of these was that,0.2457965832500122,0.0,0.0
+717,sample_717,sticking .,6.708999535476323e-06,sticking .,0.2457965832500122,0.0,0.0
+718,sample_718,It would have been acceptable to all concerned,1.900000006571645e-05,It would have been acceptable to all concerned,0.2457965832500122,0.0,0.0
+719,sample_719,Ever been out in a submarine ? I 'll give,8.37500010675285e-06,Ever been out in a submarine ? I'll give,0.2457965832500122,0.024390243902439025,0.2
+720,sample_720,"you a spin round one of these days , if you",1.395900017087115e-05,"you a spin round one of these days , if you",0.3114998958750448,0.0,0.0
+721,sample_721,""" Better ask Robbie Munyard . "" "" What 's he been",1.2083999536116607e-05,""" Better ask Robbie Munnyard . "" "" What's he been",0.3114998958750448,0.04081632653061224,0.25
+722,sample_722,""" Not in Pericles , old man . "" "" Why not ? """,1.1207999705220573e-05,""" Not in Pericles , old man . "" "" Why not ? """,0.3114998958750448,0.0,0.0
+723,sample_723,To go gassing to a newspaper man !,1.0166000720346346e-05,To go gassing to a newspaper man !,0.3114998958750448,0.0,0.0
+724,sample_724,"like . You could write it up . "" Bawley made a face .",1.1000000085914508e-05,"like . You could write it up . "" Bawley made a face .",0.3114998958750448,0.0,0.0
+725,sample_725,"saying ? "" John was furious . The little squirt !",1.1165999239892699e-05,"saying ? "" John was furious . The little squirt !",0.3114998958750448,0.0,0.0
+726,sample_726,"to write up Pericles in some way or other , are",7.874999937484972e-06,"to write up Pericles in some way or other , are",0.3114998958750448,0.0,0.0
+727,sample_727,"you ? "" "" What is there to write up ? "" said",7.374999768217094e-06,"you ? "" "" What is there to write up ? "" said",0.3114998958750448,0.0,0.0
+728,sample_728,"Bawley . "" There are forty-three submarines in",1.5040999642224051e-05,"Bawley . "" There are forty-three submarines in",0.3102519062499596,0.0,0.0
+729,sample_729,"the Navy - why should I pick on Pericles ? """,8.37500010675285e-06,"the Navy - why should I pick on Pericles ? """,0.3102519062499596,0.0,0.0
+730,sample_730,""" Look ! "" he went on earnestly . "" You 're not going",6.833000043116044e-06,""" Look ! "" he went on earnestly . "" You're not going",0.3102519062499596,0.018867924528301886,0.14285714285714285
+731,sample_731,"John eyed him steadily . "" It 's the Parcifal",7.624999852851033e-06,"John eyed him steadily . "" It's the Parcifal",0.3102519062499596,0.022222222222222223,0.2
+732,sample_732,"business , isn't it ? "" he said quietly .",7.208000170066953e-06,"business , isn't it ? "" he said quietly .",0.3102519062499596,0.0,0.0
+733,sample_733,"and X-rayed and that it was as sound as a bell ? """,9.791000593395438e-06,"and X-rayed and that it was as sound as a bell ? """,0.3102519062499596,0.0,0.0
+734,sample_734,""" I don't want it to happen again , "" said Bawley -",6.166999810375273e-06,""" I don't want it to happen again , "" said Bawley -",0.3102519062499596,0.0,0.0
+735,sample_735,""" What did Munyard say ? "" "" The Snort - hull",8.25000006443588e-06,""" What did Munyard say ? "" "" The Snort - hull",0.3102519062499596,0.0,0.0
+736,sample_736,""" more so than ever since I met you . """,2.2125000214145985e-05,""" more so than ever since I met you . """,0.26602711462498974,0.0,0.0
+737,sample_737,we 've had Pericles' entire Snort equipment removed,2.6167000214627478e-05,we've had Pericles' entire Snort equipment removed,0.26602711462498974,0.0196078431372549,0.25
+738,sample_738,"fitting fractured . "" "" Supposing I was to tell you that",1.795800017134752e-05,"fitting fractured . "" "" Supposing I was to tell you that",0.26602711462498974,0.0,0.0
+739,sample_739,said John .,1.4250000276661012e-05,said John,0.26602711462498974,0.18181818181818182,0.3333333333333333
+740,sample_740,"with the possibility of faulty design . "" He held",1.912500010803342e-05,"with the possibility of faulty design . "" He held",0.26602711462498974,0.0,0.0
+741,sample_741,I 'm relieved . But it still doesn't do away,1.2833999790018424e-05,I'm relieved . But it still doesn't do away,0.26602711462498974,0.022727272727272728,0.2
+742,sample_742,"one of these days , "" he said . "" In the meantime",1.4582999938284047e-05,"one of these days , "" he said . "" In the meantime",0.26602711462498974,0.0,0.0
+743,sample_743,"out his hand . "" Maybe I will take a trip with you",1.8292000277142506e-05,"out his hand . "" Maybe I will take a trip with you",0.26602711462498974,0.0,0.0
+744,sample_744,I 'll tell my editor that the story 's a dead bird .,1.2624999726540409e-05,I'll tell my editor that the story's a dead bird .,0.2776581250000163,0.038461538461538464,0.3076923076923077
+745,sample_745,""" Munyard didn't tell me that . But I must confess",7.958999958646018e-06,""" Munyard didn't tell me that . But I must confess",0.2776581250000163,0.0,0.0
+746,sample_746,"for calling , "" he said . "" Still long as you 're here",1.0624999958963599e-05,"for calling , "" he said . "" Still long as you're here",0.2776581250000163,0.018518518518518517,0.14285714285714285
+747,sample_747,"Dowd , still wearing his blue check shirt . He",9.750000572239514e-06,"Dowd , still wearing his blue check shirt . He",0.2776581250000163,0.0,0.0
+748,sample_748,"shack , his rifle at the ready , I saw it was Nick",1.3624999155581463e-05,"shack , his rifle at the ready , I saw it was Nick",0.2776581250000163,0.0,0.0
+749,sample_749,I saw several men running down towards,9.958999726222828e-06,I saw several men running down towards,0.2776581250000163,0.0,0.0
+750,sample_750,"came up close , eyeing us suspiciously . "" We 've",1.5499999790336005e-05,"came up close , eyeing us suspiciously . "" We've",0.2776581250000163,0.02040816326530612,0.18181818181818182
+751,sample_751,you may as well stay a while .,9.790999683900736e-06,you may as well stay a while .,0.2776581250000163,0.0,0.0
+752,sample_752,the shack . They were all armed with rifles .,2.9332999474718235e-05,the shack . They were all armed with rifles,0.3092476562500224,0.044444444444444446,0.1
+753,sample_753,As the nearest of them came round the,2.8208000003360212e-05,As the nearest of them came round the,0.3092476562500224,0.0,0.0
+754,sample_754,"come 2a-calling , "" I said . "" Can't see no reason",1.0541999472479802e-05,"come 2a-calling , "" I said . "" Can't see no reason",0.3092476562500224,0.0,0.0
+755,sample_755,found us a couple of boxes to sit on .,2.8792000193789136e-05,found us a couple of boxes to sit on .,0.3092476562500224,0.0,0.0
+756,sample_756,miners followed in at our heels . Nick Dowd,1.3875000149710104e-05,miners followed in at our heels . Nick Dowd,0.3092476562500224,0.0,0.0
+757,sample_757,"'Light an' come on in . "" We dismounted and",9.83300014922861e-06,"' light an' come on in . "" We dismounted and",0.3092476562500224,0.046511627906976744,0.2
+758,sample_758,We followed Nick Dowd into the shack .,1.3082999430480413e-05,We followed Nick Dowd into the shack .,0.3092476562500224,0.0,0.0
+759,sample_759,Nick Dowd took our horses off to water .,4.329200055508409e-05,Nick Dowd took our horses off the water .,0.3092476562500224,0.05,0.1111111111111111
+760,sample_760,They 'd rigged up a stove of sorts and on it,2.8542000109155197e-05,"They'd rigged up a stove , of sorts and on it",0.28239785937489614,0.06818181818181818,0.2727272727272727
+761,sample_761,one of the miners who 'd come along with,2.2917000023880973e-05,one of the miners who'd come along with,0.28239785937489614,0.025,0.2222222222222222
+762,sample_762,a huge blackened coffee-pot steamed . Other,1.1625000297499355e-05,a huge blackened coffee-pot steamed . Other,0.28239785937489614,0.0,0.0
+763,sample_763,the little hombre in big overalls . Very soon he,1.0250000741507392e-05,the little hombre in big overalls . Very soon he,0.28239785937489614,0.0,0.0
+764,sample_764,"Derby hat fussed around the stove . "" 2Ain't",1.691599936748389e-05,"Derby hat fussed around the stove . "" 2Ain't",0.28239785937489614,0.0,0.0
+765,sample_765,"who 'd come in as Roper Smith , Shorty , Mick",1.0167000255023595e-05,"who'd come in as Roper Smith , Shorty , Mick",0.28239785937489614,0.022222222222222223,0.18181818181818182
+766,sample_766,sweetened with molasses for all and for us,1.716699989628978e-05,sweetened with molasses for all and for us,0.28239785937489614,0.0,0.0
+767,sample_767,A small man in bib overalls and a battered,1.2792000234185252e-05,A small man in bib overalls and a battered,0.28239785937489614,0.0,0.0
+768,sample_768,exactly the Ritz Hotel but we 've got our little,1.9790999431279488e-05,exactly the Ritz Hotel but we've got out little,0.27782089062498017,0.041666666666666664,0.3
+769,sample_769,there were two plates of beans .,1.2790999790013302e-05,there were two plates of beans,0.27782089062498017,0.0625,0.14285714285714285
+770,sample_770,"comforts , "" said Dowd . He introduced the men",1.5458000234502833e-05,"comforts , "" said Dowd . He introduced the men",0.27782089062498017,0.0,0.0
+771,sample_771,had tin mugs filled with hot black coffee,9.874999705061782e-06,had tin mugs filled with hot black coffee,0.27782089062498017,0.0,0.0
+772,sample_772,"Golightly , Swede and the Sodbuster . This last was",1.5833000361453742e-05,"Golightly , Swede and Sodbuster . This last was",0.27782089062498017,0.0784313725490196,0.1
+773,sample_773,"night . """,3.916999958164524e-06,"night . """,0.27782089062498017,0.0,0.0
+774,sample_774,"as of now , apart from a few sacks of gold",1.145899932453176e-05,"as of "" now , apart from a few sacks of gold",0.27782089062498017,0.047619047619047616,0.09090909090909091
+775,sample_775,we 'd finished and I 'd rolled a cigarette,1.1958999493799638e-05,we'd finished and I'd rolled a cigarette,0.27782089062498017,0.047619047619047616,0.4444444444444444
+776,sample_776,watched us as we ate the beans . Then when,2.420900000288384e-05,watched us as we ate the beans . Then when,0.26635523437505526,0.0,0.0
+777,sample_777,"the man called Shorty said , "" You were saying when",1.716699989628978e-05,"the man called Shorty said , "" You were saying when",0.26635523437505526,0.0,0.0
+778,sample_778,you came in that 2somep'n happened last,1.1458000699349213e-05,you came in that 2somep'n happened last,0.26635523437505526,0.0,0.0
+779,sample_779,"dust . "" He winked at his partners . They all",1.0708000445447396e-05,"dust . "" He winked at his partners . They all",0.26635523437505526,0.0,0.0
+780,sample_780,"handing them to us , "" but it 's all we got",1.0167000255023595e-05,"handing them to us , "" but it's all we got",0.26635523437505526,0.023255813953488372,0.16666666666666666
+781,sample_781,""" They gives you the wind , "" said the Sodbuster",8.916000297176652e-06,""" They gives you the wind , "" said the Sodbuster",0.26635523437505526,0.0,0.0
+782,sample_782,Shorty .,3.6249994082027115e-06,Shortty .,0.26635523437505526,0.125,0.5
+783,sample_783,down William Appleton outside the Palace,1.62090000230819e-05,down William Appleton outside the Palace,0.26635523437505526,0.0,0.0
+784,sample_784,words affect them in their different ways .,1.6957999832811765e-05,words affect them in their different ways .,0.309223640624964,0.0,0.0
+785,sample_785,""" That 's sure bad news , "" said Dowd , sombrely .",1.462500040361192e-05,""" That's sure bad news , "" said Dowd , sombrely .",0.309223640624964,0.02,0.15384615384615385
+786,sample_786,""" Yes , "" I said . "" Something happened all right .",7.832999472157098e-06,""" Yes , "" I said . "" Something happened all right .",0.309223640624964,0.0,0.0
+787,sample_787,"looked across at Nick Dowd - "" someone cut",1.8917000488727354e-05,"looked across at Nick Dowd - "" someone cut",0.309223640624964,0.0,0.0
+788,sample_788,"with a shotgun . "" I paused and watched my",8.459000127913896e-06,"with a shotgun . "" I paused and watched my",0.309223640624964,0.0,0.0
+789,sample_789,"for Mr. Pell and his bunch , "" observed",1.1041000107070431e-05,"for Mr. Pell and his bunch , "" observed",0.309223640624964,0.0,0.0
+790,sample_790,""" It 2jest about leaves everything wide open",7.665999874006957e-06,""" It 2jest about leaves everything wide open",0.309223640624964,0.0,0.0
+791,sample_791,"After you 'd left the meeting , mister "" - I",1.0124999789695721e-05,"After you'd left the meeting , mister "" - I",0.309223640624964,0.022727272727272728,0.18181818181818182
+792,sample_792,The rest of the men there said nothing but,2.6833999982045498e-05,The rest of the men there said nothing but,0.2622589738749639,0.0,0.0
+793,sample_793,"right 2hyar , Nick , "" said the Sodbuster .",7.792000360495877e-06,"right 2hyar , Nick , "" said the Sodbuster .",0.2622589738749639,0.0,0.0
+794,sample_794,desperadoes like Pell and Fenton and the,1.195799995912239e-05,desperadoes like Pell and Fenton and the,0.2622589738749639,0.0,0.0
+795,sample_795,digging for gold but were babes in arms,1.0125000699190423e-05,digging for gold but were babes in arms,0.2622589738749639,0.0,0.0
+796,sample_796,when it came to dealing with owlhooters and,1.3083999874652363e-05,when it came to dealing with owlhooters and,0.2622589738749639,0.0,0.0
+797,sample_797,simple men who knew a lot maybe about,1.1375000212865416e-05,simple men who knew a lot maybe about,0.2622589738749639,0.0,0.0
+798,sample_798,you could see they were hard hit . They were,1.0083999768539798e-05,you could see they were hard it . They were,0.2622589738749639,0.022727272727272728,0.1
+799,sample_799,"rest . "" I guess we 'd better hold onto the gold",7.999999979801942e-06,"rest . "" I guess we'd better hold onto the gold",0.2622589738749639,0.020833333333333332,0.16666666666666666
+800,sample_800,"and got away with it . """,8.687499939696863e-05,"and got away with it . """,0.32470516149999185,0.0,0.0
+801,sample_801,at gun point either . They 've done it before,2.3583999791298993e-05,at gun point either . They've done it before,0.32470516149999185,0.022222222222222223,0.2
+802,sample_802,necks before you can say ' knife ' . It wouldn't,2.6208000235783402e-05,necks before you can say ' knife ' . It wouldn't,0.32470516149999185,0.0,0.0
+803,sample_803,sure asking for trouble . They 'll be on your,1.183400036097737e-05,sure asking for trouble . They'll be on your,0.32470516149999185,0.022222222222222223,0.2
+804,sample_804,""" Yeah , "" said Dowd dubiously . "" 2Mebbe we 'd",1.116700059355935e-05,""" Yeah , "" said Dowd dubiously . "" 2Mebbe we'd",0.32470516149999185,0.02127659574468085,0.16666666666666666
+805,sample_805,"better . "" Surprisingly Dan Maffrey came in at",3.150000065943459e-05,"better . "" Surprisingly Dan Maffrey came in at",0.32470516149999185,0.0,0.0
+806,sample_806,be the first time they 've held up a diggings,3.6833000194747e-05,be the first time they've held up a diggings,0.32470516149999185,0.022222222222222223,0.2
+807,sample_807,"that point . "" If you do , "" he said , "" you 'll be",2.2666999939247034e-05,"that point . "" If you do , "" he said , "" you'll be",0.32470516149999185,0.0196078431372549,0.125
+808,sample_808,"said Dan . "" We 'll watch the stage out of reach . """,2.3333000171987806e-05,"said Dan , "" We'll watch the stage out of reach . """,0.3398863542499839,0.038461538461538464,0.21428571428571427
+809,sample_809,us and a few six-shooters . But most of us,1.650000012887176e-05,us and a few six-shooters . But most of us,0.3398863542499839,0.0,0.0
+810,sample_810,2ain't 2eddicated in shootin' . It 'd be a,1.5124999663385097e-05,2ain't 2eddicated in shootin' . It'd be a,0.3398863542499839,0.023809523809523808,0.2222222222222222
+811,sample_811,"abide by what we said at the meeting , """,1.1875000382133294e-05,"abide by what we said at the meeting , """,0.3398863542499839,0.0,0.0
+812,sample_812,""" You 're 2durned tootin' , mister , "" said the man",8.50000014906982e-06,""" You're Zdurned tootin' , mister , "" said the man",0.3398863542499839,0.0392156862745098,0.25
+813,sample_813,"called Roper Smith . "" We 've got five rifles among",9.707999197416939e-06,"called Roper Smith . "" We've got five rifles among",0.3398863542499839,0.0196078431372549,0.18181818181818182
+814,sample_814,"2massacree , 2yessir . "" "" If you 'll take a chance",1.5792000340297818e-05,"2massacree , 2yessir . "" "" If you'll take a chance",0.3398863542499839,0.0196078431372549,0.16666666666666666
+815,sample_815,"on getting your gold to the bank , then we 'll",9.958999726222828e-06,"on getting your gold to the bank , then we'll",0.3398863542499839,0.021739130434782608,0.18181818181818182
+816,sample_816,"three of them , no more . I reckon we can deal",3.3292000807705335e-05,"three of them , no more . I reckon we can deal",0.30856553124999664,0.0,0.0
+817,sample_817,"handsome offer so I chimed in too . "" That",1.874999998108251e-05,"handsome offer so I chimed in too . "" That",0.30856553124999664,0.0,0.0
+818,sample_818,"with them all right . """,8.79199978953693e-06,"with them call right . """,0.30856553124999664,0.043478260869565216,0.16666666666666666
+819,sample_819,with Dan Maffrey's aim to avenge himself,9.917000170389656e-06,with Dan Maffrey's aim to avenge himself,0.30856553124999664,0.0,0.0
+820,sample_820,"and hold up the stage , it 'll be a couple or",4.8875000175030436e-05,"and hold up the stage , it'll be a couple or",0.30856553124999664,0.022222222222222223,0.16666666666666666
+821,sample_821,"goes for me , gentlemen , "" I said . "" If they do try",1.024999983201269e-05,"goes for me , gentlemen , "" I said . "" If they do try",0.30856553124999664,0.0,0.0
+822,sample_822,on the Fenton bunch but still it was a,1.4792000001762062e-05,on the Fenton bunch but still it was a,0.30856553124999664,0.0,0.0
+823,sample_823,I couldn't quite see how all this fitted in,1.1249999261053745e-05,I couldn't quite see how all this fitted in,0.30856553124999664,0.0,0.0
+824,sample_824,"Gay , sitting opposite Gavin on the terrace could",1.887500002339948e-05,"Gay , sitting opposite Gavin on the terrace could",0.2501204531250778,0.0,0.0
+825,sample_825,"to do that . "" Gavin drained his glass",8.834000254864804e-06,"to do that . "" Gavin drained his glass",0.2501204531250778,0.0,0.0
+826,sample_826,"hardly believe that she was the same girl ,",6.749999556632247e-06,"hardly believe that she was the same girl ,",0.2501204531250778,0.0,0.0
+827,sample_827,and refilled it .,6.333999408525415e-06,and refilled it .,0.2501204531250778,0.0,0.0
+828,sample_828,Gavin raised his glass to her and smiled,7.624999852851033e-06,Gavin raised his glass to her and smiled,0.2501204531250778,0.0,0.0
+829,sample_829,table for the first time a few days ago .,5.957999746897258e-06,table for the first time a few days ago .,0.2501204531250778,0.0,0.0
+830,sample_830,"and Gay's heart turned over . "" I 'd like",5.791999683424365e-06,"and Gay's heart turned over . "" I'd like",0.2501204531250778,0.024390243902439025,0.2
+831,sample_831,"miserable , shy , who had sat at the little",6.499999471998308e-06,"miserable , shy , who had sat at the little",0.2501204531250778,0.0,0.0
+832,sample_832,"who is tough enough to change him . """,1.0457999451318756e-05,"who is tough enough to change him . """,0.2930010312500144,0.0,0.0
+833,sample_833,"you know , always , and you aren't the type",9.04199987417087e-06,"you know , always , and you aren't the type",0.2930010312500144,0.0,0.0
+834,sample_834,trust him out of your sight and having to put on,7.790999916323926e-06,trust him out of your sight and having to put on,0.2930010312500144,0.0,0.0
+835,sample_835,whenever he flirts with another woman . He will,7.292000191227999e-06,whenever he flirts with another woman . He will,0.2930010312500144,0.0,0.0
+836,sample_836,a brave face and pretend that you don't mind,6.541999937326182e-06,a brave face and pretend that you don't mind,0.2930010312500144,0.0,0.0
+837,sample_837,"Hell . "" Doc answered for her . "" Just Hell . Never able to",6.125000254542101e-06,"Hell . "" Doc answered for her . "" Just Hell . Never able to",0.2930010312500144,0.0,0.0
+838,sample_838,"be the same , if you know what I mean . "" "" You sound",8.832999810692854e-06,"be the same , if you know what I mean . "" You sound",0.2930010312500144,0.03773584905660377,0.06666666666666667
+839,sample_839,"like Alice in Wonderland , "" Doc gently mocked her , "" and",8.416999662586022e-06,"like Alice in Wonderland , "" Doc gently mocked her , "" and",0.2930010312500144,0.0,0.0
+840,sample_840,I 'm glad you 're beginning to see that you 're wasting,1.4125000234344043e-05,I'm glad you're beginning to see that you're wasting,0.2931017291249418,0.05454545454545454,0.5
+841,sample_841,"now that I do realise that , and in any case , "" she added",1.0959000064758584e-05,"now that I do realise that , and in any case , "" she added",0.2931017291249418,0.0,0.0
+842,sample_842,"a little sadly , "" if I did change Gavin , he wouldn't",1.3875000149710104e-05,"a little sadly , "" if I did change Gavin , he wouldn't",0.2931017291249418,0.0,0.0
+843,sample_843,your time on that chap .,5.7909992392524146e-06,your time on that chap .,0.2931017291249418,0.0,0.0
+844,sample_844,"Gay nodded . "" I know that you 're right Doc , I think",1.0917000508925412e-05,"Gay nodded . "" I know that you're right Doc , I think",0.2931017291249418,0.018518518518518517,0.14285714285714285
+845,sample_845,"I 'd marry you myself . "" Gay laughed , Doc was",7.541999366367236e-06,"I'd marry you myself . "" Gay laughed , Doc was",0.2931017291249418,0.02127659574468085,0.16666666666666666
+846,sample_846,as it obviously appeared to everyone else .,9.45899955695495e-06,as it obviously appeared to everyone else .,0.2931017291249418,0.0,0.0
+847,sample_847,long for the right man for you to come,6.458999450842384e-06,long for the right man for you to come,0.2931017291249418,0.0,0.0
+848,sample_848,so kind and nice and she hoped that one,1.6541000150027685e-05,so kind and nice and she hoped that one,0.2311467812500041,0.0,0.0
+849,sample_849,Now let him go and you won't have to wait,9.417000001121778e-06,Now let him go and you won't have to wait,0.2311467812500041,0.0,0.0
+850,sample_850,day she would be able to see the situation,8.207999599108007e-06,day she would be able to see the situation,0.2311467812500041,0.0,0.0
+851,sample_851,along . If I was thirty years younger and weren't,9.207999937643763e-06,along . If I was thirty years younger and weren't,0.2311467812500041,0.0,0.0
+852,sample_852,married to the sweetest wife in the world,1.079199955711374e-05,married to the sweetest wife in the world,0.2311467812500041,0.0,0.0
+853,sample_853,""" I made it myself , "" Gay tried to speak",7.167000148911029e-06,""" I made it myself , "" Gay tried to speak",0.2311467812500041,0.0,0.0
+854,sample_854,normally .,4.792000254383311e-06,normally .,0.2311467812500041,0.0,0.0
+855,sample_855,"the roundabout , which was",7.832999472157098e-06,"the roundabout , which was",0.2311467812500041,0.0,0.0
+856,sample_856,least . She would think of her-,1.3750000107393134e-05,least . She would think of her-,0.20159799999998995,0.0,0.0
+857,sample_857,new seat outside the hospital,9.16700082598254e-06,new seat outside the hospital,0.20159799999998995,0.0,0.0
+858,sample_858,thoughts . At one time she had,8.459000127913896e-06,thoughts . At one time she had,0.20159799999998995,0.0,0.0
+859,sample_859,self as a stranger in these parts,8.042000445129815e-06,self as a stranger in these parts,0.20159799999998995,0.0,0.0
+860,sample_860,"out of operation - in theory , at",6.875000508443918e-06,"out of operation - in theory , at",0.20159799999998995,0.0,0.0
+861,sample_861,gates and thought vagrant,6.750000466126949e-06,gates and thought vagrant,0.20159799999998995,0.0,0.0
+862,sample_862,watched the workmen constructing,1.5249999705702066e-05,watched the workmen constructing,0.20159799999998995,0.0,0.0
+863,sample_863,studying these cross-roads . Which,8.084000000962988e-06,studying these cross-roads . Which,0.20159799999998995,0.0,0.0
+864,sample_864,one to take ?,1.966699983313447e-05,ome to take ?,0.29320768750005755,0.07692307692307693,0.25
+865,sample_865,Diana Wills often sat on the brand,1.9082999642705545e-05,Diana Wills often sat on the board,0.29320768750005755,0.058823529411764705,0.14285714285714285
+866,sample_866,to put St. John's Casualty Department,8.125000022118911e-06,to put St. John's Casualty Department,0.29320768750005755,0.0,0.0
+867,sample_867,""" If I were a tramp I would simply blow a",1.5125000572879799e-05,If I were a tramp I would simply blow a,0.29320768750005755,0.04878048780487805,0.09090909090909091
+868,sample_868,"airy directions accordingly . "" If I were needing a",1.8124999769497663e-05,"airy directions accordingly . "" If I were needing a",0.29320768750005755,0.0,0.0
+869,sample_869,women doctors to blow a feather and follow its,2.312499964318704e-05,women doctors to blow a feather and follow its,0.29320768750005755,0.0,0.0
+870,sample_870,"job I 'd go to London , of course , "" she went on .",7.95800042396877e-06,"job I'd go to London , of course , "" she went on .",0.29320768750005755,0.0196078431372549,0.13333333333333333
+871,sample_871,wishing life would sometimes allow serious-minded,1.0542000381974503e-05,wishing life would sometimes allow serious-minded,0.29320768750005755,0.0,0.0
+872,sample_872,"feather , "" she decided , rather envying the gentle-",1.4582999938284047e-05,"feather , "" she decided , rather envying the gentle-",0.2626044478751055,0.0,0.0
+873,sample_873,"man of the road his freedom of decision , and",3.391600057511823e-05,"man of the road his freedom of decisions , and",0.2626044478751055,0.022222222222222223,0.1
+874,sample_874,"all important . """,1.1166999684064649e-05,"all important . """,0.2626044478751055,0.0,0.0
+875,sample_875,I got a good look at her . But if Nigel,6.000000212225132e-06,I got a good look at her . But if Nigel,0.2626044478751055,0.0,0.0
+876,sample_876,""" Neither can Nigel , "" smiled Diana .",7.417000233544968e-06,""" Neither can Nigel , "" smiled Diana .",0.2626044478751055,0.0,0.0
+877,sample_877,"I know ? "" she smiled . "" I think so .",7.125000593077857e-06,"I know ? "" she smiled . "" I think so .",0.2626044478751055,0.0,0.0
+878,sample_878,""" No , "" Di said immediately . "" It isn't at",7.749999895168003e-06,""" No , "" Di said immediately . "" It isn't at",0.2626044478751055,0.0,0.0
+879,sample_879,"wasn't there it isn't important , is it ? """,1.1166999684064649e-05,"wasn't there it isn't important , is it ? """,0.2626044478751055,0.0,0.0
+880,sample_880,""" I remember , "" quipped the houseman ,",2.5749999622348696e-05,""" I remember , "" quipped the houseman ,",0.2816368853750646,0.0,0.0
+881,sample_881,"That blonde was something . "" "" Anybody",1.0667000424291473e-05,"That blonde was something . "" "" Anybody",0.2816368853750646,0.0,0.0
+882,sample_882,"meaning no offence , "" but does he ?",8.50000014906982e-06,"meaning no offence , "" but does he ?",0.2816368853750646,0.0,0.0
+883,sample_883,""" He 's saving up to get married . Remember ? """,9.667000085755717e-06,""" He's saving up to get married . Remember ? """,0.2816368853750646,0.02127659574468085,0.16666666666666666
+884,sample_884,But after that slight slip of the tongue on Nigel's part she had,1.1000000085914508e-05,But after that slight slip of the tongue on Nigel's part she had,0.2816368853750646,0.0,0.0
+885,sample_885,"with a cyst on her ear ... ? """,7.33299930288922e-06,"with a cyst on her ear ... ? """,0.2816368853750646,0.0,0.0
+886,sample_886,""" Nigel , "" she had besought him , "" you know that evening",7.999999979801942e-06,""" Nigel , "" she had brought him , "" you know that evening",0.2816368853750646,0.034482758620689655,0.07142857142857142
+887,sample_887,you took Luke Parson's surgery and there was a woman,9.250000402971637e-06,you took Luke Parson's surgery and there was a woman,0.2816368853750646,0.0,0.0
+888,sample_888,"realised it was important enough for her to have remembered , and it",2.6666999474400654e-05,"realised it was important enough for her to have remembered , and it",0.27811978124998404,0.0,0.0
+889,sample_889,made her think there was an abyss immediately ahead .,2.1582999579550233e-05,made her think there was an abyss immediately ahead .,0.27811978124998404,0.0,0.0
+890,sample_890,was as though a red mist veiled her usually clear sight and,9.833999683905859e-06,was as though a red mist veiled her usually clear sight and,0.27811978124998404,0.0,0.0
+891,sample_891,broken down outside and he noticed,2.0708999727503397e-05,broken down outside and he noticed,0.27811978124998404,0.0,0.0
+892,sample_892,"you this , too ? "" "" No , "" she laughed .",1.170799987448845e-05,"you this , too ? "" No , "" she laughed .",0.27811978124998404,0.04878048780487805,0.07692307692307693
+893,sample_893,at the roots and I had a redhead on,1.7042000763467513e-05,at the roots and I had a redhead on,0.27811978124998404,0.0,0.0
+894,sample_894,it was your car I suppose he,6.833000043116044e-06,it was your car I suppose he,0.27811978124998404,0.0,0.0
+895,sample_895,""" Oh , he wasn't . His motor-bike had",7.333999747061171e-06,""" Oh , he wasn't . His motor-bike had",0.27811978124998404,0.0,0.0
+896,sample_896,""" He didn't actually see you . Because",1.1000000085914508e-05,""" He didn't actually see you . Because",0.29270116149996284,0.0,0.0
+897,sample_897,"presumed it was you , all dressed up in",9.45899955695495e-06,"presumed it was you , all dressed up in",0.29270116149996284,0.0,0.0
+898,sample_898,your car and then you dancing with,7.333999747061171e-06,your car and then you dancing with,0.29270116149996284,0.0,0.0
+899,sample_899,the other arm . He would have told,1.2833000255341176e-05,the other arm . He would have told,0.29270116149996284,0.0,0.0
+900,sample_900,"this blonde . "" "" Really ? "" Nigel cocked",7.124999683583155e-06,"this blonde . "" "" Really ? "" Nigel cocked",0.29270116149996284,0.0,0.0
+901,sample_901,"one eyebrow . "" Actually she was brunette",6.207999831531197e-06,"one eyebrow . "" Actually she was brunette",0.29270116149996284,0.0,0.0
+902,sample_902,"evening . "" "" No , don't , "" he said , after",7.292000191227999e-06,"evening . "" "" No , don't , "" he said , after",0.29270116149996284,0.0,0.0
+903,sample_903,"particular surgery ? "" "" You are a fool ,",6.291999852692243e-06,"particular surgery ? "" "" You are a fool ,",0.29270116149996284,0.0,0.0
+904,sample_904,""" Now I wonder which I wore at that",1.766599962138571e-05,""" Now I wonder which I wore at that",0.24840452599994478,0.0,0.0
+905,sample_905,""" My white or my black ? "" Nigel enquired .",7.582999387523159e-06,""" My white or my black ? "" Nigel enquired .",0.24840452599994478,0.0,0.0
+906,sample_906,the housemen think of me as a,2.0667000171670225e-05,the housemen think of me as a,0.24840452599994478,0.0,0.0
+907,sample_907,two-timing Don Juan .,5.500000042957254e-06,two-timing Don Juan .,0.24840452599994478,0.0,0.0
+908,sample_908,exactly what you were doing that,1.6291999600070994e-05,exactly what you were doing that,0.24840452599994478,0.0,0.0
+909,sample_909,"kissing her again . "" I rather like to have",7.499999810534064e-06,"kissing her again . "" I rather like to have",0.24840452599994478,0.0,0.0
+910,sample_910,"darling , "" Di said happily . "" I shall take",7.040999662422109e-06,"darling , "" Di said happily . "" I shall take",0.24840452599994478,0.0,0.0
+911,sample_911,great pleasure in telling that young man,6.999999641266186e-06,great pleasure in telling that young man,0.24840452599994478,0.0,0.0
+912,sample_912,""" You need your holiday , darling . I only",2.3583999791298993e-05,""" You need your holiday , darling . I only",0.29846066137497473,0.0,0.0
+913,sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She",1.7499999557912815e-05,"I'm such a dull fellow , really . "" "" Dull ? "" She",0.29846066137497473,0.0196078431372549,0.13333333333333333
+914,sample_914,couldn't believe it . Self-deprecation,2.2833000002719928e-05,couldn't believe it . Self-deprecation,0.29846066137497473,0.0,0.0
+915,sample_915,"I suppose ? "" she enquired archly .",1.4457999895967077e-05,"I suppose ? "" she enquired archly .",0.29846066137497473,0.0,0.0
+916,sample_916,"wish I could go with you ! "" "" Doctor",1.3750000107393134e-05,"wish I could go with you ! "" Doctor",0.29846066137497473,0.05405405405405406,0.1
+917,sample_917,""" It would make me more interesting ,",1.5999999959603883e-05,""" It would make me more interesting ,",0.29846066137497473,0.0,0.0
+918,sample_918,was not one of Nigel's usual attributes .,1.6542000594199635e-05,was not one of Nigel's usual attributes .,0.29846066137497473,0.0,0.0
+919,sample_919,"Wills , if you 're making improper suggestions ... ? """,1.2999999853491317e-05,"Wills , if you're making improper suggestions ... ? """,0.29846066137497473,0.018518518518518517,0.18181818181818182
+920,sample_920,""" No , it wouldn't ! "" he almost snapped ,",1.3416999536275398e-05,""" No , it wouldn't ! "" he almost snapped ,",0.2770144739999978,0.0,0.0
+921,sample_921,leave in the autumn without you,8.125000022118911e-06,leave in the autumn without you,0.2770144739999978,0.0,0.0
+922,sample_922,"become you to behave like a - a tart , Di . """,7.624999852851033e-06,"become you to behave like a - a tart , Di . """,0.2770144739999978,0.0,0.0
+923,sample_923,body else for a moment there . It doesn't,8.584000170230865e-06,body else for a moment there . It doesn't,0.2770144739999978,0.0,0.0
+924,sample_924,miserable enough my having to take my,7.374999768217094e-06,miserable enough my having to take my,0.2770144739999978,0.0,0.0
+925,sample_925,""" Nigel - ! "" she gasped . "" I didn't mean to",7.04200010659406e-06,""" Nigel - ! "" she grasped . "" I didn't mean to",0.2770144739999978,0.022222222222222223,0.07692307692307693
+926,sample_926,behave like anything of the kind . I,7.040999662422109e-06,behave like anything of the kind . I,0.2770144739999978,0.0,0.0
+927,sample_927,trying to be bright and gay about it .,6.91700006427709e-06,trying to be bright and gay about it .,0.2770144739999978,0.0,0.0
+928,sample_928,"surprising her . "" You sounded like some-",1.529200017102994e-05,"surprising her . "" You sounded like some-",0.34072693749999416,0.0,0.0
+929,sample_929,"was only joking . "" "" Well , don't . It 's",6.624999514315277e-06,"was only joking . "" "" Well , don't . It's",0.34072693749999416,0.023809523809523808,0.16666666666666666
+930,sample_930,at this time of year ? I can't ask you up because it 's,9.16600038181059e-06,at this time of year ? I can't ask you up because it's,0.34072693749999416,0.01818181818181818,0.14285714285714285
+931,sample_931,can't imagine the hospital without me for,7.625000762345735e-06,can't imagine the hospital without me for,0.34072693749999416,0.0,0.0
+932,sample_932,"a strictly stag affair . "" "" I know . I didn't expect ... "" "" Well ,",9.750000572239514e-06,"a strictly stag affair . "" "" I know . I didn't expect ... "" Well ,",0.34072693749999416,0.029411764705882353,0.05555555555555555
+933,sample_933,"three weeks , etcetera , etcetera ! """,6.166999810375273e-06,"three weeks , etcetera , etcetera ! . """,0.34072693749999416,0.05405405405405406,0.125
+934,sample_934,come with me ; you hope I 'll miss you ; you,6.833000043116044e-06,same with me ; you hope I'll miss you ; you,0.34072693749999416,0.06818181818181818,0.25
+935,sample_935,"don't keep hinting , then . You wish you could",9.16600038181059e-06,"don't keep hinting , then . You wish you could",0.34072693749999416,0.0,0.0
+936,sample_936,I 'm going with a shooting party . What else can I do,1.424999936716631e-05,I'm going with a shooting party . What else can I do,0.32704222925008253,0.018867924528301886,0.15384615384615385
+937,sample_937,"regard first . "" I would mind if you didn't "" he told her",1.3458000466926023e-05,"regard first . "" I would mind if you didn't "" he told her",0.32704222925008253,0.0,0.0
+938,sample_938,"right , pet . I do need this leave . I 'm bad-tempered and",8.208000508602709e-06,"night , pet . I do need this leave . I'm bad-tempered and",0.32704222925008253,0.034482758620689655,0.21428571428571427
+939,sample_939,"Her figure was small and exquisite , like a schoolgirl's still , and",6.50000038149301e-06,"Her figure was small and exquisite , like a schoolgirl's still , and",0.32704222925008253,0.0,0.0
+940,sample_940,broody and going out with brash blondes . I don't deserve,1.2333000086073298e-05,broady and going out with brash blondes . I don't deserve,0.32704222925008253,0.017543859649122806,0.09090909090909091
+941,sample_941,"he admired her legs , which the male sex were inclined to",9.082999895326793e-06,"he admired her legs , which the male sex were inclined to",0.32704222925008253,0.0,0.0
+942,sample_942,"grimly , and tugged her fiercely into his arms . "" You 're",1.024999983201269e-05,"grimly , and tugged her fiercely into his arms . "" You're",0.32704222925008253,0.017241379310344827,0.15384615384615385
+943,sample_943,"you . """,3.99999953515362e-06,"you . """,0.32704222925008253,0.0,0.0
+944,sample_944,make all the waiting worth while . When we 're,1.1000000085914508e-05,make all the waiting worth while . When we're,0.32513090625002405,0.021739130434782608,0.2
+945,sample_945,""" Darling ! "" her voiced caressed him . "" Moments like this",7.249999725900125e-06,"Burling "" her voiced caressed him . "" Moments like this",0.32513090625002405,0.1016949152542373,0.23076923076923078
+946,sample_946,"married we won't have these explosions of emotion ,",6.50000038149301e-06,"married we won't have these explosions of emotion ,",0.32513090625002405,0.0,0.0
+947,sample_947,"isn't as bad as an operation , Nigel ! """,6.124999345047399e-06,"' but as bad as an operation , Nigel ! """,0.32513090625002405,0.1,0.2
+948,sample_948,"will we ? "" "" No , "" he eyed her strangely . "" I wish we",8.665999303048011e-06,"will we ? "" "" No , "" he eyed her strangely . "" I wish we",0.32513090625002405,0.0,0.0
+949,sample_949,"were married , Di . Like a patient wishes his operation",6.708999535476323e-06,"were married , Di . Like a patient wishes his operation",0.32513090625002405,0.0,0.0
+950,sample_950,"was over . "" Again her laughter trilled . "" Marriage",6.041000233381055e-06,"was over . "" Again her laughter trilled . "" Marriage",0.32513090625002405,0.0,0.0
+951,sample_951,me isn't going to be all that bad ?,6.041000233381055e-06,me isn't going to be all that bad ?,0.32513090625002405,0.0,0.0
+952,sample_952,"the moment , thank God ! "" Problem ... ?",1.1165999239892699e-05,"the moment , thank God ! "" Problem ... ?",0.3132963124999151,0.0,0.0
+953,sample_953,"he could be serious . "" Surely marrying",9.458000022277702e-06,"he could be serious . "" Surely marrying",0.3132963124999151,0.0,0.0
+954,sample_954,""" Isn't it ? "" he rose and smoothed himself",9.249999493476935e-06,""" Isn't it ? "" he rose and smoothed himself",0.3132963124999151,0.0,0.0
+955,sample_955,"or a burial ? "" she asked , hardly believing",6.666999979643151e-06,"or a burial ? "" she asked , hardly believing",0.3132963124999151,0.0,0.0
+956,sample_956,"looming ... ? "" Are we discussing a marriage",6.37500033917604e-06,"looming ... ? "" Are we discussing a marriage",0.3132963124999151,0.0,0.0
+957,sample_957,"down . "" Ask any bridegroom-to-be . Anyhow ,",6.709000444971025e-06,"down . "" Ask any bridegroom-to-be . Anyhow ,",0.3132963124999151,0.0,0.0
+958,sample_958,that particular problem isn't looming at,6.125000254542101e-06,that particular problems isn't looming at,0.3132963124999151,0.025,0.16666666666666666
+959,sample_959,"it , looking moodily beyond her . "" Perhaps it 's as",6.91599962010514e-06,"it , looking moodily beyond her . "" Perhaps it's as",0.3132963124999151,0.019230769230769232,0.16666666666666666
+960,sample_960,"well if you don't wear it for a bit , Di , "" he",1.7792000107874628e-05,"well if you don't wear it for a bit , Di , "" he",0.295852661500021,0.0,0.0
+961,sample_961,"of amusement in his own eyes , however , he took",1.0166999345528893e-05,"of amusement in his own eyes , however , he took",0.295852661500021,0.0,0.0
+962,sample_962,"your ring back . "" She loosened the half-hoop of",7.958999958646018e-06,"your ring back . "" She loosened the half-hoop of",0.295852661500021,0.0,0.0
+963,sample_963,diamonds on her left hand third finger and held it,1.2415999663062394e-05,diamonds on her left hand third finger and held it,0.295852661500021,0.0,0.0
+964,sample_964,told her .,6.833000043116044e-06,told her .,0.295852661500021,0.0,0.0
+965,sample_965,"out to him , still playfully . Without a glimmer",1.9875000361935236e-05,"out to him , still playfully . Without a glimmer",0.295852661500021,0.0,0.0
+966,sample_966,"If it is - "" she laughed uncertainly - "" you can have",9.458000022277702e-06,"If it is - "" she laughed , uncertainly - "" you can have",0.295852661500021,0.03773584905660377,0.07692307692307693
+967,sample_967,doctor would be free during the day ; tea was served,9.166999916487839e-06,doctor would be free during the day ; tea was served,0.295852661500021,0.0,0.0
+968,sample_968,from four until five-thirty in the residents' common-,3.3041999813576695e-05,from four until five-thirty in the residents' common-,0.26504361987497305,0.0,0.0
+969,sample_969,"she was convinced , or he would have granted her small request",9.125000360654667e-06,"she was convinced , or would have granted her small request",0.26504361987497305,0.04838709677419355,0.08333333333333333
+970,sample_970,"Something had cropped up which required Nigel's attention ,",7.749999895168003e-06,"Something had cropped up which required Nigel's attention ,",0.26504361987497305,0.0,0.0
+971,sample_971,"room , which proved the elasticity of medical commitments .",1.0707999535952695e-05,"room , which proved the elasticity of medical commitments .",0.26504361987497305,0.0,0.0
+972,sample_972,Diana was trailing up the gravelled drive to the hospital,8.874999366526026e-06,Diana was trailing up the gravelled drive to the hospital,0.26504361987497305,0.0,0.0
+973,sample_973,to be met at the gates .,5.458000487124082e-06,to be met at the gates .,0.26504361987497305,0.0,0.0
+974,sample_974,alone . Of course one couldn't say for certain when a,1.4792000001762062e-05,alone . Of course one couldn't say for certain when a,0.26504361987497305,0.0,0.0
+975,sample_975,Thus had they parted the previous evening and now,7.95800042396877e-06,Thus had they parted the previous evening and now,0.26504361987497305,0.0,0.0

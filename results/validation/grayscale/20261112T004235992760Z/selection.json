@@ -1,0 +1,24 @@
+{
+  "best_overall": "baseline",
+  "best_grayscale": "grayscale",
+  "grayscale_parameters": {
+    "name": "grayscale",
+    "enabled": true,
+    "output_mode": "L"
+  },
+  "criterion": "lowest equal-dataset mean corpus CER; WER tie-breaker; baseline eligible",
+  "dataset_winners": [
+    {
+      "dataset": "bentham",
+      "configuration": "baseline",
+      "cer": 0.15963923337091318,
+      "wer": 0.2954796030871003
+    },
+    {
+      "dataset": "iam",
+      "configuration": "baseline",
+      "cer": 0.011541072640868975,
+      "wer": 0.0438034188034188
+    }
+  ]
+}

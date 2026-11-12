@@ -1,0 +1,13 @@
+dataset,configuration,Improved,Unchanged,Worsened
+iam,grayscale,0,250,0
+iam,denoising,17,219,14
+iam,deskew,14,227,9
+iam,clahe,14,223,13
+iam,intensity_normalization,12,232,6
+iam,size_normalization,0,250,0
+bentham,grayscale,0,250,0
+bentham,denoising,20,205,25
+bentham,deskew,44,140,66
+bentham,clahe,82,117,51
+bentham,intensity_normalization,51,163,36
+bentham,size_normalization,18,217,15

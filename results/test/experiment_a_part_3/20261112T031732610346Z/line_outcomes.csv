@@ -1,0 +1,5 @@
+dataset,configuration,Improved,Unchanged,Worsened
+iam,part2_order,27,191,32
+iam,clahe_first,24,199,27
+bentham,part2_order,88,82,80
+bentham,clahe_first,96,82,72

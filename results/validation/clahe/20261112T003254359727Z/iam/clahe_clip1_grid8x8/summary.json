@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "clahe_clip1_grid8x8",
+  "sample_count": 100,
+  "cer": 0.013804028060647205,
+  "wer": 0.045940170940170943,
+  "preprocessing_seconds": 0.12955008400149381,
+  "inference_seconds": 29.34983562600064
+}

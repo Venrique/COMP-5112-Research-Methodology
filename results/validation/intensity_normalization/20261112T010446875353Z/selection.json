@@ -1,0 +1,28 @@
+{
+  "best_overall": "intensity_normalization",
+  "best_intensity_normalization": "intensity_normalization",
+  "intensity_normalization_parameters": {
+    "name": "intensity_normalization",
+    "enabled": true,
+    "processing": "global min-max over all channels; round to uint8; constant unchanged",
+    "output_range": [
+      0,
+      255
+    ]
+  },
+  "criterion": "lowest equal-dataset mean corpus CER; WER tie-breaker; baseline eligible",
+  "dataset_winners": [
+    {
+      "dataset": "bentham",
+      "configuration": "intensity_normalization",
+      "cer": 0.15377677564825254,
+      "wer": 0.29768467475192945
+    },
+    {
+      "dataset": "iam",
+      "configuration": "baseline",
+      "cer": 0.011541072640868975,
+      "wer": 0.0438034188034188
+    }
+  ]
+}

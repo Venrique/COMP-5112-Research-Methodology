@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "denoising_configurations": 5,
+  "baseline_configurations": 1,
+  "validation_samples_per_dataset": 100,
+  "seed": 42,
+  "completed_dataset_configuration_pairs": 12,
+  "best_equal_dataset_mean_cer": "nlm_h1",
+  "scope": "Seeded validation subset; no test-set evaluation."
+}

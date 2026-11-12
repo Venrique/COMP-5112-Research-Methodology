@@ -1,0 +1,27 @@
+{
+  "best_overall": "size_height128",
+  "best_size_normalization": "size_height128",
+  "size_normalization_parameters": {
+    "name": "size_normalization",
+    "enabled": true,
+    "target_height": 128,
+    "resampling": "LANCZOS",
+    "preserve_aspect_ratio": true,
+    "width_rounding": "nearest integer, ties to even; minimum 1"
+  },
+  "criterion": "lowest equal-dataset mean corpus CER; WER tie-breaker; baseline eligible",
+  "dataset_winners": [
+    {
+      "dataset": "bentham",
+      "configuration": "size_height128",
+      "cer": 0.1580608793686584,
+      "wer": 0.29437706725468576
+    },
+    {
+      "dataset": "iam",
+      "configuration": "baseline",
+      "cer": 0.011541072640868975,
+      "wer": 0.0438034188034188
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "part2_order",
+  "sample_count": 250,
+  "cer": 0.04983513895430994,
+  "wer": 0.11395244504262,
+  "preprocessing_seconds": 16.812962707992483,
+  "inference_seconds": 76.37208454299434
+}
