@@ -270,8 +270,10 @@ evaluation. Prediction CSVs for all epochs are linked in the epoch report.
 | Epoch 1 weights | Unavailable: overwritten before archiving began; metrics and predictions remain |
 
 `.pt` files are binary PyTorch data, not text documents. They contain model
-weights, configuration, vocabulary, input settings, and training state. They are
-ignored by Git; preserve/transfer them separately with their SHA-256 hashes.
+weights, configuration, vocabulary, input settings, and training state. The
+selected `results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt` is included
+in Git for teammate inference. Other checkpoints remain ignored by Git;
+preserve/transfer those separately with their SHA-256 hashes.
 Checkpoint/archive hashes are recorded in `FINAL_VERIFICATION.json` and
 `epoch_summary.csv`. No missing checkpoint was fabricated or reconstructed.
 

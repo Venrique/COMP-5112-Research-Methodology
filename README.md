@@ -415,7 +415,8 @@ output. The epoch report links all 17 original prediction CSVs.
 
 Checkpoint snapshots for epochs 2-17 are in `epoch_checkpoints/`; epoch 1's
 weights were overwritten before archiving began, but its scores and predictions
-remain. `.pt` files are binary and Git-ignored: preserve them separately with
+remain. The selected `best.pt` is included in Git for teammate inference;
+other `.pt` files remain Git-ignored and need separate preservation with
 recorded hashes. `training_smoke/` contains earlier 16-example diagnostics,
 not the full run. Preparation/model-check artifacts are also stored separately.
 The full report explains every result folder, audit, and supervisor/request file.
@@ -500,7 +501,7 @@ Open the local address Streamlit prints, normally `http://localhost:8501`.
 Stop it with Ctrl+C. The default server address is local-only.
 
 - CNN-LSTM-CTC uses the saved `best.pt` checkpoint, currently IAM epoch 14.
-  It is Git-ignored, so other computers need the weights separately. To use
+  It is included in this branch, so cloning or pulling also provides the weights. To use
   another saved project checkpoint, set `HTR_CNN_CHECKPOINT` before launch.
 - TrOCR uses the existing recognizer and pinned handwritten checkpoint.
   First use may require internet access and a model download.

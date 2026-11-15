@@ -40,7 +40,8 @@ with seed 5112 without replacement. It is not a new evaluation sample.
 
 Weights for epochs 2-17 are archived under `epoch_checkpoints/`. Epoch 1's old
 weights were overwritten before archiving began; its metrics/predictions remain.
-Binary `.pt` files are Git-ignored: preserve them separately with recorded hashes.
+The selected `best.pt` is included in Git for teammate inference. Other binary
+`.pt` files remain Git-ignored: preserve them separately with recorded hashes.
 
 The run is early-stopped with patience counter 3. Increasing the epoch limit
 alone does not reset early stopping or start epoch 18. No further training was

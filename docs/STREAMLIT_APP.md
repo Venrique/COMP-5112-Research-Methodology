@@ -71,9 +71,11 @@ The default checkpoint is the trained IAM **epoch 14** model at:
 results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt
 ```
 
-Weights are Git-ignored. A teammate who clones the branch must obtain that
-checkpoint separately. The app displays an actionable missing-checkpoint
-message and disables CNN inference if it is absent.
+The selected checkpoint is included in Git on `feature/streamlit-frontend`.
+Clone or pull that branch to obtain it at the default path; no separate weights
+download is needed. Other training checkpoints remain Git-ignored. The app
+displays an actionable missing-checkpoint message and disables CNN inference
+if the selected file is absent.
 
 To use another trusted project checkpoint, set its location before launch:
 
