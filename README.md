@@ -478,3 +478,45 @@ individual/combined/order comparisons, then use the same 250 IAM test lines as
 TrOCR for final evaluation. Keep mandatory input preparation fixed and disclose
 the models' different training provenance. See the full report for all 17 epoch
 results, interpretation, limitations, and reproducibility details.
+
+## Streamlit frontend
+
+The frontend is implemented in [streamlit_app.py](streamlit_app.py). A user
+uploads one cropped English handwriting line and chooses **CNN + LSTM + CTC**
+or **TrOCR**. The app displays the image, predicted text and reading time.
+Supplying the correct text also enables **CER/WER for that image**; without
+ground truth, scores are marked **Not calculated**. Correct text is not supplied
+to the recognizer, and scores are never invented from the image alone.
+
+**Manual launch only:** the app has not been started and Streamlit has not been
+installed automatically. From the project root, using the existing environment:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements-frontend.txt
+.\.venv\Scripts\python.exe -m streamlit run streamlit_app.py
+```
+
+Open the local address Streamlit prints, normally `http://localhost:8501`.
+Stop it with Ctrl+C. The default server address is local-only.
+
+- CNN-LSTM-CTC uses the saved `best.pt` checkpoint, currently IAM epoch 14.
+  It is Git-ignored, so other computers need the weights separately. To use
+  another saved project checkpoint, set `HTR_CNN_CHECKPOINT` before launch.
+- TrOCR uses the existing recognizer and pinned handwritten checkpoint.
+  First use may require internet access and a model download.
+- Models load only after clicking **Read handwriting** and are cached with
+  serialized access. New images/models hide stale predictions; a new image
+  clears old reference text. Editing reference text recomputes scores without
+  running inference again.
+- Uploads are processed in memory with EXIF/white-alpha adaptation, followed by
+  each model's mandatory preparation. No retraining, optional preprocessing,
+  dataset changes, or automatic result-file writes occur. A JSON download is
+  available for the current result.
+
+See [STREAMLIT_APP.md](docs/STREAMLIT_APP.md) for the full guide and limitations.
+Reusable helpers live in [src/frontend/recognition.py](src/frontend/recognition.py),
+with theme/upload settings in [.streamlit/config.toml](.streamlit/config.toml).
+Six [offline helper tests](tests/test_frontend_recognition.py) passed using fake
+predictors/factories, and syntax checks passed without executing the app. Live
+UI behavior, dependency installation, and real frontend inference remain
+untested until manual launch, as requested.

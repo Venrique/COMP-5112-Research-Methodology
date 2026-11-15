@@ -181,6 +181,14 @@ Never mix validation and final test results without identifying them.
 
 ## Expected outputs
 
+An optional local Streamlit diagnostic interface is implemented. Users upload
+one handwritten line, select the existing CNN-LSTM-CTC or TrOCR recognizer,
+and receive a prediction. Per-image CER/WER require user-supplied ground truth
+and use the same scoring policy as the experiment code. App uploads do not
+modify datasets or enter the reserved test experiments. No app training or
+optional preprocessing is performed. Launch and real frontend inference are
+left to the user; see `docs/STREAMLIT_APP.md`.
+
 1. Reusable Python modules
 2. Configurable experimental pipeline
 3. Jupyter Notebooks demonstrating experiments
