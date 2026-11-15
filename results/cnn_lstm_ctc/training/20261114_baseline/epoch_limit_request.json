@@ -1,0 +1,9 @@
+{
+  "epochs": 4,
+  "state": "superseded_by_iam_only",
+  "active_dataset": "iam",
+  "restart_after_completed_epoch": 1,
+  "policy": "finish active epoch, pause at batch boundary, restore saved checkpoint, resume both datasets with maximum 4 epochs",
+  "reason": "Intentional clean pause: IAM only, maximum 20 epochs",
+  "superseded_by": "dataset_selection_request.json"
+}

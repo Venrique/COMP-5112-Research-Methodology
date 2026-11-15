@@ -1,0 +1,11 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+baseline,img01,The sky is a deep blue color today,The sky is a der loe caoo todby .,0.00015060004079714417,0.05609530000947416,0.29411764705882354,0.625
+baseline,img02,Please bring my notebook tomorrow,PPease bring mny nstebook fomorrow .,0.0003711000317707658,0.0229276999598369,0.18181818181818182,1.0
+baseline,img03,She wrote a letter to her friend,T he wrote a letter to her frond,0.0004476999747566879,0.02798600000096485,0.125,0.42857142857142855
+baseline,img04,The train leaves at past helf time,Th train leaver af posf hoff time .,0.0005138000124134123,0.02481380000244826,0.2647058823529412,0.8571428571428571
+baseline,img05,I bought three apples and two pears,T bogf thae anks and the pars .,0.0003662999952211976,0.020262099977117032,0.42857142857142855,1.0
+baseline,img06,I was about to leave the house when I realized,Twas about to teave thehouse when I reatired .,0.0004364000051282346,0.038191900006495416,0.17391304347826086,0.7
+baseline,img07,"As far as I know, they haven't made a final decision yet.","Rifax as( know""ther hevenitiade afiatesiengs .",0.0010965000255964696,0.03686629998264834,0.43859649122807015,1.0
+baseline,img08,"I've been meaning to get around to it, but something","T he been meaning to get aroung toit , but something .",0.0007199000101536512,0.035261499986518174,0.15384615384615385,0.6
+baseline,img09,It slipped my mind,It slippdmy mingd .,0.0003913000109605491,0.021000799955800176,0.2777777777777778,0.75
+baseline,img10,I'm running a bit late,Ton waning abot fafe .,0.0002710000262595713,0.021205400000326335,0.5454545454545454,1.0

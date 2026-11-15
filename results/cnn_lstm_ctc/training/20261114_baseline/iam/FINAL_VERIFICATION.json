@@ -1,0 +1,30 @@
+{
+  "verified_utc": "2026-11-15T05:39:20.733195+00:00",
+  "dataset": "IAM",
+  "phase": "validation_only",
+  "completed_epochs": 17,
+  "saved_prediction_rows_checked": 1700,
+  "unique_validation_samples": 100,
+  "all_epoch_corpus_metrics_match_predictions": true,
+  "same_ordered_validation_cohort_and_original_text": true,
+  "archives_checked": 16,
+  "archive_sha256_checks_passed": true,
+  "random_example_export_checked": 100,
+  "best_epoch_by_recorded_selection_rule": 14,
+  "checkpoint_facts": {
+    "best.pt": {
+      "epoch": 14,
+      "optimizer_steps": 22694,
+      "bad_epochs": 0,
+      "sha256": "94948bc77ede0780766df02c68f514e23163ec719eed9917851b9478a7729f0b"
+    },
+    "last.pt": {
+      "epoch": 17,
+      "optimizer_steps": 27557,
+      "bad_epochs": 3,
+      "sha256": "757fe050b43dfe82da3003ac15c6e59335dbe540fa0c49254aaadbc9db7e82ee"
+    }
+  },
+  "test_evaluated": false,
+  "note": "Checks read saved artifacts; no model training or new dataset inference was run."
+}

@@ -1,0 +1,8 @@
+{
+  "epoch": 17,
+  "seen": 6482,
+  "training_count": 6482,
+  "mean_loss": 0.2073024680302931,
+  "seconds": 1266.284890299954,
+  "estimated_remaining_epoch_seconds": 0.0
+}
