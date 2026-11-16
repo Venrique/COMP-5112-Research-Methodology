@@ -108,8 +108,8 @@ pretrained handwritten text recognition (HTR) models. See
 [RESEARCH_PLAN.md](RESEARCH_PLAN.md) for the methodology.
 
 Currently implemented: IAM dataset loading, a configurable preprocessing
-pipeline, non-local means denoising, and a visual comparison notebook.
-TrOCR inference and corpus CER/WER evaluation are also implemented.
+pipeline with CLAHE, non-local means denoising, and deskewing; TrOCR inference;
+and corpus CER/WER evaluation.
 
 ## TrOCR recognition comparison
 
@@ -136,12 +136,6 @@ To use another architecture, implement `predict(image) -> str` and
 instance to `compare_recognition`. Keep mandatory model input transforms inside
 the wrapper. Add preprocessing configurations to the notebook's `pipelines`
 dictionary without changing recognition or metric code. No training is performed.
-
-The initial CPU smoke run on validation indices 0–9 produced CER 0.030691 and
-WER 0.121951 for both configurations. This is a small demonstration, not a
-claim about the full validation set or preprocessing effectiveness. The model
-card identifies this checkpoint as IAM-fine-tuned, English, MIT-licensed:
-https://huggingface.co/microsoft/trocr-base-handwritten.
 
 ## Setup
 
@@ -341,3 +335,189 @@ serialization, and synthetic noise reduction. They do not establish HTR
 accuracy improvements. Recognition tests additionally check known corpus edit
 counts, normalization and interchangeable model evaluation. The next development
 priority is a larger fixed validation comparison before adding techniques.
+
+## CNN + LSTM + CTC
+
+### Final IAM baseline result
+
+**Training finished through early stopping at epoch 17 of the requested maximum
+20. The selected model is epoch 14: validation CER 10.07%, WER 34.29%.**
+These scores use the fixed 100 IAM validation lines. CNN-LSTM-CTC test evaluation
+and optional preprocessing comparisons have not been run.
+
+Start with the [complete implementation and research report](docs/CNN_LSTM_CTC.md)
+or the [short final run summary](results/cnn_lstm_ctc/training/20261114_baseline/iam/FINAL_SUMMARY.md).
+All CNN-LSTM-CTC documentation and artifact links are grouped here; the existing
+TrOCR implementation and results are retained.
+
+| Item | Value |
+| --- | --- |
+| Full training scope | IAM only; original 6,482 training lines |
+| Validation | Same saved 100 lines from the original 976-line validation split |
+| Test | Same saved 250 IAM test indices reserved for later final comparison |
+| Architecture | Three CNN blocks, two-layer bidirectional LSTM, classifier, CTC |
+| Parameters / classes | 772,688 parameters; 79 training-derived characters plus blank |
+| Input | Height-64 grayscale, aspect ratio preserved, pixels [0,1], right white padding |
+| Training | Adam 0.001; batch 4; seed 5112; clip norm 5; four CPU threads |
+| Stopping/selection | Patience 3; lowest validation CER, then WER, then validation loss |
+| Selected checkpoint | `best.pt`, epoch 14: CER 10.07%, WER 34.29% |
+| Latest checkpoint | `last.pt`, epoch 17: CER 10.61%, WER 36.54% |
+
+Epoch 14 has the best CER; epoch 13 has the best WER (34.19%), and epoch 16
+has the lowest validation loss. Epochs 15-17 did not beat epoch 14's selection
+score. No epoch 18-20 results exist. CER/WER are error rates, not simple accuracy
+percentages. Do not compare these validation scores directly with TrOCR's test
+scores or infer architecture effects without matched samples/protocols.
+
+Bentham preparation, model checks, and small diagnostic runs are preserved,
+but full Bentham CNN-LSTM-CTC training was excluded at the user's request.
+
+### Notebooks and reusable code
+
+| File | Purpose |
+| --- | --- |
+| [01_data_preparation.ipynb](notebooks/cnn_lstm_ctc/01_data_preparation.ipynb) | Original/prepared images, real text-to-ID examples, split counts, training text-length graphs |
+| [02_model_check.ipynb](notebooks/cnn_lstm_ctc/02_model_check.ipynb) | Untrained forward/CTC-loss/backward checks and synthetic repeated-letter decoding |
+| [03_training.ipynb](notebooks/cnn_lstm_ctc/03_training.ipynb) | Final status, all completed epochs, loss/error graphs, checkpoint usage; training launch disabled by default |
+| [Notebook guide](notebooks/cnn_lstm_ctc/README.md) | How to open and understand the workflow |
+| [ctc_data.py](src/training/ctc_data.py) | Training-only vocabulary, mandatory image preparation, split wrapper, batching |
+| [cnn_lstm_ctc.py](src/models/cnn_lstm_ctc.py) | CNN, BiLSTM, classifier, CTC loss, greedy decoder, recognizer adapter |
+| [ctc_training.py](src/training/ctc_training.py) | Alignment audits, training, validation selection, early stopping, checkpoints, resume, plots, CLI |
+| [epoch_reporting.py](src/training/epoch_reporting.py) | Verifies saved metrics/cohorts, documents epochs, archives available weights |
+| [Model exports](src/models/__init__.py) | Exposes CNN-LSTM-CTC alongside TrOCR |
+| [Training package](src/training/__init__.py) | Training package initialization |
+
+Character IDs come from training text only; blank ID 0 is never a target letter.
+Original images/text and existing splits are preserved. Baseline training uses
+mandatory preparation only, with no optional denoising, deskewing, CLAHE,
+intensity normalization, or experimental size normalization. Grayscale is
+mandatory here, so a separate optional grayscale treatment can be redundant.
+
+### Results, predictions, and example tables
+
+The full run is in `results/cnn_lstm_ctc/training/20261114_baseline/iam/`.
+
+- [Every completed epoch with fixed prediction examples](results/cnn_lstm_ctc/training/20261114_baseline/iam/EPOCH_RESULTS.md)
+- [Full-precision analysis table](results/cnn_lstm_ctc/training/20261114_baseline/iam/epoch_summary.csv)
+- [Original epoch history](results/cnn_lstm_ctc/training/20261114_baseline/iam/history.csv)
+- [Training/validation loss and error graphs](results/cnn_lstm_ctc/training/20261114_baseline/iam/training_curves.png)
+- [Original epoch 14 predictions](results/cnn_lstm_ctc/training/20261114_baseline/iam/validation_epoch_014.csv)
+- [100 epoch 14 examples: readable table](results/cnn_lstm_ctc/training/20261114_baseline/iam/examples/epoch_014_random_100_seed5112.md)
+- [100-example CSV](results/cnn_lstm_ctc/training/20261114_baseline/iam/examples/epoch_014_random_100_seed5112.csv)
+- [Random-order selection manifest](results/cnn_lstm_ctc/training/20261114_baseline/iam/examples/epoch_014_random_100_seed5112.json)
+- [Final status](results/cnn_lstm_ctc/training/20261114_baseline/iam/status.json) and [original signed configuration](results/cnn_lstm_ctc/training/20261114_baseline/iam/metadata.json)
+- [Final artifact verification](results/cnn_lstm_ctc/training/20261114_baseline/iam/FINAL_VERIFICATION.json)
+
+The random-order export contains **all the same 100 validation lines**, shuffled
+without replacement using seed 5112. It is not new inference, new samples, or a
+test evaluation. `ground_truth` is the actual text; `prediction` is the model's
+output. The epoch report links all 17 original prediction CSVs.
+
+Checkpoint snapshots for epochs 2-17 are in `epoch_checkpoints/`; epoch 1's
+weights were overwritten before archiving began, but its scores and predictions
+remain. The selected `best.pt` is included in Git for teammate inference;
+other `.pt` files remain Git-ignored and need separate preservation with
+recorded hashes. `training_smoke/` contains earlier 16-example diagnostics,
+not the full run. Preparation/model-check artifacts are also stored separately.
+The full report explains every result folder, audit, and supervisor/request file.
+
+### Load the selected model
+
+Use the existing project Python environment and run from the project root:
+
+```python
+from src.models import CNNLSTMCTCRecognizer
+
+recognizer = CNNLSTMCTCRecognizer.from_checkpoint(
+    "results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt",
+    device="cpu",
+)
+# prediction = recognizer.predict(a_pillow_line_image)
+# settings = recognizer.to_config()  # includes checkpoint SHA-256 and epoch
+```
+
+Loading restores matching character IDs and mandatory input preparation. The
+training launcher in the notebook stays disabled so opening it does not train
+again. Epoch-boundary resume preserves optimizer/shuffle/RNG state and checks
+run identity. **This run has already early-stopped with patience counter 3:**
+increasing only the epoch limit will not reset patience or start epoch 18.
+Further training needs a deliberate, separately documented continuation policy;
+none was started by this documentation update.
+
+### Verification and next research task
+
+The selected checkpoint was also run on all 10 images in `data/local/`, using
+the existing `templates/local_images.csv` labels unchanged. This separate local
+diagnostic scored **28.10% CER and 78.67% WER**. It is not IAM test performance.
+No training, optional preprocessing, or spelling correction was applied; source
+images, manifest, and checkpoint were verified unchanged.
+
+- [Executed local-image notebook](notebooks/cnn_lstm_ctc/04_local_images_recognition.ipynb)
+- [Actual versus predicted text and image preview](results/cnn_lstm_ctc/local_predictions/20261115T054718447180Z/PREDICTIONS.md)
+- [Local predictions CSV](results/cnn_lstm_ctc/local_predictions/20261115T054718447180Z/predictions.csv)
+
+The notebook reuses the existing local-image loader, recognizer, baseline
+pipeline, and corpus evaluator; rerunning writes a fresh result directory.
+
+The implementation suite previously passed 59 tests. Tests cover data/label
+preservation, CTC targets and repeated letters, model gradients, padding
+consistency, checkpoint reload, exact resume, early stopping, invalid inputs,
+and reporting consistency:
+
+- [Data tests](tests/test_ctc_data.py)
+- [Model tests](tests/test_cnn_lstm_ctc.py)
+- [Training tests](tests/test_ctc_training.py)
+- [Epoch-report tests](tests/test_epoch_reporting.py)
+
+Final artifact checks verified all 17 epoch scores against 1,700 saved
+predictions, identical validation indices/ground truth, all 16 archived hashes,
+best/last checkpoint identities, and the 100-example export. These checks do
+not establish final test performance. GPU execution remains untested.
+
+Next: freeze epoch 14, select optional preprocessing on validation, define the
+individual/combined/order comparisons, then use the same 250 IAM test lines as
+TrOCR for final evaluation. Keep mandatory input preparation fixed and disclose
+the models' different training provenance. See the full report for all 17 epoch
+results, interpretation, limitations, and reproducibility details.
+
+## Streamlit frontend
+
+The frontend is implemented in [streamlit_app.py](streamlit_app.py). A user
+uploads one cropped English handwriting line and chooses **CNN + LSTM + CTC**
+or **TrOCR**. The app displays the image, predicted text and reading time.
+Supplying the correct text also enables **CER/WER for that image**; without
+ground truth, scores are marked **Not calculated**. Correct text is not supplied
+to the recognizer, and scores are never invented from the image alone.
+
+**Manual launch only:** the app has not been started and Streamlit has not been
+installed automatically. From the project root, using the existing environment:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements-frontend.txt
+.\.venv\Scripts\python.exe -m streamlit run streamlit_app.py
+```
+
+Open the local address Streamlit prints, normally `http://localhost:8501`.
+Stop it with Ctrl+C. The default server address is local-only.
+
+- CNN-LSTM-CTC uses the saved `best.pt` checkpoint, currently IAM epoch 14.
+  It is included in this branch, so cloning or pulling also provides the weights. To use
+  another saved project checkpoint, set `HTR_CNN_CHECKPOINT` before launch.
+- TrOCR uses the existing recognizer and pinned handwritten checkpoint.
+  First use may require internet access and a model download.
+- Models load only after clicking **Read handwriting** and are cached with
+  serialized access. New images/models hide stale predictions; a new image
+  clears old reference text. Editing reference text recomputes scores without
+  running inference again.
+- Uploads are processed in memory with EXIF/white-alpha adaptation, followed by
+  selectable optional preprocessing followed by each model's mandatory preparation. No retraining,
+  dataset changes, or automatic result-file writes occur. A JSON download is
+  available for the current result.
+
+See [STREAMLIT_APP.md](docs/STREAMLIT_APP.md) for the full guide and limitations.
+Reusable helpers live in [src/frontend/recognition.py](src/frontend/recognition.py),
+with theme/upload settings in [.streamlit/config.toml](.streamlit/config.toml).
+Six [offline helper tests](tests/test_frontend_recognition.py) passed using fake
+predictors/factories, and syntax checks passed without executing the app. Live
+UI behavior, dependency installation, and real frontend inference remain
+untested until manual launch, as requested.

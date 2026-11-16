@@ -1,0 +1,25 @@
+{
+  "datasets": [
+    "iam"
+  ],
+  "epochs": 20,
+  "state": "finished_iam_only",
+  "restart_after_completed_epoch": 3,
+  "reason": "User requested IAM only up to 20 epochs with documented results for every completed epoch",
+  "previous_requested_epochs": 4,
+  "report": "iam/EPOCH_RESULTS.md",
+  "epoch_table": "iam/epoch_summary.csv",
+  "training_pid": 19384,
+  "final_status": {
+    "status": "early_stopped",
+    "completed_epochs": 17,
+    "requested_epochs": 20,
+    "best_validation_score": [
+      0.10070151618013125,
+      0.34294871794871795,
+      0.37570455238223077
+    ],
+    "best_checkpoint": "best.pt",
+    "test_evaluated": false
+  }
+}

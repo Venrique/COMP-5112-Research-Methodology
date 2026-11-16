@@ -12,7 +12,7 @@ How do different image preprocessing techniques affect the recognition accuracy 
 ## Secondary research questions
 
 1. Which preprocessing techniques produce the greatest improvement in recognition accuracy?
-2. Do modern Transformer-based HTR models benefit from preprocessing as much as traditional CNN-RNN architectures?
+2. Do Transformer-based HTR models benefit from preprocessing differently than other HTR architectures?
 3. Do combinations of preprocessing techniques perform better than individual techniques?
 4. Does preprocessing effectiveness vary across different handwriting datasets and languages?
 5. How do handwriting characteristics and image quality influence recognition accuracy?
@@ -38,12 +38,34 @@ The research aims to determine experimentally whether preprocessing improves acc
 - Verify the implementation and pretrained weights before integration.
 
 ### CNN + LSTM + CTC
-- CNN extracts image features.
-- LSTM processes sequential relationships.
-- CTC handles sequence alignment and decoding.
-- Find a suitable pretrained handwriting recognition implementation.
+- Add a CNN and bidirectional LSTM recognizer with CTC, trained from scratch as
+  requested for the architecture comparison. Keep the pretrained TrOCR baseline.
+- Current scope, revised by the user: train the CNN-LSTM-CTC baseline on IAM
+  only, using its original training split. Use the teammate's fixed 100 IAM
+  validation lines to select checkpoints and optional preprocessing settings;
+  preserve the fixed 250 IAM test lines for final comparisons. Bentham preparation
+  is retained, but full CNN-LSTM-CTC training on Bentham is deferred.
+- Keep required grayscale/resize input preparation identical across a model's
+  baseline and optional preprocessing treatments. Freeze the selected checkpoint
+  before measuring preprocessing effects.
+- The user extended the development run from a 4-epoch limit to a maximum of
+  20 IAM epochs after reviewing early validation results. Keep the same
+  validation-based early stopping and record this adaptive budget change.
+  Document every completed epoch's loss, corpus CER/WER, fixed prediction
+  examples, and available checkpoint. Assess convergence on validation rather
+  than assuming this budget is sufficient; reserve test for final evaluation.
+- Report the difference in training provenance: CNN-LSTM-CTC learns locally from
+  dataset training splits, whereas TrOCR uses Microsoft's existing pretrained weights.
+- Completed IAM baseline: early-stopped after 17 epochs; epoch 14 selected by
+  lowest validation CER, then WER, then validation loss. Selected validation
+  CER is 10.07% and WER 34.29% on the fixed 100 IAM lines. Epoch 13 has the
+  lowest WER, so the selected checkpoint is not best on every metric.
+- See `docs/CNN_LSTM_CTC.md` for complete methodology, all 17 epoch results,
+  verified actual/predicted text examples, checkpoint provenance, and limitations.
+  CNN-LSTM-CTC preprocessing experiments and final test evaluation remain pending.
 
-The goal is inference and evaluation, not training from scratch.
+TrOCR is used for inference and evaluation without local fine-tuning. The new
+CNN-LSTM-CTC comparison includes the explicitly requested from-scratch training.
 
 ## Datasets
 
@@ -103,7 +125,7 @@ Make preprocessing order explicit.
 
 ### Experiment C — Model comparison
 
-Evaluate TrOCR, HTR-VT, and CNN + LSTM + CTC on the same datasets and samples.
+Evaluate TrOCR and HTR-VT on the same datasets and samples.
 
 Document differences in training data, vocabulary, and model capacity.
 
@@ -159,6 +181,15 @@ Never mix validation and final test results without identifying them.
 
 ## Expected outputs
 
+An optional local Streamlit diagnostic interface is implemented. Users upload
+one handwritten line, select the existing CNN-LSTM-CTC or TrOCR recognizer,
+and receive a prediction. Per-image CER/WER require user-supplied ground truth
+and use the same scoring policy as the experiment code. App uploads do not
+modify datasets or enter the reserved test experiments. Optional preprocessing
+is selectable with independent checkboxes and recorded in downloads; all off
+preserves the baseline. No app training is performed. Launch and real frontend inference are
+left to the user; see `docs/STREAMLIT_APP.md`.
+
 1. Reusable Python modules
 2. Configurable experimental pipeline
 3. Jupyter Notebooks demonstrating experiments
@@ -172,8 +203,18 @@ Completed:
 - Initial IAM Hugging Face dataset loading
 - Ground-truth extraction
 - Display of handwritten images and transcriptions
+- Configurable optional preprocessing with CLAHE, non-local means denoising, and deskewing
+- TrOCR inference and corpus CER/WER evaluation
+- CNN-LSTM-CTC image/label preparation, architecture and decoder, training,
+  checkpoints/resume, and validation-based early stopping
+- IAM-only baseline training through epoch 17, with epoch 14 selected
+- Per-epoch tables, loss/error graphs, actual predictions, checkpoint archives,
+  and a verified 100-example random-order export from the same validation set
 
 Next:
-- Integrate pretrained TrOCR inference
-- Implement CER and WER
-- Implement configurable preprocessing
+- Freeze the selected CNN-LSTM-CTC epoch 14 checkpoint and choose optional
+  preprocessing settings/combined-order treatments on validation
+- Run matched TrOCR/CNN-LSTM-CTC final comparisons on the saved 250 IAM test
+  indices only after the validation protocol is fixed
+- Verify pretrained HTR-VT checkpoint availability, license, inputs, and decoding before integration
+- Reserve the IAM test split for final evaluation

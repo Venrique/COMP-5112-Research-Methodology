@@ -1,0 +1,2 @@
+configuration,sample_count,scored_sample_count,cer,wer,inference_seconds
+baseline,10,10,0.2809917355371901,0.7866666666666666,0.30461079988162965

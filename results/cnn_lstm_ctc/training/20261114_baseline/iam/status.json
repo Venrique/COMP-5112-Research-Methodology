@@ -1,0 +1,12 @@
+{
+  "status": "early_stopped",
+  "completed_epochs": 17,
+  "requested_epochs": 20,
+  "best_validation_score": [
+    0.10070151618013125,
+    0.34294871794871795,
+    0.37570455238223077
+  ],
+  "best_checkpoint": "best.pt",
+  "test_evaluated": false
+}

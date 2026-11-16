@@ -1,0 +1,3 @@
+# Install manually into the existing project environment.
+-r requirements-inference.txt
+streamlit==1.67.0

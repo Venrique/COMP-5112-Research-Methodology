@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "clahe",
+  "sample_count": 250,
+  "cer": 0.04653791804050871,
+  "wer": 0.10856886496186631,
+  "preprocessing_seconds": 0.08204058519913815,
+  "inference_seconds": 71.75292620790424
+}

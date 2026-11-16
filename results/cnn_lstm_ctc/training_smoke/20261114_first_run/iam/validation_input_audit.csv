@@ -1,0 +1,17 @@
+source_index,sample_id,original_width,original_height,prepared_width,ctc_timesteps,minimum_ctc_timesteps,valid
+6,sample_6,1347,128,674,168,37,True
+25,sample_25,1539,128,770,192,57,True
+27,sample_27,2116,128,1058,264,45,True
+30,sample_30,1221,128,610,152,23,True
+32,sample_32,2467,128,1234,308,51,True
+44,sample_44,1952,128,976,244,45,True
+46,sample_46,2537,128,1268,317,36,True
+71,sample_71,1881,128,940,235,48,True
+80,sample_80,1592,128,796,199,46,True
+81,sample_81,1356,128,678,169,46,True
+89,sample_89,1878,128,939,234,47,True
+94,sample_94,1404,128,702,175,41,True
+95,sample_95,1388,128,694,173,49,True
+99,sample_99,1712,128,856,214,39,True
+103,sample_103,2434,128,1217,304,43,True
+104,sample_104,1504,128,752,188,39,True

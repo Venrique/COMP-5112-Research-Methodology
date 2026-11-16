@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "completed_epochs": 1,
+  "requested_epochs": 1,
+  "best_validation_score": [
+    1.0,
+    1.0,
+    16.62416934967041
+  ],
+  "best_checkpoint": "best.pt",
+  "test_evaluated": false
+}

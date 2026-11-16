@@ -58,6 +58,8 @@ models/
 *.pth
 *.ckpt
 *.onnx
+# Share the selected IAM epoch 14 checkpoint for teammate inference.
+!/results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt
 
 # =========================
 # Training Logs

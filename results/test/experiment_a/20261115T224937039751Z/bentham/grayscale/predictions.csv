@@ -1,0 +1,861 @@
+index,sample_id,ground_truth,preprocessing_seconds,prediction,inference_seconds,cer,wer
+0,096_028_001_01_01,brain. ,0.0006773339991923422,train .,0.212527197876625,0.3333333333333333,2.0
+1,096_028_001_01_02,"From this review then it appears, that ",0.00040158399497158825,Front his preview then it appears that,0.212527197876625,0.13157894736842105,0.5714285714285714
+2,096_028_001_01_03,in paving the way to the consideration of ,0.0005485829897224903,imparing the way to the confidentialain of,0.212527197876625,0.24390243902439024,0.375
+3,096_028_001_01_04,"municipal Law, our Author has spent ",0.0003266669809818268,"ommingham Delaware , over author hair-heart",0.212527197876625,0.6571428571428571,1.0
+4,096_028_001_01_05,supposed ,5.887501174584031e-05,supposed,0.212527197876625,0.0,0.0
+5,096_028_001_01_06,much time in explaining the nature & ,0.0003844579914584756,mutations in explaining the feature,0.212527197876625,0.2777777777777778,0.5714285714285714
+6,096_028_001_01_07,Properties of Laws which do not exist & ,0.00036704199737869203,# earlier of Laos which do not believe,0.212527197876625,0.358974358974359,0.625
+7,096_028_001_01_08,"in misapplying those which do: & therefore, ",0.00047195900697261095,in missupplying those which do . To therefore,0.212527197876625,0.16279069767441862,0.7142857142857143
+8,096_028_001_01_09,that the best thing which a Student of the ,0.0005215829878579825,fast-the best thing which a thudend offence,0.2578338072526094,0.2619047619047619,0.5555555555555556
+9,096_028_001_01_10,Law can do is to forget all that our Author ,0.0004160419921390712,Law can do it to forget whether a sudden,0.2578338072526094,0.3488372093023256,0.5
+10,096_028_001_01_11,has hitherto advanced. ,0.0001872910070233047,has in the streets and scattered .,0.2578338072526094,0.8181818181818182,2.0
+11,096_028_001_02_01,25 73 ,0.0002658329904079437,42nd sp. 3 .,0.2578338072526094,1.8,2.0
+12,097_186_001_01_01,Note ( ) to p. ,8.433297625742853e-05,Note ( help,0.2578338072526094,0.42857142857142855,0.6
+13,097_186_001_01_02, Sydney New South Wales 20th May 1799 ,0.0001649579789955169,bycoming . News-Smith . Wales 20 May 1899,0.2578338072526094,0.4722222222222222,0.8571428571428571
+14,097_186_001_01_03,The fatigue to which the Governor of this territory must ,0.00036362497485242784,the fatigue to which the Governor of this territory must,0.2578338072526094,0.017857142857142856,0.1
+15,097_186_001_01_04,"submitt, both mental and corporeal, is far beyond any idea ",0.0003353749925736338,"column's both mental and corporeal , is far beyond any effect",0.2578338072526094,0.2413793103448276,0.4
+16,097_186_001_01_05,you can have of the nature of his duty rendering such fatigue ,0.00047695799730718136,you can have of the native of his duty sondering employee,0.27450834375122213,0.2459016393442623,0.3333333333333333
+17,097_186_001_01_06,necessary in the Commander in Chief. ,0.00027295801555737853,necessary it the Commander in Chief,0.27450834375122213,0.05555555555555555,0.3333333333333333
+18,097_186_001_01_07,My former knowledge and acquaintance with this Country ,0.00037395901745185256,My former knowledge and acquaintance with this country,0.27450834375122213,0.018518518518518517,0.125
+19,097_186_001_01_08,"encouraged me in a hope, which however has in some respects ",0.00034895798307843506,"encouraged me for a hope , which however has in some respects",0.27450834375122213,0.06779661016949153,0.2727272727272727
+20,097_186_001_01_09,proved delusive: that I should with ease to myself and with ,0.00034333299845457077,"proved defensive . What I should , with care to myself and with",0.27450834375122213,0.1694915254237288,0.45454545454545453
+21,097_186_001_01_10,"proper effect and advantage to the public, have been able to ",0.0003783330030273646,"wrapper effect and advantage is the public , here-been able to",0.27450834375122213,0.15,0.45454545454545453
+22,097_186_001_01_11,not ,3.720898530445993e-05,not,0.27450834375122213,0.0,0.0
+23,097_186_001_01_12,manage all the duties of my office - But I had been long ,0.0003550830006133765,manage all the duties of any office- But I'll bear long,0.27450834375122213,0.16071428571428573,0.46153846153846156
+24,097_186_001_01_13,"entered upon it, before I was awakened from that dream of ",0.0004729590145871043,"essence upon it , before ( I was acclaimed from that dreams of",0.33673643750080373,0.2631578947368421,0.5454545454545454
+25,097_186_001_01_14,"comfort and satisfaction, the prospect of which I had so vainly ",0.0019112910085823387,comfort and satisfaction the progress of what's kind so mainly,0.33673643750080373,0.2222222222222222,0.5454545454545454
+26,097_186_001_01_15,indulged! The seeds of the vexations which had so disappointed ,0.0004627919988706708,indulged . The sorts of them were colours which had so distinguished,0.33673643750080373,0.3548387096774194,0.7
+27,097_186_001_01_16,"me, had been sown for a very considerable time; and, being of ",0.00039441700209863484,"me , had been worn for a very considerable , and being of",0.33673643750080373,0.14754098360655737,0.4166666666666667
+28,097_186_001_01_17,"rather a prolific nature amongst such people, had gained so ",0.000403207988711074,"saskar of a prolific nature attempt with people , had gained so",0.33673643750080373,0.2711864406779661,0.6
+29,097_186_001_01_18,much strength. that it will require immense labour to grab them ,0.0004700419958680868,"much strength , that it will require influenza labour to grab them",0.33673643750080373,0.12698412698412698,0.2727272727272727
+30,097_186_001_01_19,"up by the root. I have persisted in my attempt to that end, and ",0.0014155000098980963,"age by the seat . I have persisted with the attempt to that need , and",0.33673643750080373,0.25396825396825395,0.5
+31,097_186_001_01_20,"mean not to change my system; which, be assured, from being cal- ",0.0017838749918155372,"snean next to change my system . Which , he offered , from being cut",0.33673643750080373,0.265625,0.8333333333333334
+32,097_186_001_01_21,"-culated to lay restraints upon every species of vice and immorality, ",0.0004115830233786255,"culated to key restaurants upon their offices of one of immortality ,",0.288717557250493,0.3333333333333333,0.8181818181818182
+33,097_186_001_01_22,"cannot, amongst such character be a very popular one; that however ",0.00034845800837501884,"cascent amongst such characters , he is very popular ever : that however",0.288717557250493,0.24242424242424243,0.6363636363636364
+34,097_186_001_01_23,will be a matter of no immediate concern to me; if I succeed only ,0.00029858300695195794,"well be a matter of no immediate concern to say "" if I succeed only",0.288717557250493,0.09230769230769231,0.21428571428571427
+35,097_186_001_01_24,"in a small degree, to check the growing profligacy and abandoned ",0.00043241700041107833,"is a small degree , to click the growing perfugacy and abandoned",0.288717557250493,0.125,0.45454545454545453
+36,097_186_001_01_25,turn of the lower classes of the people. ,0.00023720800527371466,turn of the lower days of the people .,0.288717557250493,0.15,0.375
+37,097_186_001_01_26,"This is a good Country, and will do well: but its progress ",0.0003351250197738409,"this is a good story , and will do well : but its progest",0.288717557250493,0.1724137931034483,0.5
+38,097_186_001_01_27,"in improvement would be considerable hastened, could Government ",0.00032533297780901194,"on improvement to be considerably hastened , could Government",0.288717557250493,0.1111111111111111,0.625
+39,097_186_001_01_28,be prevailed upon not to overstock us with the worst description ,0.000395249982830137,be prevailed that he created as with the word description,0.288717557250493,0.296875,0.5454545454545454
+40,097_186_001_01_29,"of characters: for, whilst the mass of the people continue to be of ",0.0005121660069562495,"of charoon's , while the snap of the people continue to be of",0.28976961450098315,0.22388059701492538,0.3076923076923077
+41,097_186_001_01_30,"that class, our difficulties will ever be very considerable: the ",0.00048787498963065445,that do not difficulties will ever be very considerable : the,0.28976961450098315,0.15625,0.4
+42,097_186_001_01_31,industrious and well disposed become a continual prey to the ,0.000385124993044883,under-in and well disposed became a continental party to the,0.28976961450098315,0.23333333333333334,0.4
+43,097_186_001_01_32,idle and worthless. ,0.00012500002048909664,rallip and worthless .,0.28976961450098315,0.3157894736842105,1.0
+44,096_038_003_01_01,"person, or body of men who are invested with ",0.0005036660004407167,fernions or body of men who are interested with,0.28976961450098315,0.1590909090909091,0.2222222222222222
+45,096_038_003_01_02,the power of making laws: for that Sovereignty ,0.0007939999923110008,the houses of smoking leave for that doucneignty,0.28976961450098315,0.30434782608695654,0.5
+46,096_038_003_01_03,& legislature ,0.0002300000051036477,ex legislators .,0.28976961450098315,0.46153846153846156,1.5
+47,096_038_003_01_04," are convertible terms. So that, our definition ",0.00042512500658631325,"are convertible perfume . What , an definition",0.28976961450098315,0.2608695652173913,0.7142857142857143
+48,096_038_003_01_05,receives little light from the addition of these ,0.0005639999872073531,recereux little light from their diltning these,0.2439322708742111,0.2708333333333333,0.5
+49,096_038_003_01_06,"words: it amounting only to this, that law ",0.000379333010641858,"works : it announcing only to this , that has",0.2439322708742111,0.19047619047619047,0.75
+50,096_038_003_01_07,"is a rule of action prescribed by him, who ",0.0005089589976705611,is a multi factorydescribed by his service to,0.2439322708742111,0.5,0.7777777777777778
+51,096_038_003_01_08,prescribes it. ,0.00016599998343735933,foreword best .,0.2439322708742111,0.6428571428571429,1.5
+52,096_038_003_01_09,"[""It is also, says our Author, a rule, command- ",0.0005629170045722276,"Tillis also , anywhere over Arthur , a male command",0.2439322708742111,0.46808510638297873,1.0
+53,096_038_003_01_10,"""ing what is right, and forbidding what is ",0.0005988339835312217,"mispeakable night , and forbidden , what is",0.2439322708742111,0.35714285714285715,0.75
+54,096_038_003_01_11,"wrong."" [If You ask our author, what he means ",0.0005607919883914292,"wrong . If you act our cushions , what the means",0.2439322708742111,0.28888888888888886,0.8888888888888888
+55,096_038_003_01_12,"by w right, and wrong, he will tell You, that ",0.000534249993506819,"by # night , and wrong she will tell . You that",0.2439322708742111,0.17777777777777778,0.7
+56,096_038_003_01_13,"is right which the law declares to be right, ",0.0005815830081701279,is night which the law declares to be right,0.22767182299867272,0.045454545454545456,0.2222222222222222
+57,096_038_003_01_14,and that is wrong which the law pronounces ,0.0004722079902421683,"and that is wrong which the law , more numerous",0.22767182299867272,0.2619047619047619,0.375
+58,096_038_003_01_15,"to be wrong. So that, here again no new light ",0.0006249579892028123,"to be wrong . It that , here again an immediate",0.22767182299867272,0.3111111111111111,0.8
+59,096_038_003_01_16,is ,3.2917014323174953e-05,is,0.22767182299867272,0.0,0.0
+60,096_038_003_01_17,107 ,0.00011249998351559043,priory .,0.22767182299867272,2.6666666666666665,2.0
+61,071_163_004_01_01,16 ,2.2124993847683072e-05,16,0.22767182299867272,0.0,0.0
+62,071_163_004_02_01,C ,2.0500010577961802e-05,c.,0.22767182299867272,2.0,1.0
+63,071_163_004_03_01,Frauds relative to the Coin. ,0.0004082079976797104,Friends relative to the COVID .,0.22767182299867272,0.2857142857142857,0.6
+64,071_163_004_04_01,entirely cut off. ,0.00011900000390596688,extremely cut offs .,0.2596472708755755,0.35294117647058826,1.0
+65,071_163_004_04_02,On this account it comes to be the more material to ,0.00022975000320002437,On this account it comes to her two more material to,0.2596472708755755,0.0784313725490196,0.18181818181818182
+66,071_163_004_04_03,search out by a circumstantial description the several pre= ,0.0002919579856097698,search out by a circumstantial description the several few,0.2596472708755755,0.05084745762711865,0.1111111111111111
+67,071_163_004_04_04,operations ,3.749999450519681e-05,operations,0.2596472708755755,0.0,0.0
+68,071_163_004_04_05,"=liminary Acts which a man has occasion to perform, and ",0.00038833299186080694,"liminary # which a man has occasion to perform , and",0.2596472708755755,0.10909090909090909,0.4
+69,071_163_004_04_06,the several preliminary situations it is necessary for him ,0.0003656670160125941,the several preliminary situations it is necessary for him,0.2596472708755755,0.0,0.0
+70,071_163_004_04_07,"to put himself into, before he can be in a condition to ",0.00031224999111145735,"to put himself into , before he can her in a condition to",0.2596472708755755,0.05454545454545454,0.25
+71,071_163_004_04_08,operations ,3.7124991649761796e-05,operations,0.2596472708755755,0.0,0.0
+72,071_163_004_04_09,perform the act intrinsically obnoxious. Of these acts ,0.00040095800068229437,perform the act intrinsically obnoxious . Of these #,0.26319915624844725,0.09259259259259259,0.375
+73,071_163_004_04_10,and situations there may be many which may present ,0.000440500007243827,and situations there may be many which may present,0.26319915624844725,0.0,0.0
+74,071_163_004_04_11,"a greater surface; as it were, to observation ( and from ",0.0003336249792482704,"a greater surface , as it went to observationland from",0.26319915624844725,0.14285714285714285,0.5454545454545454
+75,071_163_004_04_12,thence to testimony) than the act itself of Coining: and ,0.0005122500006109476,theme to testimony than the net itself of bassing and,0.26319915624844725,0.17857142857142858,0.4
+76,071_163_004_04_13,this even when taken separately; much more when they ,0.0003115830186288804,this even when taken separately ; much more when they,0.26319915624844725,0.019230769230769232,0.2222222222222222
+77,071_163_004_04_14,come to be added altogether. The more ample then and ,0.0003026670019607991,come to be added altogether . The more ample than and,0.26319915624844725,0.038461538461538464,0.3
+78,071_163_004_04_15,circumstantial the catalogue is that can be given of these ,0.00031695899087935686,accumstantial the catalogue is that can be given of these,0.26319915624844725,0.05172413793103448,0.1
+79,071_163_004_04_16,"preliminary offences, the better chance there is of effecting ",0.00028470897814258933,"preliminary offences , the better chances there is offerting",0.26319915624844725,0.09836065573770492,0.5555555555555556
+80,071_163_004_04_17,the purpose of preventing the principal one to which they ,0.00045683400821872056,the purposes of perseverating the principal ones to which they,0.2287496353746974,0.10526315789473684,0.3
+81,071_163_004_04_18,are introductory. ,0.0001358330191578716,are introductory .,0.2287496353746974,0.058823529411764705,1.0
+82,071_163_004_04_19,The following string of provisions are calculated in ,0.0003734170168172568,The following string of provisional new calculated in,0.2287496353746974,0.09615384615384616,0.25
+83,071_163_004_04_20,some degree to answer that design. They are taken with ,0.0003771670162677765,some degree to answer that design . They are taken with,0.2287496353746974,0.018518518518518517,0.2
+84,071_163_004_04_21,some ,9.266598499380052e-05,dome .,0.2287496353746974,0.75,2.0
+85,071_108_002_01_01,2. ,2.7875008527189493e-05,2.,0.2287496353746974,0.0,0.0
+86,071_108_002_02_01,C ,2.562499139457941e-05,ci,0.2287496353746974,2.0,1.0
+87,071_108_002_03_01,Of Matrimonial Desertion. ,0.0005015830101910979,of National Description .,0.2287496353746974,0.36,1.3333333333333333
+88,071_108_002_04_01,It will be necessary to define what shall be deemed ,0.00048758400953374803,It will be necessary to define what shall he deems,0.25848573962502996,0.058823529411764705,0.2
+89,071_108_002_04_02,"Desertion, distinguishing it from the case of lawful Absence; ",0.0005697910091839731,"Desertion , distinguishing it from the cases of lawful absence ;",0.25848573962502996,0.06557377049180328,0.5555555555555556
+90,071_108_002_04_03,and what steps shall be taken for giving notice. ,0.0003814169904217124,and what steps shall he taken for giving notice .,0.25848573962502996,0.041666666666666664,0.3333333333333333
+91,071_108_002_04_04,Let certain methods be established whereby the Husband ,0.0004164580022916198,Set contains methods has established whereby the illustrators,0.25848573962502996,0.2962962962962963,0.5
+92,071_108_002_04_05,and the Wife may be enabled and obliged to correspond with ,0.0003881670127157122,and the life may be enabled and obliged to correspond with,0.25848573962502996,0.017241379310344827,0.09090909090909091
+93,071_108_002_04_06,one another at stated intervals: and let a failure on either part ,0.00044574998901225626,"one another at stated intervals , and let a failure on either part",0.25848573962502996,0.03076923076923077,0.16666666666666666
+94,071_108_002_04_07,for a certain time be deemed presumptive evidence of death or ,0.000402124976972118,for a certain time he deemed presumptive evidence of death or,0.25848573962502996,0.01639344262295082,0.09090909090909091
+95,071_108_002_04_08,this ,3.529200330376625e-05,phi,0.25848573962502996,0.5,1.0
+96,071_108_002_04_09,desertion. Within the dominions of the state they  might be manag= ,0.00046695899800397456,desertions . Within the dominions of the state might be money,0.3039053124994098,0.16923076923076924,0.36363636363636365
+97,071_108_002_04_10,=ed in the manner mentioned in the Book of Procedure. Tit. ,0.0004479999770410359,ed in the manner mentioned in the Book of Procedure . I'll,0.3039053124994098,0.10344827586206896,0.36363636363636365
+98,071_108_002_04_11,"As to foreigners, upon their coming into the country ",0.0003678339999169111,"Mr. to Foreigners , upon their coming into the country",0.3039053124994098,0.09615384615384616,0.3333333333333333
+99,071_108_002_04_12,let them be obliged to declare upon oath whether they are married ,0.00043904097401537,Let them he obliged to declare upon oath whether they are married,0.3039053124994098,0.03076923076923077,0.16666666666666666
+100,071_108_002_04_13,"or single; and if single whether Bachelors or Spinsters, Widowers ",0.0004442910139914602,"or single , and if single whether Mughalors or Ministers , Welowers",0.3039053124994098,0.18461538461538463,0.6
+101,071_108_002_04_14,"or Widows. Of these declarations let Registers be kept, of which, ",0.0004157919902354479,"or Midours . Of these declarations let Angisters be kept , of which ,",0.3039053124994098,0.12307692307692308,0.6363636363636364
+102,071_108_002_04_15,"previous to their being married, copies should be required to be ",0.00047791600809432566,"previous to their being married , copies should be required to be",0.3039053124994098,0.015625,0.18181818181818182
+103,071_108_002_04_16,"produced. If married, certificates of the death of the Wife or ",0.00047070797882042825,"produced . If married , certificates of the death of the life or",0.3039053124994098,0.04838709677419355,0.45454545454545453
+104,071_108_002_04_17,Husband. At present these important enquiries are left to the ,0.0004378340090624988,thisband . At present these important engineers are left to the,0.30399595825292636,0.14754098360655737,0.3
+105,071_108_002_04_18,uncertain prudence of individuals. The declarations above men= ,0.0004930839932058007,uncertain preference of individuals . The declarations above new-,0.30399595825292636,0.12903225806451613,0.5
+106,071_108_002_04_19,:tioned should be accompanied with some details respecting their ,0.00046908401418477297,lined should be accompanied with some details respecting their,0.30399595825292636,0.046875,0.1111111111111111
+107,071_108_002_04_20,"birth, parentage and last abode; such as may lead to detection ",0.0005058340029790998,"with parentage and last aboder , such as may lead to dukeleon",0.30399595825292636,0.1774193548387097,0.36363636363636365
+108,071_108_002_04_21,in ,2.5582994567230344e-05,in,0.30399595825292636,0.0,0.0
+109,115_007_002_01_01,2 ,2.8708018362522125e-05,2,0.30399595825292636,0.0,0.0
+110,115_007_002_01_02,upon the abovementioned terms he would engage ,0.0004990830202586949,Upon the aforementioned terms he would engage,0.30399595825292636,0.06666666666666667,0.2857142857142857
+111,115_007_002_01_03,as follows_ ,0.00011695799184963107,as follows .,0.30399595825292636,0.18181818181818182,1.0
+112,115_007_002_01_04,1st. To furnish the prisoners with a constant supply ,0.0006281670066528022,""" . Informish the prisoners with a constant supply",0.28820966137573123,0.15384615384615385,0.3333333333333333
+113,115_007_002_01_05,"of wholesome food, not limited in quantity, but ade- ",0.0005574169917963445,"of wholesome food , not limited in quantity , but adequate",0.28820966137573123,0.1346153846153846,0.5555555555555556
+114,115_007_002_01_06,-quate to each man's desires. ,0.0002457920054439455,quate to each man's desires .,0.28820966137573123,0.06896551724137931,0.6
+115,115_007_002_01_07,2nd. To keep them clad in state of lightness and ,0.0005441670073196292,a. To keep them clad in a state of light-refs and,0.28820966137573123,0.16666666666666666,0.3
+116,115_007_002_01_08,"neatness, superior to what is usual among the lower ",0.00046883299364708364,"matureful , superior to what is usual among the lower",0.28820966137573123,0.1568627450980392,0.2222222222222222
+117,115_007_002_01_09,classes or even in the improved prisons. ,0.0003972919948864728,clafees or even in the improved poisons .,0.28820966137573123,0.1,0.42857142857142855
+118,115_007_002_01_10,3rd. To keep them supplyed with separate beds and ,0.0005264999927021563,# So keep them supplied with separate beds and,0.28820966137573123,0.12244897959183673,0.3333333333333333
+119,115_007_002_01_11,"bedding, competent to their situation, and in a state of ",0.00047483399976044893,"ledeling competent to their situation , and in a state of",0.28820966137573123,0.08928571428571429,0.3
+120,115_007_002_01_12,cleanliness scarce any where conjoined with liberty. ,0.0005931659834459424,cleanline for scarce any where conjoined with liberty .,0.2580264634998457,0.09615384615384616,0.5714285714285714
+121,115_007_002_01_13,4th. To insure to them a sufficient supply of artificial ,0.0006002080044709146,# To ensure to them a sufficient supply of artificial,0.2580264634998457,0.08928571428571429,0.2
+122,115_007_002_01_14,"warmth and light, whenever the season renders it ne- ",0.0005044999998062849,"warmth and light , whenever the reason renders it me .",0.2580264634998457,0.09615384615384616,0.5555555555555556
+123,115_007_002_01_15,"-cessary, and thereby preserve them from being obli- ",0.0005257079901639372,"aglesary , and thereby preserve them from being still",0.2580264634998457,0.19230769230769232,0.375
+124,115_007_002_01_16,"-ged as in other places, to desist from their work, as ",0.0004934579774271697,"good as in other places , to assist from their work , as",0.2580264634998457,0.12962962962962962,0.5454545454545454
+125,115_007_002_01_17,well as from suffering from the inclemency of the ,0.0005162919987924397,well as from suffering from the inelamency of the,0.2580264634998457,0.04081632653061224,0.1111111111111111
+126,115_007_002_01_18,weather. ,7.700000423938036e-05,weather .,0.2580264634998457,0.125,2.0
+127,115_007_002_01_19,"5th. To keep constantly from them, in conformity to ",0.0005254579882603139,"& The keep constantly from them , in conformity to",0.2580264634998457,0.13725490196078433,0.4444444444444444
+128,115_007_002_01_20,"the practice so happily received, every kind of strong ",0.0006451660010498017,"the practice so happily received , every kind of strong",0.24803697387324064,0.018518518518518517,0.2222222222222222
+129,115_007_002_01_21,"and spirituous liquor, unless where ordered in the ",0.0004462500219233334,"and spiriteous liquor , unless where ordered in the",0.24803697387324064,0.04,0.375
+130,115_007_002_01_22,way of medicine. ,0.00018199998885393143,way of medicine .,0.24803697387324064,0.0625,0.6666666666666666
+131,115_007_002_01_23,6th. To maintain them in a state of inviolable though ,0.0005532079958356917,6th. To maintain them in a state of inevitable though,0.24803697387324064,0.05660377358490566,0.1
+132,115_007_002_01_24,"mitigated seclusion, in small assorted companies, ",0.000500916998134926,"mitigated seduction , in small afarctic companies ,",0.24803697387324064,0.24489795918367346,0.8333333333333334
+133,115_007_002_01_25,without any of those opportunities of promiscuous ,0.0005437499785330147,without any of those opportunities of promiscuous,0.24803697387324064,0.0,0.0
+134,115_007_002_01_26,"association, which in other improved prisons disturb ",0.0005090420017950237,"afaxiation , which in other improved prisons disturb",0.24803697387324064,0.09615384615384616,0.2857142857142857
+135,115_007_002_01_27,if not destroy whatever good effect can have been expected ,0.0005879170203115791,if not destroy whatever good effect can have been expects,0.24803697387324064,0.034482758620689655,0.1
+136,115_007_002_01_28,from solitude. 7th. To ,0.00047858298057690263,fromsville .,0.24364123437771923,0.5909090909090909,1.0
+137,072_069_002_01_01,C ,3.570900298655033e-05,c.,0.24364123437771923,2.0,1.0
+138,072_069_002_02_01,2. ,4.629199975170195e-05,2.,0.24364123437771923,0.0,0.0
+139,072_069_002_03_01,Offences against Justice. ,0.00046087498776614666,Offences against the slice .,0.24364123437771923,0.24,1.0
+140,072_069_002_04_01,"particulars have concurred, in that case Justice cannot ",0.0004277080006431788,"particular have increased , in that case whether cannot",0.24364123437771923,0.2545454545454545,0.5
+141,072_069_002_04_02,but have been properly administered. In any case let ,0.00047245799214579165,but have been properly administered . In any case left,0.24364123437771923,0.038461538461538464,0.3333333333333333
+142,072_069_002_04_03,"any of them have failed, in that case Justice cannot ",0.00047533298493362963,"any of them hand failed , in that , even whether cannot",0.24364123437771923,0.2692307692307692,0.6
+143,072_069_002_04_04,have been properly administered. There cannot therefore ,0.0003913750115316361,have been properly administered . There cannot therefore,0.24364123437771923,0.01818181818181818,0.2857142857142857
+144,072_069_002_04_05,impediment to ,0.00012854201486334205,isupedimend to,0.2744606406231469,0.23076923076923078,0.5
+145,072_069_002_04_06,be any other offered against Justice than what have ,0.00047245901077985764,be any other German impressionist whether there what have,0.2744606406231469,0.47058823529411764,0.4444444444444444
+146,072_069_002_04_07,one of the tendencies just mentioned. Not that this deter= ,0.00039674999425187707,over of the tendencies just mentioned . Not that this delay,0.2744606406231469,0.1206896551724138,0.4
+147,072_069_002_04_08,:minateness of the nature of these offences excludes ,0.0004001250199507922,immaterials of the nature of these figures concluded,0.2744606406231469,0.3076923076923077,0.375
+148,072_069_002_04_09,the intervention of improvement from this branch of Le= ,0.00041787500958889723,the intervention of improvement from this branch of the,0.2744606406231469,0.05454545454545454,0.1111111111111111
+149,072_069_002_04_10,:gislation: for as long as the Legislator can devise any ,0.0004683330189436674,""" gislation : for as long as the legislator can decide away",0.2744606406231469,0.14285714285714285,0.6
+150,072_069_002_04_11,new expedient that gives an additional chance for the ,0.00034162498195655644,new independent that gained an additional character for the,0.2744606406231469,0.24528301886792453,0.3333333333333333
+151,072_069_002_04_12,prescribes the observance of ,0.00013825000496581197,foreworkers the observance of,0.2744606406231469,0.25,0.25
+152,072_069_002_04_13,"attainment of these ends and <gap/> it accordingly, ",0.00046958299935795367,attainment of these ends and # it accordingly,0.2596806093752093,0.13725490196078433,0.25
+153,072_069_002_04_14,the omission of it will become an accession to the List ,0.0004261250142008066,the omission of it will become an acepiece to the diet,0.2596806093752093,0.14545454545454545,0.18181818181818182
+154,072_069_002_04_15,of such offences. As ,0.0002642500039655715,"French glenced , 1953",0.2596806093752093,0.75,1.0
+155,072_069_002_05_01,Note ,5.4415984777733684e-05,note .,0.2596806093752093,0.75,2.0
+156,072_069_002_05_02,begins earlier. The business of a civil Judge extends to the in= ,0.00038675000541843474,legiant earlier . The business of a civil Judge extends to the,0.2596806093752093,0.125,0.3333333333333333
+157,072_069_002_05_03,forming of those who have occasion to be informed whether ,0.00037620801595039666,forming of those who have occasion to be informed what has,0.2596806093752093,0.07017543859649122,0.2
+158,072_069_002_05_04,were they to perform such or such acts in future such acts ,0.000338415993610397,where they to perform much or such acts in future such acts,0.2596806093752093,0.034482758620689655,0.16666666666666666
+159,072_069_002_05_05,would be offences: A man may commit an offence in ,0.0002882080152630806,would he opened : A man may comment an offence for,0.2596806093752093,0.22448979591836735,0.5
+160,072_069_002_05_06,"either of two ways, by usurping advantages that do not ",0.000389458000427112,"either of two ways , by ensuring advantages that do not",0.2737520000009681,0.07407407407407407,0.3
+161,072_069_002_05_07,belong to him; or by declining burthens that do belong to ,0.0005265830259304494,"belving to harm , or by declining burdens that also belongs to",0.2737520000009681,0.21052631578947367,0.5454545454545454
+162,072_069_002_05_08,him. ,3.087500226683915e-05,him .,0.2737520000009681,0.25,2.0
+163,072_069_002_05_09,There are two ways in which a man may be said ,0.0004327500064391643,There are two ways in which a mass may he said,0.2737520000009681,0.06666666666666667,0.18181818181818182
+164,072_069_002_05_10,to [apply] for such information: an active way and a passive: by ,0.00043470802484080195,to apply for such informations : an active way and a physical life,0.2737520000009681,0.203125,0.4166666666666667
+165,116_064_001_01_01,Economy ,8.612501551397145e-05,becessaging,0.2737520000009681,1.4285714285714286,1.0
+166,116_064_001_01_02,7 ,3.095800639130175e-05,7th,0.2737520000009681,2.0,1.0
+167,116_064_001_01_03,II Collins ,0.00010708300396800041,11 Leollins .,0.2737520000009681,0.6,1.5
+168,116_064_001_02_01,"which so alarmed and terrified them, that they instantly fled, ",0.00035483299870975316,"Gulichs is alarmed and terrified them , that they incidentally flew ,",0.3212197031243704,0.24193548387096775,0.7
+169,116_064_001_02_02,"leaving behind them their spears, &c. and about 20 bushels of ",0.00027624997892417014,"Leaning behind them . Heist spears , He , and about 20 hundreds of",0.3212197031243704,0.2786885245901639,0.7272727272727273
+170,116_064_001_02_03,Indian-corn which they had stolen. ,0.00017470799502916634,Modecian-even which they had stolen,0.3212197031243704,0.23529411764705882,0.4
+171,116_064_001_02_04,"""It was distressing to observe that every endeavour to ",0.00025154202012345195,"It was disturbing to observe , that every endeavours to",0.3212197031243704,0.14814814814814814,0.4444444444444444
+172,116_064_001_02_05,"""civilize these people proved fruitless. Although they lived among ",0.0003512499970383942,failize these people proved frewilys . Although they have among,0.3212197031243704,0.18181818181818182,0.4444444444444444
+173,116_064_001_02_06,"""the inhabitants of the different settlements, were kindly treated, ",0.0003448750067036599,"the inhabitants of the different settlements , were kindly treated ,",0.3212197031243704,0.04477611940298507,0.5555555555555556
+174,116_064_001_02_07,"""fed, and often cloathed, yet they were never found to profess the ",0.0003651249862741679,""" God , and often aboathed , yet they were never found to jugg the",0.3212197031243704,0.21212121212121213,0.5
+175,116_064_001_02_08,"""smallest degree of gratitude for such favours. Even Even Ben-nil-long ",0.0003347080200910568,""" smallest degree of graduate for such farmers . Some even . Personally",0.3212197031243704,0.37142857142857144,0.9
+176,116_064_001_02_09,"""was as destitute of this quality as the most ignorant of his coun- ",0.0003546660009305924,""" was as Institute of this quality as the most ignorant of his enemy",0.33706551562499953,0.11940298507462686,0.3076923076923077
+177,116_064_001_02_10,"-""trymen. ""It is an extraordinary fact, that even their children, who ",0.00035708400537259877,""" Argument is an extraordinary fact , that even their children , who",0.33706551562499953,0.15942028985507245,0.5454545454545454
+178,116_064_001_02_11,"""had been bred among the white people, and who, from being ",0.000306208006804809,"That been bred among the white people , and wine , from heavy",0.33706551562499953,0.1896551724137931,0.5454545454545454
+179,116_064_001_02_12,"""accustomed to follow their manner of living, might have been ",0.0003337500093039125,"accustomed to follow their manner of living , might have been",0.33706551562499953,0.03278688524590164,0.3
+180,116_064_001_02_13,"""supposed to ill relish the life of their parents, when grown up, ",0.0003283339901827276,"Tempepposed to ill reliefs . The life of their parents , where grown into",0.33706551562499953,0.26153846153846155,0.6666666666666666
+181,116_064_001_02_14,"""have quitted their comfortable abodes, females as well as males, ",0.00031437500729225576,""" have granted their comfortable address , females as well as snakes",0.33706551562499953,0.2153846153846154,0.6
+182,116_064_001_02_15,"""and taken to the same savage mode of living, where the sup- ",0.0003010829968843609,"band taken to the same sense , most of living , where the self",0.33706551562499953,0.21666666666666667,0.5833333333333334
+183,116_064_001_02_16,"-""ply ""of food was often precarious, their comforts not to be called ",0.0003322080010548234,""" Play of food areas often precarious , their conflicts must be called",0.33706551562499953,0.2647058823529412,0.75
+184,116_064_001_02_17,"""such, and their lives perpetually in danger. As a proof of the little ",0.0003255420015193522,"Yacht , and then being perpetually in danger . As a proof of the letter",0.3080708177512861,0.22857142857142856,0.5384615384615384
+185,116_064_001_02_18,"""personal safety which they enjoyed, a young young woman, the ",0.0003754170029424131,""" personal safety which they enjoyed , a young wrong woman , the",0.3080708177512861,0.09836065573770492,0.7
+186,116_064_001_02_19,"""wife of a man named Ye-ra-ni-be , both of whom had been ",0.0003284999984316528,"wife of a man seemed for-ra-mile , both of whom had been",0.3080708177512861,0.17857142857142858,0.25
+187,116_064_001_02_20,"""brought up in the settlement from their childhood, was cruelly ",0.0003468749928288162,"thought upon in the settlement from this childhood , was equally",0.3080708177512861,0.1746031746031746,0.6
+188,116_064_001_02_21,"""murdered at the brickfields by her husband, assisted by another ",0.0002903339918702841,"inconsidered at the brief fields , by her husband , visited by another",0.3080708177512861,0.25,0.7
+189,116_064_001_02_22,"""native, Cole-be , who first beat her dreadfully about the head (the ",0.0003227090055588633,""" mature , both bay who first boat has docuffilly about the heart the",0.3080708177512861,0.3382352941176471,0.75
+190,116_064_001_02_23,"""common mode of chastising their women), and then put an end to ",0.0002778329944703728,"Consessess made of chastising their economy , and then sent an aid to",0.3080708177512861,0.36507936507936506,0.5
+191,116_064_001_02_24,"""her existence by driving a spear through her heart. ",0.0002431659959256649,her existence by driving a great through her heart,0.3080708177512861,0.09615384615384616,0.3333333333333333
+192,116_064_001_02_25,"""When spoken to or censured for robbing the maize grounds, ",0.00029908400028944016,"When spoken two censuses for rolling the recipes grounds ,",0.31957306250114925,0.2413793103448276,0.8
+193,116_064_001_02_26,"""these people, to be revenged, were accustomed to assemble in large ",0.00034483399940654635,"These people , to be revenge , were accustomed to appendix in large",0.31957306250114925,0.14925373134328357,0.5454545454545454
+194,116_064_001_02_27,"""bodies, burn the homes of the settlers if they stood in lonely situa- ",0.00031995901372283697,"babies , learn the houses of the settlers if they stood in lonely sitina-",0.31957306250114925,0.15714285714285714,0.38461538461538464
+195,116_064_001_02_28,"-""tions, ""and frequently attempted to take their lives; yet they were ",0.0002742910000961274,""" None , and frequently attempted to calm their lives ; yet they were",0.31957306250114925,0.14492753623188406,0.6363636363636364
+196,116_064_001_02_29,"""seldom refused a live corn when they were asked for it. It was ",0.0003046249912586063,belossa refused a little error when they were asked for it . It was,0.31957306250114925,0.2222222222222222,0.38461538461538464
+197,116_064_001_02_30,"""imagined that they were stimulated to this destructive conduct by ",0.0003145420050714165,""" imagined that they were disqualified to this destruction conduct by",0.31957306250114925,0.16666666666666666,0.4
+198,116_064_001_02_31,"""some run-away convicts who were known to be among them at ",0.000280167005257681,Gonne seen-away convicts who were known to be a smug throw at,0.31957306250114925,0.2413793103448276,0.45454545454545453
+199,116_064_001_02_32,"""the time of their committing these depravations. In order to get ",0.0003038329887203872,the time of their committing these representations . In order to get,0.31957306250114925,0.12307692307692308,0.2727272727272727
+200,116_064_001_02_33,"""possession of these pests, a proclamation was issued, calling on ",0.00036466700839810073,""" perfection of these parts , a proclamation was iforadi's calling on",0.28867066662496654,0.24615384615384617,0.5
+201,116_064_001_02_34,"""them by name to surrender themselves within 14 days, declaring ",0.0003423329908400774,"These by name to surrender themselves within 14 Days , declaring",0.28867066662496654,0.09523809523809523,0.3
+202,116_064_001_02_35,"""them outlaws if they refused, and requiring the inhabitants, as ",0.0003122919879388064,"them outlaws if they refused , and requiring the inhabitants , as",0.28867066662496654,0.046875,0.5
+203,116_064_001_02_36,"""they valued the peace and good order of the settlement, and their ",0.0003578749892767519,"They valued the peace and good order of the settlement , and their",0.28867066662496654,0.045454545454545456,0.25
+204,116_064_001_02_37,"""own security, to assist in apprehending and bringing them to ",0.00030187499942258,""" more security , to assist in appreciableenburg and bringing them to",0.28867066662496654,0.22950819672131148,0.5
+205,116_064_001_02_38,"""justice. The governor also signified his determination, if any of the ",0.000386208004783839,""" Jessica . The governor also dismissed his determination , if any of the",0.28867066662496654,0.17142857142857143,0.5454545454545454
+206,116_064_001_02_39,natives ,3.3541000448167324e-05,nature ;,0.28867066662496654,0.5714285714285714,2.0
+207,035_321_001_01_01,3 ,2.579198917374015e-05,5,0.28867066662496654,1.0,1.0
+208,035_321_001_02_01,(3 ,5.570900975726545e-05,63.,0.2730091302510118,1.0,1.0
+209,035_321_001_02_02,parties whether or no Quasi-Trial shall have ,0.0007394159911200404,"parties , whether or no chair's denial shall have",0.2730091302510118,0.25,0.42857142857142855
+210,035_321_001_02_03,"place: if any one says yes, he appoints day & ",0.0007281250145751983,"phana's if any one says yes , he appoints Day &",0.2730091302510118,0.15555555555555556,0.4
+211,035_321_001_02_04,"hour: earlier or ulterior time, if applied for, are ",0.0006277089996729046,"hunner , earlier or anterior times , if applied for , even",0.2730091302510118,0.27450980392156865,0.8888888888888888
+212,035_321_001_02_05,granted by him or refused: if Quasi Trial be ,0.0008184580074157566,greated by Quinn as refused : if Edward Arnold has,0.2730091302510118,0.4772727272727273,0.8888888888888888
+213,035_321_001_02_06,"not applied for, the provisional decrees, from ",0.0008712499984540045,"must appealed for , the provisional Overseas , from",0.2730091302510118,0.2826086956521739,0.8571428571428571
+214,035_321_001_02_07,"provisional, become absolute. ",0.00046804200974293053,"promiscinal , become absolute .",0.2730091302510118,0.1724137931034483,1.3333333333333333
+215,035_321_001_02_08,Art. 8. The Quasi Trial is performed at ,0.0006394170050043613,what . 3 . The Qurati trial is performed at,0.2730091302510118,0.23076923076923078,0.75
+216,035_321_001_02_09,one Sitting or if more be necessary at divers sittings: ,0.00094508400070481,one fitting or if more he may vary at their setting,0.2438381771244167,0.2909090909090909,0.6
+217,035_321_001_02_10,but unless for special and extraordinary reason as- ,0.00083683300181292,that unlike for special and extraordinary reason of,0.2438381771244167,0.17647058823529413,0.375
+218,035_321_001_02_11,"-signed, it is gone through at one sitting, unless ",0.000858540995977819,"signed , it is gone through at one sitting , relief",0.2438381771244167,0.16,0.5555555555555556
+219,035_321_001_02_12,the whole time employable at that one Sitting ,0.0007812920084688812,the whole time employment that one sitting,0.2438381771244167,0.13333333333333333,0.375
+220,035_321_001_02_13,has been consumed before the suit has thus been ,0.0008082080166786909,has been consumed before the suit has thus been,0.2438381771244167,0.0,0.0
+221,035_321_001_02_14,rendered ripe for definitive decrees. ,0.0005528339825104922,hard and rifles for definitive devices .,0.2438381771244167,0.35135135135135137,1.0
+222,035_321_001_02_15,Art. 9. At this recapitulatory examination ,0.0007204590074252337,what go . kit-chair recapitulatory examination,0.2438381771244167,0.30952380952380953,0.6666666666666666
+223,035_321_001_02_16,"no evidence is receivable, that was not exhibited ",0.0005663749761879444,no evidence is reasonably that was not exhibited,0.2438381771244167,0.12244897959183673,0.125
+224,035_321_001_02_17,in the course of the original examination. ,0.000840499997138977,in the course of the original examination .,0.22737904162568157,0.023809523809523808,0.2857142857142857
+225,035_321_001_02_18,Art. 10. At this Quasi Trial may be re- ,0.000639959005638957,what .10 . with this German Trial may have .,0.22737904162568157,0.5384615384615384,0.7777777777777778
+226,035_321_001_02_19,-argued and reconsidered or for the first time ar- ,0.0008929170144256204,ramped and reconsidered or for the first time an,0.22737904162568157,0.12,0.2222222222222222
+227,035_321_001_02_20,"gued and considered, the question of law. ",0.0008779170166235417,"gina and considered , the question of law .",0.22737904162568157,0.12195121951219512,0.7142857142857143
+228,035_321_001_02_21,Art. 11. The incidental occasional on ,0.0005437910149339586,out . 11 . The incidental occasion between,0.22737904162568157,0.2972972972972973,1.0
+229,035_321_001_02_22,which a hearing before a Quasi Jury has place ,0.0007749589858576655,which is becoming leftover Ontario fury has place,0.22737904162568157,0.37777777777777777,0.6666666666666666
+230,035_321_001_02_23,are those on which Appeal for Quasi misdecision ,0.0007877500029280782,new those on which Appeal for Chinese mindacion,0.22737904162568157,0.2765957446808511,0.375
+231,035_321_001_02_24,may ,5.7582976296544075e-05,money .,0.22737904162568157,1.6666666666666667,2.0
+232,072_167_002_01_01,2. ,3.970798570662737e-05,21.,0.293537046873098,0.5,1.0
+233,072_167_002_02_01,C ,1.9291008356958628e-05,c.,0.293537046873098,2.0,1.0
+234,072_167_002_03_01,Of Simple Personal Injuries. ,0.00038479198701679707,of Simple Personal Anglesies .,0.293537046873098,0.25,0.75
+235,072_167_002_04_01,(a) ,3.091699909418821e-05,laj,0.293537046873098,0.6666666666666666,1.0
+236,072_167_002_04_02,drug or to expose himself to circumstances injurious to his health . ,0.0003573330177459866,drug or to expose himself to circumstances injuries to his health,0.293537046873098,0.058823529411764705,0.16666666666666666
+237,072_167_002_04_03,[(D) Uneasiness] It matters not how slight the contact + is by ,0.0004739590222015977,( I'll maximize I all matters not have slight the frontset # by,0.293537046873098,0.46774193548387094,0.75
+238,072_167_002_04_04,which the uneasiness is produced: the touch however slight may ,0.00043524999637156725,which the increasingly is produced . Her touch hammers slight room,0.293537046873098,0.3225806451612903,0.6
+239,072_167_002_04_05,be sufficient to produce uneasiness in a man if it be against his ,0.00041195901576429605,her sufficient to produce a renaissance in a man if it has against his,0.293537046873098,0.23076923076923078,0.3076923076923077
+240,072_167_002_04_06,(E) Farther ,0.0003577499883249402,# altogether .,0.29337329162444803,0.9090909090909091,1.5
+241,072_167_002_04_07,Will. ,5.829101428389549e-05,will .,0.29337329162444803,0.4,2.0
+242,072_167_002_05_01,Note ,6.487499922513962e-05,note .,0.29337329162444803,0.75,2.0
+243,072_167_002_05_02,(a) ,4.383400664664805e-05,caj,0.29337329162444803,0.6666666666666666,1.0
+244,072_167_002_05_03, 1. For the cases in which a man may happen to be con= ,0.0003531249822117388,to . For the cases in which a man may happen to be can -,0.29337329162444803,0.11320754716981132,0.3076923076923077
+245,072_167_002_05_04,:cerned in occasioning bodily pain or uneasiness in another by ,0.0012663329835049808,cerned in occasioning bodily pain or uneasingly in another by,0.29337329162444803,0.06451612903225806,0.2
+246,072_167_002_05_05,"permanent practices, such as the carrying on of dangerous, offen= ",0.00043112499406561255,"improvement practices , such as the carrying on of dangerous , often .",0.29337329162444803,0.18461538461538463,0.7
+247,072_167_002_05_06,":sive, or unwholesome, occupations. See ",0.00021929200738668442,"river , or unwholesome , occupations . See",0.29337329162444803,0.15384615384615385,1.2
+248,072_167_002_05_07,1. Laws relative to Householders in general. ,0.000283041998045519,1 . Some relatives to Housholders in general,0.3676247603725642,0.18181818181818182,0.8571428571428571
+249,072_167_002_05_08,2. Laws relative to the several sorts of Manufactorers or Shop= ,0.0003737499937415123,2 . Some relatives to this several sorts of Manufacturers or those,0.3676247603725642,0.19047619047619047,0.6363636363636364
+250,072_167_002_05_09,Keepers whose trades are apt to occasion danger or annoyance; such ,0.0003450840013101697,"Mafers whose trades are able to occasion danger or arranged , such",0.3676247603725642,0.22727272727272727,0.36363636363636365
+251,072_167_002_05_10,"as Gun powder Manufactorers, Turpentine Distillers, Manufactorers ",0.00031575001776218414,"as given founder Manufacturers , The previous childhood , Manufacturing and",0.3676247603725642,0.5538461538461539,1.4285714285714286
+252,072_167_002_05_11,"of Oil of Vitriol, Tanners, Tallow Chandlers, Brasiers, Pewterers &c. ",0.0003377080138307065,"of Oil of Patrol , Hanserson , Wallace Richardson , Branciens , Genetermers BEL",0.3676247603725642,0.463768115942029,1.1
+253,072_167_002_05_12,"&c. In all these cases the damage, if any, is commonly either unintentio= ",0.00032891699811443686,"to . In all these cases the damage , if any , is commonly either unintended",0.3676247603725642,0.1232876712328767,0.5384615384615384
+254,072_167_002_05_13,":nal, or at most not directly but only indirectly intentional. See Introd. ",0.0002995420072693378,"mal , or at most not directly but only indirectly intentional . The husband",0.3676247603725642,0.17567567567567569,0.5
+255,072_167_002_05_14,Ch. Of Intention and Consciousness. ,0.00021904101595282555,the intention and Consciousness .,0.3676247603725642,0.2,1.0
+256,072_167_002_05_15,For the Cases in which a Man may happen to be concerned ,0.00031495801522396505,For the leaders in which a man may happen to be concerned,0.2890360156270617,0.09090909090909091,0.16666666666666666
+257,072_167_002_05_16,"in producing bodily pain or uneasiness by selling unwholesome provisions, ",0.00032774999272078276,in producing bodily pain or uneasingly by selling unorthodox provisions,0.2890360156270617,0.1643835616438356,0.3
+258,072_167_002_05_17,See Laws concerning the several Trades relative to the several sorts of Provisions. ,0.0003539580211509019,the Queen's concerning the several Rhodes relations to the several sorts of their famous,0.2890360156270617,0.30120481927710846,0.46153846153846156
+259,116_406_001_01_01,25. _ The Police-Offices to be open for business from ,0.0011340000201016665,2 5 . The Police-Office to be open for business from,0.2890360156270617,0.07547169811320754,0.4
+260,116_406_001_01_02,"nine, in the morning, till nine, at night. ",0.0006958330050110817,"nine , in the morning , till nine , at night .",0.2890360156270617,0.09523809523809523,1.0
+261,116_406_001_01_03,"26. _ The present number of Runners, or Constables, ",0.0012143339845351875,"a b. The present number of Runners , or Constable",0.2890360156270617,0.1568627450980392,0.5555555555555556
+262,116_406_001_01_04,"to the Police-Offices, are very insufficient. ",0.0007410840189550072,"to the Police-Officer , are very insufficient .",0.2890360156270617,0.06666666666666667,0.6666666666666666
+263,116_406_001_01_05,27. _ No soldier should ever appear in the streets with: ,0.0008629999938420951,2p. No soldier should ever appear in the streets with,0.2890360156270617,0.07142857142857142,0.2727272727272727
+264,116_406_001_01_06,:out his uniform. ,0.00032500000088475645,suit his uniform .,0.22796022399779758,0.23529411764705882,1.0
+265,116_406_001_01_07,"28. _ The penalty on forfeiture of recognizances, in ",0.0010761250159703195,"2B. The penalty on forfeiture of recognizes , in",0.22796022399779758,0.1346153846153846,0.4444444444444444
+266,116_406_001_01_08,"case of non-prosecution, should be considerably ",0.000730458996258676,"case of non-prosecution , should be considerably",0.22796022399779758,0.02127659574468085,0.3333333333333333
+267,116_406_001_01_09,"increased, and the payment thereof be enforced. ",0.0006957910081837326,"increased , and the payment thereof enforced .",0.22796022399779758,0.10638297872340426,0.5714285714285714
+268,116_406_001_01_10,29. _ The Expences allowed to Prosecutors & Witnesses ,0.0008197499846573919,ing - The expenses allowed to Prosecutors & Mitrigles,0.22796022399779758,0.20754716981132076,0.4444444444444444
+269,116_406_001_01_11,"from distant parts, are not sufficiently liberal; on ",0.0007379169983323663,"from distant parts , are not sufficiently liberal ; on",0.22796022399779758,0.038461538461538464,0.5
+270,116_406_001_01_12,which account many Delinquents evade justice. ,0.0007507499831262976,which account many delinquents made justice .,0.22796022399779758,0.08888888888888889,0.6666666666666666
+271,116_406_001_01_13,30. _ A Barrister and sufficient number of Atornies ,0.00086583400843665,30. A Barrister and sufficient number ofatories,0.22796022399779758,0.09803921568627451,0.3333333333333333
+272,116_406_001_01_14,"should be appointed to prosecute for the Crown, in ",0.000987833016552031,should be appointed to prosecute for the Crowny in,0.2437531978757761,0.02,0.1111111111111111
+273,116_406_001_01_15,criminal cases; and to conduct indictments for ,0.0006438749842345715,criminal cases ; and to conduct indictments for,0.2437531978757761,0.021739130434782608,0.2857142857142857
+274,116_406_001_01_16,such persons as are too poor to undertake them ,0.0006689589936286211,such persons as are too poor to undertake them .,0.2437531978757761,0.043478260869565216,0.1111111111111111
+275,116_406_001_01_17,on their own account. ,0.00028508398099802434,on their own account .,0.2437531978757761,0.047619047619047616,0.5
+276,116_406_001_01_18,31. _ The City of London ought to build a House ,0.0010255840024910867,3th. The City of London ought to build a House,0.2437531978757761,0.0851063829787234,0.18181818181818182
+277,116_406_001_01_19,"of Correction; where all the London-Prisoners, who ",0.0008545419841539115,"of Correction , where all the London Prisoners , who",0.2437531978757761,0.08,0.7142857142857143
+278,116_406_001_01_20,under ,4.775001434609294e-05,unnuclear .,0.2437531978757761,1.4,2.0
+279,116_406_001_01_21,"are sentence of temporary imprisonment, should ",0.0007882089994382113,"are sentence of temporary imprisonment , should",0.2437531978757761,0.021739130434782608,0.3333333333333333
+280,116_406_001_01_22,"be kept and compelled to work. No prisoners, under ",0.0008066249720286578,"the kept and compelled to work . No prisoners , under",0.2592283906233206,0.08,0.5555555555555556
+281,116_406_001_01_23,"fines, or temporary confinement, should be permitted ",0.000884292006958276,"fines , or temporary confinement , should be permitted",0.2592283906233206,0.038461538461538464,0.5714285714285714
+282,116_406_001_01_24,"to remain in Newgate, or the Compters, after sen: ",0.0008434999908786267,"It remains in Newgate , or the Complex , after new",0.2592283906233206,0.20408163265306123,0.7777777777777778
+283,116_406_001_01_25,:tence has been once passed. ,0.0004765839839819819,stence has been once played .,0.2592283906233206,0.17857142857142858,0.6
+284,116_406_001_01_26,"32. _ Executions are of no utility, either for punishing ",0.001027166988933459,"32 .locountions are of no utility , either for punishing",0.2592283906233206,0.16071428571428573,0.5
+285,116_406_001_01_27,"or deterring: _ if, however, they must be inflicted, ",0.0008001670066732913,"or deterning : if , however they must be inflicted ,",0.2592283906233206,0.11538461538461539,0.7777777777777778
+286,116_406_001_01_28,"they should be done, as speedily as possible, after ",0.0007829579990357161,"they should be done , as speedily as possible after",0.2592283906233206,0.0392156862745098,0.3333333333333333
+287,116_406_001_01_29,passing sentence. Solitary confinement & labour ,0.0007061249925754964,playing sentence . Military confinement Labour,0.2592283906233206,0.19148936170212766,1.0
+288,115_080_003_01_01,11 ,3.704198752529919e-05,ill,0.24869186974683544,1.5,1.0
+289,115_080_003_02_01,"the whole produce and profit of their labour, and the ",0.0004953339812345803,"the whole produce and profits of their Labour , and the",0.24869186974683544,0.05660377358490566,0.3
+290,115_080_003_02_02,same to retain subject only to the allowances to be ,0.0005481250118464231,some to return subject only to the allowances to be,0.24869186974683544,0.058823529411764705,0.2
+291,115_080_003_02_03,made to such prisoners in manner herein after ,0.0005346670222934335,made to such forisoners in manner herein after,0.24869186974683544,0.044444444444444446,0.125
+292,115_080_003_02_04,mentioned. ,7.733399979770184e-05,mentioned .,0.24869186974683544,0.1,2.0
+293,115_080_003_02_05,Art.7. Each Prisoner shall be supplied every day ,0.0004899589985143393,staff . Each Prisoner shall be supplies every day,0.24869186974683544,0.14583333333333334,0.375
+294,115_080_003_02_06,"with wholesome food, as much as he shall choose: ",0.0003614579909481108,"with wholesome food , as much as he shall choose :",0.24869186974683544,0.041666666666666664,0.4444444444444444
+295,115_080_003_02_07,but the quality in other respects is expressly reser- ,0.0004789159866049886,but the quality in other respects is especially never-,0.24869186974683544,0.1509433962264151,0.2222222222222222
+296,115_080_003_02_08,-ved to the choice of the said Jeremy Bentham and ,0.00046862498857080936,used to the choice of the said Jeremy Danthan was,0.25951872400037246,0.16326530612244897,0.3
+297,115_080_003_02_09,his Successors as a means of engaging the said Pri- ,0.0005183340108487755,his funefours as a means of engaging the said Mr.,0.25951872400037246,0.17647058823529413,0.2
+298,115_080_003_02_10,-soners without the spur of corporal severities to set ,0.0003885410260409117,somers without the spur of corporal securities bases,0.25951872400037246,0.14814814814814814,0.4444444444444444
+299,115_080_003_02_11,their hands to labour. ,0.0001399169850628823,their hands to labour .,0.25951872400037246,0.045454545454545456,0.5
+300,115_080_003_02_12,a ,1.8166989320889115e-05,on,0.25951872400037246,2.0,1.0
+301,115_080_003_02_13,"Art.8. Each prisoner shall be kept properly clo thed, ",0.0005440420063678175,"Art.o . Each prisoner shall be kept properly clothes ,",0.25951872400037246,0.09433962264150944,0.4444444444444444
+302,115_080_003_02_14,and to that purpose shall be supplied at least once a ,0.0004201669944450259,and to that purpose shall be supplies at least once a,0.25951872400037246,0.018867924528301886,0.09090909090909091
+303,115_080_003_02_15,year with a compleat suit of such cloaths as shall ,0.00044483397505246103,year with a complete seat of club clothes as still,0.25951872400037246,0.24,0.5
+304,115_080_003_02_16,"be allotted, and with a clean shirt at least twice in ",0.0003961249894928187,"he allotted , and with a clean shirt at least twice in",0.2595329635005328,0.03773584905660377,0.2727272727272727
+305,115_080_003_02_17,every week. ,0.00010054200538434088,every week .,0.2595329635005328,0.09090909090909091,1.0
+306,115_080_003_02_18,Art.9. Each prisoner shall be constantly suppli- ,0.00047983299009501934,tiff- Each prisoner shall be constantly suppble,0.2595329635005328,0.1875,0.2857142857142857
+307,115_080_003_02_19,-ed with a separate bed and bedding of sufficient ,0.00067254199529998,ed with a separate bed and bedding of sufficient,0.2595329635005328,0.02040816326530612,0.1111111111111111
+308,115_080_003_02_20,"warmth, and kept in a state of constant cleanliness ",0.0005886660073883832,"warmth , and kept in a state of constant clean-lights",0.2595329635005328,0.09803921568627451,0.3333333333333333
+309,115_080_003_02_21,clean sheeting or blanketing being supplied to each ,0.0005614999972749501,clean shutting or blanketing being supplies to each,0.2595329635005328,0.058823529411764705,0.25
+310,115_080_003_02_22,at least once in every month. ,0.00027679099002853036,at least one in every month .,0.2595329635005328,0.06896551724137931,0.5
+311,115_080_003_02_23,Art.10. The Prison shall at all proper seasons ,0.00033091698423959315,that . Mr. Dixon shall at all proper seasons,0.2595329635005328,0.2608695652173913,0.5
+312,115_080_003_02_24,and in ever part thereof be sufficiently warmed & ,0.0004982500104233623,and in every part thereof he sufficiently warned &,0.2434141926241864,0.061224489795918366,0.3333333333333333
+313,115_080_003_02_25,lighted. ,7.629100582562387e-05,laughter .,0.2434141926241864,0.5,2.0
+314,115_080_003_02_26,Art.11. No prisoner shall be suffered to have access ,0.0004546669952105731,that . If . No prisoner shall be suffered to have angles,0.2434141926241864,0.23076923076923078,0.5555555555555556
+315,115_080_003_02_27,"to any kind of spirituous or fermented liquor, except ",0.00052991698612459,"many kind of dominions or fermented liquor , caught",0.2434141926241864,0.3018867924528302,0.6666666666666666
+316,115_080_003_02_28,in as far as the same shall have been prescribed ,0.0005523330182768404,in as far as the same shall have been presented,0.2434141926241864,0.08333333333333333,0.1
+317,115_080_003_02_29,in ,2.5874993298202753e-05,"fy ,",0.2434141926241864,2.0,2.0
+318,071_021_002_01_01,18. ,2.7000001864507794e-05,18.,0.2434141926241864,0.0,0.0
+319,071_021_002_02_01,G ,4.700000863522291e-05,cr,0.2434141926241864,2.0,1.0
+320,071_021_002_03_01,Simple  <gap/>  Corporal Injuries ,0.0006993749993853271,Simple Specifications Corporal Injuries,0.28970414062496275,0.41935483870967744,0.25
+321,071_021_002_04_01,constitute some degree of excuse extenuation. ,0.0005124580056872219,constitutes some degree of issues # information -,0.28970414062496275,0.3333333333333333,0.8333333333333334
+322,071_021_002_04_02,2. It matters not whether the Mis-supposal in this case ,0.0004171659820713103,2 . It matters not whether the Miss-suppraisal in this case,0.28970414062496275,0.09090909090909091,0.3
+323,071_021_002_04_03,the ,2.7708010748028755e-05,the,0.28970414062496275,0.0,0.0
+324,071_021_002_04_04,regards the matter of fact or the matter of law. It regards ,0.00048558300477452576,regends the matter of fact or smaller of laws . It regards,0.28970414062496275,0.1694915254237288,0.4166666666666667
+325,071_021_002_04_05,the matter of fact where you suppose some damage to ,0.0004076249897480011,the matter of fact where you supposed some damage to,0.28970414062496275,0.0196078431372549,0.1
+326,071_021_002_04_06,"have been done you by your adversary, whereas in fact ",0.00043345900485292077,"have been done you by your adequatory , whereas infant",0.28970414062496275,0.1509433962264151,0.4
+327,071_021_002_04_07,he has done you no such damage. It regards the mat= ,0.0004981250094715506,"he has done you so much damage , all regards the mats",0.28970414062496275,0.1568627450980392,0.5454545454545454
+328,071_021_002_04_08,":ter of law, where you suppose him to have no right ",0.0005568339838646352,"ctor of Bass , where you suppose him to have no right",0.2741516926216718,0.11764705882352941,0.2727272727272727
+329,071_021_002_04_09,"to do you such damage, whereas in truth he had a ",0.0004983750113751739,"to do you such damage , whereas in truth he had a",0.2741516926216718,0.020833333333333332,0.18181818181818182
+330,071_021_002_04_10,General Extenuation ,0.00012520799646154046,General explanation .,0.2741516926216718,0.3684210526315789,1.0
+331,071_021_002_04_11,right. See Excuse II. Ignorance of the Law. ,0.0004791670071426779,"right , tell , because it . Ignorance of the class .",0.2741516926216718,0.4186046511627907,1.125
+332,071_021_002_04_12,[(B1 Injury] It matters not to whom the injury in ques= ,0.00046174999442882836,""" Injury all matters not to whom the injury in guests",0.2741516926216718,0.2,0.36363636363636365
+333,071_021_002_04_13,"=tion immediately relates, whether ",0.0003074580163229257,"# more immediately related , whether",0.2741516926216718,0.20588235294117646,1.0
+334,071_021_002_04_14,1. To the party himself who is provoked. ,0.00034995799069292843,"to do the party himself who is provoked ,",0.2741516926216718,0.125,0.5
+335,071_021_002_04_15,2. To any one who is particularly dear to him. ,0.00040420799632556736,# No army were who is particularly drawn to him .,0.2741516926216718,0.2608695652173913,0.7
+336,071_021_002_04_16,3. To the Public: For the interests of the Public ought ,0.0005529170157387853,"3 . In the Public , for the interests of the Public ought",0.27405791137425695,0.10909090909090909,0.5454545454545454
+337,071_021_002_04_17,to be dear to every man. ,0.00021829098113812506,to be dear to every man .,0.27405791137425695,0.041666666666666664,0.3333333333333333
+338,071_021_002_04_18,4. Even to the party himself by whom the provocation is ,0.0004894169978797436,A. Even to the party himself by whom the provocation is,0.27405791137425695,0.01818181818181818,0.09090909090909091
+339,071_021_002_04_19,given: for every man ought to be dear to every man. ,0.0004888749972451478,given : for every man ought to be down to every mass .,0.27405791137425695,0.13725490196078433,0.45454545454545453
+340,071_021_002_04_20,Accordingly if you think you observe any person giving ,0.0004742500022985041,Accordingly if you think you observes every person giving,0.27405791137425695,0.09259259259259259,0.2222222222222222
+341,071_021_002_04_21,"into any kind of vice, and, from the pain which it gives ",0.0004715000104624778,"into any kind of mice , and , from the hairs which it gives",0.27405791137425695,0.10714285714285714,0.4166666666666667
+342,071_021_002_04_22,"you to think of his behaviour, are provoked to strike ",0.0004393330018501729,"you to think of his behaviour , are provoked to strike",0.27405791137425695,0.018867924528301886,0.2
+343,071_021_002_04_23,"him, it is a less offence than if you struck him in the ",0.00045750002027489245,"him , it is a life offence than if you struck him in the",0.27405791137425695,0.07272727272727272,0.23076923076923078
+344,071_021_002_04_24,course ,9.316697833128273e-05,c expense .,0.2811147552492912,1.3333333333333333,3.0
+345,115_070_002_01_01,16 ,3.987498348578811e-05,70,0.2811147552492912,1.0,1.0
+346,115_070_002_02_01,default of such Devisee or Devisees then by the Executor or ,0.0004032920114696026,default of such Deviser or Overseas then by the Executive on,0.2811147552492912,0.1694915254237288,0.36363636363636365
+347,115_070_002_02_02,"Executors Administrator or Administrators of , or person or ",0.0002859590167645365,"Quealind Administrator or Administrators of , or former or",0.2811147552492912,0.22033898305084745,0.2222222222222222
+348,115_070_002_02_03,"persons intitled to take out Administration to, the personal ",0.0003362499992363155,"persons intitled to take out Administration to , the personal",0.2811147552492912,0.016666666666666666,0.2222222222222222
+349,115_070_002_02_04,"Estate of such Survivor as aforesaid , untill due satisfaction ",0.00034649998997338116,"Estate of such Survivor as aforesaid , until due satisfaction",0.2811147552492912,0.016129032258064516,0.1
+350,115_070_002_02_05,shall have been made to the Estate of such Survivor as well ,0.00029437500052154064,shall have been made to the State of Notre Dame or as well,0.2811147552492912,0.22033898305084745,0.3333333333333333
+351,115_070_002_02_06,for the value of the said Buildings and other irremoveable ,0.0003638749767560512,for the value of the mid Buildings and other circumveable,0.2811147552492912,0.10344827586206896,0.2
+352,115_070_002_02_07,improvements of every kind made in or upon the said ,0.0003794590011239052,improvements of every kind made in or upon the said,0.3051554271223722,0.0,0.0
+353,115_070_002_02_08,Land or any part thereof as for the moveable stock remain- ,0.0003802080173045397,land or any part stood as for the moveable stock remain,0.3051554271223722,0.13793103448275862,0.2727272727272727
+354,115_070_002_02_09,-ing thereon and occupied therewith : And in default of such ,0.00042395800119265914,ing thereon and occupied there with : And in default of such,0.3051554271223722,0.03333333333333333,0.2727272727272727
+355,115_070_002_02_10,"Feoffee so appointed , such seizin and possession as aforesaid ",0.00040833299863152206,"degree so appointed , such crisis and profession as aforementioned",0.3051554271223722,0.2903225806451613,0.4
+356,115_070_002_02_11,shall remain and continue in such legal representatives or ,0.0003159169864375144,shall remain and continue in such legal representatives or,0.3051554271223722,0.0,0.0
+357,115_070_002_02_12,persons intitled to take out Administration as aforesaid : And ,0.00040874999831430614,person's intellect to take out Administration as aforesaid : She,0.3051554271223722,0.12903225806451613,0.3
+358,115_070_002_02_13,all such allowances as under the terms of this agreement were ,0.0003025420010089874,all such allowances as under the terms of this agreement were,0.3051554271223722,0.0,0.0
+359,115_070_002_02_14,"made or to have been made to such Survivor , for or on account ",0.00033354200422763824,"made or to have been made to suchdriver , for or on acesmit",0.3051554271223722,0.14516129032258066,0.21428571428571427
+360,115_070_002_02_15,"of the maintenance of the said Establishment , shall during the ",0.00038891698932275176,"of the maintenance of the said establishment , shall during the",0.33716755212299176,0.015873015873015872,0.09090909090909091
+361,115_070_002_02_16,same period continue to be made unto the person or persons ,0.00038091701571829617,some period continue to be made into the person or persons,0.33716755212299176,0.034482758620689655,0.18181818181818182
+362,115_070_002_02_17,so seized and possessed as aforesaid : the value of such Build- ,0.00037937500746920705,so served and fequefeed as aferendial : the value of male build,0.33716755212299176,0.30158730158730157,0.4166666666666667
+363,115_070_002_02_18,"-ings improvements and stock to be settled by two referees, one ",0.00040183402597904205,inge improvements and stock to be settled by two referendums,0.33716755212299176,0.14285714285714285,0.2727272727272727
+364,115_070_002_02_19,to be appointed by the Lords Commissioners of the Treasury or ,0.00044458400225266814,to be appointed by the Lords Commissioner of the Treasury,0.33716755212299176,0.06557377049180328,0.18181818181818182
+365,115_070_002_02_20,[their Successors the other by the person or persons so seized and ,0.0003699160006362945,than therefore the other by the freedom or foreword so seized and,0.33716755212299176,0.3333333333333333,0.3333333333333333
+366,115_070_002_02_21,"possessed or intitled so to be as aforesaid , with power to appoint ",0.00038833299186080694,"fuglesfeed or intellect so to be an aforesaid , with power to appear",0.33716755212299176,0.22388059701492538,0.3076923076923077
+367,115_070_002_02_22,an umpire. ,6.216700421646237e-05,an umpire .,0.33716755212299176,0.1,1.0
+368,115_077_002_01_01,9 ,3.47500026691705e-05,ailey,0.24382978649737197,5.0,1.0
+369,115_077_002_02_01,and building one or more Penitentiary House or Houses ,0.0005289159889798611,and building one or more . Penitentiary House or Houses,0.24382978649737197,0.03773584905660377,0.1111111111111111
+370,115_077_002_02_02,upon the said Ground in such manner and under ,0.00038262500311248004,upon the said Ground in such manner and under,0.24382978649737197,0.0,0.0
+371,115_077_002_02_03,"and for such considerations, terms, conditions, powers, ",0.0004273340164218098,"and for such considerations , terms , conditions , powers ,",0.24382978649737197,0.07272727272727272,1.1428571428571428
+372,115_077_002_02_04,limitations and restrictions as the said Commissioners ,0.00045029199100099504,limulations and restrictions as the said bormfighters,0.24382978649737197,0.18518518518518517,0.2857142857142857
+373,115_077_002_02_05,"shall deem necessary and expedient, and shall cause ",0.00041970901656895876,"shall deem meighorg and confident , and shall cause",0.24382978649737197,0.27450980392156865,0.375
+374,115_077_002_02_06,to be inserted in such Contract or Contracts such law- ,0.00035133399069309235,to be inserted in such Contract or Contracts such law-,0.24382978649737197,0.0,0.0
+375,115_077_002_02_07,"-ful clauses, covenants and agreements, as shall be re- ",0.00046391700743697584,"ful clauses , evenants and agreements , as shall be re",0.24382978649737197,0.10909090909090909,0.7777777777777778
+376,115_077_002_02_08,-quisite to enforce the execution of the same according- ,0.0005053330096416175,pliable to enforce the execution of the same according,0.21259337499941466,0.125,0.2222222222222222
+377,115_077_002_02_09,"-ly, and within a time to be limited And Whereas ",0.00037183298263698816,by and within a time to be limited And Thomas,0.21259337499941466,0.14583333333333334,0.2
+378,115_077_002_02_10,in and by an instrument dated this day the said ,0.00035670798388309777,in and by an instrument dated this day the said,0.21259337499941466,0.0,0.0
+379,115_077_002_02_11,Piece of Ground has been fixed upon accordingly and ,0.0004725829930976033,lace of ground has been fixed upon accordingly and,0.21259337499941466,0.0784313725490196,0.2222222222222222
+380,115_077_002_02_12,the said Jeremy Bentham appointed sole Feoffee for ,0.0004972500028088689,the said Jeremy Bentham appointed sole degree for,0.21259337499941466,0.08,0.125
+381,115_077_002_02_13,the purpose of purchasing the same And Whereas ,0.00043454099795781076,the purpose of purchasing the same And Thomas,0.21259337499941466,0.08695652173913043,0.125
+382,115_077_002_02_14,he the said Jeremy Bentham hath proposed at his ,0.0004027499817311764,he the said Jeremy Bentham hath projected as his,0.21259337499941466,0.10638297872340426,0.2222222222222222
+383,115_077_002_02_15,own expence but upon such terms and conditions and ,0.00034666602732613683,own expense but upon such terms and conditions are,0.21259337499941466,0.06,0.2222222222222222
+384,115_077_002_02_16,"for such considerations as are herein after mentioned, ",0.0004582500259857625,for such considerations as we herein after mentioned,0.24259242187690688,0.05555555555555555,0.25
+385,115_077_002_02_17,to erect and adapt to the purpose aforesaid a build- ,0.00040291601908393204,to crack and adapt to the purpose aforesaid a build -,0.24259242187690688,0.07692307692307693,0.3
+386,115_077_002_02_18,-ing of a new and peculiar nature invented by ,0.0004931669973302633,ing of a new and peculiar nature invented by,0.24259242187690688,0.022222222222222223,0.1111111111111111
+387,115_077_002_02_19,Samuel Bentham Knight of the Military Order of ,0.0004918750200886279,Samuel Bentham Knight of the Military Order of,0.24259242187690688,0.0,0.0
+388,115_077_002_02_20,St George of Russia and Brigadier General in ,0.00048600000445730984,A George of Anglia and Brigadier General in,0.24259242187690688,0.13636363636363635,0.25
+389,115_077_002_02_21,"her Imperial Majesty's Service, Brother of the said ",0.000477084016893059,"her Imperial Majesty's Service , Brother of the suit",0.24259242187690688,0.058823529411764705,0.375
+390,115_077_002_02_22,Jeremy Bentham under the name of a Panopticon ,0.0004825000069104135,Jeremy Bentham under the name of a Pangplain,0.24259242187690688,0.1111111111111111,0.125
+391,115_077_002_02_23,or Inspection House in and by means of which said ,0.00044841697672381997,melmspection House in and by means of which said,0.24259242187690688,0.10204081632653061,0.2
+392,115_077_002_02_24,Building any number of persons may in as far as ,0.0005721249908674508,building any number of persons may in as far as,0.24255351562533178,0.02127659574468085,0.1
+393,115_077_002_02_25,it shall be thought proper be kept under the in- ,0.0004607090086210519,It shall be thought proper be kept under the in-,0.24255351562533178,0.020833333333333332,0.1
+394,115_077_002_02_26,-spection of any person or number of persons in ,0.00048787498963065445,flection of any person or number of persons in,0.24255351562533178,0.06382978723404255,0.1111111111111111
+395,115_077_002_02_27,charge ,4.904199158772826e-05,change .,0.24255351562533178,0.5,2.0
+396,115_111_004_01_01,6 ,1.879199407994747e-05,"o""",0.24255351562533178,2.0,1.0
+397,115_111_004_02_01,"extension of the Colony Plan, or adoption of some ",0.000378625001758337,"entention of the colony . Alan , or exception of some",0.24255351562533178,0.22448979591836735,0.6666666666666666
+398,115_111_004_02_02,other mode of disposing of Convicts) perhaps not above ,0.00042454199865460396,other more of disposing of homicide ( perhaps not done,0.24255351562533178,0.2222222222222222,0.4444444444444444
+399,115_111_004_02_03,"100 are received into this £100,000 House. What is ",0.00028916599694639444,"no are received into three Liga,000 House . What is",0.24255351562533178,0.22,0.5555555555555556
+400,115_111_004_02_04,the consequence? that for each Convict House rent ,0.0004617079976014793,the consequence ? that for each bonnier House runs,0.3265595416232827,0.14285714285714285,0.5
+401,115_111_004_02_05,alone (£5000 at 5 per Cent) comes to £50 a year. ,0.0004937500052619725,alone ( Provo ab. 5 year level ) comes to 550 appears .,0.3265595416232827,0.4166666666666667,0.8181818181818182
+402,115_111_004_02_06,"On Mr Bentham's plan it comes to £9 a year, and ",0.00040862499736249447,"Mr. Mr. Bentham's plan it comes to Fig. a year , and",0.3265595416232827,0.19148936170212766,0.45454545454545453
+403,115_111_004_02_07,that for two years only. ,0.00017574999947100878,that for two years only .,0.3265595416232827,0.041666666666666664,0.4
+404,115_111_004_02_08,A plain proof that all idea of refunding was ,0.0003776660014409572,A plain proof that all idea of refounding was,0.3265595416232827,0.022727272727272728,0.1111111111111111
+405,115_111_004_02_09,"out of the question, or rather that it was perfectly ",0.0004984579863958061,"out of the question , or rather that it was perfectly",0.3265595416232827,0.019230769230769232,0.2
+406,115_111_004_02_10,"understood that nothing should be refunded, is, that ",0.00034495798172429204,"understood that nothing should be refumed , is , that",0.3265595416232827,0.07692307692307693,0.5
+407,115_111_004_02_11,"Mr Bentham was, for months together, with the ",0.0003756660153158009,""" Mr. Brenthouse was , for merstler together , with the",0.3265595416232827,0.35555555555555557,1.0
+408,115_111_004_02_12,privit of Government and at the recommendation of ,0.00042970897629857063,"priority of Government , and at the recommendation of",0.25844924475313746,0.10204081632653061,0.25
+409,115_111_004_02_13,"Government, in treaty on his own account with the ",0.0003752920019906014,"Government , in treaty on their own account with the",0.25844924475313746,0.08163265306122448,0.3333333333333333
+410,115_111_004_02_14,Proprietors for the purchase of the Land: Government ,0.00042591599049046636,Depricions for the purchase of the Land-Government,0.25844924475313746,0.15384615384615385,0.375
+411,115_111_004_02_15,having agreed to advance the purchase money in that ,0.00042899997788481414,shawing agreed to advance the purchase money in that,0.25844924475313746,0.0392156862745098,0.1111111111111111
+412,115_111_004_02_16,case to Mr Bentham for a short time. The Pro- ,0.0003345839795656502,made to Mr. Bentham for a short time . The New,0.25844924475313746,0.17777777777777778,0.5
+413,115_111_004_02_17,-prietors not complying; an Act of Parliament for ,0.0004459159972611815,priators set complying ; and itt of Parliament for,0.25844924475313746,0.16326530612244897,0.75
+414,115_111_004_02_18,this and other purposes was thought necessary: and ,0.00036141599412076175,this acid other purposes was thought mereditary : and,0.25844924475313746,0.16,0.375
+415,115_111_004_02_19,"upon that occasion it was, that it was notified to ",0.0003797499812208116,"upon that occasion it was , that it was solelyed to",0.25844924475313746,0.12,0.3
+416,115_111_004_02_20,"Mr Bentham, as the determination of Government, ",0.00038187499740161,"Mr. Bentham , as the determination of Government ,",0.2738237031226163,0.06382978723404255,0.7142857142857143
+417,115_111_004_02_21,"that the Ground should be purchased, not on Mr ",0.0003792499774135649,"that the ground should be purchased , not on Mr.",0.2738237031226163,0.06521739130434782,0.4444444444444444
+418,115_111_004_02_22,"Bentham's account, but on the account of Government: ",0.0003672919992823154,"Bonthan's account , but on the account of Government",0.2738237031226163,0.07692307692307693,0.5
+419,115_111_004_02_23,but that due satisfaction should be made to Mr ,0.000349667010596022,but that the satisfaction should be made to . Mr.,0.2738237031226163,0.10869565217391304,0.3333333333333333
+420,115_111_004_02_24,Bentham and his Representatives. No reason was ,0.00032125000143423676,Bentham and his Representatives . No reason was,0.2738237031226163,0.021739130434782608,0.2857142857142857
+421,115_111_004_02_25,assigned for this departure: Mr Bentham's consent to it ,0.00038537499494850636,designed for their departure : Mr. Brentheann's comments to it,0.2738237031226163,0.23636363636363636,0.7777777777777778
+422,115_111_004_02_26,was not called for: it was not given: he was not heard ,0.0003752920019906014,was not called for a it was not given : he was not heard,0.2738237031226163,0.05555555555555555,0.3333333333333333
+423,115_111_004_02_27,upon ,2.241699257865548e-05,offics .,0.2738237031226163,2.0,2.0
+424,072_050_003_01_01,C ,5.3750001825392246e-05,c.,0.2590168177484884,2.0,1.0
+425,072_050_003_02_01,15. ,4.1916006011888385e-05,1.,0.2590168177484884,0.3333333333333333,1.0
+426,072_050_003_03_01,Offences against the external Security of the State. ,0.0005203339969739318,offended against the episcopal Security of the States .,0.2590168177484884,0.21153846153846154,0.5
+427,072_050_003_04_01,is commonly distinguished by the name Piracy. ,0.0004464579978957772,is commonly distinguished by the name of Giuseppe .,0.2590168177484884,0.24444444444444444,0.42857142857142855
+428,072_050_003_04_02,When an Offence against Property originates in a ,0.00039695799932815135,When an offence against Property originates in a,0.2590168177484884,0.020833333333333332,0.125
+429,072_050_003_04_03,motive of rapacity and not in motives of resentment the ,0.000504250027006492,moline of capacity and not in motives of resentment the,0.2590168177484884,0.05454545454545454,0.2
+430,072_050_003_04_04,property of one person will answer the purpose as well ,0.0004182499833405018,frequently of one person will answer the purpose as well,0.2590168177484884,0.1111111111111111,0.1
+431,072_050_003_04_05,as another . If therefore the primary mischief of such an Of: ,0.0004855419974774122,as another . If therefore the primary mischief of such an Of-,0.2590168177484884,0.01639344262295082,0.08333333333333333
+432,072_050_003_04_06,":fence be confined to a single state, the secondary mischief, ",0.000530958001036197,""" Force be confined to a single state ; the secondary mischief ,",0.2888742291252129,0.13114754098360656,0.6
+433,072_050_003_04_07,"however, extends itself to all states the members of which ",0.0004539159999694675,"homoeever , extends itself to all states the members of which",0.2888742291252129,0.06896551724137931,0.2
+434,072_050_003_04_08,are likely to come in the offender's way. An act of Piracy is ,0.0004279589920770377,made likely to come in the offenders every . As set of Piracy is,0.2888742291252129,0.18032786885245902,0.46153846153846156
+435,072_050_003_04_09,therefore commonly looked upon as an act of hostility against ,0.00044329100637696683,therefore commonly looked upon as an act of hostility against,0.2888742291252129,0.0,0.0
+436,072_050_003_04_10,mankind in general . The least therefore which is expected ,0.00045016699004918337,mankind in general . The least therefore which is expected,0.2888742291252129,0.0,0.0
+437,072_050_003_04_11,from the State of which the Pirate is a member is that ,0.00046204199315980077,From the state of which the Senate is a member is that,0.2888742291252129,0.09259259259259259,0.25
+438,072_050_003_04_12,it should acquiesce in his being punished : If it happens ,0.00043416599510237575,it should acquiescence in his living furnished . It happens,0.2888742291252129,0.21052631578947367,0.5454545454545454
+439,072_050_003_04_13,to have any particular means in its hands of punishing ,0.00046254199696704745,to have any particular means in its hands of punishing,0.2888742291252129,0.0,0.0
+440,072_050_003_04_14,"him , it may also be expected to take an active part in pu= ",0.0005380829970818013,"him , it may also be expected to take an active part in an",0.27376386975083733,0.05084745762711865,0.07142857142857142
+441,072_050_003_04_15,:nishing him : as likewise in punishing any accomplices ,0.0005609590152744204,"smoking him , as likewise in punishing any accomplished",0.27376386975083733,0.16363636363636364,0.3333333333333333
+442,072_050_003_04_16,he may have ; and in taking any other expedients that ,0.0004912080185022205,"he may have , and in taking any other experiments that",0.27376386975083733,0.05660377358490566,0.18181818181818182
+443,072_050_003_04_17,may occur for preventing the offence . This holds good more ,0.00045891699846833944,may occur for preventing the offence . This holds good more,0.27376386975083733,0.0,0.0
+444,072_050_003_04_18,particularly with regard to accomplices ; because their ,0.0004745829792227596,particularly with regard to accomplices ; because there,0.27376386975083733,0.03636363636363636,0.125
+445,072_050_003_04_19,residence will frequently be upon land within the domi= ,0.0003975830040872097,residence will frequently be upon land within the doriais .,0.27376386975083733,0.10909090909090909,0.2222222222222222
+446,072_050_003_04_20,while ,4.237500252202153e-05,while,0.27376386975083733,0.0,0.0
+447,072_050_003_04_21,:nions of a particular state which his excursions are ,0.00042770899017341435,pinions of a particular plate-switch his excursions were,0.27376386975083733,0.18867924528301888,0.4444444444444444
+448,072_050_003_04_22,carried on upon that element which is common to man= ,0.00042308398406021297,carried on upon that element which is common to man .,0.24439713012543507,0.038461538461538464,0.2
+449,072_050_003_04_23,=kind. ,7.316700066439807e-05,skendo,0.24439713012543507,0.5,1.0
+450,115_009_002_01_01,2 ,2.4208013201132417e-05,2.,0.24439713012543507,1.0,1.0
+451,115_009_002_02_01,Upon the abovementioned terms he would engage ,0.00046874998952262104,Upon the aforementioned terms he would engage,0.24439713012543507,0.044444444444444446,0.14285714285714285
+452,115_009_002_02_02,as follows_ ,0.00013504200614988804,as follows .,0.24439713012543507,0.18181818181818182,1.0
+453,115_009_002_02_03,1.st To furnish the prisoners with a constant supply ,0.000555582984816283,1 . Defirmish the prisoners with a constant supply,0.24439713012543507,0.15384615384615385,0.3333333333333333
+454,115_009_002_02_04,"of wholesome food, not limited in quantity, but a- ",0.0005238750018179417,"of wholesome food , not limited in quantity , but a",0.24439713012543507,0.06,0.5555555555555556
+455,115_009_002_02_05,-dequate  to each man's desires. ,0.00028633399051614106,desquate to each man's desires .,0.24439713012543507,0.0967741935483871,0.6
+456,115_009_002_02_06,2. To keep them clad in a state of lightness & neat- ,0.0007429579854942858,2 . In keep them clad in a state of lightingly's neat-,0.29817855212604627,0.17307692307692307,0.4166666666666667
+457,115_009_002_02_07,"-ness, superior to what is usual among the lower clas- ",0.0017770830017980188,""" nefer , superior to what is usual among the lower class",0.29817855212604627,0.12962962962962962,0.4
+458,115_009_002_02_08,-ses or even in the improved prisons. ,0.0011212079843971878,was or even in the improved prisons,0.29817855212604627,0.10810810810810811,0.2857142857142857
+459,115_009_002_02_09,3rd To keep them supplied with separate beds and ,0.0007109580037649721,& So keep them supplied with separate beds and,0.29817855212604627,0.08333333333333333,0.2222222222222222
+460,115_009_002_02_10,"bedding, competent to their situation, and in a state ",0.0006196670001372695,"bedding , competent to their situation , and in a state",0.29817855212604627,0.03773584905660377,0.4444444444444444
+461,115_009_002_02_11,of cleanliness scarce any where conjoined with liberty. ,0.0012349580065347254,of cleanlings scarce any where conjoined with liberty .,0.29817855212604627,0.05454545454545454,0.375
+462,115_009_002_02_12,4th To insure to them a sufficient supply of artificial ,0.0006837919936515391,""" I'm to increase to them a sufficient supply of artificial",0.29817855212604627,0.2,0.4
+463,115_009_002_02_13,"warmth and light, whenever the season renders it ",0.0007187080045696348,"warmth and light , whenever the season renders it",0.29817855212604627,0.020833333333333332,0.25
+464,115_009_002_02_14,"necessary, and thereby preserve them from being ",0.0005608340143226087,"necessary , and thereby preserve them from being",0.28933283337391913,0.02127659574468085,0.2857142857142857
+465,115_009_002_02_15,"obliged as in other places, to desist from their work, ",0.000506333977682516,"obliged as in other places , to desist from their work ,",0.28933283337391913,0.037037037037037035,0.4
+466,115_009_002_02_16,as well as from suffering from the inclemency of ,0.0005195419944357127,as well as from suffering from the indomency of,0.28933283337391913,0.0625,0.1111111111111111
+467,115_009_002_02_17,the weather. ,0.0001384170027449727,the weather .,0.28933283337391913,0.08333333333333333,1.0
+468,115_009_002_02_18,"5.th To keep constantly from them, in conformity to the ",0.0005566249892581254,"to . To keep constantly from them , in conformity to the",0.28933283337391913,0.09090909090909091,0.4
+469,115_009_002_02_19,"practice so happily received, every kind of strong & ",0.0005366250115912408,"practice so happily received , every kind of strong #",0.28933283337391913,0.038461538461538464,0.3333333333333333
+470,115_009_002_02_20,"spirituous liquor, unless where ordered in the way of ",0.0005268749955575913,"spirituous liquor , unless where ordered in the way of",0.28933283337391913,0.018867924528301886,0.2222222222222222
+471,115_009_002_02_21,medicine. ,0.00010500001371838152,medicine .,0.28933283337391913,0.1111111111111111,2.0
+472,115_009_002_02_22,6th To maintain them in a state of inviolable ,0.0005212909891270101,"6 "" In maintain them in a state of inevitable",0.2445412916240457,0.15555555555555556,0.4444444444444444
+473,115_009_002_02_23,"though mitigated seclusion, in small assorted com- ",0.0005783750093542039,"though integrated seduction , in small assorted com-",0.2445412916240457,0.18,0.42857142857142855
+474,115_009_002_02_24,"panies, without any of those opportunities of pro ",0.0005312499997671694,"quaried , without any of those opportunities of pre",0.2445412916240457,0.12244897959183673,0.375
+475,115_009_002_02_25,"-miscuous association, which in other improved pri- ",0.0005493339849635959,"misaurus africation , which in other improved psi-",0.2445412916240457,0.17647058823529413,0.5714285714285714
+476,115_009_002_02_26,-sons disturb if not destroy whatever good effect can ,0.0005683750205207616,sons distant if not destiny whatever good effect can,0.2445412916240457,0.11320754716981132,0.3333333333333333
+477,115_009_002_02_27,have been expected from solitude. ,0.0004269590135663748,have been expected from solitude .,0.2445412916240457,0.030303030303030304,0.4
+478,115_009_002_02_28,7. To ,0.00010725000174716115,7. I.,0.2445412916240457,0.4,0.5
+479,073_068_001_01_01,62 ,2.562499139457941e-05,62.,0.2445412916240457,0.5,1.0
+480,073_068_001_02_01,THEFT ,6.720799137838185e-05,teseet .,0.22823880724899936,1.6,2.0
+481,073_068_001_03_01,wherefrom this Consciousness might be infer'd were ,0.0005580410070251673,where from this homiscuously might be infend worse,0.22823880724899936,0.26,0.7142857142857143
+482,073_068_001_03_02,yet themselves reducible to some one or other of ,0.0005321670032572001,yet themselves a terrible to some one or other of,0.22823880724899936,0.125,0.2222222222222222
+483,073_068_001_03_03,those 4. ,5.758300540037453e-05,phoseds .,0.22823880724899936,0.5,1.0
+484,073_068_001_03_04,found ,2.750000567175448e-05,gond,0.22823880724899936,0.4,1.0
+485,073_068_001_03_05,But I had Cause at length to abandon ,0.0003421249857638031,# there because it length to abandon,0.22823880724899936,0.3055555555555556,0.625
+486,073_068_001_03_06,"the pursuit, in the Persuasion that this ",0.00032300001475960016,"the flavourist , in the Percussion that this",0.22823880724899936,0.25,0.42857142857142855
+487,073_068_001_03_07,Consciousness might by infer'd with equal ,0.0003980000037699938,Consciousments might be infers with equal,0.22823880724899936,0.14634146341463414,0.5
+488,073_068_001_03_08,Satisfaction & Certainty from any of the respective ,0.0006098750163801014, Satisfaction to Certainty from any of the respective,0.2280369999971299,0.0392156862745098,0.125
+489,073_068_001_03_09,individual Circumstances directly as thro' ,0.0004075419856235385,individual circumstances directly as thus,0.2280369999971299,0.09523809523809523,0.4
+490,073_068_001_03_10,the Medium of any of those specific Heads: the ,0.0004489170096348971,the Museum of any of those specific Heads . the,0.2280369999971299,0.10869565217391304,0.3333333333333333
+491,073_068_001_03_11,Establishment of them as the Subjects of distinct ,0.00041587502346374094,Establishment of them as the Subjects of distinct,0.2280369999971299,0.0,0.0
+492,073_068_001_03_12,Questions to the Jury would therefore have no Use; and ,0.0004612079937942326,"Questions to the Jury would therefore have no Vice , and",0.2280369999971299,0.09259259259259259,0.2
+493,073_068_001_03_13,"it might have this Inconvenience, that the ",0.0004338750150054693,"its might have this Enconvenience , that the",0.2280369999971299,0.07142857142857142,0.42857142857142855
+494,073_068_001_03_14,be ,2.2624997654929757e-05,in,0.2280369999971299,1.0,1.0
+495,073_068_001_03_15,Distinction between them would not in every Care ,0.0004673750081565231,"Distinction between them # and , in every base",0.2280369999971299,0.1875,0.5
+496,073_068_001_03_16,"so clear, as that the Jury could concur in affirming ",0.0005020410171709955,"to clear , as that the jury could concur in affirming",0.2585671718734375,0.057692307692307696,0.4
+497,073_068_001_03_17,the Existence of any one in particular and disaffirming ,0.0004554170009214431,the existence of anyone in particular and dikaffirm,0.2585671718734375,0.10909090909090909,0.4444444444444444
+498,073_068_001_03_18,that of the others: hence if the Interrogatories ,0.0005749170086346567,-ing that of the others . Hence if the Interrogatories,0.2585671718734375,0.16666666666666666,0.5
+499,073_068_001_03_19,"concerning each were put separately, tho' some one ",0.0004944580141454935,"concerning each were just separately , the same one",0.2585671718734375,0.12,0.625
+500,073_068_001_03_20,or other of these Circumstances unquestionably had ,0.0003990420082118362,or other of these disomemstrances unquestionally had,0.2585671718734375,0.14,0.2857142857142857
+501,073_068_001_03_21,"Existence, yet not knowing precisely which, they ",0.0004735830007120967,"existence , yet not knowing precisely which , they",0.2585671718734375,0.0625,0.5714285714285714
+502,073_068_001_03_22,would think themselves obliged to disaffirm it of ,0.00045666698133572936,would think themselves obliged to disappear with,0.2585671718734375,0.1836734693877551,0.375
+503,073_068_001_03_23,them all. ,7.425001240335405e-05,phase all .,0.2585671718734375,0.5555555555555556,1.5
+504,073_068_001_03_24,For ,5.16669824719429e-05,upon,0.30678207287564874,1.0,1.0
+505,116_387_001_01_01,"My Lords, Whitehall 14 Oct. 1799. ",0.0004232079954817891,"My door , "" Whitelall in Oct. 1799",0.30678207287564874,0.30303030303030304,1.0
+506,116_387_001_01_02,Mr King having laid before me a Letter from ,0.0005635830166283995,Nor Kong housing land before one in Lexington,0.30678207287564874,0.4418604651162791,0.8888888888888888
+507,116_387_001_01_03,"Mr Long of the 27th ulto, desiring, by command of ",0.0005229170201346278,"sur. Long of the army "" all ' , decisions , by commencement of",0.30678207287564874,0.5306122448979592,0.9
+508,116_387_001_01_04,"your Lordships, to be apprized of the number of Con- ",0.0005919999966863543,"your hardships , who appeared at the number of three",0.30678207287564874,0.34615384615384615,0.6
+509,116_387_001_01_05,"-victs, which the Panopticon proposed to be erected by ",0.0005068330210633576,"will , which the Paragitson , proposals to be created to",0.30678207287564874,0.37037037037037035,0.7777777777777778
+510,116_387_001_01_06,"Mr Bentham, is intended to accommodate. I have ",0.0004005419905297458,"Mr. B.emlasm , is intended to accommodate them",0.30678207287564874,0.2826086956521739,0.75
+511,116_387_001_01_07,examined the Acts of the 19th & 34th of his present ,0.0007440829940605909,"accompanied the State of the 1900s. "" 3/2 "" if this presents",0.30678207287564874,0.45098039215686275,0.8181818181818182
+512,116_387_001_01_08,"Majesty, relative to the building of Penitentiary Houses ",0.0008622919849585742,"diapesty , valatore to the building of Christianity Africans",0.2822562968758575,0.42857142857142855,0.625
+513,116_387_001_01_09,"for confining and employing in hard labour, Persons ",0.0007857080199755728,"for comparing and complaining in short labour , Classes",0.2822562968758575,0.35294117647058826,0.75
+514,116_387_001_01_10,convicted of transportable and other Crimes. ,0.000738417002139613,committed of transportation and other Crimes .,0.2822562968758575,0.18181818181818182,0.6666666666666666
+515,116_387_001_01_11,"I understand the object of these Acts to be, that ",0.0005835410265717655,It understand the object of these Acts to be that,0.2822562968758575,0.04081632653061224,0.2
+516,116_387_001_01_12,such Penitentiary Houses should be used principally ,0.0006678749923594296,"much Questionatory issues , should be used primarily",0.2822562968758575,0.43137254901960786,0.7142857142857143
+517,116_387_001_01_13,as receptacles for such transportable Convicts as the ,0.0005091670027468354,as acceptable for such trans-horseable Commons its as the,0.2822562968758575,0.2641509433962264,0.5
+518,116_387_001_01_14,"several Gaols of the respective Counties cannot contain, ",0.0005037919909227639,moral goals of the respective Counties courses contain,0.2822562968758575,0.25,0.5
+519,116_387_001_01_15,"from the time of their receiving sentence, till an ",0.0006987499946262687,"from the turn of their viewing , Indiana still can",0.2822562968758575,0.38,0.6666666666666666
+520,116_387_001_01_16,opportunity may offer for their being transported. ,0.0005098749825265259,approhensity money over for their being transparent .,0.2911710052503622,0.32,0.7142857142857143
+521,116_387_001_01_17,With respect to the probably number of transport- ,0.00046562502393499017,that respect to the probable number of trans-post,0.2911710052503622,0.16326530612244897,0.375
+522,116_387_001_01_18,-able Convicts _ ,7.862498750910163e-05,-atte Comstock .,0.2911710052503622,0.5625,1.0
+523,116_387_001_01_19,"no safer rule can be adopted, than by taking the ",0.000514375016791746,"# his father made over her abogested , human laylessness that",0.2911710052503622,0.7708333333333334,1.1
+524,116_387_001_01_20,greatest number of the four last years of Peace: ,0.00054766601533629,great number of ten four last years of learners,0.2911710052503622,0.20833333333333334,0.3333333333333333
+525,116_387_001_01_21,"though it may increase, yet the increase of live ",0.00045074999798089266,"through it may increase , yet the increase of them",0.2911710052503622,0.125,0.4444444444444444
+526,116_387_001_01_22,Stock use will probably more than counter balance the ,0.0003171660064253956,"which we will # virtually # more than "" country balances the",0.2911710052503622,0.37735849056603776,0.8888888888888888
+527,116_387_001_01_23,difference.] ,6.533399573527277e-05,duppurnen .,0.2911710052503622,0.6666666666666666,2.0
+528,116_387_001_01_24,will probably more than counterbalance the difference. ,0.0006551669794134796,will probably more than comfortable issues . Her differences,0.30595609375086497,0.3333333333333333,0.7142857142857143
+529,116_072_001_01_01,3 ,2.9875023756176233e-05,0,0.30595609375086497,1.0,1.0
+530,116_072_001_02_01,"P. 126. September 1790. ""In order to encourage as far as possible ",0.00032175000524148345,"Pueblo September 1790 . "" In order to encourage as fear as preferable",0.30595609375086497,0.23076923076923078,0.6666666666666666
+531,116_072_001_02_02,"""the rearing of swine in the colony, as well as of every other ",0.0003422090085223317,"the rearing of pursue in the colony , as well as of every other",0.30595609375086497,0.11290322580645161,0.3076923076923077
+532,116_072_001_02_03,"""kind of live stock, a circumstance that must not <gap/> only prove ",0.00030104198958724737,""" kind of hair stuck , a circumference that meant not only prove",0.30595609375086497,0.31343283582089554,0.6666666666666666
+533,116_072_001_02_04,"""a great benefit to the public, but be also highly to the advantage ",0.00039483298314735293,""" A great benefit to this public , but he also highly to the observatory",0.30595609375086497,0.22388059701492538,0.5384615384615384
+534,116_072_001_02_05,"""of those who devoted a part of their time to this useful purpose, ",0.0003500829916447401,""" If these when devoted a part of their terms to this useful pregnancy",0.30595609375086497,0.24242424242424243,0.46153846153846156
+535,116_072_001_02_06,"""and which, from the advanced state of the private farmers, might ",0.0003573340072762221,""" and which , from the advanced state of the private farm # , might",0.30595609375086497,0.07692307692307693,0.6363636363636364
+536,116_072_001_02_07,"""now be done with far less trouble and expence than formerly, the ",0.00038395801675505936,""" now be done with far left trouble and expense than formerly , the",0.2736152552497515,0.07692307692307693,0.5
+537,116_072_001_02_08,"""settlers and others were informed, that when any individual should ",0.00032729198574088514,"settlers and there were informed , that whom any individual should",0.2736152552497515,0.08955223880597014,0.5
+538,116_072_001_02_09,"""have prepared a number of such animals fit for the public ",0.00034562498331069946,have prepared a number of scale amends fit for the public,0.2736152552497515,0.1724137931034483,0.2727272727272727
+539,116_072_001_02_10,"""store, they might make the same known to the commissary, ",0.0003215000033378601,"Flore , they might make the same knows to the corresponding",0.2736152552497515,0.2631578947368421,0.4
+540,116_072_001_02_11,"""who, in order to prevent any unnecessary expence to the feeder, ",0.00033695800811983645,""" subway in order to prevent any unnecessary expense to the gender ,",0.2736152552497515,0.171875,0.45454545454545453
+541,116_072_001_02_12,"""would get give immediate notice of the day and place when ",0.0003110000106971711,""" would go quite imminent notice of the day and place when",0.2736152552497515,0.1896551724137931,0.45454545454545453
+542,116_072_001_02_13,"""and where he would receive them. He was also at liberty to ",0.0003150409902445972,""" and defense he would receive them . He was also at liberty to",0.2736152552497515,0.11864406779661017,0.4166666666666667
+543,116_072_001_02_14,"""enter into an agreement or contract for a certain length of time, ",0.0003183750086463988,""" under into an agreement or contracts for a certain length of time ,",0.2736152552497515,0.07575757575757576,0.4166666666666667
+544,116_072_001_02_15,"""and on such conditions as should be agreed, with any person who ",0.00035191699862480164,""" and on such conditions as should be agreed , with any person who",0.3041801875006058,0.03125,0.3333333333333333
+545,116_072_001_02_16,"""would engage to furnish the public store either at Sydney, Parra- ",0.00037566700484603643,"would engage to furnish the public dive sites at Sydney , Parre-",0.3041801875006058,0.15151515151515152,0.5454545454545454
+546,116_072_001_02_17,"-""matta, or the Hawkesbury, with any certain quantity at stated ",0.00034304099972359836,""" mantle , or the Hawkesbury , with any certain quantity at that",0.3041801875006058,0.1746031746031746,0.6
+547,116_072_001_02_18,"""periods."" ",4.887502291239798e-05,"openoids . """,0.3041801875006058,0.6,3.0
+548,116_072_001_02_19,"P. 196 January 1799. ""That he [the Governor] might ascertain what ",0.0002970829955302179,""" self Germany that he like German judges aren't also about",0.3041801875006058,0.6923076923076923,1.0
+549,116_072_001_02_20,"""quantity of grain he had to depend on, all those who cultivated ",0.000334457989083603,""" Personality of growing the head to depend our , all these video mull-events",0.3041801875006058,0.453125,0.8333333333333334
+550,116_072_001_02_21,"""ground were directed to give in by a certain time a return of the ",0.00033912499202415347,""" grossed were directed to grow over by a certain terms a return of the",0.3041801875006058,0.21212121212121213,0.35714285714285715
+551,116_072_001_02_22,"""wheat and other grain in their possession."" ",0.00022545800311490893,wheat and other again in their profession !,0.3041801875006058,0.18181818181818182,0.5714285714285714
+552,116_072_001_02_23,"P. 196. January 1799. ""Wheat at this time bore a high price ",0.00038908299757167697,"people . January 1999 . "" Wheat at this time , here a highly praise",0.2883930833741033,0.3050847457627119,0.8333333333333334
+553,116_072_001_02_24,"""in Norfolk Island, the settlers who had raised refusing to sell it, ",0.0003943330084439367,"Sir Norfolk Poland , Her settlers who had raised refusing to sell it ,",0.2883930833741033,0.1323529411764706,0.5
+554,116_072_001_02_25,"""on account of the high wages, at less than fifteen shillings per ",0.0003306250146124512,"In account of this high stages , at life them fifteen challenge fees",0.2883930833741033,0.2923076923076923,0.6666666666666666
+555,116_072_001_02_26,"""bushel."" ",5.41249755769968e-05,"basketball . """,0.2883930833741033,1.0,3.0
+556,072_049_002_01_01,C ,3.070800448767841e-05,c.i,0.2883930833741033,3.0,1.0
+557,072_049_002_02_01,10. ,3.5208999179303646e-05,10.,0.2883930833741033,0.0,0.0
+558,072_049_002_03_01,Offences against the external Security of the State. ,0.000551957986317575,Official against the external Security of the State,0.2883930833741033,0.11538461538461539,0.25
+559,072_049_002_04_01,naturally under the several titles which are taken from ,0.00036624999484047294,muturally under the several titles which are taken from-,0.2883930833741033,0.05454545454545454,0.2222222222222222
+560,072_049_002_04_02,the several different ways in which the party injured ,0.0005042080010753125,the several different ways in which the party imposed,0.2664715833743685,0.07547169811320754,0.1111111111111111
+561,072_049_002_04_03,either ,5.1292008720338345e-05,either,0.2664715833743685,0.0,0.0
+562,072_049_002_04_04,"may be affected by them. They are offences against person, ",0.000509292003698647,"many he affected by them . They are offences against person ,",0.2664715833743685,0.06896551724137931,0.6
+563,072_049_002_04_05,or or ,0.00010812500840984285,for the return,0.2664715833743685,2.0,1.5
+564,072_049_002_04_06,"offences against property, offences against reputation, and ",0.0004896250029560179,"Hences against property , officers against reputation , and",0.2664715833743685,0.13559322033898305,0.8571428571428571
+565,072_049_002_04_07,"so forth, as the case may be. ",0.0001917080080602318,"do forth , as the cause many her .",0.2664715833743685,0.2413793103448276,1.0
+566,072_049_002_04_08,If the place in which the offence was committed be ,0.00034591698204167187,If the place in which the offence was committed her,0.2664715833743685,0.04,0.1
+567,072_049_002_04_09,within the dominions of a third state it is from such third ,0.00036770798033103347,within the dominions of a third states it is from each third,0.2664715833743685,0.05084745762711865,0.16666666666666666
+568,072_049_002_04_10,power that the state of which the party injured is a ,0.0004090839938726276,favour that the state of which the party imposed it a,0.2613803906242538,0.19230769230769232,0.2727272727272727
+569,072_049_002_04_11,member will expect satisfaction in the first instance. If ,0.0004717499832622707,members will expect satisfaction in the feast instance gift,0.2613803906242538,0.12280701754385964,0.4444444444444444
+570,072_049_002_04_12,however it be out of its power to give satisfaction the ,0.00041775000863708556,homework it has out of its power to give satisfaction the,0.2613803906242538,0.12727272727272726,0.18181818181818182
+571,072_049_002_04_13,property as well as person of the offender being out of ,0.00040337498649023473,frequently as well as perven of the offender being out of,0.2613803906242538,0.14545454545454545,0.18181818181818182
+572,072_049_002_04_14,"its reach, the injured state may naturally enough be dis= ",0.0003722919791471213,"its reach , the injured state may naturally enough he did",0.2613803906242538,0.07017543859649122,0.4
+573,072_049_002_04_15,:posed to resort to that of which the offender is a mem= ,0.0003985829825978726,sposed to resort to that of which the offender is a mere,0.2613803906242538,0.05357142857142857,0.16666666666666666
+574,072_049_002_04_16,:ber. It may perhaps expect the same punishment to ,0.0004158749943599105,""" her . It may perhaps expect the same framishment to",0.2613803906242538,0.16,0.4444444444444444
+575,072_049_002_04_17,be inflicted on him as would be inflicted on him for ,0.0004182909906376153,he inflicted on him as would he isffield on him for,0.2613803906242538,0.1346153846153846,0.2727272727272727
+576,072_049_002_04_18,an offence of the same kind committed to the prejudice ,0.0005001249955967069,an offered of the same kind committed to the prejudice,0.3053216458756651,0.05555555555555555,0.1
+577,072_049_002_04_19,of a fellow member; it will hardly expect more. ,0.0004335830162744969,"of a follow-members , it will hardly expect more .",0.3053216458756651,0.1276595744680851,0.4444444444444444
+578,072_049_002_04_20,If the place be a vacant spot not within the domi= ,0.000389833003282547,"off the place be a spacerist shot within the dome ,",0.3053216458756651,0.3,0.5454545454545454
+579,072_049_002_04_21,":nions of any state, the state of which the offender is a mem= ",0.0004048749979119748,"pinions of army while , the whole of which the offenders is a man's",0.3053216458756651,0.2903225806451613,0.5384615384615384
+580,072_049_002_04_22,:ber will naturally be that to which the injured state ,0.0005021249817218632,has well naturally be that to which the ingredients,0.3053216458756651,0.2222222222222222,0.4
+581,072_049_002_04_23,will resort in the first instance. It may however resort ,0.0004377080185804516,"will report in the first instance . "" It may however resemble",0.3053216458756651,0.16071428571428573,0.5
+582,072_049_002_04_24,in ,3.920801100321114e-05,ens,0.3053216458756651,1.0,1.0
+583,071_022_003_01_01,23. ,2.7583999326452613e-05,hit .,0.3053216458756651,1.3333333333333333,2.0
+584,071_022_003_02_01,C ,5.425000563263893e-05,c.,0.2884026406245539,2.0,1.0
+585,071_022_003_03_01,Corporal Injuries ,0.00014170800568535924,Carpanal Leagues,0.2884026406245539,0.5294117647058824,1.0
+586,071_022_003_03_02,Simple Of <gap/> Extenuations. ,0.0005040830001235008,Simple life-Octonauticalistlessness .,0.2884026406245539,0.8333333333333334,0.75
+587,071_022_003_04_01,employed; nor shall it be considered whether a person revolving ,0.00047329202061519027,employed ; more shall it has considered whether a person revolving,0.2884026406245539,0.09523809523809523,0.4
+588,071_022_003_04_02,the circumstances at his leisure could or could not have ,0.00038462498923763633,the circumstances at his leisure could or could not have,0.2884026406245539,0.0,0.0
+589,071_022_003_04_03,thought of a cheaper means of repelling the attack but whether ,0.000494415988214314,thought of a chaufian means of refuelling the attack but whether,0.2884026406245539,0.12903225806451613,0.18181818181818182
+590,071_022_003_04_04,any such cheaper means did actually occur to the party at ,0.00043641598313115537,any such cheaper means did actually occur to the party at,0.2884026406245539,0.0,0.0
+591,071_022_003_04_05,the time. ,0.00010025000665336847,the time .,0.2884026406245539,0.1111111111111111,1.0
+592,071_022_003_04_06,Exposition. ,0.00024470797507092357,lacquisitive .,0.27284088550004526,0.8181818181818182,2.0
+593,071_022_003_04_07,[(A) Les mischief] As if a man were suddenly to assault ,0.0005504170258063823,# also mischief if it's if a man were suddenly to assault,0.27284088550004526,0.23636363636363636,0.45454545454545453
+594,071_022_003_04_08,You with a stick at a time that a stout stick and an iron ,0.00041191698983311653,your with a stick of a time that a stout stick and an more,0.27284088550004526,0.14035087719298245,0.21428571428571427
+595,071_022_003_04_09,bar of the same size were both lying within your reach: ,0.000411917018936947,har of the same size were both lying within your reach :,0.27284088550004526,0.03636363636363636,0.2727272727272727
+596,071_022_003_04_10,where upon snatching up the iron bar you strike him in ,0.000475959008326754,# been upon something up the iron has you strike him in,0.27284088550004526,0.2037037037037037,0.36363636363636365
+597,071_022_003_04_11,such a manner as to give him dangerous bruise or kill ,0.00043349998304620385,which a mariners as to give him a dangerous bruise or still,0.27284088550004526,0.18867924528301888,0.36363636363636365
+598,071_022_003_04_12,him. In such case unless it appears that you deliberately took ,0.0005085000011604279,him . In such cases malples it appears that you deliberately took,0.27284088550004526,0.11290322580645161,0.36363636363636365
+599,071_022_003_04_13,up the iron bar in preference to the stick intending there= ,0.0004211670020595193,up their iron has in preference to the slick extending them .,0.27284088550004526,0.1694915254237288,0.5454545454545454
+600,071_022_003_04_14,":with to kill him or hurt him more than was necessary, it ",0.00043683400144800544,"health to kill him or hunt him more than was regularly , it",0.28856435425041127,0.21052631578947367,0.3333333333333333
+601,071_022_003_04_15,shall still be accounted justifiable self-defence ,0.0003352499916218221,shall still he accounted justifiable self-defence,0.28856435425041127,0.02040816326530612,0.16666666666666666
+602,071_022_003_04_16,[(B) Uncertain efficacy] As if in the case just mentioned it hap= ,0.0005266660009510815,# Macmillain efficacy ? As if in the case just mentioned it happy,0.28856435425041127,0.2153846153846154,0.4166666666666667
+603,071_022_003_04_17,:pened that you were much weaker than the assailant; inso= ,0.0004253330116625875,spened that you were much weaker than their afrailant ; under,0.28856435425041127,0.1724137931034483,0.5
+604,071_022_003_04_18,:much that it would have been doubtful whether with the less ,0.0004755000118166208,""" A smooth that it would have been doubtful whether with the light",0.28856435425041127,0.2,0.36363636363636365
+605,071_022_003_04_19,"powerful weapon of the two, you could have effectually defend= ",0.0005565839819610119,""" Powerful weapon of the two , you could have officially defended",0.28856435425041127,0.16129032258064516,0.6
+606,071_022_003_04_20,:ed Yourself. ,0.00013387500075623393,red Yourself .,0.28856435425041127,0.15384615384615385,1.5
+607,073_002_002_01_01,may depend venture to depend on? If after pay- ,0.00044358300510793924,may # venture to defend on ? After they,0.28856435425041127,0.32608695652173914,0.6666666666666666
+608,073_002_002_01_02,to this Lawyer ,0.00011933399946428835,to this lawyers,0.24499840099815628,0.14285714285714285,0.3333333333333333
+609,073_002_002_01_03,"ing four Guineas for four Volumes of his Truths, ",0.0005629999795928597,ing four businesses for four volumes of his books,0.24499840099815628,0.25,0.3333333333333333
+610,073_002_002_01_04,"I pay a couple to another, for any one that I ",0.0005461659748107195,"I may a couple to another , for any one that it",0.24499840099815628,0.08888888888888889,0.36363636363636365
+611,073_002_002_01_05,self- ,3.5958015359938145e-05,jelfa,0.24499840099815628,0.4,1.0
+612,073_002_002_01_06,"may want, will his be all of the same sort? ",0.0004580829991027713,"many meant , said this he told the blame about",0.24499840099815628,0.4883720930232558,0.9
+613,073_002_002_01_07,70 ,2.62079993262887e-05,yt.,0.24499840099815628,1.5,1.0
+614,073_002_002_01_08,"True it is that about 65 pages after, under ",0.0003257080097682774,"True it is that about 50flags after , minor",0.24499840099815628,0.23255813953488372,0.4444444444444444
+615,073_002_002_01_09,"another Title if I happen to fall upon it, I may ",0.0004783750046044588,"another title if I happen to fall upon it , I may",0.24499840099815628,0.041666666666666664,0.2727272727272727
+616,073_002_002_01_10,"see, that by her Husbands License ""which he ",0.0006118339952081442,"we , that by her Husbands Licenza which he",0.238626609374478,0.11627906976744186,0.5
+617,073_002_002_01_11,frequently covenants with her Friends to allow ,0.0005320410127751529,frequently governments with her friends to allow,0.238626609374478,0.10869565217391304,0.2857142857142857
+618,073_002_002_01_12,her a Wife may make a Will: or rather as ,0.0005014579801354557,her's life may make a Will : anesthesia as,0.238626609374478,0.3,0.6
+619,073_002_002_01_13,"the Author I may also see, that ""if she has ",0.000681874982547015,"the American Library also see , that if what has",0.238626609374478,0.3953488372093023,0.7
+620,073_002_002_01_14,"any Pinmoney or separate Maintenance"" of which ",0.0007674589869566262,"any I'm money or separate Maintenance "" of which",0.238626609374478,0.10869565217391304,0.5714285714285714
+621,073_002_002_01_15,I have no other Intimation than from this ,0.0005041250260546803,I have no other Intimation than from this,0.238626609374478,0.0,0.0
+622,073_002_002_01_16,Passage and which that part of the Work which ,0.000639207981294021,Damage and which that part of the West which,0.238626609374478,0.13333333333333333,0.2222222222222222
+623,073_002_002_01_17,is appropriated particularly to the subject of her ,0.0006711249880027026,is appropriated particularly to the subject of her,0.238626609374478,0.0,0.0
+624,073_002_002_01_18,"Power assures me, as far as it is in the power of ",0.0005612919921986759,"Powers , exposes one , as far as it is in the flower of",0.29017966149694985,0.2653061224489796,0.5
+625,073_002_002_01_19,"general Words to assure, me that she cannot have, ",0.0005163750029169023,"general funds to acquire , more that she cannot have",0.29017966149694985,0.20408163265306123,0.5555555555555556
+626,073_002_002_01_20,such and such Consequences will follow. But ,0.0003779580001719296,such and such consequences will follow . But,0.29017966149694985,0.046511627906976744,0.42857142857142855
+627,073_002_002_01_21,is not a Man to be put into Possession of the Law ,0.00043987500248476863,is not a man to be sent into Opposition of the Law,0.29017966149694985,0.22448979591836735,0.25
+628,073_002_002_01_22,on any single Point but upon Terms [and those not ,0.0004959579964634031,on any single Point last upon Persons ( and those and,0.29017966149694985,0.24489795918367346,0.5
+629,073_002_002_01_23,declared] of his reading the whole Book? And ,0.0005219579907134175,declared ) of his meaning the whole block S. And,0.29017966149694985,0.22727272727272727,0.625
+630,073_002_002_01_24,in a voluminous Treatise on a very extensive & ,0.0003573340072762221,in a voluminous treatise on a very extensive It,0.29017966149694985,0.06521739130434782,0.2222222222222222
+631,073_002_002_01_25,divided ,4.5167020289227366e-05,chinided,0.29017966149694985,0.42857142857142855,1.0
+632,035_327_001_01_01,9 ,4.312500823289156e-05,9,0.2757028593769064,0.0,0.0
+633,035_327_001_02_01,(4 ,4.2041996493935585e-05,cady,0.2757028593769064,2.0,1.0
+634,035_327_001_02_02,Art. II. VII. Appeal warranting function. A certain ,0.0006275840278249234,"April 21 . I'll , Appeal warranting functions . In certain",0.2757028593769064,0.3137254901960784,1.0
+635,035_327_001_02_03,"class of penal cases there is, in relation to which by ",0.0006419579731300473,"clafs of facial cases there is , in relation to which by",0.2757028593769064,0.1111111111111111,0.36363636363636365
+636,035_327_001_02_04,"reason of the concurrence of certain circumstances, it ",0.0006060420128051192,"reason of the convenience of certain circumstances , it",0.2757028593769064,0.09259259259259259,0.375
+637,035_327_001_02_05,may happen that in the eyes of the Legislature the ,0.0008716250013094395,may happen that in the ages of the legislature the,0.2757028593769064,0.06,0.2
+638,035_327_001_02_06,"certain evil composed of delay, vexation and expence ",0.0006507090001832694,"Britain will composed of delay , vacation and experience",0.2757028593769064,0.23076923076923078,0.75
+639,035_327_001_02_07,"to parties injured, might perhaps be not improperly ",0.0007337499991990626,"to parties ignored , might perhaps he not uniformly",0.2757028593769064,0.23529411764705882,0.5
+640,035_327_001_02_08,regarded as outweighing the possible chance of effec ,0.0009300830133724958,regended as outweighing the possible chance of effect .,0.2598424791249272,0.09615384615384616,0.375
+641,035_327_001_02_09,tive mis-decision to the prejudice of the defendant ,0.0008244589844252914,the mechanism to the prejudice of the defendant,0.2598424791249272,0.21568627450980393,0.25
+642,035_327_001_02_10,"on the part of the Immediate Judicatory, in which ",0.0007499170023947954,"an the point of the intermediate federation , in which",0.2598424791249272,0.32653061224489793,0.5555555555555556
+643,035_327_001_02_11,case it may perhaps be deemed fit by the Le- ,0.0007239580154418945,case it may perhaps he seemed fit by the idea .,0.2598424791249272,0.1590909090909091,0.4
+644,035_327_001_02_12,"-gislature, in the framing of the Penal Code, to ",0.0007257919933181256,"gislative , in the framing of the Penal Code , to",0.2598424791249272,0.10416666666666667,0.4444444444444444
+645,035_327_001_02_13,"lay down as the general rule, that in these easy ",0.0007002080092206597,"long down as the general rule , that in these cases",0.2598424791249272,0.14583333333333334,0.4
+646,035_327_001_02_14,Appeal shall not have place. Offences of indigent ,0.0006866250187158585,Appeal shall not have place . Officer of August,0.2598424791249272,0.20408163265306123,0.5
+647,035_327_001_02_15,"depredation, or say of predatory indigence, is the ",0.0007294999959412962,"dependation , as any of predatory audience , is the",0.2598424791249272,0.22,0.75
+648,035_327_001_02_16,appellation which may serve for a general indication ,0.0007577920041512698,appellation which may serve for a general education,0.2750307187488943,0.057692307692307696,0.125
+649,035_327_001_02_17,of the class of offences here in view. As to the enu- ,0.0006523749907501042,of the stage of offences here in view . It's to America .,0.2750307187488943,0.3018867924528302,0.5
+650,035_327_001_02_18,"meration of these offences, See Procedure Code tit. ",0.000617124984273687,"annation of these officers , her Procedure Code #",0.2750307187488943,0.2549019607843137,0.625
+651,035_327_001_02_19,Quasi Trial ,0.00013458399916999042,Annensi Social,0.2750307187488943,0.7272727272727273,1.0
+652,035_327_001_02_20,"Art. 12. Among two circumstances, by the consider- ",0.0006684580002911389,"that . 12 . Among these circumstances , by the murder .",0.2750307187488943,0.34,1.125
+653,035_327_001_02_21,"-ation of which, this opinion may on the part of the ",0.0006345830042846501,"ations of which , this opinion may on the point of the",0.2750307187488943,0.11538461538461539,0.36363636363636365
+654,035_327_001_02_22,Legislature be perhaps produced are the following ,0.0007992080063559115,legislature he perhaps produced over the following,0.2750307187488943,0.10204081632653061,0.42857142857142855
+655,035_327_001_02_23,1 ,2.5540997739881277e-05,1,0.2750307187488943,0.0,0.0
+656,002_579_001_01_01,38 ,4.9875001423060894e-05,358,0.2897238229998038,0.5,1.0
+657,002_579_001_02_01,Note ,5.991599755361676e-05,note .,0.2897238229998038,0.75,2.0
+658,002_579_001_02_02,(a)The distinction is material: for as fixed income comes ,0.0006833329971414059,When distinctions is material : for as fixed income some,0.2897238229998038,0.15789473684210525,0.5555555555555556
+659,002_579_001_02_03,in in masses at the beginning of a period and professional &c ,0.0006272919999901205,in six majors at the beginning of a period and professional,0.2897238229998038,0.13114754098360656,0.25
+660,002_579_001_02_04,income in driblets day by day during the course of the same ,0.0005365420074667782,income in dimble's day by day during the course of the course,0.2897238229998038,0.13559322033898305,0.16666666666666666
+661,002_579_001_02_05,period it will be found in calculation that on equal annual ,0.0005289590044412762,period it will be found in calculation that on equal annual,0.2897238229998038,0.0,0.0
+662,002_579_001_02_06,amounts there will be twice as much to dispose of in any such ,0.0004665419983211905,assessants there will be twice as much to dispose of an approach,0.2897238229998038,0.19672131147540983,0.3076923076923077
+663,002_579_001_02_07,way as that in question in the former case as in the latter. ,0.0006407080218195915,way as that in question is the former case as in the letter .,0.2897238229998038,0.05,0.23076923076923078
+664,071_181_004_01_01,48 ,4.2333005694672465e-05,48,0.30762490624692873,0.0,0.0
+665,071_181_004_02_01,C ,2.37500062212348e-05,c.,0.30762490624692873,2.0,1.0
+666,071_181_004_03_01,Of Frauds relative to the Coin. ,0.0004683750157710165,Of Fraudds relatives to their Poppes .,0.30762490624692873,0.3225806451612903,0.8333333333333334
+667,071_181_004_04_01,Quest. III. Why Coins of different Metal are put u= ,0.0004209160106256604,Quest.000 . Why does be different malal are native .,0.30762490624692873,0.37254901960784315,0.7
+668,071_181_004_04_02,:pon the same footing. ,0.00014895800268277526,from the dance footing .,0.30762490624692873,0.3181818181818182,1.0
+669,071_181_004_04_03,Reasons. ,9.691598825156689e-05,reasons .,0.30762490624692873,0.25,2.0
+670,071_181_004_04_04,At first sight it may appear hard that a fraud upon ,0.00030449999030679464,At first night it may appear hard that a fraud upon,0.30762490624692873,0.0196078431372549,0.09090909090909091
+671,071_181_004_04_05,an Article of so small a value as the Copper Coin should be ,0.00029416699544526637,an Article of so small a value as the loppier kioses should be,0.30762490624692873,0.11864406779661017,0.15384615384615385
+672,071_181_004_04_06,punished as severely as a fraud upon one of so high a value ,0.0004358750011306256,punished as severely as a fraud upon one of so high a native,0.3036995937509346,0.06779661016949153,0.07692307692307693
+673,071_181_004_04_07,"as the Silver or even the Gold Coin, since the profit that ",0.00026629198691807687,"as the silver or even the gold basin , since the profit that",0.3036995937509346,0.10344827586206896,0.3333333333333333
+674,071_181_004_04_08,may be made by the falsifying any piece of the less precious ,0.0002663329942151904,many two wonder by the falsifying away piece of the life praesines,0.3036995937509346,0.2833333333333333,0.5
+675,071_181_004_04_09,metal is not near so great as that which may be made ,0.00023487501312047243,metal is not near to great as that which may be made,0.3036995937509346,0.019230769230769232,0.08333333333333333
+676,071_181_004_04_10,by the falsifying of the more precious metal. But the case ,0.00027712498558685184,by the falsifying of the more precious metals . About the case,0.3036995937509346,0.08620689655172414,0.2727272727272727
+677,071_181_004_04_11,here is that the mischief is not to be estimated from the ef= ,0.00036266600363887846,here is that the unischief is not to be estimated from the af-,0.3036995937509346,0.06557377049180328,0.15384615384615385
+678,071_181_004_04_12,:fects of a single Act but from the effects of the Habit. Now ,0.00035720798769034445,""" facts of a single that had from the effects of the Shalut . Now",0.3036995937509346,0.22950819672131148,0.46153846153846156
+679,071_181_004_04_13,when the Habit is taken into the Account the one practice ,0.00022887499653734267,when the stalit is taken into the descent the ones practice,0.3036995937509346,0.15789473684210525,0.2727272727272727
+680,071_181_004_04_14,does not seem to demand in any considerable degree a great= ,0.0003484170010779053,does not seem to demand in any considerable degree a great,0.2732508958761173,0.01694915254237288,0.09090909090909091
+681,071_181_004_04_15,:er punishment than the other. Where the profit upon a ,0.0002865410060621798,for punishment than the other . Where they profit upon a,0.2732508958761173,0.07407407407407407,0.4
+682,071_181_004_04_16,"single piece is the greatest, the difficulty of getting it off is ",0.0004175000067334622,"single prices is the greatest , the difficulty of getting it offed",0.2732508958761173,0.1076923076923077,0.4166666666666667
+683,071_181_004_04_17,"the greatest. The profit upon a base shilling may, it is ",0.0003693329927045852,"the greatest . The profit upon a base shilling way , it is",0.2732508958761173,0.05357142857142857,0.36363636363636365
+684,071_181_004_04_18,true be 24 times as great (or perhaps more) as the profit ,0.00036733297747559845,three he 24 horses as great for perhaps more ) as the failed,0.2732508958761173,0.2631578947368421,0.5833333333333334
+685,071_181_004_04_19,upon ,2.9874994652345777e-05,exppons .,0.2732508958761173,1.5,2.0
+686,071_151_003_01_01,7 8 ,3.341698902659118e-05,ydd .,0.2732508958761173,1.3333333333333333,1.0
+687,071_151_003_02_01,C ,1.808398519642651e-05,c.,0.2732508958761173,2.0,1.0
+688,071_151_003_03_01,Defraudment by false standards ,0.00038241600850597024,Defraudment by Fulje landmarks,0.2587961093777267,0.23333333333333334,0.5
+689,071_151_003_04_01,particular regulations can be of service will need to be different ,0.00038587499875575304,particular regulations can be of service will need to be different,0.2587961093777267,0.0,0.0
+690,071_151_003_04_02,according to the local circumstances of the different countries in ,0.000305499997921288,according to the local circumstances of the different countries in,0.2587961093777267,0.0,0.0
+691,071_151_003_04_03,which the several articles happen to be in use. Mean while any ,0.0003014169924426824,which the general articles happen to the in use . Mean while any,0.2587961093777267,0.08064516129032258,0.3333333333333333
+692,071_151_003_04_04,frauds that can be committed in relation to any of those articles ,0.00031537498580291867,funded that can be committed in relation to any of those articles,0.2587961093777267,0.07692307692307693,0.08333333333333333
+693,071_151_003_04_05,will not go unpunished: since they will all come under the general ,0.0003396660031285137,will not go unfinished : since they will come under the generic,0.2587961093777267,0.13636363636363635,0.3333333333333333
+694,071_151_003_04_06,head of Sharping. ordinary defraudment. ,0.0002312920114491135,sal head of Blackiegun military Parliament .,0.2587961093777267,0.5641025641025641,1.0
+695,071_151_003_04_07,Instructions to the Legislator ,0.0001776249846443534,In. Irvine Evans to the daughter,0.2587961093777267,0.6333333333333333,1.0
+696,071_151_003_04_08,<gap/> The notion of a false standard supposes the existence ,0.00029262498719617724,# The notion of a false standard supplies the existence,0.2881203957476828,0.13333333333333333,0.2
+697,071_151_003_04_09,of a genuine one. To establish these genuine ones for every pur: ,0.00039066700264811516,"of a genuine one . "" We establish these genuine ones for many men .",0.2881203957476828,0.21875,0.5833333333333334
+698,071_151_003_04_10,:pose and in every convenient place is the business of the Sove: ,0.0003987920063082129,power and in every convenient place is the business of the show .,0.2881203957476828,0.125,0.25
+699,071_151_003_04_11,:reign. To give these institutions their full effect and render the ,0.00039733300218358636,reign . To give these institutions their full effect and under the,0.2881203957476828,0.05970149253731343,0.2727272727272727
+700,071_151_003_04_12,occasions of punishing the offence less frequent the following ,0.00037399999564513564,occasions of punishing the offence life frequent the following,0.2881203957476828,0.04838709677419355,0.1111111111111111
+701,071_151_003_04_13,expedients might be of use in the character of <gap/> ,0.00033854099456220865,suppartments might be of more in the absence of well-Memorialism,0.2881203957476828,0.6037735849056604,0.4
+702,071_151_003_04_14,preventive measures. might be of use. ,0.0002011250180657953,"preventive measures , right-keeper",0.2881203957476828,0.32432432432432434,0.8333333333333334
+703,071_151_003_04_15,I. To establish public standards of each kind in the Metro: ,0.000300458021229133,""" To establish public standards of each kind in the Metro-",0.2881203957476828,0.05084745762711865,0.18181818181818182
+704,071_151_003_04_16,:polis of every judicial district. See B. Of Procedure. ,0.0003819580015260726,policy of every judicial district . See B. Of Provessors,0.30392541662149597,0.18181818181818182,0.4444444444444444
+705,071_151_003_04_17,Tit. Of Jurisdiction. ,0.00012374998186714947,tet . Of- Queenslandian .,0.30392541662149597,0.6666666666666666,1.6666666666666667
+706,071_151_003_04_18,II. To permit none to be used by any trader but what are ,0.0003347500169184059,"MR. "" No permit more to be used by any bader but what and",0.30392541662149597,0.19642857142857142,0.46153846153846156
+707,071_151_003_04_19,stamped by authority. ,0.0001232089998666197,stampeded by authority .,0.30392541662149597,0.14285714285714285,1.0
+708,071_151_003_04_20,III. To cause frequent visitations to be made by certain offi: ,0.0003128749958705157,1952 . To cause frequent institutions take made by certain offer .,0.30392541662149597,0.25806451612903225,0.6363636363636364
+709,071_151_003_04_21,":cers at unexpected times (which, to ensure their being unexpected, ",0.00035012498847208917,""" cars at unexpected times , which , to ensure their being unexpected",0.30392541662149597,0.1044776119402985,0.6
+710,071_151_003_04_22,may be determined by lot) in the Shops of the several Tradesmen; ,0.0004087089910171926,"may he determined by lot ) in the shops of the several businessmen ,",0.30392541662149597,0.171875,0.5
+711,071_151_003_04_23,such ,2.329199924133718e-05,almuch .,0.30392541662149597,1.25,2.0
+712,071_201_003_01_01,3 ,3.937500878237188e-05,a.,0.30628396874817554,2.0,1.0
+713,071_201_003_02_01,C ,2.533398219384253e-05,c.,0.30628396874817554,2.0,1.0
+714,071_201_003_03_01,Of State-Tumults. ,0.00038041698280721903,Of State-Tumults .,0.30628396874817554,0.058823529411764705,1.0
+715,071_201_003_04_01,of distant danger: nor whether by fear of danger to his per= ,0.00036108301719650626,of dictatorial charges : more whether he flew a clear degree to his poor .,0.30628396874817554,0.55,0.9166666666666666
+716,071_201_003_04_02,":son, his property or his authority. ",0.00015937502030283213,"won , his property or to this authority",0.30628396874817554,0.2222222222222222,0.8333333333333334
+717,071_201_003_04_03,A State Tumult is a Misdemeanour. ,0.0001753329997882247,A State Burnett is a misdemeanor .,0.30628396874817554,0.24242424242424243,0.5
+718,071_201_003_04_04,For damage sustained by parties injured in the ,0.00025891701807267964,"For damage , sustained by parties impaired in the",0.30628396874817554,0.13043478260869565,0.25
+719,071_201_003_04_05,course of a tumult all offenders concerned in the same tumult ,0.00028620800003409386,course of a Cornell all offenders concerned for the same himself,0.30628396874817554,0.22950819672131148,0.2727272727272727
+720,071_201_003_04_06,"are liable, whether it can or cannot be proved that they act ",0.0003299579839222133,"are liable , whether it can or cannot be formed that they act",0.2844289895001566,0.08333333333333333,0.25
+721,071_201_003_04_07,in concert. ,6.366698653437197e-05,in concert .,0.2844289895001566,0.09090909090909091,1.0
+722,071_201_003_04_08,All illegal acts are to be deemed parts of the Same ,0.00037629102007485926,All illegal acts are to be deemed parts of the flame,0.2844289895001566,0.0392156862745098,0.09090909090909091
+723,071_201_003_04_09,"tumult which are committed on the same occasion, or not ",0.0003060000017285347,"limit which are committed on the same occasion , or not",0.2844289895001566,0.09090909090909091,0.3
+724,071_201_003_04_10,more than [Ten] miles distance from each other in point ,0.0003774579963646829,more than # only sides distance from each other is apart,0.2844289895001566,0.21818181818181817,0.5
+725,071_201_003_04_11,"of place, nor more than [Ten] days distance from each other ",0.0005194160039536655,"of place , now more than ( We play # distance from each other",0.2844289895001566,0.1864406779661017,0.6363636363636364
+726,071_201_003_04_12,in point of time. ,0.00011783299851231277,is point of time .,0.2844289895001566,0.11764705882352941,0.75
+727,071_201_003_04_13,Reasons. ,6.445799954235554e-05,theasonal .,0.2844289895001566,0.625,2.0
+728,071_201_003_04_14,1. This makes it the interest of all persons concerned in the ,0.0003027500060852617,""" Their snakes it the interest of all persons concerned in this",0.273606807248143,0.13114754098360656,0.3333333333333333
+729,071_201_003_04_15,"same tumult to sit a watch upon each other, and do what ",0.0002469169849064201,"same turned to oil a coach upon each other , and does not",0.273606807248143,0.2727272727272727,0.5833333333333334
+730,071_201_003_04_16,is in their power to moderate each others violence. By this ,0.0003397500258870423,is in this manner to modernials each other's violence . Why that,0.273606807248143,0.2711864406779661,0.7272727272727273
+731,071_201_003_04_17,means it is subservient to the purpose of prevention. ,0.0002629999944474548,means it is subsequent to the transfer of haementies .,0.273606807248143,0.2830188679245283,0.4444444444444444
+732,071_201_003_04_18,2. It also gives a much better chance to parties injured ,0.0003359589900355786,2 . It also gives a much better chance to parties injured,0.273606807248143,0.017857142857142856,0.18181818181818182
+733,071_201_003_04_19,of obtaining compleat compensation than they would other= ,0.00031354199745692313,of obtaining excellent compensation than they would them .,0.273606807248143,0.17543859649122806,0.375
+734,071_201_003_04_20,:wise have: and making the damage fall upon the au= ,0.0003330000035930425,"review house , and making the damage full upon the sum-",0.273606807248143,0.27450980392156865,0.5
+735,071_201_003_04_21,:thors. ,3.341701813042164e-05,ethors .,0.273606807248143,0.2857142857142857,2.0
+736,071_201_003_04_22,3. It facilitates the detection of offenders; by making it ,0.00036299999919719994,3 . If facilitates the detection of disorders ; by smoking it,0.25910204687170335,0.1724137931034483,0.6
+737,071_201_003_04_23,the ,2.5874993298202753e-05,pipe,0.25910204687170335,1.0,1.0
+738,116_633_002_01_01,44 ,2.8791982913389802e-05,lolly,0.25910204687170335,2.5,1.0
+739,116_633_002_02_01,few drops from it to save this worthy gentleman. ,0.0004153340123593807,grew drops from it to save this worthy gentlemen .,0.25910204687170335,0.08333333333333333,0.3333333333333333
+740,116_633_002_02_02,If it be in the power of virtue to give a claim to ,0.0004355830023996532,this be in the power of virtue to give a clean to,0.25910204687170335,0.14,0.23076923076923078
+741,116_633_002_02_03,"mercy, has he not virtue to comm command it? ",0.0003198329941369593,"mercy , has he not issue to command it ?",0.25910204687170335,0.22727272727272727,0.6666666666666666
+742,116_633_002_02_04,"This faith, his hope, his charity, do they not all ",0.00035795898293145,"His faith , this home , his charity , do they not also",0.25910204687170335,0.18,0.9
+743,116_633_002_02_05,center in great persons? ,0.00017070799367502332,center in great persons ?,0.25910204687170335,0.041666666666666664,0.5
+744,116_633_002_02_06,"Speak to him then, my Lord, once more: _ ",0.0002958750119432807,"break to him . Now , anybody once more :",0.2582189843742526,0.4,0.7777777777777778
+745,116_633_002_02_07,say to him any thing that will make him easy. ,0.0004277080006431788,say to him any thing that will make him easy .,0.2582189843742526,0.022222222222222223,0.2
+746,116_633_002_02_08,Show him how right and wrong depend upon existing ,0.000367750006262213,there have been right and wrong depend upon existing,0.2582189843742526,0.22448979591836735,0.3333333333333333
+747,116_633_002_02_09,circumstances: _ whisper to him that all this Ma- ,0.0002790840226225555,circumstances : - whisper to know that all this other,0.2582189843742526,0.22448979591836735,0.5555555555555556
+748,116_633_002_02_10,-chiavelism for throwing prisoners upon Counties ,0.0003476249985396862,channels on for throwing prisoners upon documents,0.2582189843742526,0.2916666666666667,0.5
+749,116_633_002_02_11,was a mere make-believe: satisfy him that nothing ,0.0003192089789081365,was a more mathematician : satisfying them that nothing,0.2582189843742526,0.32653061224489793,0.625
+750,116_633_002_02_12,can be a matter of more profound indifference to ,0.0003300410171505064,can be a matter of more profound indifference to,0.2582189843742526,0.0,0.0
+751,116_633_002_02_13,any body than it is to great persons in what Jal ,0.00041454198071733117,many body than it is to great persons in what,0.2582189843742526,0.10416666666666667,0.18181818181818182
+752,116_633_002_02_14,"Jail, or Hulk, or improved Colony, and in what numbers, ",0.0004665419983211905,"Jack , or Halse , or improved belong , and in what members",0.3195003853761591,0.2545454545454545,0.7
+753,116_633_002_02_15,"human creatures starve or poison one another, so that ",0.0002601659798528999,"human creatures starve or provision one another , do that",0.3195003853761591,0.09433962264150944,0.4444444444444444
+754,116_633_002_02_16,"there be not a ""Panopticon for them to be sent to"": _ ",0.00034741597482934594,"there he was a "" Daughties for them to be sent to "" : -",0.3195003853761591,0.2830188679245283,0.6666666666666666
+755,116_633_002_02_17,"remind him, that in the place he has in view, no ",0.0003214169992133975,"remind being , that in the place he has in arian , so",0.3195003853761591,0.22916666666666666,0.45454545454545453
+756,116_633_002_02_18,"offence can, by any Jail or number of Jails, improved ",0.00038966600550338626,"Afence earn , by army jail or surrender of jails , compressed",0.3195003853761591,0.39622641509433965,0.9
+757,116_633_002_02_19,"or unimproved, be ever given to Noble Lords, whose ",0.00036858400562778115,"is unengineered , he ever given to the bladder , whose",0.3195003853761591,0.44,0.7777777777777778
+758,116_633_002_02_20,"veto, when they are pleased to pronounce it, is so ",0.00036754098255187273,"ucts , when they are pleased to pronounce it , is to",0.3195003853761591,0.12,0.5
+759,116_633_002_02_21,"fatal to Acts of Parliament: _ assure him, that neither ",0.00040708298911340535,"fatal to their q Parliament ? - ignore him , that neither",0.3195003853761591,0.2727272727272727,0.8
+760,116_633_002_02_22,"by the great person, nor by any other, is the purse ",0.00042679201578721404,"by the one great person , nor by any other , is the person",0.3037089166282385,0.17647058823529413,0.5454545454545454
+761,116_633_002_02_23,"ever taken out of the hands of Parliament, unless for ",0.00039170801755972207,"over stations out of the hands of Parliament , a college for",0.3037089166282385,0.2641509433962264,0.6
+762,116_633_002_02_24,"a particular purpose, and to oblige a friend: certify ",0.00041866698302328587,"a particular purpose , and to obligo a friend : certify",0.3037089166282385,0.05660377358490566,0.5555555555555556
+763,116_633_002_02_25,"to him, that measures of this sort are disposed of, mo- ",0.0003825000021606684,"labrins , that measures of this sort are disposed of 1,mo-",0.3037089166282385,0.18181818181818182,0.36363636363636365
+764,116_633_002_02_26,"-ment after moment, sometimes upon one principle, ",0.0003654169850051403,"ment after moment , sometimes upon one periodically",0.3037089166282385,0.1836734693877551,0.5714285714285714
+765,116_633_002_02_27,"sometimes upon opposite principles, as the cove ",0.0002808330173138529,"conclusions upon opposite principles , as the",0.3037089166282385,0.2978723404255319,0.5714285714285714
+766,116_633_002_02_28,convenience of each moment presents them to great ,0.00036083298618905246,convenience of each moment presents them to great,0.3037089166282385,0.0,0.0
+767,116_633_002_02_29,"minds: explain to him, that when persons are approved of, ",0.0003743330016732216,"blinds , application to bring that whom persons are approving",0.3037089166282385,0.38596491228070173,0.7
+768,116_633_002_02_30,& the purpose of the moment is to be seve served; ,0.00036150001687929034,of the purpose of the movement is to be seen served,0.2938904113761964,0.14285714285714285,0.36363636363636365
+769,116_633_002_02_31,there ,5.645799683406949e-05,tithere,0.2938904113761964,0.4,1.0
+770,071_030_001_01_01,1. ,1.8999999156221747e-05,l.,0.2938904113761964,0.5,1.0
+771,071_030_001_02_01,C ,1.895800232887268e-05,c.,0.2938904113761964,2.0,1.0
+772,071_030_001_03_01,Of Irreparable Personal Injuries ,0.0005624169716611505,Offshoreparable Personal Injuries .,0.2938904113761964,0.1875,0.75
+773,071_030_001_04_01,I ,2.5209010345861316e-05,ext,0.2938904113761964,3.0,1.0
+774,071_030_001_04_02,Irreparable Personal Injuries are either 1. Irre= ,0.0002460000105202198,"Amphanauble Personalencies are either 10-free ,",0.2938904113761964,0.3673469387755102,0.7142857142857143
+775,071_030_001_04_03,:parable Disfigurement: 2. Irreparable Disablement: or 3. ,0.0004290000069886446,"parable temperament : 2 . Perrepanable Miscellaneous , or 3 .",0.2938904113761964,0.45614035087719296,1.4285714285714286
+776,071_030_001_04_04,Mutilation. ,9.91669949144125e-05,fluetilation .,0.26013089574917103,0.36363636363636365,2.0
+777,071_030_001_04_05,II ,3.937497967854142e-05,will,0.26013089574917103,2.0,1.0
+778,071_030_001_04_06,Under Disfigurement is comprised Discolourment. ,0.0002647500077728182,Ulmedon Defigreement is combined Disobrement,0.26013089574917103,0.3829787234042553,0.8
+779,071_030_001_04_07,(A) (B) ,0.00014312498387880623,4th. Feb.,0.26013089574917103,1.1428571428571428,1.0
+780,071_030_001_04_08,Irreparable Disfigurement is where in the shape or colour ,0.00036012500640936196,donsparalle lifeagement is where in the shape or colour,0.26013089574917103,0.19298245614035087,0.2222222222222222
+781,071_030_001_04_09,of a man's person any unalterable change is produced ,0.000315249984851107,of a man's fervory among a matterable change is produced,0.26013089574917103,0.21153846153846154,0.4444444444444444
+782,071_030_001_04_10,the ,2.1500018192455173e-05,girl,0.26013089574917103,1.3333333333333333,1.0
+783,071_030_001_04_11,the effect of which is to render his aspect less agreeable. ,0.0004266659962013364,"the effect which is to redeem his respect , life agree able .",0.26013089574917103,0.2542372881355932,0.7272727272727273
+784,071_030_001_04_12,Exposition ,0.00014366701361723244,confectation .,0.2906412187476235,1.0,2.0
+785,071_030_001_04_13,1 ,2.5625020498409867e-05,2,0.2906412187476235,1.0,1.0
+786,071_030_001_04_14,"[A Shape] As if his nose or ears or lips be split, or ",0.00035295801353640854,""" Thatself all of his sense or ears or light has well , or",0.2906412187476235,0.4528301886792453,0.6923076923076923
+787,071_030_001_04_15,a deep scar be made in any part of his body: so as ,0.0002945419983007014,a deep bear he made in any part of his body ; so as,0.2906412187476235,0.1,0.3076923076923077
+788,071_030_001_04_16,either a ,3.995801671408117e-05,letter than the time to,0.2906412187476235,2.25,2.5
+789,071_030_001_04_17,upon healing to leave a hollow or protuberance. ,0.00022370798978954554,upon healing to have a hollow or forticlassian,0.2906412187476235,0.2978723404255319,0.25
+790,071_030_001_04_18,2 ,2.1333020413294435e-05,2,0.2906412187476235,0.0,0.0
+791,071_030_001_04_19,[(B) Colour] As if a slight scar be made on any part ,0.00048491600318811834,""" Dolores ) who if a slight clear he made on any fast",0.2906412187476235,0.36538461538461536,0.5833333333333334
+792,071_030_001_04_20,so as to leave neither hollow nor protuberance: ,0.00018404098227620125,# as to leave neither hollow nor furthermore .,0.2745031980011845,0.2553191489361702,0.375
+793,071_030_001_04_21,of his body; or any part of his body be marked with ,0.000259167019976303,""" If his body , or any part of his body he marked with",0.2745031980011845,0.11764705882352941,0.4166666666666667
+794,071_030_001_04_22,an indelible stain. ,9.57910087890923e-05,an indelible stain .,0.2745031980011845,0.05263157894736842,0.6666666666666666
+795,071_030_001_04_23,Main-Text. ,0.00011616598931141198,Main-Test .,0.2745031980011845,0.2,2.0
+796,071_030_001_04_24,III ,3.270799061283469e-05,clack back .,0.2745031980011845,4.0,3.0
+797,071_030_001_04_25,(A) ,2.416700590401888e-05,pick up,0.2745031980011845,2.3333333333333335,2.0
+798,071_030_001_04_26,Irreparable Disablement may either be compleat ,0.00028237499645911157,Air-parable Diabloment may either her confident,0.2745031980011845,0.2608695652173913,0.6666666666666666
+799,071_030_001_04_27,B ,2.2249994799494743e-05,2,0.2745031980011845,1.0,1.0
+800,071_030_001_04_28,or incompleat:  it is compleat where a man is deprived ,0.0002624169865157455,or unemployment ; it is compliant when a man is defrained,0.24418900000091526,0.3018867924528302,0.5
+801,071_030_001_04_29,(C) ,4.0207989513874054e-05,lcl,0.24418900000091526,1.0,1.0
+802,071_030_001_04_30,of the use of a member altogether: incompleat when he ,0.0003357499954290688,of the view of a smoother altogether ; unemployment when he,0.24418900000091526,0.32075471698113206,0.5
+803,071_030_001_04_31,is deprived of the use of it in part. ,0.00024408401804976165,is determined of the issue of it in part,0.24418900000091526,0.21621621621621623,0.3333333333333333
+804,071_030_001_04_32,Exposition ,9.524999768473208e-05,tachofition .,0.24418900000091526,0.7,2.0
+805,073_083_001_01_01,C ,3.5792007111012936e-05,c,0.24418900000091526,1.0,1.0
+806,073_083_001_02_01,Simple Personal Injuries ,0.0004485420067794621,Simple Personal Injuries,0.24418900000091526,0.0,0.0
+807,073_083_001_03_01,Where the quantity of damage which was intended is the ,0.0004346249916125089,Where the quantity of damage which was intended is the,0.24418900000091526,0.0,0.0
+808,073_083_001_03_02,"very quantity which eventually ensues, the act may be said ",0.0005080410046502948,every quantity which eventually comes the act may bound,0.2898024999994959,0.1896551724137931,0.4
+809,073_083_001_03_03,to be adequately intentional with respect to its conse- ,0.00032520899549126625,to be adequately intentional with respect to its convo-,0.2898024999994959,0.03636363636363636,0.1111111111111111
+810,073_083_001_03_04,"-quences; when not so much, inadequately; when more, ",0.0004345829947851598,"quences , when not so much , inadequately ; when more ,",0.2898024999994959,0.11538461538461539,1.0
+811,073_083_001_03_05,more than adequately ,0.0001352079852949828,more than adequately,0.2898024999994959,0.0,0.0
+812,073_083_001_03_06,"You intended for instance to strike the porter, ",0.00043666697456501424,"You intended for instances to strike the poles ,",0.2898024999994959,0.10638297872340426,0.375
+813,073_083_001_03_07,whose leg you have broken. If ,0.0002042079868260771,where leg you have broken . If,0.2898024999994959,0.10344827586206896,0.5
+814,073_083_001_03_08, If your intention was to strike him in the leg in such ,0.0003909170045517385,""" Opposition was to strike him in the login which",0.2898024999994959,0.2962962962962963,0.5
+815,073_083_001_03_09,"manner that he might be obliged to have it cut off, or if ",0.0004441669734660536,"manner that he might be obliged to have it cut up , or if",0.2898024999994959,0.05263157894736842,0.15384615384615385
+816,073_083_001_03_10,you intended to strike him in the fore-arm in such manner ,0.00038233300438150764,administended to which his mission the fore-arm in such manner,0.2897273855014646,0.2982456140350877,0.45454545454545453
+817,073_083_001_03_11,"that he might be obliged to have his fore-arm cut off, and the ",0.00047362499753944576,"that he might be obliged to have his far arm cut of , and the",0.2897273855014646,0.06451612903225806,0.3076923076923077
+818,073_083_001_03_12,case is that the damage he would suffer from the loss of a ,0.0004721249861177057,cross is that the damage has would suffer from the jobs of a,0.2897273855014646,0.1206896551724138,0.23076923076923078
+819,073_083_001_03_13,leg would not be materially greater or less than what he ,0.000499167013913393,( ground not be materially greater or why them what he,0.2897273855014646,0.19642857142857142,0.36363636363636365
+820,073_083_001_03_14,"would suffer from the loss of a fore-arm, in either of these ",0.00039666699012741446,"would suffer from the life of a forearm , in either of these",0.2897273855014646,0.08333333333333333,0.25
+821,073_083_001_03_15,cases the act was adequately intentional with regard to ,0.0004325410118326545,assess these it was generally intentional with regard to,0.2897273855014646,0.2545454545454545,0.4444444444444444
+822,073_083_001_03_16,the quality of damage. ,0.0002643750049173832,the quantity of damage .,0.2897273855014646,0.13636363636363635,0.75
+823,073_083_001_03_17,If your intention was only to hurt him in the fore- ,0.0004912499862257391,Afghanization was only to hunt him in the free,0.2897273855014646,0.27450980392156865,0.45454545454545453
+824,073_083_001_03_18,"arm or the leg without depriving him of either, the act ",0.00045754198799841106,arms or the log without despairing him of either the act,0.2806127240000933,0.10909090909090909,0.36363636363636365
+825,073_083_001_03_19,e ,2.6249996153637767e-05,2 .,0.2806127240000933,3.0,2.0
+826,073_083_001_03_20,was inad quately intentional: if your intention was to ,0.00035837499308399856,was inadequately interested in if you now is sterilised even to,0.2806127240000933,0.5,0.8888888888888888
+827,073_083_001_03_21,deprive him of his thigh or the whole of his arm the act ,0.000512875005370006,deprise him of his thigh or the whole of his arm the act,0.2806127240000933,0.017857142857142856,0.07692307692307693
+828,073_083_001_03_22,was- ,4.895799793303013e-05,neave .,0.2806127240000933,1.5,2.0
+829,116_286_002_01_01,2 ,2.6458001229912043e-05,silly,0.2806127240000933,5.0,1.0
+830,116_286_002_02_01,The design was _ that Convicts once sent there should ,0.00029358401661738753,the design was - that convicts once sent there should,0.2806127240000933,0.05660377358490566,0.3
+831,116_286_002_02_02,"never come back again. The plan, if there had been any ",0.000335165997967124,"never come back again . The plan , if there had been any",0.2806127240000933,0.037037037037037035,0.36363636363636365
+832,116_286_002_02_03,"such thing, about the return of Convicts, would have been ",0.00033195799915120006,"such thing , about the return of tourists , would have been",0.2902922968751227,0.10526315789473684,0.4
+833,116_286_002_02_04,dictated either by what I call justice (in which case it would ,0.000371375004760921,"dictated sector by what I call justice , in which can be would",0.2902922968751227,0.16129032258064516,0.4166666666666667
+834,116_286_002_02_05,have run counter to the design) or by the supposed profitable ,0.0003106250078417361,"have more counter to the designs , or by the supposed profitable",0.2902922968751227,0.11475409836065574,0.2727272727272727
+835,116_286_002_02_06,"injustice. On the former supposition, arrangements would have been ",0.00034554098965600133,"justice . On the former supposition , arrangements would have been",0.2902922968751227,0.06060606060606061,0.4444444444444444
+836,116_286_002_02_07,"taken in the first place, for preventing the emigration of each ",0.00028858298901468515,"balken . Six the first palace , for preventing the immigration of each",0.2902922968751227,0.15873015873015872,0.5454545454545454
+837,116_286_002_02_08,Convict before the expiration of his legal terms of punishment_ ,0.00026479101506993175,Donveit before the expiration of his legal terms of punishment -,0.2902922968751227,0.07936507936507936,0.3
+838,116_286_002_02_09,"in the next place, for affording him the means of quitting the ",0.0003071660175919533,"in the next place , for affording him the means of quitting the",0.2902922968751227,0.016129032258064516,0.16666666666666666
+839,116_286_002_02_10,Country immediately after _ if such should be his choice: _ ar- ,0.000307333015371114,"Economy misunderstanding after-if which should be his choice : "" as",0.2902922968751227,0.4444444444444444,0.8333333333333334
+840,116_286_002_02_11,"-rangements, if not of the positive cast, at any rate of the negative ",0.0003319999959785491,"rangements , if most of the possible cast , as any scale of the most",0.3056857396259147,0.2898550724637681,0.6923076923076923
+841,116_286_002_02_12,viz: by removing from that time forwards whatever ,0.0002781249932013452,more way : by remaining from that time forwards whatever,0.3056857396259147,0.24489795918367346,0.5
+842,116_286_002_02_13,obstacle might till then have been opposed as such to his escape. ,0.00027554199914447963,"tetrack , might tell them have been opposed as such to his escape",0.3056857396259147,0.15384615384615385,0.4166666666666667
+843,116_286_002_02_14,Whatever had been the term of punishment fixed by each man's ,0.00027441600104793906,Whatever had been the term of punishment fired by each man's,0.3056857396259147,0.016666666666666666,0.09090909090909091
+844,116_286_002_02_15,sentence _ fourteen years _ between fourteen years and seven years _ ,0.0002688750100787729,evidence - fourteen years - between American years and seven years,0.3056857396259147,0.20588235294117646,0.4166666666666667
+845,116_286_002_02_16,seven years or any shorter term _ care would have been taken at ,0.0002337090263608843,severe years or many . Nestor Bassie . Some would have been taken as,0.3056857396259147,0.31746031746031744,0.6153846153846154
+846,116_286_002_02_17,"any rate, that from and after the expiration of it, his return ",0.00027570800739340484,"any sale , that from and after the expiration of it , has releases",0.3056857396259147,0.1774193548387097,0.5
+847,116_286_002_02_18,"should not be opposed by any positive and_factitious obstacle, the ",0.00027945899637416005,"should not be opposed by any positive and effective obstacle , Mr",0.3056857396259147,0.19696969696969696,0.5
+848,116_286_002_02_19,the effect of which would be to render it more difficult from this ,0.0003493339754641056,affat of which would be to render its more difficult from this,0.35294966662331717,0.12121212121212122,0.23076923076923078
+849,116_286_002_02_20,"new spot than it used to be from the old spots, to which this ",0.0002582909946795553,"new seat than it used to be from the old sports , to work with this",0.35294966662331717,0.16393442622950818,0.35714285714285715
+850,116_286_002_02_21,new discovered one was now substituted. _ ,0.00012129201786592603,new discovered one was now substituted .,0.35294966662331717,0.04878048780487805,0.2857142857142857
+851,116_286_002_02_22,"Not to oppose, or suffer to be opposed, any obstruction to the ",0.0002929579932242632,"Not to oppose , or suffer to be prepared , any deterioration to the",0.35294966662331717,0.24193548387096775,0.4166666666666667
+852,116_286_002_02_23,return of a de jure emancipated Convict _ to take measures for ,0.00031370899523608387,return of a dequire emancipalist loverist . In that a vacancies for,0.35294966662331717,0.4032258064516129,0.6666666666666666
+853,116_286_002_02_24,rendering it neither more nor less easy than under the old ,0.0002687090018298477,scuddering it another more more life easy them wonder the old,0.35294966662331717,0.27586206896551724,0.5454545454545454
+854,116_286_002_02_25,"system, or, if that could not be done, still easier _ one or other of ",0.00032950000604614615,"spouse , or , if that could not be done , still easier . one or what if",0.35294966662331717,0.18840579710144928,0.6
+855,116_286_002_02_26,those distinguishable lines of conduct would (in my humble ,0.0003164999943692237,those distinguishable lines of conduct would join any household,0.35294966662331717,0.1724137931034483,0.3333333333333333
+856,116_286_002_02_27,conception) have been the line of justice: which of them (since ,0.00031854098779149354,"conceptions I have been the lives of parties "" which of them , since",0.3240329269974609,0.2222222222222222,0.6363636363636364
+857,116_286_002_02_28,no one of them was pursued) is scarce worth arguing about. ,0.00031879101879894733,son one of them were possessed in France sword angering about,0.3240329269974609,0.3793103448275862,0.7272727272727273
+858,116_286_002_02_29,There remains the line of supposed profitable injustice _ ,0.0002937499957624823,those remains the line of supposed profitable injustice .,0.3240329269974609,0.07017543859649122,0.2222222222222222
+859,116_286_002_02_30,of ,3.008398925885558e-05,yt.,0.3240329269974609,1.5,1.0
