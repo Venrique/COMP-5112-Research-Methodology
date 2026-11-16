@@ -1,6 +1,7 @@
 """UI-independent single-line recognition helpers; no models load on import."""
 from dataclasses import dataclass, field
 import hashlib
+import json
 from io import BytesIO
 from pathlib import Path
 from threading import RLock
@@ -16,6 +17,38 @@ DEFAULT_CNN_CHECKPOINT = ROOT / "results/cnn_lstm_ctc/training/20261114_baseline
 TROCR_CHECKPOINT = "microsoft/trocr-base-handwritten"
 TROCR_REVISION = "eaacaf452b06415df8f10bb6fad3a4c11e609406"
 MODEL_LABELS = {"cnn_lstm_ctc": "CNN + LSTM + CTC", "trocr": "TrOCR"}
+PREPROCESSING_LABELS = {
+    "grayscale": "Grayscale",
+    "clahe": "Contrast enhancement (CLAHE)",
+    "denoising": "Denoising",
+    "deskew": "Deskewing",
+    "intensity": "Intensity normalization",
+    "size": "Size normalization (height 64)",
+}
+
+
+def build_preprocessing(selected=()):
+    """Build optional steps in fixed display order using project defaults.
+
+    Defaults are demonstration settings, not validation-selected optima.
+    An empty selection preserves the decoded upload's pixels and mode.
+    """
+    from src.preprocessing import (
+        CLAHE, Deskew, Grayscale, IntensityNormalization, NonLocalMeans,
+        PreprocessingPipeline, SizeNormalization,
+    )
+
+    selected = set(selected)
+    if selected - PREPROCESSING_LABELS.keys():
+        raise ValueError("Unknown preprocessing technique.")
+    factories = (Grayscale, CLAHE, NonLocalMeans, Deskew,
+                 IntensityNormalization, SizeNormalization)
+    return PreprocessingPipeline(tuple(
+        factory() for key, factory in zip(PREPROCESSING_LABELS, factories)
+        if key in selected
+    ))
+
+
 MAX_UPLOAD_BYTES = 10 * 1024 * 1024
 MAX_IMAGE_PIXELS = 20_000_000
 
@@ -58,11 +91,16 @@ def checkpoint_token(model_key: str, checkpoint: str | Path = DEFAULT_CNN_CHECKP
     return f"{path}:{stat.st_size}:{stat.st_mtime_ns}"
 
 
-def prediction_key(data: bytes, model_key: str, token: str) -> str:
-    """Bind a displayed prediction to its image, model, and weight identity."""
+def prediction_key(data: bytes, model_key: str, token: str,
+                   preprocessing: dict | None = None) -> str:
+    """Bind predictions to the image, model, weights and ordered preprocessing."""
     digest = hashlib.sha256()
     digest.update(data)
     digest.update(b"\0" + model_key.encode() + b"\0" + token.encode())
+    digest.update(b"\0" + json.dumps(
+        preprocessing if preprocessing is not None else {"steps": []},
+        sort_keys=True, separators=(",", ":"),
+    ).encode())
     return digest.hexdigest()
 
 

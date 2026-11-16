@@ -7,7 +7,8 @@ from pathlib import Path
 import streamlit as st
 
 from src.frontend.recognition import (
-    DEFAULT_CNN_CHECKPOINT, MODEL_LABELS, checkpoint_token, decode_upload,
+    DEFAULT_CNN_CHECKPOINT, MODEL_LABELS, PREPROCESSING_LABELS,
+    build_preprocessing, checkpoint_token, decode_upload,
     load_resource, prediction_key, score_prediction,
 )
 
@@ -62,7 +63,7 @@ def main() -> None:
         st.caption("Upload one cropped line of English handwriting. Keep the text upright and clearly visible.")
         st.caption("Full-page text detection and line cropping are not included.")
         st.divider()
-        st.caption("Local inference · CPU\n\nNo training or optional preprocessing")
+        st.caption("Local inference · CPU · No training")
 
     st.markdown('<div class="eyebrow">HANDWRITING TO TEXT</div>', unsafe_allow_html=True)
     st.markdown('<h1 class="hero-title">Read the words.<br>Measure the mistakes.</h1>', unsafe_allow_html=True)
@@ -77,7 +78,7 @@ def main() -> None:
             st.caption("You can also set HTR_CNN_CHECKPOINT to the saved checkpoint's path, then restart the app.")
 
     left, right = st.columns([1.05, 1], gap="large")
-    image, image_data, current_key = None, None, None
+    image, processed_image, image_data, current_key = None, None, None, None
     with left:
         with st.container(border=True):
             st.markdown("### 1. Your handwriting")
@@ -88,12 +89,37 @@ def main() -> None:
                 try:
                     image_data = upload.getvalue()
                     image = decode_upload(image_data)
-                    current_key = prediction_key(image_data, selected, token)
                     st.image(image, caption=f"{upload.name} · {image.width} × {image.height} pixels")
                 except ValueError as error:
                     st.error(str(error))
             else:
                 st.markdown('<div class="empty-preview"><strong>Your handwriting goes here</strong><span>Choose a clear image of a single text line<br>to preview it before recognition.</span></div>', unsafe_allow_html=True)
+
+            st.markdown("#### Optional preprocessing")
+            st.caption("All off = baseline. Enabled techniques run in the order listed below.")
+            enabled = [key for key, label in PREPROCESSING_LABELS.items()
+                       if st.checkbox(label, value=False, key=f"preprocessing_{key}",
+                                      disabled=image is None)]
+            pipeline = build_preprocessing(enabled)
+            preprocessing_config = pipeline.to_config()
+            st.caption("Order: " + (" → ".join(PREPROCESSING_LABELS[key] for key in enabled)
+                                    or "None (baseline)"))
+            st.caption("These are demonstration defaults, not validated optimal settings. "
+                       "The model still applies its required input preparation, including "
+                       "CNN grayscale and height normalization.")
+            with st.expander("Preprocessing parameters"):
+                st.json(preprocessing_config)
+            if image is not None:
+                try:
+                    with st.spinner("Preparing image…"):
+                        processed_image = pipeline(image)
+                    current_key = prediction_key(image_data, selected, token, preprocessing_config)
+                    st.image(processed_image, caption=(
+                        f"Model input before required preparation · {processed_image.width} × "
+                        f"{processed_image.height} pixels · {processed_image.mode}"
+                    ))
+                except Exception as error:
+                    st.error(f"Preprocessing failed: {error}")
 
     # A new image needs its own reference; changing only the model keeps it.
     upload_sha = hashlib.sha256(image_data).hexdigest() if image is not None else None
@@ -101,7 +127,7 @@ def main() -> None:
         st.session_state["correct_text"] = ""
         st.session_state["current_upload_sha"] = upload_sha
 
-    # A prediction from a different image/model/checkpoint must never remain visible.
+    # Changes to image, model, checkpoint or preprocessing invalidate predictions.
     previous = st.session_state.get("recognition_result")
     if previous is not None and previous["request_key"] != current_key:
         st.session_state.pop("recognition_result", None)
@@ -117,18 +143,19 @@ def main() -> None:
             )
             st.caption("Leave this blank for prediction only. You can add or edit it later without reading the image again.")
             submitted = st.button("Read handwriting", type="primary",
-                                  disabled=image is None or missing_checkpoint)
-            if submitted and image is not None:
+                                  disabled=processed_image is None or missing_checkpoint)
+            if submitted and processed_image is not None:
                 st.session_state.pop("recognition_result", None)
                 try:
                     with st.spinner("Loading the selected model…"):
                         resource = get_model(selected, str(checkpoint), token)
                     with st.spinner("Reading your handwriting…"):
-                        result = resource.recognize(image)
+                        result = resource.recognize(processed_image)
                     st.session_state["recognition_result"] = {
                         **result, "request_key": current_key, "model_key": selected,
                         "image_sha256": hashlib.sha256(image_data).hexdigest(),
                         "file_name": upload.name,
+                        "optional_preprocessing": preprocessing_config,
                     }
                 except Exception as error:
                     st.error("The image could not be read. Check that the model is available and the image contains one readable text line.")
@@ -166,17 +193,19 @@ def main() -> None:
             "wer": None if scores is None else scores["wer"],
             "inference_seconds": result["inference_seconds"],
             "normalization": "collapse whitespace; retain case and punctuation",
-            "input_adaptation": "EXIF orientation; alpha composited on white; RGB before model preparation",
-            "optional_preprocessing": "none", "purpose": "single uploaded image diagnostic",
+            "input_adaptation": "EXIF orientation; alpha composited on white; RGB; optional preprocessing; mandatory model preparation",
+            "optional_preprocessing": result["optional_preprocessing"],
+            "purpose": "single uploaded image diagnostic",
         }
         st.download_button("Download this result", json.dumps(download, indent=2, ensure_ascii=False),
                            file_name="handwriting_result.json", mime="application/json")
         with st.expander("About this prediction"):
             config = result["model_config"]
             st.write("Model:", MODEL_LABELS[result["model_key"]])
+            st.write("Optional preprocessing:", result["optional_preprocessing"])
             if config.get("checkpoint_epoch") is not None:
                 st.write("Saved checkpoint epoch:", config["checkpoint_epoch"])
-            st.caption("Reading time includes the recognizer's required image preparation, but excludes model loading. The supplied correct text is never passed to the recognizer.")
+            st.caption("Reading time includes the recognizer's required image preparation, but excludes model loading and optional preprocessing. The supplied correct text is never passed to the recognizer.")
 
     st.markdown('<div class="footer-note">HTR Research Project · Uploaded images are processed in memory. Results are saved only when you download them.</div>', unsafe_allow_html=True)
 

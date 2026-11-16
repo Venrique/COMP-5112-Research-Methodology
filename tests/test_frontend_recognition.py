@@ -9,7 +9,8 @@ from PIL import Image
 
 from src.frontend.recognition import (
     MAX_UPLOAD_BYTES, TROCR_CHECKPOINT, TROCR_REVISION, RecognizerResource,
-    checkpoint_token, decode_upload, load_resource, prediction_key, score_prediction,
+    PREPROCESSING_LABELS, build_preprocessing, checkpoint_token, decode_upload,
+    load_resource, prediction_key, score_prediction,
 )
 
 
@@ -20,6 +21,55 @@ def image_bytes(mode="RGB", color="white", size=(12, 6), format="PNG"):
 
 
 class FrontendRecognitionTests(unittest.TestCase):
+    def test_preprocessing_baseline_preserves_decoded_upload(self):
+        original = decode_upload(image_bytes(color=(80, 110, 150)))
+        output = build_preprocessing()(original)
+        self.assertIsNot(output, original)
+        self.assertEqual(output.mode, original.mode)
+        self.assertEqual(output.tobytes(), original.tobytes())
+        self.assertEqual(build_preprocessing().to_config(), {"steps": []})
+
+    def test_preprocessing_order_and_processed_input_reach_recognizer(self):
+        original = decode_upload(image_bytes(color=(80, 110, 150)))
+        before = original.tobytes()
+        pipeline = build_preprocessing(reversed(list(PREPROCESSING_LABELS)))
+        self.assertEqual([step["name"] for step in pipeline.to_config()["steps"]],
+                         ["grayscale", "clahe", "non_local_means", "deskew",
+                          "intensity_normalization", "size_normalization"])
+        processed = pipeline(original)
+
+        class Stub:
+            def predict(self, image):
+                self.image = image
+                return "processed prediction"
+
+            def to_config(self):
+                return {}
+
+        stub = Stub()
+        self.assertEqual(RecognizerResource(stub).recognize(processed)["prediction"],
+                         "processed prediction")
+        self.assertEqual(stub.image.mode, "L")
+        self.assertEqual(stub.image.size, (128, 64))
+        self.assertEqual(stub.image.tobytes(), processed.tobytes())
+        self.assertEqual(original.tobytes(), before)
+        with self.assertRaises(ValueError):
+            build_preprocessing(["unknown"])
+
+    def test_preprocessing_changes_invalidate_prediction_identity(self):
+        baseline = prediction_key(b"image", "trocr", "weights")
+        for key in PREPROCESSING_LABELS:
+            config = build_preprocessing([key]).to_config()
+            self.assertNotEqual(baseline, prediction_key(b"image", "trocr", "weights", config))
+        config = build_preprocessing(["size"]).to_config()
+        first = prediction_key(b"image", "trocr", "weights", config)
+        config["steps"][0]["target_height"] = 128
+        self.assertNotEqual(first, prediction_key(b"image", "trocr", "weights", config))
+        config = build_preprocessing(["grayscale", "clahe"]).to_config()
+        first = prediction_key(b"image", "trocr", "weights", config)
+        config["steps"].reverse()
+        self.assertNotEqual(first, prediction_key(b"image", "trocr", "weights", config))
+
     def test_transparency_orientation_and_uploaded_bytes_preserved(self):
         data = image_bytes("RGBA", (0, 0, 0, 0))
         before = bytes(data)

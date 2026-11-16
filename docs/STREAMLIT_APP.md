@@ -40,6 +40,24 @@ the project environment remains the intended installation.
 
 ## User flow
 
+### Optional preprocessing controls
+
+After uploading, enable independent checkboxes beneath the original preview.
+All options start off (baseline). A second preview shows the exact processed
+image passed to the recognizer before its mandatory preparation. The fixed order
+is grayscale → CLAHE → denoising → deskew → intensity normalization → size normalization;
+only checked steps run. Expand **Preprocessing parameters** to inspect settings.
+These use the existing modules' defaults, not validation-selected optima:
+CLAHE clip 2/grid 8×8; denoising strengths 3, patch 7/search 21; deskew uses
+the existing bounded angle search; global min-max intensity normalization;
+aspect-preserving LANCZOS resize to height 64.
+
+Changing options clears the old prediction while retaining the same image's
+reference text. Click **Read handwriting** again to recognize the processed
+image. Downloads include ordered enabled steps and parameters. Optional
+processing time is excluded from reading time. Mandatory model preparation
+always remains enabled, including CNN grayscale/height normalization.
+
 1. Choose **CNN + LSTM + CTC** or **TrOCR** in the sidebar.
 2. Upload a single cropped English handwritten text line (PNG, JPG or WebP).
 3. Optionally enter the exact correct text, preserving punctuation/case.
@@ -111,9 +129,8 @@ images/results are not stored in the global model cache.
 Uploads are decoded into new in-memory images, corrected for EXIF orientation,
 composited onto white, and converted to RGB. Original files are not overwritten
 and uploads are not written to the dataset or results folders. Each model
-then applies its own mandatory input preparation. No optional denoising,
-deskewing, CLAHE, normalization experiment, retraining or spelling correction
-runs in the app.
+then applies selected optional preprocessing followed by its own mandatory input
+preparation. No retraining or spelling correction runs in the app.
 
 CER/WER reuse `src/evaluation/recognition.py` with one reference/prediction
 pair. Whitespace is collapsed; case and punctuation are retained. Lower is

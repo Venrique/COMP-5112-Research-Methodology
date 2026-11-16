@@ -1,0 +1,9 @@
+{
+  "dataset": "bentham",
+  "configuration": "denoising",
+  "sample_count": 250,
+  "cer": 0.16237482117310442,
+  "wer": 0.4253842340109073,
+  "preprocessing_seconds": 32.987588205287466,
+  "inference_seconds": 71.00345241997275
+}

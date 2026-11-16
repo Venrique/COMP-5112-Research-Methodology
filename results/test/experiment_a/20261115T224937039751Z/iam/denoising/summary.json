@@ -1,0 +1,9 @@
+{
+  "dataset": "iam",
+  "configuration": "denoising",
+  "sample_count": 1000,
+  "cer": 0.04854594984749354,
+  "wer": 0.11855091969493046,
+  "preprocessing_seconds": 60.18853357687476,
+  "inference_seconds": 276.05166086772806
+}

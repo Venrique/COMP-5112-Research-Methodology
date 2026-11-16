@@ -510,7 +510,7 @@ Stop it with Ctrl+C. The default server address is local-only.
   clears old reference text. Editing reference text recomputes scores without
   running inference again.
 - Uploads are processed in memory with EXIF/white-alpha adaptation, followed by
-  each model's mandatory preparation. No retraining, optional preprocessing,
+  selectable optional preprocessing followed by each model's mandatory preparation. No retraining,
   dataset changes, or automatic result-file writes occur. A JSON download is
   available for the current result.
 
