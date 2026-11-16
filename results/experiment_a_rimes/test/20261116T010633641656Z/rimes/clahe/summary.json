@@ -1,0 +1,9 @@
+{
+  "dataset": "rimes",
+  "configuration": "clahe",
+  "sample_count": 778,
+  "cer": 0.05259419219185088,
+  "wer": 0.17981911686469232,
+  "preprocessing_seconds": 0.23680139478528872,
+  "inference_seconds": 378.8474366289738
+}

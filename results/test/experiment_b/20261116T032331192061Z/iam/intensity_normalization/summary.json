@@ -1,0 +1,8 @@
+{
+  "configuration": "intensity_normalization",
+  "sample_count": 1000,
+  "scored_sample_count": 1000,
+  "cer": 0.15809448415562644,
+  "wer": 0.4465006729475101,
+  "inference_seconds": 18.97269923609565
+}

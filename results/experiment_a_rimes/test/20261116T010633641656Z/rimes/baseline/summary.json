@@ -1,0 +1,9 @@
+{
+  "dataset": "rimes",
+  "configuration": "baseline",
+  "sample_count": 778,
+  "cer": 0.05347502415184406,
+  "wer": 0.1805284624933499,
+  "preprocessing_seconds": 0.022942035226151347,
+  "inference_seconds": 375.79030257998966
+}

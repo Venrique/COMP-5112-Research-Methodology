@@ -1,0 +1,8 @@
+{
+  "configuration": "clahe",
+  "sample_count": 1000,
+  "scored_sample_count": 1000,
+  "cer": 0.16358937344292068,
+  "wer": 0.455697622252131,
+  "inference_seconds": 20.164723378111375
+}

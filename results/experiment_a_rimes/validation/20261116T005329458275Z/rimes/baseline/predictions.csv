@@ -1,0 +1,145 @@
+index,sample_id,ground_truth,preprocessing_seconds,prediction,inference_seconds,cer,wer
+0,sample_0,Vous pourrez me joindre à ce numéro à partir de ce jour,5.762497312389314e-05,Vous pourrez me jointre à ce numero à partir de ce jour,5.25983400000041,0.03636363636363636,0.16666666666666666
+1,sample_1,Suite à un changement de banque je,6.658298661932349e-05,Suite à un changement de banque je,5.25983400000041,0.0,0.0
+2,sample_2,Je suis cliente de votre établissement et dispose notamment d'un Plan Epargne Logement au,5.470900214277208e-05,Je suis diente de votre é ablisement et aspse noromment aun Plantpargne Legement au,5.25983400000041,0.15730337078651685,0.6428571428571429
+3,sample_3,cette mensualisation ?,2.487501478753984e-05,cltte mensualisation ?,5.25983400000041,0.045454545454545456,0.3333333333333333
+4,sample_4,DISTINGUEES.,3.400002606213093e-05,"dessieurs, l'EXPression DE MES SAUSTATIONS DISTINGUEES.",5.25983400000041,3.5833333333333335,5.0
+5,sample_5,Cordialement.,2.4667009711265564e-05,Cordialement.,5.25983400000041,0.0,0.0
+6,sample_6,"erreur de ma part, est restée sans réponse à ce jour.",3.0499999411404133e-05,"crrenr de ma part, est sestée sans répouse à ce jour.",5.25983400000041,0.07547169811320754,0.2727272727272727
+7,sample_7,voudrais savoir la marche à suivre pour que les frais de réparation de ma toiture,0.00010041700443252921,voudrais savoir la marche à suime pour que les frais de réparation de ma toiture,5.25983400000041,0.024691358024691357,0.06666666666666667
+8,sample_8,appels à votre agence. Cet exemple n'étant que le dernier,7.9624995123595e-05,appels à votre agence. Cet example n'étant que le dernier,5.71403196350002,0.017543859649122806,0.1
+9,sample_9,temps était si serré que je ne pouvais trouver un quelconque intérêt à m'abonner.,0.00010879099136218429,temps était à serré que je ne pouveis trouver un qualonque intéêt à in'atonsuer.,5.71403196350002,0.13580246913580246,0.35714285714285715
+10,sample_10,"Je vous prie d'agréer Monsieur, mes Salutations",1.6375008272007108e-05,"Je vous pri d'agréer Monsieur, mes salutations",5.71403196350002,0.0425531914893617,0.2857142857142857
+11,sample_11,"Bonjour, je vous écrit pour être informer des",5.4540985729545355e-05,"Benjour, je vous écrit pour être informer des",5.71403196350002,0.022222222222222223,0.125
+12,sample_12,nécessaire et vous adresse mes sincères salutations.,1.9291997887194157e-05,nécessaire et vous adresse mes sincères salutations.,5.71403196350002,0.0,0.0
+13,sample_13,téléphonique chez l'un de vos concurrents : NUL Telecom.,6.0457998188212514e-05,téléphonique chez l'un de vos concurrents : NUL Telecom.,5.71403196350002,0.0,0.0
+14,sample_14,"Cordialement,",1.4249992091208696e-05,"Cordialement,",5.71403196350002,0.0,0.0
+15,sample_15,distinguées.,1.491600414738059e-05,distinguées.,5.71403196350002,0.0,0.0
+16,sample_16,"Monsieur, mes salutations distinguées.",3.254198236390948e-05,"Monsieur, mes salutations distinguées.",4.355203354247351,0.0,0.0
+17,sample_17,"prie Madame, Monsieur d'agréer mes sincères salutations.",1.754198456183076e-05,"prie Madame, Monsieur d'agréer mes  insicères salutations.",4.355203354247351,0.05357142857142857,0.14285714285714285
+18,sample_18,"de chaussette chez vous (n° de réf. client : YZWML02),",1.4167017070576549e-05,"de chaussette chez vous (né de réf. client : YZWML02),",4.355203354247351,0.018518518518518517,0.1
+19,sample_19,JE SOUHAITERAIS DOUBLER LA QUANTITE DE CHAUSSETTES QUE JE,7.883401121944189e-05,Je lOUHAITERATS DOUBLER LA QUANTITE DE CHAUSTETTEI QUE JE,4.355203354247351,0.08771929824561403,0.3333333333333333
+20,sample_20,20 € TTC,7.5830030255019665e-06,20 e TTC.,4.355203354247351,0.25,0.6666666666666666
+21,sample_21,"En vous remerciant,",8.708011591807008e-06,In vous rrerciant.,4.355203354247351,0.21052631578947367,0.6666666666666666
+22,sample_22,"En l'attente d'une réponse de votre part, je vous prie",2.7750007575377822e-05,"En l'attente d'une réponse de votre port, je vous prie",4.355203354247351,0.018518518518518517,0.1
+23,sample_23,Suite à la parution de votre catalogue automne-,1.7417012713849545e-05,Suite à la parution de votre catalogue autemne-,4.355203354247351,0.02127659574468085,0.125
+24,sample_24,est simple : pouvez-vous me faire une offre similaire à celle que j'avais refusée il y a,2.470900653861463e-05,Je me permets donc à mon tour de prendre l'instative de vous contactes. Ma demande,4.585075901122764,0.7840909090909091,1.0
+25,sample_25,"Veuillez agréer, Monsieur, mes sincères salutations.",1.4083023415878415e-05,"Veuillez agréer, Monsieur, mes sincères salutations.",4.585075901122764,0.0,0.0
+26,sample_26,Je vous ai adressé il y a un mois une lettre concernant,2.174999099224806e-05,Je vous ai adressé il y a un mois une lettre concernant,4.585075901122764,0.0,0.0
+27,sample_27,"Merci pour votre compréhension, sincère salutations",1.1625001206994057e-05,"Merci pour votre compréhension, sincère salutations",4.585075901122764,0.0,0.0
+28,sample_28,intention de résilier mon contrat d'assurance habitation,2.7165981009602547e-05,intention de résilier mon contrat d'assurance habitation,4.585075901122764,0.0,0.0
+29,sample_29,"le plus rapidement possible, mes quantités d'actions EDF",3.1584000680595636e-05,"le plus rapidement possible, mes quantités d'actions EDF",4.585075901122764,0.0,0.0
+30,sample_30,de mes meilleures salutations.,1.229101326316595e-05,de mes meilleures salutations.,4.585075901122764,0.0,0.0
+31,sample_31,responsabilité civile concernant le sinistre suivant :,1.404198701493442e-05,responsabilité civile concernant le sinistre suivant :,4.585075901122764,0.0,0.0
+32,sample_32,semaine dernière.,1.8332997569814324e-05,semaine dernière.,3.3898308124989853,0.0,0.0
+33,sample_33,sentiments distingués.,1.0457995813339949e-05,sentiments distingués.,3.3898308124989853,0.0,0.0
+34,sample_34,"Après  reflexion , j'aimerais modifier mon contrat en diminuant",1.3415992725640535e-05,"Après refosien, j'aimerais modifier mon contrat en dimensionant",3.3898308124989853,0.16129032258064516,0.3333333333333333
+35,sample_35,15 € TTC,8.95801349543035e-06,Lo 15 E TTC,3.3898308124989853,0.5,0.6666666666666666
+36,sample_36,de mes respectueuses salutations.,1.3334007235243917e-05,de mes respectueuses salutations.,3.3898308124989853,0.0,0.0
+37,sample_37,demande de modification.,1.1541997082531452e-05,demande de modification.,3.3898308124989853,0.0,0.0
+38,sample_38,35133 LANDEAU,1.170899486169219e-05,35133 LANDEAN,3.3898308124989853,0.07692307692307693,0.5
+39,sample_39,n° compte : 17729 000717.,1.2125005014240742e-05,n'conpté : 17729 CO0717.,3.3898308124989853,0.24,0.6
+40,sample_40,déroulement et l'expédition de cette commande.,1.9333994714543223e-05,déroulement et l'expédition de cette commande.,4.143779098874802,0.0,0.0
+41,sample_41,"cents euros) de valeurs mobilières,  précisémment  des actions",1.775001874193549e-05,"conts euros) de valeurs mobilières, précisedommuit des actions",4.143779098874802,0.1,0.25
+42,sample_42,plus  distingués,7.832975825294852e-06,plus distingués,4.143779098874802,0.0,0.0
+43,sample_43,Je vous informe par la présente de mon,1.5583005733788013e-05,Je vous informme par la présente de mon,4.143779098874802,0.02631578947368421,0.125
+44,sample_44,87 Rue de Lorraine,1.0249990737065673e-05,87 Rue de Lorraine,4.143779098874802,0.0,0.0
+45,sample_45,"part à ce propos, et espère qu'il ne s'agit que d'un contretemps",2.187499194405973e-05,"part à ce propos, et espère qu'il ne s'agit que d'un contratemes",4.143779098874802,0.03125,0.08333333333333333
+46,sample_46,"En effet, je viens tout juste d'emmenager à cette",1.5208002878353e-05,"En effet, je viens tout juste d'emmenager à cette",4.143779098874802,0.0,0.0
+47,sample_47,En espérant un avis favorable de votre,1.9208004232496023e-05,En espenant un avis favorable de votre,4.143779098874802,0.05263157894736842,0.14285714285714285
+48,sample_48,"Je vous prie d'agréer, Madame Monsieur, mes salutations distinguées.",2.733300789259374e-05,"Je vous prie d'agréer, Madame Monsieur, mes salutations distinguées.",4.564915890623524,0.0,0.0
+49,sample_49,Je vous joins donc un RIB avec ces informations.,1.5792000340297818e-05,Je vous joins donc un RJB avec ces informations.,4.564915890623524,0.020833333333333332,0.1111111111111111
+50,sample_50,comprenant tous les produits pour l'année 2007.,1.1958996765315533e-05,imprenant tous les produits pour l'année 2007.,4.564915890623524,0.0425531914893617,0.14285714285714285
+51,sample_51,"Après un calcul de mon endettement, il serait opportun que celles-ci passent de 60 euros",1.9750004867091775e-05,"Après un colaul de mon endottement, il serait opportun que celles-ci passent de 60 euros",4.564915890623524,0.03409090909090909,0.13333333333333333
+52,sample_52,que j'ai provoqué le mardi 9 janvier lors d'un trajet,1.4124991139397025e-05,que j'ai provoqué le mandi 2 janvier bus d'un trajet,4.564915890623524,0.09433962264150944,0.3
+53,sample_53,a été accidenté le mois dernier. Il s'agit de la,1.679101842455566e-05,a été accidenté le mois dernier. Il s'agit de la,4.564915890623524,0.0,0.0
+54,sample_54,Par conséquent je vous serai gré d'étudier,2.9375019948929548e-05,Por concurrent je vous cerai gré détudier,4.564915890623524,0.16666666666666666,0.5714285714285714
+55,sample_55,un conflit de voisinage.,1.1750002158805728e-05,un conflit de voisimage.,4.564915890623524,0.041666666666666664,0.25
+56,sample_56,"bien vouloir agréer, Madame, Monsieur, mes sincères salutations.",5.0583010306581855e-05,"bren vouloir agréer, Madame, Monsieur, mes sincères salutations",4.702571578123752,0.03125,0.25
+57,sample_57,J'ai découvert vos offres d'assurances sur internet et je,2.1750020096078515e-05,J'ai découvert vos offres d'assurances sur internet et je,4.702571578123752,0.0,0.0
+58,sample_58,j'ai donc décidé d'ouvrir  une  compte dans une banque qui me propose,1.650000922381878e-05,J'ai donc décidé d'avnir une compte dais une banque qui me propose,4.702571578123752,0.07462686567164178,0.25
+59,sample_59,"Dans l'attente de votre réponse, veuillez recevoir,",1.8416991224512458e-05,"Dans l'attente de votre réponse, veuillez recevoir,",4.702571578123752,0.0,0.0
+60,sample_60,Sincères salutations.,1.0541989468038082e-05,S'mceres salutations.,4.702571578123752,0.14285714285714285,0.5
+61,sample_61,recensé sous le code client TLJSK67.,3.4958997275680304e-05,recensé Sous le code client TIJ5K67.,4.702571578123752,0.08333333333333333,0.3333333333333333
+62,sample_62,J'ai passé le 27 décembre 2006 une commande,1.287501072511077e-05,J'ai passé le 27 décembre 2006 une commande,4.702571578123752,0.0,0.0
+63,sample_63,"risque automobile, je constate que vous avez augmenté ma prime",1.9500002963468432e-05,"risque automobile, je constate que vous avez augmenté ma prime",4.702571578123752,0.0,0.0
+64,sample_64,"Veuillez, trouver, ci-joint un extrait de mariage",2.2499996703118086e-05,"Veuillez, trouver, ci-joint un estrait de mariage",3.6668313021218637,0.02040816326530612,0.14285714285714285
+65,sample_65,Dans l'attente d'une réponse rapide,1.3707991456612945e-05,Dans l'attente d'une réponse rapide,3.6668313021218637,0.0,0.0
+66,sample_66,"Je vous prie d'agréer, Monsieur, mes salutations",1.3874989235773683e-05,"Je vous prie d'agréer, Monsieur, mes salutations",3.6668313021218637,0.0,0.0
+67,sample_67,de mes sincères salutations.,1.6292004147544503e-05,de mes sincères salutations.,3.6668313021218637,0.0,0.0
+68,sample_68,souhaiterais connaître la marche à suivre pour devenir,2.066700835712254e-05,souhaiterais connaître la marche à suirre pour devenir,3.6668313021218637,0.018518518518518517,0.125
+69,sample_69,"correspondant à la réference client indiquée ci-dessus, concernant",1.6000005416572094e-05,"corespondant à la réfluence client indiquée ci dessus, concernant",3.6668313021218637,0.06060606060606061,0.5
+70,sample_70,nouvelle adresse avec mon conjoint.,1.2749980669468641e-05,nouvelle adresse avec mon conjoint.,3.6668313021218637,0.0,0.0
+71,sample_71,Je vous  serais  gré de bien vouloir m'adresser une documentation,1.4582998119294643e-05,Je vous serais gré de bien vouloir m'adreuser une documentation,3.6668313021218637,0.015873015873015872,0.1
+72,sample_72,"tante, je viens d'obtenir le versement de",2.2124993847683072e-05,"tante, je'cliens d'obtenir le Vessement de",5.631925604247954,0.12195121951219512,0.42857142857142855
+73,sample_73,"Avec tous mes remerciements, je vous adresse",1.7167010810226202e-05,"Avec tous mes remerciements, je vous adresse",5.631925604247954,0.0,0.0
+74,sample_74,"Dans l'attente, je vous prie d'agréer",1.0167015716433525e-05,"Dans l'attente, je vous prie d'agréer",5.631925604247954,0.0,0.0
+75,sample_75,"Je souhaiterais que vous effectuiez une enquête, afin",2.433298504911363e-05,"Je souhaiterais que vous effectuiez une erquête, afin",5.631925604247954,0.018867924528301886,0.125
+76,sample_76,Je ne payerai plus le mois prochain.,1.4332996215671301e-05,Je ne payerai plus le mois prochain.,5.631925604247954,0.0,0.0
+77,sample_77,D'avance merci.,1.1833006283268332e-05,D'avance merci.,5.631925604247954,0.0,0.0
+78,sample_78,"La donne a aujourd'hui changé. Disposant de plus de temps à consacrer à mes loisirs,",2.937499084509909e-05,"La donne a aujourd'hui changé. Scigarettesant de plus de temps à connacner à mes loisris,",5.631925604247954,0.15476190476190477,0.2
+79,sample_79,permet à mon foyer d'accéder au statut de famille nombreuse. Veuillez,2.229199162684381e-05,permet à mon foyer d'accéder au statut de famille nombreuse. Verillez,5.631925604247954,0.014492753623188406,0.09090909090909091
+80,sample_80,été pris en compte. Je souhaiterais que la modification soit,7.879198528826237e-05,été prisonen compte. Je souhaiterais que la modification soit,3.8301673124988156,0.03333333333333333,0.2
+81,sample_81,Par la présente je vous fais part de ma,3.7290999898687005e-05,Par la présente je vous fais part de ma,3.8301673124988156,0.0,0.0
+82,sample_82,Je souhaiterai recevoir à mon domicile,1.5708996215835214e-05,Je souhaiterai recevoir à mon domicile,3.8301673124988156,0.0,0.0
+83,sample_83,"Pour ce faire, vous serait-il possible de me faire",1.9875005818903446e-05,"Pour ce faire, vous serait.il possible de me faire",3.8301673124988156,0.02,0.1111111111111111
+84,sample_84,Décembre 2004 ; puissance 5 CV.,1.2125005014240742e-05,Técembre 2004 ; purseance 5 CV.,3.8301673124988156,0.0967741935483871,0.3333333333333333
+85,sample_85,formules.,9.08400397747755e-06,formales.,3.8301673124988156,0.1111111111111111,1.0
+86,sample_86,"Habitant en Alsace, je souhaiterai savoir s'il est possible de constituer",2.5374989490956068e-05,"Ambitant en Areace, je souhaiterai savoir s'il est possible de constitrer",3.8301673124988156,0.0684931506849315,0.2727272727272727
+87,sample_87,Je vous serais reconnaissante d'accéder à ma requête.,4.587500006891787e-05,Je vous serais reconnaissante d'accéder à ma requête,3.8301673124988156,0.018867924528301886,0.125
+88,sample_88,l'expression de mes salutations distinguées,1.9415980204939842e-05,l'expression de mes valutations distinguées,3.65770711974983,0.023255813953488372,0.2
+89,sample_89,Veuillez noter le changement suivant dans mes données,2.0041014067828655e-05,Veuillez noter le changement suivant dans mes drainés,3.65770711974983,0.07547169811320754,0.125
+90,sample_90,client. Veuillez me communiquer les modalités,1.604200224392116e-05,client. Veuillez me communiquer les modalités,3.65770711974983,0.0,0.0
+91,sample_91,l'adresse : Les 3 Suifs,8.374976459890604e-06,l'adresse : Les 3 Suifs,3.65770711974983,0.0,0.0
+92,sample_92,distinguées.,7.875001756474376e-06,distinguées.,3.65770711974983,0.0,0.0
+93,sample_93,"Dans cette attente, veuillez agréer, Madame, Monsieur,",1.2791017070412636e-05,"Dans cette attente, veuillez agréer, Madame, Monsieur,",3.65770711974983,0.0,0.0
+94,sample_94,Merci de votre bienveillance et votre sérieux.,2.666600630618632e-05,Merci de votre bien veillan ce et votre sérieux.,3.65770711974983,0.043478260869565216,0.42857142857142855
+95,sample_95,Suite à notre entretien téléphonique du 12 décembre 2006,2.0207982743158937e-05,Suite à notre entretien téléphonique du 12 décembre 2006,3.65770711974983,0.0,0.0
+96,sample_96,"nécessaires, par courrier à l'adresse ci-dessus ainsi que",2.4834007490426302e-05,"nécessaires, par courrier à l'adresse ci-dessus ainsi que",4.212655182374874,0.0,0.0
+97,sample_97,catalogue).,1.5666009858250618e-05,catalogue).,4.212655182374874,0.0,0.0
+98,sample_98,sentiments distingués.,1.0749994544312358e-05,sentiments distinguées.,4.212655182374874,0.045454545454545456,0.5
+99,sample_99,"une fois dans l'année, je souhaiterais mensualiser",2.0625011529773474e-05,"une fois dans l'année, je souhaiterais mensualiser",4.212655182374874,0.0,0.0
+100,sample_100,à la commande que je vous ai passée la,1.362498733215034e-05,à la commande que je vous ai passée la,4.212655182374874,0.0,0.0
+101,sample_101,8 B rue Salvador Allende,1.0541989468038082e-05,8 B rue Salvador Allende,4.212655182374874,0.0,0.0
+102,sample_102,"Ayant des contraintes horaires importantes, liées",2.0916981156915426e-05,"Ayant des contraintes horaires importantes, lices",4.212655182374874,0.02040816326530612,0.16666666666666666
+103,sample_103,souscrit chez vous.,1.3374985428526998e-05,souscut chez vous.,4.212655182374874,0.10526315789473684,0.3333333333333333
+104,sample_104,les formulaires à remplir.,2.8749986086040735e-05,les formalaires à remplir.,4.292693281251559,0.038461538461538464,0.25
+105,sample_105,"vous prie d'agréer, Madame, Monsieur l'expression",1.5541998436674476e-05,"vous prie d'agréer, Madame, Monsieur l'expression",4.292693281251559,0.0,0.0
+106,sample_106,Merci d'effectuer toutes les modifications nécessaires.,1.2083997717127204e-05,Merci d'effectuer toutes les modifications nécessaires.,4.292693281251559,0.0,0.0
+107,sample_107,Veuillez me tenir au courant dès que ma demande,3.745898720808327e-05,Veuillez me tenir au courant dès que ma demande,4.292693281251559,0.0,0.0
+108,sample_108,"souscris chez vous depuis plus de deux mois maintenant, je vous",1.5167024685069919e-05,"souscris chez vous depuis plus de deux mois maintenant, je vous",4.292693281251559,0.0,0.0
+109,sample_109,suite à une radiation dans mon assurance actuelle,1.300001167692244e-05,Suite à une radiation deus mon assurance actuelle,4.292693281251559,0.061224489795918366,0.25
+110,sample_110,"En vous remerciant pour la suite à donner, veuillez",1.3334007235243917e-05,"En vous remerciant pour la suite à donner, veuillez",4.292693281251559,0.0,0.0
+111,sample_111,pour mettre en évidence l'étendue des dégâts.,1.4416000340133905e-05,pour mettre en évidence l'étendue des dégâts.,4.292693281251559,0.0,0.0
+112,sample_112,Je voudrais donc savoir quels sont les horaires d'ouverture,2.6749999960884452e-05,Je voudrais don savoir quels sort les horaires d'ouvature,3.6479399999989255,0.06779661016949153,0.3333333333333333
+113,sample_113,difficulté  à payer ma facture.,1.1166994227096438e-05,diffoulé à payer ma facture.,3.6479399999989255,0.1,0.2
+114,sample_114,à jour mes données personnelles.,1.1333002476021647e-05,à jour mes données personnelles.,3.6479399999989255,0.0,0.0
+115,sample_115,"Suite à mon mariage le 8 mars dernier,",1.1249998351559043e-05,"Suite à mon mariage le 8 mars dernier,",3.6479399999989255,0.0,0.0
+116,sample_116,vous trouverez ci-joint une copie du constat.,1.691700890660286e-05,vous trouverez ci-joint une copie du constat.,3.6479399999989255,0.0,0.0
+117,sample_117,voter pour les prochaines  elections .,1.7207989003509283e-05,voter pour les prochaines elections.,3.6479399999989255,0.02702702702702703,0.3333333333333333
+118,sample_118,j'ai percuté par l'arrière un autre véhicule. Je,1.691700890660286e-05,j'ai percuté parrière un autre véhicule. Je,3.6479399999989255,0.10416666666666667,0.25
+119,sample_119,Je m'étonne alors de ne pas recevoir de nouvelles de votre,1.7290993127971888e-05,Je m'étonne alars de ne pas recevoir de nouvelles de votre,3.6479399999989255,0.017241379310344827,0.09090909090909091
+120,sample_120,dans lequel je vous ai fait part de l'installation d'un nouvel,2.5124987587332726e-05,dans lequel je vous ai fait part de l'installation d'un nouvel,4.066021093749441,0.0,0.0
+121,sample_121,ensemble d'augmenter la puissance du compteur électrique.,3.445800393819809e-05,ensemble d'angmenter la puissance du compteur électrique.,4.066021093749441,0.017543859649122806,0.14285714285714285
+122,sample_122,Je souhaiterais apporter une modification,1.2957985745742917e-05,Je souhaiterais apporter une modification,4.066021093749441,0.0,0.0
+123,sample_123,Pouvez-vous m'envoyer une lettre de confirmation de cette résiliation,2.1915999241173267e-05,Peuvez-vous m'envager une lettre de confirmation de cette rééaihibition,4.066021093749441,0.11594202898550725,0.3333333333333333
+124,sample_124,RGKD183).,1.0875024599954486e-05,rgKD183).,4.066021093749441,0.2222222222222222,1.0
+125,sample_125,placement possible.,9.333016350865364e-06,placement possible.,4.066021093749441,0.0,0.0
+126,sample_126,JE VOUS AI PASSE UNE COMMANDE LE 10 JANVIER.,2.270899130962789e-05,Je vous an passe une communde le 10 parvier.,4.066021093749441,0.7272727272727273,0.8888888888888888
+127,sample_127,Mes nouvelles coordonnées sont celles,1.4290999388322234e-05,Mes nouvelles coordonnées sont celles,4.066021093749441,0.0,0.0
+128,sample_128,dévoués et respectueux.,2.879201201722026e-05,dévoués cet respectueux.,4.5356430833744525,0.043478260869565216,0.3333333333333333
+129,sample_129,"travail entre 12 h et 14 h. Le soir, il n'est difficile",1.5792000340297818e-05,"travail entre 16th et 14h. de aoir, il n'est difficile",4.5356430833744525,0.09090909090909091,0.5
+130,sample_130,Je souhaiterais en fait recevoir 10 paires de chaussettes,1.2250005966052413e-05,Je souhaiter ais en fait recevoir 10 paires de choussettes,4.5356430833744525,0.03508771929824561,0.3333333333333333
+131,sample_131,"Dans l'attente de vos documents,",1.1124997399747372e-05,"Dans l'attente de sos documents,",4.5356430833744525,0.03125,0.2
+132,sample_132,"Début décembre, je vous ai adressé",1.6959005733951926e-05,"Début décembre, je vous ai adressé",4.5356430833744525,0.0,0.0
+133,sample_133,1 lot de 50 CD vierges réf : 010-25-CDV,2.9624992748722434e-05,1 lot de 50 CD vinges réf : 010-25-CDV,4.5356430833744525,0.05128205128205128,0.1111111111111111
+134,sample_134,"nouvelles ni pour me dire si mon dossier était complet, ni pour me recevoir.",2.104099257849157e-05,"nouvelles ni pour me dire si mon dossier était complet, mi pour me receuir.",4.5356430833744525,0.039473684210526314,0.14285714285714285
+135,sample_135,"semaine dernière. Pourriez-vous, s'il vous plaît,",1.300001167692244e-05,"se maine dernière. Pourriez-ous, sil vous plaît.",4.5356430833744525,0.08163265306122448,0.8333333333333334
+136,sample_136,nombre d'actions commandées. Merci de faire suite à ma,3.3082993468269706e-05,nombre d'actions commandées. Merci de faire suite à ma,3.9118951146265317,0.0,0.0
+137,sample_137,j'étudie les offres que me proposent la concurrence et je  prend  contact avec,4.695798270404339e-05,J'étudie les offres que me proposent la concurance et je prend contact avec,3.9118951146265317,0.039473684210526314,0.15384615384615385
+138,sample_138,1 rue d'Alsace,2.22500239033252e-05,Prue d'otelsace,3.9118951146265317,0.35714285714285715,1.0
+139,sample_139,"Dans l'attente de votre livraison, je vous prie d'agréer,",1.1458003427833319e-05,"Dans l'attente de votre liveison, je vous prie d'agréer,",3.9118951146265317,0.03508771929824561,0.1111111111111111
+140,sample_140,de mon changement de situation familiale. Je suis,1.724998583085835e-05,de mon changement de situation familiale. Je suis,3.9118951146265317,0.0,0.0
+141,sample_141,J'aimerai savoir quels sont les documents à fournir pour ouvrir,2.891701296903193e-05,J'aimerai souoir quels sant les documents à fournir pour ouvrir,3.9118951146265317,0.047619047619047616,0.2
+142,sample_142,"Cordialement,",7.791997632011771e-06,"Cordialement,",3.9118951146265317,0.0,0.0
+143,sample_143,suite à ma réclamation.,1.0958989150822163e-05,suite à ma réclamation.,3.9118951146265317,0.0,0.0

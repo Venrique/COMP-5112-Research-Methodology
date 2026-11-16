@@ -1,0 +1,2 @@
+dataset,configuration,sample_count,cer,wer,preprocessing_seconds,inference_seconds,cer_delta_vs_baseline,wer_delta_vs_baseline
+rimes,clahe,778,0.05259419219185088,0.17981911686469232,0.23680139478528872,378.8474366289738,-0.0008808319599931808,-0.0007093456286575706

@@ -1,0 +1,8 @@
+{
+  "configuration": "baseline",
+  "sample_count": 1000,
+  "scored_sample_count": 1000,
+  "cer": 0.15571957437891454,
+  "wer": 0.44134140870345445,
+  "inference_seconds": 16.583409002341796
+}

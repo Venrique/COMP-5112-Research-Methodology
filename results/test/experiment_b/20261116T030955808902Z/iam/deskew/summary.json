@@ -1,0 +1,8 @@
+{
+  "configuration": "deskew",
+  "sample_count": 1000,
+  "scored_sample_count": 1000,
+  "cer": 0.1597476076276514,
+  "wer": 0.44706146253925527,
+  "inference_seconds": 13.915732961584581
+}

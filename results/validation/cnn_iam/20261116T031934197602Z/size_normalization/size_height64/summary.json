@@ -1,0 +1,7 @@
+{
+  "sample_count": 100,
+  "cer": 0.10070151618013125,
+  "wer": 0.34294871794871795,
+  "preprocessing_seconds": 0.0701073260861449,
+  "inference_seconds": 1.4470881200686563
+}
