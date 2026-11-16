@@ -1,0 +1,1001 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+denoising,sample_0,"assuredness "" Bella Bella Marie "" ( Parlophone ) , a lively song that changes tempo mid-way .","assuredness "" Bella bella Marie  ( Parlophone ) , a lively song thal change s bempo mid-way .",0.05370229098480195,0.023400708014378324,0.06451612903225806,0.3333333333333333
+denoising,sample_6,He is also a director of a couple of garages . And he finds time as well to be a lyric,the is also a director of a couple of garages . And he finds time as well to be a lyric,0.0638976669870317,0.026017083000624552,0.023255813953488372,0.047619047619047616
+denoising,sample_8,"The numbers include "" Scotland the Brave , "" "" Men of Harlech , ""","The yumbers inelude Scotland the Brave 's a Men of Harlech , '",0.0585605829837732,0.016456792014651,0.13846153846153847,0.4666666666666667
+denoising,sample_9,"Fay Compton stars in "" No Hiding Place "" (I T V , 9.35 p.m. ) .","Pay Compton sfars in "" No tiding plave n ( 97 V , 2i35 p in.?. .",0.09618462499929592,0.03616150000016205,0.25396825396825395,0.5882352941176471
+denoising,sample_10,She plays the possessive mother of a man whose hobby revolves,she plays the possessive mathier o a mran whose habiby remlvs,0.04608870798256248,0.015997416019672528,0.16393442622950818,0.5454545454545454
+denoising,sample_12,"THREE people will be hypnotised in tonight's "" Lifeline ""","THaFE puople wild be hyyyotised in tonightis "" Liteline "" """,0.05697454200708307,0.015766666998388246,0.17543859649122806,0.7
+denoising,sample_13,"( B B C , 10.15 ) .","CPPe , 10.1s ) .",0.02798608399461955,0.004804833995876834,0.42105263157894735,0.625
+denoising,sample_15,of Rhodesia and Nyasaland ( 10.30 p.m. ) .,"if phodes,a and pNyasalond CiOizDpin.g .",0.07093358397833072,0.014096250000875443,0.40476190476190477,0.7777777777777778
+denoising,sample_17,"playwright Arnold Wesker . "" Instead , Muggeridge's appointment","playuright brnokd werker . "" "" Iustead , Mhuygeridge's ayppaintment",0.06991374999051914,0.028155957988929003,0.19047619047619047,0.7777777777777778
+denoising,sample_19,will be with Sir Roy Welensky the Premier of the Federation,will be with Sir Boy weleasky the Premsier of the fe er ation,0.12728179097757675,0.09367170801851898,0.11864406779661017,0.5454545454545454
+denoising,sample_26,essay on soldiering which stated that a fighting,cesay on soldiertng which shated thet a fighting,0.2171389159921091,0.03201916700345464,0.10416666666666667,0.5
+denoising,sample_27,"Say Granada T V , the producers : "" We decided to make","Say GnanakaipV , the pralucers : "" We decided to make",0.11417645800975151,0.040302874986082315,0.12962962962962962,0.3076923076923077
+denoising,sample_28,first big T V part . The play was a brilliantly-written,fivt big TV paut The play was a billantly-witta,0.06780329201137647,0.018816916010109708,0.2,0.5454545454545454
+denoising,sample_29,affairs . The Wesker interview will be seen at a later,orffairs . Te yesker Iutenicw will be seen at a later,0.07281504201819189,0.030481207999400795,0.16666666666666666,0.36363636363636365
+denoising,sample_35,"what he was - Potter , a frightened boy who had a","what fe was . Rter , a frigitered by who had a",0.05454437498701736,0.01696770900161937,0.16326530612244897,0.4166666666666667
+denoising,sample_45,"of an American T V reporter , Eric Sevareid , and","of an Rmerican II reporler , (ric Serareid , and",0.07380712500889786,0.024054250010522082,0.14285714285714285,0.5454545454545454
+denoising,sample_46,strike . It showed Britain today through the eyes,strine . It showed Britain today through the eyes,0.0766525829967577,0.02786054101306945,0.02040816326530612,0.1111111111111111
+denoising,sample_47,Britain was slipping behind ... .,Britain was slepping beind .. .,0.09586741699604318,0.01965558298979886,0.09090909090909091,0.5
+denoising,sample_49,Shelagh Delaney and Alan Sillitoe attacked,Shelagh Delaney and llan Sillitoe attacked,0.05218241602415219,0.017150958999991417,0.023809523809523808,0.16666666666666666
+denoising,sample_53,offering to drop by for a chat .,ofenng to orap bry for a chat .,0.04813383397413418,0.01662933299667202,0.1875,0.375
+denoising,sample_54,arrived two hours earlier by appointment,arrived two hann earlier br appeinturent,0.0580535419867374,0.020723333000205457,0.2,0.5
+denoising,sample_58,"has rung a couple of times , calls from","ha pung a conple of timres , calls frous",0.05691399998613633,0.017965708015253767,0.15384615384615385,0.5555555555555556
+denoising,sample_65,Fourth Gospel by explanations based on assumed textual dislocations . The,Fourtl bospel by explomntions bosed on assamed festual Miskocations . Te,0.07056691698380746,0.023132916016038507,0.1643835616438356,0.7272727272727273
+denoising,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .","coull af te ahoa by ploaing Mr fragmente , or sheete , or peges j in ord; .",0.06326133399852552,0.01935983300791122,0.21518987341772153,0.6111111111111112
+denoising,sample_68,present state of the Gospel is the result of an accident-prone history . The,prosent stal of he Coopel is the rosull of on orccident - prone histor . Me,0.07245124998735264,0.01699995799572207,0.21052631578947367,0.7857142857142857
+denoising,sample_74,this is possible it is necessary to examine the,this is possible it is necessary to examine the,0.05243579202215187,0.01587245799601078,0.0,0.0
+denoising,sample_77,"case is that , in common with all his colleagues ,","case is that , in common with alt his cdkeaghes ,",0.05109554098453373,0.01578424999024719,0.1,0.18181818181818182
+denoising,sample_79,simple and coherent plan . To understand how,simple and coherent plan . To undersland how,0.04839120799442753,0.016596500005107373,0.022727272727272728,0.125
+denoising,sample_86,text with absolute precision .,text with absolute precision .,0.05896191697684117,0.010484375001396984,0.0,0.0
+denoising,sample_89,"The bar was the commonest marking , but others","Thebar wad tre comncnest morleing , lut Others .",0.0564063340134453,0.016962749999947846,0.2608695652173913,1.0
+denoising,sample_92,were also used . Dots sometimes served in place of the,were olo used . fots sonetimas Served in place ofthe,0.06990008399588987,0.02091225000913255,0.12962962962962962,0.5454545454545454
+denoising,sample_96,the original of the Gospel would be unmarked . The,the Orignal of the Gagpel wOuld be unmoreed. The,0.05083816702244803,0.01581741700647399,0.16,0.5
+denoising,sample_98,about one third of a page of Souter's print .,aba ane third At a page of Sortaris prink .,0.05260308299330063,0.01651770799071528,0.2222222222222222,0.5
+denoising,sample_102,"original of the Gospel , whether written on a roll or codex ,","orgnal ofthe Aaspel , whether uitten on a roll Or cadex ,",0.05655141701572575,0.016560625022975728,0.14754098360655737,0.5384615384615384
+denoising,sample_109,which have survived the centuries is ample evidence of,which have survived the centuries is ample evidence of,0.05909420800162479,0.023545708012534305,0.0,0.0
+denoising,sample_110,"was generally a single-sided form of book , and it was not","was generally a singple-sided form of book , and it was hot",0.07116708401008509,0.022754459001589566,0.034482758620689655,0.16666666666666666
+denoising,sample_111,"overwhelmed Herculaneum and Pompeii in A.D. 79 , his","overwhelmed tercnlanenm and Pompei"" in A.D.78 ,his",0.09546470802160911,0.04873162499279715,0.1346153846153846,0.6666666666666666
+denoising,sample_113,The other form of book was the codex . In this the,The other form of book was the cocder . In this the,0.11814941701595671,0.04177770801470615,0.04,0.08333333333333333
+denoising,sample_115,sheets were bound together down one edge much as,sheets were boud together doin on edbe much as,0.10655075000249781,0.03077820801991038,0.08333333333333333,0.4444444444444444
+denoising,sample_116,information is contemporaneous with the New Testament .,information is cortemporanlons with the New Testamet .,0.070742583979154,0.04779862498980947,0.07272727272727272,0.25
+denoising,sample_120,"the roll , a sheet could easily be glued on .","the roll , a shut could easily be glned on .",0.09872608399018645,0.02346029202453792,0.06666666666666667,0.18181818181818182
+denoising,sample_121,whether or not a particular text was written on,whether or not a particular text was written on,0.1144778750021942,0.027733499999158084,0.0,0.0
+denoising,sample_122,might be bulky . It is sometimes possible to tell,might be bulky . It is sometimes possible to tell,0.15020350000122562,0.016460083978017792,0.0,0.0
+denoising,sample_131,"in the case of the single-sheet quire , an extra","in the case of the single-sheet quire , an extra",0.0626346250064671,0.017345207976177335,0.0,0.0
+denoising,sample_132,"sending out his Gospel lacking the ending ,","sending out his Gospel lacking the ending ,",0.07276395900407806,0.015287750022253022,0.0,0.0
+denoising,sample_133,"cannot think of an author , Mark for example ,","camot think of an author , Nark for example ,",0.051813291996950284,0.01787237499956973,0.06521739130434782,0.2
+denoising,sample_134,sheet glued on might have to be gummed on,shut glud on might have to be gummed on,0.05104470800142735,0.01676895801210776,0.07317073170731707,0.2222222222222222
+denoising,sample_135,in it the reservoir ... and I made both the,"inAftthae Verarvail. . "" and Iale hoh tie",0.05989012500504032,0.01899758298532106,0.4186046511627907,0.9
+denoising,sample_136,"construction in lines 9 , 23-25 of the Moabite Stone ,","cmostyhltion in knos ? a-is of ther Mosdite Pane ,",0.04738662499585189,0.014528833009535447,0.3888888888888889,0.7272727272727273
+denoising,sample_138,A natural transition from gardens and,Anabunal transitien fren gandeng and,0.077012082998408,0.012345708004431799,0.21621621621621623,0.8333333333333334
+denoising,sample_141,supply . The pools are probably natural springs,Supply . Tha pots cna prctaboly nallrad porings,0.04254054100601934,0.014086874987697229,0.3191489361702128,0.875
+denoising,sample_147,"all his heart , and with all his soul and",a ll his heart and with all his soul . and,0.06758350000018254,0.023714417009614408,0.12195121951219512,0.4
+denoising,sample_150,with all his might and studies the,sith al hs rnight ond stdis the,0.05916283398983069,0.01097216599737294,0.23529411764705882,0.8571428571428571
+denoising,sample_151,"regards himself as insignificant , as the","regards himself , os insigrificant , as the",0.06711870798608288,0.011774125014198944,0.0975609756097561,0.42857142857142855
+denoising,sample_152,word of God .,word of God,0.03870770797948353,0.006272625003475696,0.15384615384615385,0.25
+denoising,sample_155,us earthly creatures to build an Altar,us earthly creatures to build an Altar,0.05578920798143372,0.019660582998767495,0.0,0.0
+denoising,sample_156,"This man is the worm , the creature that",This man is the worm the creature thay,0.06434920898755081,0.02398462500423193,0.075,0.2222222222222222
+denoising,sample_158,Such a Shamir possesses the real acid,Such a shomir possesses the real acid,0.060893209010828286,0.024299875018186867,0.05405405405405406,0.14285714285714285
+denoising,sample_160,for God to come nearer to God .,for God to come nearer to God .,0.0712122920085676,0.024739874992519617,0.0,0.0
+denoising,sample_162,cuts and polishes Altar-Stones . Such,cits and polishes MUur-stores . Such y,0.058327792008640245,0.010503875004360452,0.24324324324324326,0.5
+denoising,sample_163,heart of stone . This Shamir helps,neart of stone . This shamir helpe,0.06335533302626573,0.010564540978521109,0.08823529411764706,0.42857142857142855
+denoising,sample_167,tell !,tere l,0.018728708004346117,0.004344417015090585,0.5,1.0
+denoising,sample_170,books are readable . This Shamir is indeed a rare,baoks are readable This shamir in indeed a rate,0.08253849999164231,0.0318315829790663,0.12244897959183673,0.5
+denoising,sample_171,"refused , but it is to become the head-stone","retused , but it is to become the head-stone",0.06143237499054521,0.025972250004997477,0.022727272727272728,0.1111111111111111
+denoising,sample_173,"Lord , as the waters cover the sea . "" ( Hab. 2 , 14 . )","hord , as the waters cover the seais (Ctab . & , 1.)",0.06167537500732578,0.02027241699397564,0.21428571428571427,0.5882352941176471
+denoising,sample_174,""" For the stone shall cry out of the wall "" , like","a for the stome shall cry out of the wallss , lite",0.05281145800836384,0.016676708008162677,0.12,0.46153846153846156
+denoising,sample_179,the Light which can be read in every,the Lgnt which cany be read in every,0.0665935410070233,0.01210137500311248,0.08333333333333333,0.25
+denoising,sample_180,They make us the Altar for God to emit,"Shay wake ""s the uetar for God to eu!t",0.06706845798180439,0.023234624997712672,0.21052631578947367,0.5555555555555556
+denoising,sample_181,a deep impression on our feelings and senses .,a deeg rypresslay oy air foelings ayd sajses .,0.07598383299773559,0.012223208002978936,0.2826086956521739,0.7777777777777778
+denoising,sample_182,"of life , and all facts are "" one "" . We have all","of lifo , ayd all facts are oye "" We have all",0.04768912500003353,0.01582758399308659,0.14285714285714285,0.35714285714285715
+denoising,sample_185,"language . The Shamir is the "" seventh "" and","Layghage . The shanir is the sevefh"" and",0.06913458299823105,0.010823374992469326,0.22727272727272727,0.5
+denoising,sample_187,"the eve of the Sabbath , to bring the","the eve of the Sabbath , to brig the",0.07433904201025143,0.014258875016821548,0.02702702702702703,0.1111111111111111
+denoising,sample_191,"shall come to pass , if 1ye shall 1hearken",shall coane to pass iP tye stiall Lheartey,0.07488462497713044,0.01752991700777784,0.2619047619047619,0.6666666666666666
+denoising,sample_193,is something deficient .,is souethinng deficiept .,0.04159687500214204,0.006662250001681969,0.125,0.5
+denoising,sample_195,"you this day , to love the Lord your God , and to","fo this day , Is love the Lord your God , anyd to",0.08784895902499557,0.013617332995636389,0.10204081632653061,0.23076923076923078
+denoising,sample_197,"Lord God with all their visionary power ,","Lord God with all their visionary power ,",0.062033082998823375,0.023796499997843057,0.0,0.0
+denoising,sample_199,the work will have to be done by each,the work wilt have to be elore by each,0.05261004201020114,0.022668666002573445,0.10810810810810811,0.2222222222222222
+denoising,sample_200,mind together we cannot solve the further,mind together we cannot solve the further,0.05318266700487584,0.022022791992640123,0.0,0.0
+denoising,sample_201,"Jochai ( Tanis 6a ) "" if Israel does not fulfil",Sochail Tanis ea)I'if lsrael does net fitfil,0.06458783301059157,0.032019915990531445,0.2553191489361702,0.8181818181818182
+denoising,sample_202,"the wish of the Lord , failing to serve the","The wish of the Lord , fating to serve the",0.06339520800975151,0.030031709000468254,0.06976744186046512,0.2
+denoising,sample_206,"gratify selfish aims , then each man will gather-in","girafity selfish aims , then each man will gathel -in",0.06422433300758712,0.02041937501053326,0.09803921568627451,0.3333333333333333
+denoising,sample_207,"for himself only , instead of all to help to gather your","Foc hinself only , intead of all to help to gathet youk",0.07184954200056382,0.022918917005881667,0.10714285714285714,0.4166666666666667
+denoising,sample_212,our duty ) . Of course the individual will,"our duty ) , Of course the indiidual will",0.061303708993364125,0.026035582995973527,0.047619047619047616,0.2222222222222222
+denoising,sample_215,seeking self .,seeting self .,0.05570158298360184,0.009901375015033409,0.07142857142857142,0.3333333333333333
+denoising,sample_216,Freedom from want cannot be fulfilled nor,frieedom from want cannot fulfiilled nor,0.0740637079870794,0.03402545899734832,0.14634146341463414,0.42857142857142855
+denoising,sample_227,"yourself , under such conditions the goods are your gods .","Joutself , under such condition's the goods are your gods .",0.06336950001423247,0.01882495899917558,0.05172413793103448,0.18181818181818182
+denoising,sample_231,For without the vision to serve the Lord your God with all,For without the ysion to serve the tord yaur God with all,0.06512066599680111,0.021284291986376047,0.06896551724137931,0.25
+denoising,sample_235,"in the first part of the Shmah , we have first "" and","in the first part of the shmah , we have first i anch",0.05011625000042841,0.01647775000310503,0.07692307692307693,0.23076923076923078
+denoising,sample_239,them without visionary power .,them without visionary power .,0.05911808300879784,0.009699416987132281,0.0,0.0
+denoising,sample_242,children will grasp now what will befall,children will grasp mow what will betall,0.06957287501427345,0.011058208998292685,0.05,0.2857142857142857
+denoising,sample_245,And they are ( 1 ) Matzo ; ( 2 ) Bitter Herbs ; ( 3 ) Salt-water and,And they are (s ) Matao ; (a ) Bitter Herbsfs ) Salt-water and,0.05036749999271706,0.021472499996889383,0.16176470588235295,0.47368421052631576
+denoising,sample_247,back .,back .,0.02145983398077078,0.003578958014259115,0.0,0.0
+denoising,sample_251,"are used on Passover , to depict the "" time of our freedom "" .","are used on Passover , to depict the itime of our Freedo "".",0.05864487501094118,0.02618754201103002,0.08064516129032258,0.3333333333333333
+denoising,sample_255,"We eat it . We accept it , to show we have self-control",be eat it . We accept it . to show we have self-contpl,0.05187837497214787,0.022053834021789953,0.07272727272727272,0.23076923076923078
+denoising,sample_259,cure our mental incapacity we should be willing,cure our mental incapacity we should be willing,0.06333995799650438,0.019017708982573822,0.0,0.0
+denoising,sample_261,the salt-water at the Seder-Table represents the Covenant of the Torah,the soll -water at the Geder-iaale reensents the Govenan gf the Torah,0.04876537501695566,0.021583749999990687,0.17142857142857143,0.5454545454545454
+denoising,sample_266,Tradition .,Frasittion .,0.02741400001104921,0.004732583009172231,0.2727272727272727,0.5
+denoising,sample_269,"meek : "" But the meek shall inherit the earth ; and shall","meex : "" "" But the meex slaall ,innerit the eorth ; and shall",0.06702208300703205,0.020880374999251217,0.15789473684210525,0.46153846153846156
+denoising,sample_272,"We dip into both , at the Seder . And we want to understand","Ne dip into bain , ot the seder . And we woust to underednd",0.08492433300125413,0.026425457996083423,0.2033898305084746,0.42857142857142855
+denoising,sample_273,"more of the Torah and the Oral Tradition , our inheritance .","more gy the fprah anf the prat f radtinn , our inheritace .",0.06889591700746678,0.022083957999711856,0.2,0.5833333333333334
+denoising,sample_274,( This is the PARDUS . ) Matzo represents,cthis is the phapuslNlafo rerresauks,0.09175550000509247,0.032233167003141716,0.5121951219512195,0.7777777777777778
+denoising,sample_275,Derush ; ( 4 ) Leaning-back represents Saud .,Berush ; cu) Leaning-back reeresentr sand .,0.27117083402117714,0.04217795899603516,0.2,0.6666666666666666
+denoising,sample_277,and the sweet Mortar in which we dip-in represents,and tne sweet dlortar in wniln we die-in rerreseuts,0.1860965420200955,0.05332766700303182,0.18,0.5555555555555556
+denoising,sample_278,is called : The Feast of Matzos . The,is ralled .The feast of Mafeor. The,0.07043654200970195,0.03871008299756795,0.21621621621621623,0.6666666666666666
+denoising,sample_279,"principle and this gives us "" a wink "" ( Remez )","princiele . and this gives us ia mink """" Chener )",0.0742430410173256,0.02266545797465369,0.25,0.6666666666666666
+denoising,sample_282,the literal meaning of Pesach which,the literal meaning of Pesach which,0.06190316699212417,0.019451833999482915,0.0,0.0
+denoising,sample_283,( 1 ) Matzo represents Peshat ; ( 2 ) Moraur,A)Matzo represeutr Peshat ; (a ) Moraur,0.05656654099584557,0.016948291973676533,0.20454545454545456,0.6363636363636364
+denoising,sample_284,Bitter-Herbs represent the spiritual,Bifeer-cterbs reeresent the spirifual,0.06376008299412206,0.0191079170035664,0.16666666666666666,0.75
+denoising,sample_287,burdens of Egypt . ( 2 ) I will rid you of their bondage .,burden's of Eass . Ial 1 wil rid yo of their kondage .,0.04773737501818687,0.015123624994885176,0.2413793103448276,0.6
+denoising,sample_295,( 3 ) I will redeem you . ( 4 ) I will take you to me for a,Is) I will redeen yo.fhl I will take yoo to me for a,0.04413274998660199,0.01389224999002181,0.23728813559322035,0.5263157894736842
+denoising,sample_298,"eating Matzos in Egypt and the "" Feast of Matzos ""","eating Matzos in Egiyft and the i feait of Mattos""",0.04797354098991491,0.014620833011576906,0.14,0.45454545454545453
+denoising,sample_300,"James had grown up in Presbyterian Scotland ,","fames had grown up in Presbyterian Scotland ,",0.05404929199721664,0.016833583009429276,0.022222222222222223,0.125
+denoising,sample_302,Book was issued in 1604 but the Puritans,Busk was issued in 1roy but the puritans,0.05876650000573136,0.01735866698436439,0.15,0.375
+denoising,sample_304,"spoiled that . The Puritans had high hopes , for","spoiled that . The Puritans had high hopes , for",0.04761320899706334,0.014207375003024936,0.0,0.0
+denoising,sample_307,remained . Other changes in the Book were equally,remaines . Olhe . Llonges in the Bosk were equably,0.06262224999954924,0.01009904098464176,0.1836734693877551,0.6666666666666666
+denoising,sample_308,They objected to the word Confirmation . So the phrase,tmy dicis b hhe wond lonfimation . So the furose,0.05894674998125993,0.009470416000112891,0.35185185185185186,0.7
+denoising,sample_310,They objected to the word Absolution . So the phrase ' or,They dijeded to the word Absohhian . So hre phvare ' ar,0.05169841699535027,0.015650291985366493,0.22807017543859648,0.4166666666666667
+denoising,sample_312,added to the Catechism .,ajdr bo the Cchicin. .,0.04837770800804719,0.007603999983984977,0.4166666666666667,0.6
+denoising,sample_313,minor except for the new section on the Sacraments,minore excey for the rew seehim an the Scrament s,0.07624850000138395,0.012278292007977143,0.22,0.7777777777777778
+denoising,sample_315,able to render an account of their faith according,ahe to rendes an accounnt of thir filh aceerding,0.06184424998355098,0.010073999990709126,0.18,0.6666666666666666
+denoising,sample_316,This indicated how ephemeral in the Church had,This inadicated how ephemeral in the Church had,0.050359707995085046,0.021647082990966737,0.021739130434782608,0.125
+denoising,sample_318,( which was never actually authorized ! ) .,which was never actuaby #d antarrised ! ) .,0.05017512501217425,0.015122166980290785,0.2558139534883721,0.4444444444444444
+denoising,sample_324,"definite . It was at this time , too , that King James made","definite . It was at this time , too, that King James made",0.0536300000094343,0.016176250006537884,0.01694915254237288,0.14285714285714285
+denoising,sample_326,In that year Shakespeare had just turned,In that year Shakespeare had just turned,0.04399112501414493,0.014047832984942943,0.0,0.0
+denoising,sample_328,before . Bacon was at work and Milton was,before . Bacon was at worte and ilton war,0.058454624988371506,0.01989049999974668,0.0975609756097561,0.3333333333333333
+denoising,sample_329,important Prayer Books in the Anglican,important Prayer Bookes in the tnglican,0.05463624998810701,0.017167999991215765,0.05263157894736842,0.3333333333333333
+denoising,sample_335,first public acts was a hard-hitting battle with,first public acts was a hard-hitting batble with,0.07268283300800249,0.01618495798902586,0.020833333333333332,0.125
+denoising,sample_337,"the Jesuit , Fisher . But anyone who was friendly","the Jernit , Fisher . But angone who was friendly",0.05435579200275242,0.01671166598680429,0.061224489795918366,0.2
+denoising,sample_341,"with James and Charles , the Puritans argued ,","with James and Charles , the Puritans argned ,",0.06056179100414738,0.02002770800027065,0.021739130434782608,0.1111111111111111
+denoising,sample_345,and so was the office of a bishop . Altars should be,and so wras th affice of a bishop . Altars should be,0.0621370000008028,0.019104250008240342,0.057692307692307696,0.25
+denoising,sample_347,"altars and not any broken down , transportable","allars and nof amy frols dawn , Eranspanrtabll",0.04937570801121183,0.018837334006093442,0.2608695652173913,0.75
+denoising,sample_348,a sense of reverence . The Prayer Book was to be respected,a rnse of reverence . The Prayes Bool was frbe respacted,0.06281062500784174,0.01952941599301994,0.13793103448275862,0.5
+denoising,sample_350,"to face their fears , to see through them and come out on the",to face their feos  to vee thraugh them and cone ont on the,0.056299292016774416,0.017859957995824516,0.13114754098360656,0.42857142857142855
+denoising,sample_351,"by laughing at what are very real fears . As adults , we know",by lnyhing ot what ave wy real frars . Ar wdaltr we bamw,0.08372816699557006,0.01351262500975281,0.29508196721311475,0.6428571428571429
+denoising,sample_352,but to a child they are very real . Not that I am suggesting,bat to a dhild they are rery real . Mit that I an nyerting,0.0945030839939136,0.01547250000294298,0.18333333333333332,0.42857142857142855
+denoising,sample_353,that children should be molly-coddled - they must be made,that diltren shonld be moly-cddled - they manst &e made,0.09171245800098404,0.015180582995526493,0.15789473684210525,0.5
+denoising,sample_359,unnecessary its fears were .,mnuecenvany its fears rrere .,0.08085150000988506,0.014188625005772337,0.25,0.4
+denoising,sample_360,To ridicule them only pushes them farther,To riadicule tham only pushes them farther,0.07332750002387911,0.03688312499434687,0.04878048780487805,0.2857142857142857
+denoising,sample_361,reaped at forty or fifty . Far better to,reaped at forty or fity . Far beker to,0.07460166700184345,0.01788316699094139,0.075,0.2222222222222222
+denoising,sample_363,the harvest of which may still be being,the hanvent of whicch wan wtill ke bing,0.06766804101062007,0.0244691249972675,0.20512820512820512,0.75
+denoising,sample_368,of twelve or thirteen under the,of bwebve axt thirten under the,0.055931042006704956,0.017369584005791694,0.1935483870967742,0.5
+denoising,sample_370,it is a good idea to condition a child,it is a good idea to conditian a ctied,0.07017008401453495,0.013315124990185723,0.07894736842105263,0.2222222222222222
+denoising,sample_376,"happens is not merely dishonest , it","tagysens is nat mericy dirhonest , it",0.08213587501086295,0.018109875003574416,0.2222222222222222,0.5714285714285714
+denoising,sample_377,frightening possibilities and yet by facing,Grisghtening paribilities and yet byfacing,0.05422087499755435,0.017330874979961663,0.13953488372093023,0.6666666666666666
+denoising,sample_382,the way to face life . To see all the latent,the way to face lfe . To see all the latent,0.05887204100145027,0.020761457999469712,0.022727272727272728,0.09090909090909091
+denoising,sample_385,has something important to do with our,ha souething ienpertant to ao wnth onr,0.06697200000053272,0.031756792013766244,0.21052631578947367,0.8571428571428571
+denoising,sample_391,"dwells in my hand , Knows this","dwells in my hand , Knous this",0.08078795799519867,0.012831040978198871,0.03333333333333333,0.14285714285714285
+denoising,sample_392,Was this : That a secret plan Is hid in,was thie : That a secrerplan Ts kid is,0.05066974999499507,0.015112124994629994,0.1794871794871795,0.7
+denoising,sample_396,"seen to be allies and not enemies and that ,",seen to be alkies and not exemmies amor let,0.06366595800500363,0.02216191598563455,0.25,0.5
+denoising,sample_398,we are with Thee .,we are with Phee .,0.06066024999017827,0.0108975829789415,0.05555555555555555,0.2
+denoising,sample_399,"come what may , we are never alone when","come what may , we are never alane wban",0.05434170801891014,0.017524082999443635,0.07692307692307693,0.2222222222222222
+denoising,sample_400,"be really afraid , help us to know that when","be realy cfraid , betp ls to tnow teat wlin",0.054098708991659805,0.016836166993016377,0.20454545454545456,0.7
+denoising,sample_410,realize that tiredness itself is largely in,reallice thnar tirednessitselt is lasrgely in,0.0483117499970831,0.016678999993018806,0.16279069767441862,0.7142857142857143
+denoising,sample_413,a mother has news late at night that her,a moths ter nuuur latt at mihl the thrs,0.04738187501789071,0.014789791981456801,0.45,0.7777777777777778
+denoising,sample_415,of tiredness to the body . This can be proved by,op livw te the begj. This can be prord bh,0.05297450002399273,0.01755008299369365,0.3541666666666667,0.6363636363636364
+denoising,sample_418,noting the effect of a new stimulus on some-,soting the eypet of o nu slinctir on emd-,0.052328791993204504,0.015553792007267475,0.36363636363636365,0.6666666666666666
+denoising,sample_423,"refer to something you like doing , bring a","refer to something yon like doing , bnbg a",0.05588508301298134,0.019394249975448474,0.09302325581395349,0.2222222222222222
+denoising,sample_424,up with no apparent tiredness at all when,up nith ho opparent Arehemns at a ehen,0.06793616598588414,0.023463542020181194,0.2926829268292683,0.75
+denoising,sample_428,to different situations . There are some which,to dilferent situatianns . Thare ar voure which,0.07828287500888109,0.028418041998520494,0.17391304347826086,0.625
+denoising,sample_429,"if the cause of our pain is too deep seated ,","if tha case of buer pain is too seyp sealor ,",0.08065933300531469,0.014725957997143269,0.2,0.45454545454545453
+denoising,sample_430,Any mental confusion can cause this and,Ceny mental contirtin can caue fhis and,0.07774654100649059,0.020426750008482486,0.23076923076923078,0.5714285714285714
+denoising,sample_435,As we are unable to cure our own bodies,Tes we are unabile to cure aur buin bockies,0.0621039169782307,0.01797870799782686,0.23076923076923078,0.5555555555555556
+denoising,sample_437,if the trouble is a complicated one,if the f franhle i a complicaled ane,0.04922841599909589,0.017180750000989065,0.2571428571428571,0.7142857142857143
+denoising,sample_438,"inability to deal with life , especially under",inatilily tele witlt lte ricictly anotr,0.04509708299883641,0.01648820799891837,0.4782608695652174,1.0
+denoising,sample_445,century .,culesjs .,0.02382616701652296,0.0044006249809172004,0.6666666666666666,0.5
+denoising,sample_446,"physical illness . There is , nevertheless , a",phyticol iltmps . Ttu is nerthili a,0.07990833398071118,0.014073124999413267,0.43478260869565216,0.6666666666666666
+denoising,sample_450,"be happening at the other end of England ,",b hamrnino at the ofter enet eesond,0.06805945801897906,0.03341183401062153,0.42857142857142855,0.7777777777777778
+denoising,sample_455,"When news from the Continent took days ,","When newss from the Contient tot days ,",0.05931350000901148,0.01784529202268459,0.1,0.375
+denoising,sample_457,to live a day at a time . Even those who,to live a dal at a tiure . Gan the who,0.0695589579991065,0.020863415993517265,0.2,0.36363636363636365
+denoising,sample_460,thirty even sixty miles from his,thirty even sixty miles from his,0.05839570800890215,0.009062333003384992,0.0,0.0
+denoising,sample_463,work . The only connexion is the,work . The orly connerion is the,0.06302695799968205,0.01082674998906441,0.0625,0.2857142857142857
+denoising,sample_466,travel day by day .,travel day by day .,0.03592070902232081,0.006833666993770748,0.0,0.0
+denoising,sample_467,"in one place , their lives were of one","in oneplace , their lives were of one",0.06125637498917058,0.011529042007168755,0.02631578947368421,0.2222222222222222
+denoising,sample_468,pipeline of the railway on which they,pipeline of the raslway on which they,0.0745651250181254,0.013039875018876046,0.02702702702702703,0.14285714285714285
+denoising,sample_473,of what is going on . It is easier to live life in,ofunat is gaing on Mligeagielouveufein,0.08072837500367314,0.013932500005466864,0.44,0.8461538461538461
+denoising,sample_474,"compartments but over the years it builds up ,","compastmerls hut arer theyearsitbuils wp ,",0.0477883749990724,0.01565416602534242,0.2391304347826087,0.8888888888888888
+denoising,sample_475,"homes . It is easy , desperately easy , to lead","hamnes. t icasy , desperatelyyeosytoleacd",0.04780804199981503,0.015787334006745368,0.2978723404255319,0.9090909090909091
+denoising,sample_477,and to do so inevitably builds up tensions which,andto oineitably builds yp tensiongunicn,0.0752501250244677,0.01368929201271385,0.2708333333333333,0.8888888888888888
+denoising,sample_479,planning to do so or in fact being conscious,planningtodosoorin factbeingcanscows,0.046504665981046855,0.015950500004692003,0.22727272727272727,1.0
+denoising,sample_483,Can we then frame some ' rules ' which may enable us to live life,Gan we then frame some rules ' wich may enable us to lire Wfe,0.04807079100282863,0.015429582999786362,0.1076923076923077,0.3333333333333333
+denoising,sample_486,write out all the necessary jobs waiting to,writ out otithe nuinary jitraiiiingto,0.08135395901626907,0.01556295799673535,0.4186046511627907,0.875
+denoising,sample_488,rather than getting from one thing to the next .,sottir ton gltti jrom on thii te teasit,0.04520629200851545,0.014976832986576483,0.4375,1.0
+denoising,sample_490,thing else . If we would only sit down and,tirp tee Ga wbtonly it bunond,0.04696874998626299,0.013585209002485499,0.5714285714285714,1.0
+denoising,sample_493,"if she made a list , followed a routine of work",ijstrmoolo hirl jotev a routin ojvost,0.04142445797333494,0.01575029201922007,0.574468085106383,0.9090909090909091
+denoising,sample_498,out for forty years I find difficult to understand .,sut fas forty years I find difficiief to rndersfand .,0.048877458000788465,0.017046458000550047,0.17307692307692307,0.4
+denoising,sample_501,it becomes possible to work out a system,it becomnes possikle to wort gut a pateu,0.0452674999833107,0.014599791000364348,0.2,0.625
+denoising,sample_503,the pressure on over-crowded trains .,the pressure on over-crowded treins .,0.06938804098172113,0.011833124997792765,0.02702702702702703,0.16666666666666666
+denoising,sample_504,can go through the same routine day in and day,can go thsugh the samne rutine day in aind daey,0.0477251659904141,0.01507470800424926,0.13043478260869565,0.5
+denoising,sample_513,"As it is , with so much of our life already","19 if ig , wieh somon of ouslfe atreosiy",0.04506808301084675,0.01402870798483491,0.37209302325581395,0.8181818181818182
+denoising,sample_516,started day one again and so on .,started day one again and so on .,0.05926224999711849,0.01145758299389854,0.0,0.0
+denoising,sample_521,week being the same with a pupil,week being the same with a pupir,0.06564549999893643,0.011636624985840172,0.03125,0.14285714285714285
+denoising,sample_522,Monday to Friday were days one,"""Onday to. Friday were dags one",0.06465020900941454,0.010990042006596923,0.13333333333333333,0.5
+denoising,sample_524,would be on Friday afternoon at,woul be on Friday Afternoon at,0.06405979199917056,0.01052133398479782,0.06451612903225806,0.3333333333333333
+denoising,sample_527,To have order does not mean getting,To have oreder ctoes nat thean getting,0.06804620800539851,0.012383875000523403,0.17142857142857143,0.5714285714285714
+denoising,sample_528,"It was a little complicated to work ,",it was a little complicated t wart,0.04836170899216086,0.01598683398333378,0.16216216216216217,0.5
+denoising,sample_534,into a dull routine . I have great,into adull toutine . I habe great,0.06269024999346584,0.013672500004759058,0.08823529411764706,0.5
+denoising,sample_540,sit down quietly and make a list of everything she has got to,sit down paatly and mabe a hist of ererthing ohe har got h,0.08419412499642931,0.014536915987264365,0.19672131147540983,0.5384615384615384
+denoising,sample_542,"the day without becoming exhausted , she will be well advised to",the dy withont beaming exhansted she will be ndrised to,0.07978608302073553,0.013552666001487523,0.21875,0.5833333333333334
+denoising,sample_546,put all our energies into the particular,put ol or mnpi into tporticstar,0.08050237499992363,0.015231625002343208,0.375,0.7142857142857143
+denoising,sample_547,"She will , in fact , be surprised at what peace",Ihe witt in foul  besrpitdadwtarod,0.04999645901261829,0.016806375002488494,0.5531914893617021,0.9090909090909091
+denoising,sample_551,"( Actually , the Mishnah quotes two further proof","ikctually , the Mishaah guotes two further prot",0.08244491598452441,0.015732165978988633,0.14285714285714285,0.5555555555555556
+denoising,sample_553,not quoted here because they are not,not guoted here because they are not,0.08192187501117587,0.017903707979712635,0.027777777777777776,0.14285714285714285
+denoising,sample_554,"texts and the Gemara explains why these ,","texts and the Gemara explains why these ,",0.08687541598919779,0.014103416993748397,0.0,0.0
+denoising,sample_555,necessary to prove the point made by,necessary to prove the point made by,0.0989453750080429,0.017898207996040583,0.0,0.0
+denoising,sample_556,"R. Joshua b. Levi . ) Finally , we note that","R. toshua b. Leiri ) Finally , we note that",0.11224383299122564,0.024854290997609496,0.09090909090909091,0.2727272727272727
+denoising,sample_564,"From the above it follows that here , once again ,","From the above it follous that here , once again ",0.09901658300077543,0.01791924997814931,0.06,0.18181818181818182
+denoising,sample_569,actual practice of greeting by the divine,actual practice of greeting by the divine,0.1609619999944698,0.012066249997587875,0.0,0.0
+denoising,sample_571,There is no reference to the Mishnah here,There is no reference to the Kishuah here,0.06742087501334026,0.02702445798786357,0.04878048780487805,0.125
+denoising,sample_573,by the Gemara in support of R. Joshua b.,by the Gemrara in support of R. toshma b .,0.08729320799466223,0.013934416987467557,0.1,0.4444444444444444
+denoising,sample_574,Name and the Gemara here quotes the,Name and the gemara here guotes the,0.08060604199999943,0.0128196659788955,0.05714285714285714,0.2857142857142857
+denoising,sample_576,need for the text of the angel are quoted,need for the text of the angel are goted,0.06789949999074452,0.010715792013797909,0.04878048780487805,0.1111111111111111
+denoising,sample_587,accord but there was no approval of his action,accord but there was no approral of his action,0.04327679198468104,0.015305250009987503,0.021739130434782608,0.1111111111111111
+denoising,sample_588,original question and answer and this is quoted,original question and answer and this is geoted,0.045113125001080334,0.01411937500233762,0.0425531914893617,0.125
+denoising,sample_592,in the decision of the human court . ),in the decisionn of the bumrann court . ),0.0748550420103129,0.012419040984241292,0.10526315789473684,0.2222222222222222
+denoising,sample_597,part of the verse .,part of the verse .,0.040747374994680285,0.007330583990551531,0.0,0.0
+denoising,sample_598,is then quoted and the interpretation of the,is then guoted and the interpretation of the,0.05113387500750832,0.015814125014003366,0.022727272727272728,0.125
+denoising,sample_599,latter part of the verse by Rami bar Rabh,latter part of the verse by Ram bar Rath,0.046221124997828156,0.015277291997335851,0.04878048780487805,0.2222222222222222
+denoising,sample_600,"is added , not because this is at all relevant","is added , not becouse this is at all relevanf",0.0658330419973936,0.01930487499339506,0.043478260869565216,0.2
+denoising,sample_601,become so well known that it was,become so well Lnoun that it was,0.058744999987538904,0.0174557080026716,0.0625,0.14285714285714285
+denoising,sample_602,The proof text of bringing the tithe to the Temple,The proof tent of bringing the tithe tothe Temple,0.0746105829894077,0.012231500004418194,0.04,0.3
+denoising,sample_605,deals with a similar theme .,deals with a similar thene .,0.04596816599951126,0.01523325001471676,0.03571428571428571,0.16666666666666666
+denoising,sample_606,and the court of Solomon . ' The place of this,"and the court of Golonon "" The place of this",0.0835188330092933,0.01525233400752768,0.10869565217391304,0.2727272727272727
+denoising,sample_611,"the court of Shem , the court of Samuel of Ramah ,","the court of shemn , the court of canmrel of famah ,",0.055465832992922515,0.017472208011895418,0.12,0.25
+denoising,sample_614,One can remember with horror the pictures of the,One can remember with horor the pictures of the,0.049875416996655986,0.016171958995983005,0.020833333333333332,0.1111111111111111
+denoising,sample_615,"trends . Crochet today has a variety of uses , and","trends . Crochet today has a varity of wses , and",0.04791695898165926,0.014458499994361773,0.04,0.18181818181818182
+denoising,sample_622,numerous other crocheted pieces . It was some years,mumeraus other crocheted pieces . It was some yans,0.0526604590122588,0.016054125007940456,0.0784313725490196,0.2222222222222222
+denoising,sample_623,This could hardly happen without the,Phris could hardly lhappen witlhout the,0.07569429100840352,0.012370834010653198,0.1111111111111111,0.5
+denoising,sample_631,"helped and hindered by water flow ,","tufped and hindered by water fhn ,",0.06344858297961764,0.010171874979278073,0.17142857142857143,0.2857142857142857
+denoising,sample_633,Thus we can see that herring,Thus we can see that teriiing,0.052557208022335544,0.008513875014614314,0.10714285714285714,0.16666666666666666
+denoising,sample_634,the herring spawn along the northern,tcr tirring prn alang tke nhorthern,0.059845207986654714,0.009485208021942526,0.2777777777777778,1.0
+denoising,sample_639,are also closely related to the sea-bed,are alss cforely related tothe sea-bed,0.06751070800237358,0.011003457999322563,0.10256410256410256,0.5714285714285714
+denoising,sample_641,a deep-water channel to the Dogger where,a cleepmater chated to the Nogger where,0.08165350000490434,0.026064999983645976,0.2,0.42857142857142855
+denoising,sample_646,"they migrate easterly to the Norwegian side , or westerly , until","they mjrate eartoly to the Normeyian slde , or wertorly , natil",0.1115037499985192,0.03898625000147149,0.18461538461538463,0.5
+denoising,sample_651,The joint evidence of echo-sounders,The fircit evidence of echo- saunders,0.1029936249833554,0.012575208995258436,0.2,0.6
+denoising,sample_656,spawn . Some will spawn at the,spawn . tame Wiicl spuwn aut hk,0.04594462501700036,0.01607704200432636,0.3,0.7142857142857143
+denoising,sample_659,The details are harder still to see .,The cetais are tumder stid toace .,0.058946500008460134,0.0209381669992581,0.2702702702702703,0.625
+denoising,sample_661,So the arrival of any particular shoal,to fae axsival of an particular soal,0.05585804200381972,0.026088999991770834,0.18421052631578946,0.7142857142857143
+denoising,sample_665,fish at a certain spawning ground may,tal at a eertain spamming proemod may,0.05643620801856741,0.01596225000685081,0.2972972972972973,0.5714285714285714
+denoising,sample_678,longshore fishings . The surface,Longshore fishings . The suyace,0.05818745898432098,0.01070212500053458,0.09375,0.4
+denoising,sample_680,with it the herring to the Norfolk,with it the harring to the Nortolke,0.06186133300070651,0.010019625013228506,0.08823529411764706,0.2857142857142857
+denoising,sample_681,"course - one breeze will not do it ,","cou-one breeye tid hat a il ,",0.06347916601225734,0.010444708983413875,0.3888888888888889,0.8888888888888888
+denoising,sample_682,but quite apart from this wind effect,bunt guite apurt from this wrind effet,0.06617333300528117,0.0113770839816425,0.13513513513513514,0.7142857142857143
+denoising,sample_689,"to this rump of coastline , caused by","to this runp of coastiine , cansed by",0.12822524999501184,0.01360700000077486,0.08108108108108109,0.375
+denoising,sample_691,of winds is needed for this effect of,of winds is peeded for this efect of,0.0694042920076754,0.017326375003904104,0.05405405405405406,0.25
+denoising,sample_694,"Herring fishermen call this "" the outset "" . It","Herring fsnermencall thi ""ihe ouoediitt",0.12281745902146213,0.017275916994549334,0.3191489361702128,0.9
+denoising,sample_699,been the biggest factor through the ages,been the biggest factarimough the ages,0.09570375000475906,0.031773541995789856,0.125,0.2857142857142857
+denoising,sample_700,in the constancy of this great herring fishery .,in the cenalancy of this greathering fisnery .,0.06850150000536814,0.019472000014502555,0.125,0.4444444444444444
+denoising,sample_703,"to overcome its effect , very few fish would be caught .",to erercome itos ofoot ray few fik uould be aught .,0.08549491697340272,0.015807082992978394,0.2857142857142857,0.6666666666666666
+denoising,sample_711,Let us consider first what would,tet us consider first what woula,0.07632095800363459,0.014371833996847272,0.0625,0.3333333333333333
+denoising,sample_713,to the disturbance .,tothedistwbance . ',0.0422564169857651,0.00730633400962688,0.3,1.0
+denoising,sample_716,it reaches them . They move away before,it reaches them . They move away before,0.06528145901393145,0.011169583012815565,0.0,0.0
+denoising,sample_717,"for an unknown period of time , until","for an untenoun periad of time , until",0.06266925000818446,0.017088167020119727,0.10810810810810811,0.25
+denoising,sample_719,indeed passing over some fish .,iroho porinp onssoml fite .,0.06060033297399059,0.012242875003721565,0.5161290322580645,0.8333333333333334
+denoising,sample_725,"field of disturbance , or bow wave . This suggests","Milofciilirbona,orbewwa thismrpt ",0.09267395801725797,0.013612041977467015,0.6,1.0
+denoising,sample_726,Then they stop swimming and are caught . In,Tnthy tter wimig andanaoti !s,0.08243025001138449,0.022860542027046904,0.5116279069767442,1.0
+denoising,sample_727,Cover in the fast-moving trawl is considered,Crerin the fatmaingtrauslis casiered,0.05750533301034011,0.015900749975116923,0.3181818181818182,0.8571428571428571
+denoising,sample_729,would seem to be even more essential ;,"woylal seern to be even more esentionl ,",0.06484020798234269,0.022201000014320016,0.23684210526315788,0.5
+denoising,sample_731,essential to catch round fish whose,exgential to cotn roun fih wnase,0.05623325001215562,0.01953029099968262,0.2571428571428571,0.8333333333333334
+denoising,sample_732,"fish like haddock , which would hardly",fin lhe nasaackiwnion woubhasaly,0.07763587500085123,0.014783916005399078,0.5,1.0
+denoising,sample_735,"find safety on the bottom , this cover",fin sofeyy on the pattorninigcover .,0.08658345899311826,0.01606408299994655,0.39473684210526316,0.75
+denoising,sample_739,the victim and inspecting at Waterloo the carriage,the wictim ans i nspectiny at uateloo ane coriagh,0.07378262499696575,0.038290833006612957,0.22,0.875
+denoising,sample_743,man had been seen fleeing from Vauxhall station on,man has been seen fleaingg from yan thall sration on,0.06864041701192036,0.030639833013992757,0.16,0.5555555555555556
+denoising,sample_744,"me well meant , some mischievous , including one that a","mewell meant , some nis Chievous , inelusing one that a",0.07297654199646786,0.031473167007789016,0.10909090909090909,0.45454545454545453
+denoising,sample_745,beyond the jury hearing a formal identification of,beyons the jury hearing a formad i d entif i Cation of,0.08322358300210908,0.02957600000081584,0.14,0.875
+denoising,sample_749,named Brown .,haamed feown .,0.07465512500493787,0.012896166008431464,0.3076923076923077,0.6666666666666666
+denoising,sample_750,trails . It was learned that Elizabeth Camp had been lending,trails. It was learned that Elizabeth Camp had been leansing,0.07039366700337268,0.043963875010376796,0.05,0.2727272727272727
+denoising,sample_757,at Wandsworth . A passenger described this individual,at Wandsworh . A passenger described this ingividva l,0.05934000000706874,0.024748750001890585,0.07547169811320754,0.375
+denoising,sample_762,"defective , and , despite his claim to infamy ,","Jefective , and , deseite his claim to infamy ,",0.04962724997312762,0.01599920800072141,0.0425531914893617,0.2
+denoising,sample_769,had been nowhere near the 7.42 that evening .,had been nownere near the til2 that evening .,0.05423566699028015,0.015818166983081028,0.08888888888888889,0.2222222222222222
+denoising,sample_777,sinister in the idea of tunnels . The building of,sinister in the iea of tunnels . The bailding of,0.06083312499686144,0.016250790999038145,0.04081632653061224,0.2
+denoising,sample_778,solution emerged . There has always been something,sodution emerged . There has aways been sonelhing,0.08668000000761822,0.016115459002321586,0.08,0.375
+denoising,sample_781,were many people who believed that to travel,were many people who beliered that to travel,0.05480762498336844,0.016221917001530528,0.022727272727272728,0.125
+denoising,sample_784,a further seven years before even a ghost of a,a further seven years helore even a ghost of a,0.04996237499290146,0.016447125002741814,0.043478260869565216,0.1
+denoising,sample_788,"by it will be so heartily sick , what with the",by it will be So heactilf sick  what wien the,0.07740729098441079,0.02158704199246131,0.15217391304347827,0.36363636363636365
+denoising,sample_795,"said , "" the deafening peal of thunder , the sudden","saih , "" the deafering peal of thunaee , the sugalen",0.06289362499956042,0.024856500007444993,0.13725490196078433,0.36363636363636365
+denoising,sample_797,"immersion in gloom , and the clash of reverberated","immlssion in ploom , and the clash ef Eevecberated",0.06330187499406748,0.027972000010777265,0.12,0.4444444444444444
+denoising,sample_798,darkness .,dactness .,0.029372874996624887,0.0057844170078169554,0.2,0.5
+denoising,sample_799,passengers would be robbed and assaulted in the,passengeis wald be robbed and assaulkey in the,0.06478258399874903,0.01830854100990109,0.10638297872340426,0.375
+denoising,sample_800,"of annihilation . "" It was also prophesied that",of anninilationlt was also peophesie that,0.09178708301624283,0.03147758299019188,0.19148936170212766,0.5555555555555556
+denoising,sample_803,sounds in a confined space combine to produce a,soungs in a confiney Sface comline to peouuce a,0.09211724999477156,0.02792262498405762,0.14893617021276595,0.5555555555555556
+denoising,sample_807,"For all that , as far as England is concerned ,","for all that , as far ay Englad is concemned ,",0.07143870799336582,0.021093874995131046,0.0851063829787234,0.36363636363636365
+denoising,sample_817,Though in the minds of most people there was,Thouyh in the minds of nost peqphe theve wo,0.06876879199990071,0.022280250006588176,0.1590909090909091,0.5555555555555556
+denoising,sample_818,"Brighton line , is approximately one mile long ,","Briguton line , is approrimatel y one mile long ,",0.06819533300586045,0.020610209001461044,0.0625,0.3333333333333333
+denoising,sample_819,was not sufficient evidence to show whether,wat not sufficient eridence to slow whether,0.07602391700493172,0.02929895801935345,0.06976744186046512,0.42857142857142855
+denoising,sample_820,and some time before midnight on September,and sowe time before midnighy on september,0.05260520800948143,0.031088416988495737,0.07142857142857142,0.42857142857142855
+denoising,sample_823,"Was it a case of suicide , where some unhappy soul","Wasit a case of suicide , Whee same unheppy soul",0.042954042000928894,0.013707290985621512,0.1,0.45454545454545453
+denoising,sample_824,"doctor , the woman , young , small , and rather plump ,","doctor , the woman , young  small andrather plumnp .",0.07190933299716562,0.013800165994325653,0.12727272727272726,0.46153846153846156
+denoising,sample_829,thrust in her mouth like a gag .,thurst in her . Mouth like a gag,0.050896250002551824,0.01703470799839124,0.21875,0.5
+denoising,sample_831,was found to have her own silk scarf drawn,Was found to have herown silk scarf otrawn,0.05099950000294484,0.0164691660029348,0.09523809523809523,0.4444444444444444
+denoising,sample_834,"fication , no money , and no railway ticket . By then","ficationno money , andno railway ticnet . By then",0.051210250006988645,0.019801083981292322,0.09433962264150944,0.5
+denoising,sample_835,occurred before her death was ensured by some,occurred before her death was ensured by some,0.05921800000942312,0.01891312500811182,0.0,0.0
+denoising,sample_836,"this stretch of line , but no information was","this stretch of line , but ho intormation was",0.057832791993860155,0.017989416985074058,0.044444444444444446,0.2222222222222222
+denoising,sample_839,which might relate .,Which might relate .,0.03956670899060555,0.007217500009573996,0.05,0.25
+denoising,sample_841,and there were other injuries on her body which had,and there were other injuvies on her hody which had,0.054776249977294356,0.018851000000722706,0.0392156862745098,0.2
+denoising,sample_843,no letters or papers found on her to assist identi,"no letters or papers fouud on her to assist idont ,",0.06139483299921267,0.018477915989933535,0.08,0.3
+denoising,sample_846,"circulated , and a Mr Robert Money came forward to","cireulated , and a ur Robert noney cake forwarg to",0.07396458298899233,0.031319917005021125,0.1,0.5
+denoising,sample_854,"jolly , "" had been unmarried , and lived at Lavender Hill ,","Jolly ' ' nad been unuarried , and lived at Lavenger Mill ,",0.0680324169807136,0.02384120799251832,0.11864406779661017,0.5384615384615384
+denoising,sample_855,"evening at about seven o'clock , telling her room-mate , Emma","evaniny at about sevel o "" clock , Jelling ner look-Mate , Carka",0.06869924999773502,0.03496016698773019,0.2459016393442623,0.8181818181818182
+denoising,sample_856,purse .,DuirSR .,0.04231470898957923,0.007616624992806464,0.5714285714285714,0.5
+denoising,sample_859,"carrying a handbag , but she believed she had had a small","carrying a hanbag , but she belived she nad nad a small",0.08217495802091435,0.031376166007248685,0.07017543859649122,0.3333333333333333
+denoising,sample_860,"gone for long . According to Miss Hone , she had not been","Bone for loup . According to Miss Houe , she nad not been",0.07031012501101941,0.03477520801243372,0.08771929824561403,0.3076923076923077
+denoising,sample_861,rican would not say ; nothing an,"rican would not say , nothig an",0.051841999986208975,0.01612495898734778,0.0625,0.2857142857142857
+denoising,sample_863,glishman would not do ; nothing an Ame-,gtishman would not do ; nothing an Amme,0.07958604098530486,0.013140250026481226,0.07692307692307693,0.25
+denoising,sample_864,SOME years ago a contemporary philosopher,SOME yeard ago a contemporary philosophen,0.04440812501707114,0.01366979198064655,0.04878048780487805,0.3333333333333333
+denoising,sample_867,told us that there was nothing an En-,fold us that there was notting an lu-,0.07554550000349991,0.022769584000343457,0.10810810810810811,0.375
+denoising,sample_869,not covet ; and nothing the Chinese,not covef ; and nothing the Cinete,0.10250945802545175,0.017726250021951273,0.08571428571428572,0.2857142857142857
+denoising,sample_875,music to which the Frenchman would not dance ;,music to whicd th Frenchman would not dancer .,0.08121166698401794,0.02439066700753756,0.08695652173913043,0.4444444444444444
+denoising,sample_878,hold forth from a spear the welcome gobbet of,Rrld firth froin a syear the Welcome gotbet of,0.08891529202810489,0.04277908301446587,0.17777777777777778,0.6666666666666666
+denoising,sample_882,borrowed straight from the prehistoric . How,boirowsed straigtt fromn thre prebistorra . Hfow,0.09081283400882967,0.016740082995966077,0.20454545454545456,0.8571428571428571
+denoising,sample_884,Suffice to say that few of us stop to marvel at,Juffice to say that few of us stop to marvel at,0.07674195899744518,0.011735917010810226,0.02127659574468085,0.09090909090909091
+denoising,sample_888,How many centuries later did the mercenary in,fow many centuries later did the mercenary in,0.07192316700820811,0.011355416005244479,0.022222222222222223,0.125
+denoising,sample_890,later still the young Victorian buck adventuring,later atill th young Victorian buck adventuric,0.07077845800085925,0.011183458002051339,0.08333333333333333,0.42857142857142855
+denoising,sample_894,"And , if certain dishes and modes of food have","And ,if certain diskes aund mods of food havs",0.06867704199976288,0.012192874972242862,0.10869565217391304,0.6
+denoising,sample_897,always been strong in mankind . The sharing of,allrays teen stonp in manbind . The sharing of,0.07993499998701736,0.014909416000591591,0.13043478260869565,0.4444444444444444
+denoising,sample_898,day ; the desire to share something more intimate,day ; the desire to shere som thing more intimate,0.047460375004448,0.01518799999030307,0.04081632653061224,0.3333333333333333
+denoising,sample_900,a meal in those earliest dangerous days was an,a meal in thnse earlieit dangrous dlays wras an,0.04599466599756852,0.01651787498849444,0.10869565217391304,0.5555555555555556
+denoising,sample_904,tation affords an opportunity of,tation affords anopportunity of,0.07298529200488701,0.012245791003806517,0.03125,0.4
+denoising,sample_905,It is a far enough cry from the primitive,A is a fa enough crk from primitive,0.04204704100266099,0.013144249998731539,0.1951219512195122,0.4444444444444444
+denoising,sample_909,groaned under its load of complicated,groaned undar its Cad of complicutel,0.04715870798099786,0.015077958989422768,0.13513513513513514,0.5
+denoising,sample_920,"those days , as ever , ate sparingly , but","those dnns , as ever , ate sparringl' , bu t",0.04336637500091456,0.013728790974710137,0.11904761904761904,0.4
+denoising,sample_923,by Catherine de Medici . The peasant in,bu Catherine do Jledici . The peasant in,0.0481305830180645,0.014689207979245111,0.10256410256410256,0.375
+denoising,sample_926,"Epicures and gourmands , sated by the unending","Epicures an gourmands , sated by the unending",0.048217083007330075,0.020177458005491644,0.021739130434782608,0.125
+denoising,sample_928,of the 18th century - that amazing epoch of,of the 18th century - thatt amaeing epach of,0.04767191698192619,0.020221083017531782,0.06976744186046512,0.3333333333333333
+denoising,sample_929,"intelligent selection and comparative simplicity , though","intelligent selection and comparative simplicity , thougn",0.050445750006474555,0.021321291016647592,0.017543859649122806,0.14285714285714285
+denoising,sample_931,nowadays their simplified meals would seem quite,nowadays their simplifield menls wauld seem avite,0.04878745798487216,0.02317408300586976,0.10416666666666667,0.5714285714285714
+denoising,sample_934,"of gorging the eye with magnitude ,",of genrging the ee nith magnitud,0.08518779199221171,0.014494125003693625,0.2,0.7142857142857143
+denoising,sample_935,"simplicity , though nowadays their","simplicite , Though mowadans their",0.08625808299984783,0.016734834003727883,0.11764705882352941,0.6
+denoising,sample_936,"the dishes of the country , and , instead","the dishes of the countwy , and , instend",0.055209957994520664,0.016721916006645188,0.04878048780487805,0.2222222222222222
+denoising,sample_940,simplified meals would seem quite,snmuplified meals would seem cuite,0.051438957976642996,0.01731179200578481,0.09090909090909091,0.4
+denoising,sample_944,unending procession of dishes from those,unending prucession ofUishes from thasa,0.04978812500485219,0.015988165978342295,0.125,0.6666666666666666
+denoising,sample_946,"water and food ? The ancient Britons , I believe , used to","mater and foadt The ancient Britons , ) believe , usegd to",0.0672879999910947,0.029293958010384813,0.10344827586206896,0.38461538461538464
+denoising,sample_949,his birthright to him for a mess of pottage - and,his birthrignt to him for a mess of pettage - and,0.06558925000717863,0.021400459023425356,0.04081632653061224,0.18181818181818182
+denoising,sample_950,which the Israelites sighed .,which the lsraelites sighed .,0.07588995801052079,0.013508833973901346,0.034482758620689655,0.2
+denoising,sample_953,"Does one , however , know who first thought","fres one , houever linow who first Thought",0.04964958399068564,0.01621270799660124,0.16279069767441862,0.5555555555555556
+denoising,sample_959,"would , because Esau sold his birthright","would , becauss Esan sodd his toirthrght",0.051201249996665865,0.01686712499940768,0.15,0.5714285714285714
+denoising,sample_963,When Achilles gave a royal feast the principal dish,When Achiilles gave a royal feast the principal digh,0.04993445798754692,0.020654541003750637,0.0392156862745098,0.2222222222222222
+denoising,sample_970,"Anyhow , Homer does not seem to have known any","Anyhou , ttomer does not seemn to have lnoun any",0.05265062500257045,0.021868832991458476,0.13043478260869565,0.4
+denoising,sample_971,"how to do it , too : - When the languid flames at","how to do it , to0 : - When the languid flames at",0.05926112501765601,0.022371749975718558,0.02040816326530612,0.07692307692307693
+denoising,sample_972,"Anyhow , Homer does not seem to have","AiVhow , Homa , Cloes not seem -o ha v t",0.04975041697616689,0.015242916997522116,0.3055555555555556,1.0
+denoising,sample_976,throws a bed of glowing embers wide ;,Hrorows abed of fowig erfes wide ;,0.042399250000016764,0.013126083998940885,0.2702702702702703,0.625
+denoising,sample_980,"dish was a grill , which he cooked himself ,","dish wus a grrill , which he cockied himself ,",0.04659004198038019,0.014567958016414195,0.09090909090909091,0.3
+denoising,sample_981,Achilles gave a royal feast the principal,"Hchilles jave "" oval feast the principal",0.04194620897760615,0.012862208008300513,0.12195121951219512,0.5714285714285714
+denoising,sample_982,known any way of cooking meat,lnown an way of cookirng meut,0.07093812499078922,0.011475084000267088,0.13793103448275862,0.6666666666666666
+denoising,sample_983,and intellect . A remarkable peculiarity in the banquets,and intellect . A remarkable peculiarity in the banquets,0.057046458998229355,0.01713679201202467,0.0,0.0
+denoising,sample_987,confine the resources of the table to the gratification,confine the resources of the table to the gratification,0.06091108301188797,0.01807154100970365,0.0,0.0
+denoising,sample_989,of one sense alone . Having exhausted their invention,"of one senise alone , ltaving exhausted their invention",0.048631458019372076,0.02080504098557867,0.07547169811320754,0.3333333333333333
+denoising,sample_996,"perfumes , these refined voluptuaries aroused the",perfumesthese refined waluptuaries acousey the,0.06525370897725224,0.02492120800889097,0.14285714285714285,0.7142857142857143
+denoising,sample_999,of fruits .,of fruits .,0.04282099998090416,0.005817041004775092,0.0,0.0
+denoising,sample_1000,fainting appetite and added a more exquisite and,fainting appetite and aded a more exquisite and,0.06812024998362176,0.02396591700380668,0.020833333333333332,0.125
+denoising,sample_1001,They considered flowers as forming a very essential,They consigered flwers as forming a very essential,0.08230224999715574,0.021452874992974102,0.0392156862745098,0.25
+denoising,sample_1004,traveller occasionally encounters a certain,fraveller occatonally encontiens a certai,0.07226800001808442,0.05035045801196247,0.16279069767441862,0.8
+denoising,sample_1006,measure of novelty .,measure of noveltyr .,0.0649079580034595,0.01166899999952875,0.05,0.25
+denoising,sample_1012,piece of resistance .,piece of resvstance .,0.05506970902206376,0.009016000025440007,0.047619047619047616,0.25
+denoising,sample_1013,a delicacy . The visitor is told that,a dehicacy . iefhe visttor is t old tahat,0.0970479579991661,0.015037207980640233,0.1891891891891892,0.75
+denoising,sample_1018,"alive , dipped in treacle and swallowed","alive , dupped in fireade and awaltowed",0.053477250010473654,0.025260708993300796,0.1794871794871795,0.42857142857142855
+denoising,sample_1019,"from eating it fresh , squash it , press",from eating is fresh y sghrak it  pren,0.08633229098632,0.01534800001536496,0.275,0.5555555555555556
+denoising,sample_1020,roasted on the point of a spear are,roased on the poit off a Bpear ore,0.05782187500153668,0.01864824999938719,0.14285714285714285,0.625
+denoising,sample_1021,peoples have a high opinion of the octopus,peoples have a high opinnon of the oopu,0.061439958022674546,0.025189500011038035,0.09523809523809523,0.25
+denoising,sample_1022,as an article of diet . So have the Japanese,"as an artice of diet ;, Do howv e the Sapanere",0.0560557080025319,0.018290832987986505,0.20454545454545456,0.6
+denoising,sample_1023,Among the natives of Northern Australia lizards,pmmong the netives of Gforthern ftralian linzandy,0.04974979200051166,0.014730083988979459,0.2553191489361702,0.7142857142857143
+denoising,sample_1024,of it in almost any provision shop .,of it in amost any provvnon stop .,0.047876541008008644,0.015782666014274582,0.1388888888888889,0.375
+denoising,sample_1026,"over with flour , you will find a stack","ovar with flour , you will find a stock",0.05324479201226495,0.0577708330238238,0.05128205128205128,0.2222222222222222
+denoising,sample_1027,"and the Chinese . The Celestials , apart","and the chinese . ffe celestials , apart",0.23066649999236688,0.02148070899420418,0.1,0.375
+denoising,sample_1028,"it and dry it , in which form , dusted","Af and dury it , i which gorm , dusted",0.056691625009989366,0.018197875004261732,0.13157894736842105,0.4
+denoising,sample_1031,provides many Magyar dishes with a vivid and brilliant,provides many Magyar dishes with a virid and Brilliant,0.07924683301826008,0.041318540985230356,0.037037037037037035,0.2222222222222222
+denoising,sample_1033,Hungary would have been deprived of the condiment which,Hunserg would nave been deprired of the condioment which,0.23578437499236315,0.04115720800473355,0.10909090909090909,0.4444444444444444
+denoising,sample_1039,"fire , aerian creams , ingenious pastries and a","fire , aerian creams , ingenious pastries and a",0.08354495800449513,0.022182624990819022,0.0,0.0
+denoising,sample_1042,"cookery is reminiscent of bull-fights , of Spanish dancing","coskery is reminiscent of bull-fights , of foanish dancins",0.05515170798753388,0.027511874999618158,0.06896551724137931,0.3333333333333333
+denoising,sample_1047,"streaks of poetry , meat disguised under heavy and vehement","streates of poetry , meat diguised under heavy and rehemmnt",0.07243358399136923,0.03575008298503235,0.0847457627118644,0.3
+denoising,sample_1051,the meats with their antithesis . The,the mneats with their antithesis . The,0.07794770901091397,0.028452582977479324,0.02702702702702703,0.14285714285714285
+denoising,sample_1052,opulent varieties of Czechoslovak past-,opulent varieties of ceechaslovak past-,0.058612207998521626,0.02706829199451022,0.07692307692307693,0.2
+denoising,sample_1054,"essentially French , and , irrespective of","essentially Fionch , and , irrespective of",0.05771074999938719,0.032676750008249655,0.047619047619047616,0.14285714285714285
+denoising,sample_1060,"touch , the same unfailing sense of","touch , the same unfailing sense of",0.0830050419899635,0.03387879198999144,0.0,0.0
+denoising,sample_1061,proportion as exists among her,proportion as exists among her,0.09000558298430406,0.030057916999794543,0.0,0.0
+denoising,sample_1063,exponents of things that are,exponents of things that are,0.06368066600407474,0.018944915995234624,0.0,0.0
+denoising,sample_1075,the same unfailing sense of proportion as exists among,the same unfailing sunse of preportion as exists among,0.08638620801502839,0.026786999980686232,0.037037037037037035,0.2222222222222222
+denoising,sample_1082,waxed enthusiastic about Bouilla-,waxed enthusiaistic about ouilla-,0.08423729200148955,0.044525083008920774,0.06060606060606061,0.5
+denoising,sample_1089,prepared at least once a week in every bourgeois,prepared at least once a wek in every bourgeois,0.06895320798503235,0.024239457998191938,0.020833333333333332,0.1111111111111111
+denoising,sample_1091,A hotch-potch of all sorts of fishes That Greenwich,A hokch-petch of all sorts of fishes That Greenwich,0.05913799998234026,0.025172459019813687,0.0392156862745098,0.1111111111111111
+denoising,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,","noble dih is , A sort of soup , or broth , or brew ,",0.135564666998107,0.025459875003434718,0.018867924528301886,0.06666666666666667
+denoising,sample_1101,fast and supper consisted of a,fast and supper consisted of a,0.083515875012381,0.02677566700731404,0.0,0.0
+denoising,sample_1106,intellectual faculties . Bunyan's break-,intellectual faculties.Bsunyanis break,0.0703338339808397,0.027198041003430262,0.125,0.8
+denoising,sample_1110,breakfast and supper consisted of a piece of coarse bread,Brealfut and snpper consinked ofa puiece of coase bread,0.073982125002658,0.014251084008719772,0.17543859649122806,0.7
+denoising,sample_1113,"had a great contempt for animal food , believing that",lnd a grent conkenpt for aimal frod Geleving that,0.07324016699567437,0.011405083001591265,0.20754716981132076,0.7
+denoising,sample_1114,A fascinating study also opens up in the dietary,o fecinaing stdy alio gqens u in the cetonyg,0.056015375012066215,0.010469125001691282,0.2916666666666667,0.7777777777777778
+denoising,sample_1118,been blind to the charms of turbot and,been blind to the ehnarms of turbot and,0.09433008401538245,0.028600457997526973,0.05263157894736842,0.125
+denoising,sample_1119,in the dish in which it was served . He,in the dlish in which it was seved .te,0.06507204100489616,0.05411783399176784,0.10256410256410256,0.4
+denoising,sample_1125,removed first .,remored fist .,0.07499824999831617,0.004231208004057407,0.13333333333333333,0.6666666666666666
+denoising,sample_1126,dinner he is said to have been blind to the charms of,dimer be in aaid to have baen blind to the chamns of,0.14027000000351109,0.01729695900576189,0.1509433962264151,0.5
+denoising,sample_1127,turbot and to have been much more interested in the,fbot and to have been mmch move intoeted in the,0.07060570799512789,0.023483249999117106,0.1568627450980392,0.4
+denoising,sample_1133,"with Dickens says the menu was Whitstable oysters , a brown","will Dickons augs the menn was Wlittibll ogrkis , a brovs",0.08382008399348706,0.016843999997945502,0.3050847457627119,0.6363636363636364
+denoising,sample_1135,placing his food in his mouth and gulping it down as,plaing hin food in his monbll and gulping it doun an,0.08138920899364166,0.01429170899791643,0.15384615384615385,0.45454545454545453
+denoising,sample_1142,"The same man went to see Carlyle , and , after mentioning","dle ame mnan west tos Curbgle and , efhe netioring",0.06028433301253244,0.0102077079936862,0.3333333333333333,0.8333333333333334
+denoising,sample_1144,"him was the French Admiral , Jean de Vienne -","hin was the French tmiral , ean de Uienre-",0.0803731250052806,0.034242583002196625,0.15555555555555556,0.5
+denoising,sample_1145,"leadership . But , at last , Gaunt sailed . Opposing","ieadership . But , at lat , Gout sailed . Opposing",0.07346541702281684,0.021991707995766774,0.07692307692307693,0.2727272727272727
+denoising,sample_1146,who still believed that they had a monopoly of,who still believed that they had a monopaly of,0.072936833021231,0.022503332991618663,0.021739130434782608,0.1111111111111111
+denoising,sample_1151,"something to show , he foolishly attempted to besiege","something to show , he fodishly attempted to besiege",0.06760729200323112,0.022252875001868233,0.03773584905660377,0.1111111111111111
+denoising,sample_1152,on land . Gaunt was compelled to give up his search for,on land . Gaunt was compelled to give up his search fos,0.06529491700348444,0.02159895797376521,0.01818181818181818,0.08333333333333333
+denoising,sample_1154,"an elusive foe , and , afraid to return home without","an elusive foe , and , afraid to return home without",0.07346795799094252,0.02801400001044385,0.0,0.0
+denoising,sample_1155,"which Gaunt , under the Black Prince , had shown","which Gount , under the Black Frince , had shoun",0.08995495800627396,0.024464999994961545,0.0625,0.3
+denoising,sample_1157,trouble at sea as cleverly as Du Guesclin avoided it,trouble at sea as cleverly as Dn Gvesclin avoided it,0.16741233298671432,0.030199208995327353,0.038461538461538464,0.2
+denoising,sample_1160,comparing the failure of a subsidized duke,conparing the foilure of a subidiges dills,0.07754987498628907,0.01543550001224503,0.21428571428571427,0.5714285714285714
+denoising,sample_1161,"When all seemed to be going well , a sortie surprised","wheu oll soemed to be going well , s oortie ourpriseo",0.0899865000101272,0.01707633401383646,0.1509433962264151,0.5454545454545454
+denoising,sample_1162,fame and glory . Gaunt was compelled to return,fome and glary . Pout wa3 compelle to retun,0.09287008398678154,0.01604695900459774,0.17391304347826086,0.6666666666666666
+denoising,sample_1164,"even despised failure . The ' ribald ' Londoners , who","oven dspised feili . The ribald , Loudoner , who",0.05077529200934805,0.019566500006476417,0.2037037037037037,0.5454545454545454
+denoising,sample_1165,the longbows of yeomen could pierce the,the lougbows of yeomen could pierce the,0.0740126250020694,0.012231375003466383,0.02564102564102564,0.14285714285714285
+denoising,sample_1169,"and that , if archers had no target , campaigns","and thatiif ardes lad w togget , compegus",0.07488695799838752,0.0139230829954613,0.3191489361702128,0.8
+denoising,sample_1170,"after the event . It seems obvious that , though","after the event . It seems obvious thot , thagh",0.073814167000819,0.012671042000874877,0.0625,0.2
+denoising,sample_1180,command of the Channel . It seems obvious,command of tho Chsuvel . It wems oviovs,0.049330374982673675,0.01680179199320264,0.1951219512195122,0.5
+denoising,sample_1183,the story of the prelude to the,the story of the prelude to the,0.05794470800901763,0.018656708009075373,0.0,0.0
+denoising,sample_1186,to which the Exchequer resorted is,to which the Exchequesir resorted is,0.06931379201705568,0.02294241701019928,0.058823529411764705,0.16666666666666666
+denoising,sample_1187,hammering out nations on the anvils of,h a mmeriny out nations on the anvils of,0.06467150000389665,0.02028270802111365,0.07894736842105263,0.42857142857142855
+denoising,sample_1191,"war , there was a constant stirring of","war , there was a constant stirring of",0.07208595800329931,0.022344290977343917,0.0,0.0
+denoising,sample_1195,taxation not merely for defence and,taxation not merely for defence and,0.06311437499243766,0.020722333021694794,0.0,0.0
+denoising,sample_1196,the private wealth of the monarchy,the private wealth of the monarcny,0.06430179098970257,0.02135158298187889,0.029411764705882353,0.16666666666666666
+denoising,sample_1198,ceptions of governmental duties must be,ceptions of governmental duties must be,0.06327679098467343,0.023206790996482596,0.0,0.0
+denoising,sample_1202,social services . A mediaeval oligarchy,social services . A mediaeval oligarchy,0.07742833299562335,0.024579082994023338,0.0,0.0
+denoising,sample_1204,Social service as a function of government,Sociol service os o tunction of government,0.0685616250266321,0.03911058299127035,0.09523809523809523,0.5714285714285714
+denoising,sample_1206,it was therefore always granted grudgingly,it was theretore alwoys gronted qruadgingly,0.08681104201241396,0.035533125017536804,0.11904761904761904,0.6666666666666666
+denoising,sample_1207,return was the uncertain bounty of booty,return was the uncertoin bounty of booty,0.07989054100471549,0.03676054099923931,0.025,0.14285714285714285
+denoising,sample_1216,the unsuccessful . But the Commons were not,the unsuccesstul . But the commons were not,0.07166929100640118,0.040697457996429875,0.046511627906976744,0.25
+denoising,sample_1219,"accounts , and even at times the impeachment of","accounts , and even at times the impeachment of",0.07824920798884705,0.03487562501686625,0.0,0.0
+denoising,sample_1222,When ' his ' war did not bring victory and,"When his , war did not bring victory and",0.058308707986725494,0.029216499999165535,0.07142857142857142,0.2
+denoising,sample_1225,"successful farmers , the artisans , craftsmen ,","successtul tarmers , the ortisans , crafilsmen ,",0.06506458300282247,0.02931354197789915,0.10638297872340426,0.5
+denoising,sample_1226,"towns , and the retainers and men-at-arms","towns , and the retainers and men-at-arms",0.07079975001397543,0.02891741698840633,0.0,0.0
+denoising,sample_1227,"had bought their release , free labourers","had bought their release , free lobourers",0.05633295900770463,0.02682825000374578,0.024390243902439025,0.14285714285714285
+denoising,sample_1232,feudal obligations of work or villeins who,Feuol obligotions of work or villeins who,0.061585624993313104,0.025967041990952566,0.09523809523809523,0.2857142857142857
+denoising,sample_1233,"None of these classes , except the yeomen , paid or","nanl of thete clanes , ereapt the yeomen , paid or",0.05616604199167341,0.015763084025820717,0.17647058823529413,0.36363636363636365
+denoising,sample_1235,financing the Exchequer had become stabilized .,financi the Precheguer had became Pabilised .,0.07918366600642912,0.01578666700515896,0.2127659574468085,0.5714285714285714
+denoising,sample_1236,expected to pay direct taxes . During the four-,spectecd to pay direet tanees . Muinily the foin-,0.09721258300123736,0.014087334013311192,0.2765957446808511,0.5555555555555556
+denoising,sample_1239,"prices , quality and tax could be efficiently su-","pias , quality and tore coulol be efficienly p.",0.050757499993778765,0.0163093330047559,0.24489795918367346,0.5555555555555556
+denoising,sample_1244,"the foreign merchants , with whom the King's","the forejpn merchaiy , which wham the lirgy'ss",0.08575916700647213,0.014822541998000816,0.2727272727272727,0.625
+denoising,sample_1245,sanction at a rate roughly fifty per cent in,sanctian at a rath roughly tity per centin,0.07792441701167263,0.014101000007940456,0.11363636363636363,0.5555555555555556
+denoising,sample_1248,"at ' colloquies of merchants ' , and whose","af "" clloguies of iTerchanls "" , anl whale",0.05322062500636093,0.019079208024777472,0.2619047619047619,0.7777777777777778
+denoising,sample_1250,There were two other sources of public revenue -,There nerltwo other souvees of pubflic rerenne-,0.05367229200783186,0.0268064999836497,0.1875,0.6666666666666666
+denoising,sample_1251,excess of the rate for native merchants .,weuen of the robfar native murclanly .,0.07054133299971,0.018165874993428588,0.34146341463414637,0.5
+denoising,sample_1253,"In addition to these revenues , the King had the","In additian to these revemmus , the ling had the",0.06334687498747371,0.009884041995974258,0.10416666666666667,0.3
+denoising,sample_1255,"and national war , and in which the comparati-","and national war , and in whiille the canpparati-",0.059888500021770597,0.017710290994727984,0.15217391304347827,0.2222222222222222
+denoising,sample_1256,"It was , therefore , a complicated and not very","It way , therefore , a camplicatad anet nat beny",0.05032941701938398,0.017274833022383973,0.1702127659574468,0.5
+denoising,sample_1257,as ill-defined as the borders between private,ar i/folifild as the borlay hetreen privalt,0.05508570800884627,0.016703625005902722,0.35555555555555557,0.7142857142857143
+denoising,sample_1262,borders between private and public purse were,borders betrreen privai and putlc plrtl were,0.05451591601013206,0.01689645799342543,0.2,0.5714285714285714
+denoising,sample_1267,scale of payments was fixed for the,scale of payments was fixenl for the,0.04907712500425987,0.0163246669981163,0.05714285714285714,0.14285714285714285
+denoising,sample_1268,payments demanded . The definition of an,payments demanded . The detinition of an,0.05784812499769032,0.01681050000479445,0.025,0.14285714285714285
+denoising,sample_1274,the results disappointing - a tax estimated,the resalts disappointinng - a tak e stimated,0.06088062500930391,0.01832170900888741,0.09302325581395349,0.7142857142857143
+denoising,sample_1276,Again the resentment was widespread and,Again the resentmnent was widespreal and,0.0538122080033645,0.016487541986862198,0.05128205128205128,0.3333333333333333
+denoising,sample_1279,with hostelries and lodgings .,with hostelries and lodgings .,0.0694994579826016,0.011498625011881813,0.0,0.0
+denoising,sample_1282,There were dark reasons for a meeting so,Tnere were dark reasony for a meeting so,0.055104500002926216,0.016324957978213206,0.05,0.25
+denoising,sample_1284,from the chronicles that this was a sordid,from the chroaicles that this was a sordid,0.05187729198951274,0.02164424999500625,0.023809523809523808,0.125
+denoising,sample_1286,baronage with rarer luxuries than those,baronage with rarer lnxurics than those,0.056216666009277105,0.0170633330126293,0.05128205128205128,0.16666666666666666
+denoising,sample_1287,quarrel between monopolists and interlopers .,quarrel between moaopolists and inferloper .,0.06121733400505036,0.017945375002454966,0.06666666666666667,0.3333333333333333
+denoising,sample_1291,"chant from Genoa had been murdered , and","chaat Prom Geno"" had been murdered , and",0.04816758300876245,0.01997891700011678,0.075,0.375
+denoising,sample_1293,the suggestion that the rich should help,the pugyestinn Phat the sich phouklheyy,0.0461001249786932,0.01424704201053828,0.275,0.7142857142857143
+denoising,sample_1298,"three times the rate would produce 66,000 .",prrefimes tteniewouldtstotmebtoer .,0.046635709004476666,0.014114624995272607,0.5581395348837209,0.875
+denoising,sample_1300,The only concession made in view of the,The only conussion qruteinNiuf the,0.04260479100048542,0.013058083015494049,0.3333333333333333,0.625
+denoising,sample_1301,because no machinery was provided for,Nemmen mooochinng woo frvided for,0.06204420799622312,0.009848957997746766,0.4594594594594595,0.8333333333333334
+denoising,sample_1304,ments alternate with rests and are seen best in cold animals,ments alternate with rests and are seen best in cold animals,0.05233941599726677,0.0221109589911066,0.0,0.0
+denoising,sample_1307,In Chapter Two he gauged the nature of the heart's movements,In Chapter two be ganged the nature of the heast 's movements,0.043181665998417884,0.013628542015794665,0.08333333333333333,0.45454545454545453
+denoising,sample_1308,"such as serpents , frogs , and the like .","such as serpents , frogs , and the hihke .",0.057385874999454245,0.009344833000795916,0.04878048780487805,0.1
+denoising,sample_1313,"of the apex , the thickening of the heart walls , and","of the apex , the thickening of the heart walls , and",0.049361459008650854,0.015757457993458956,0.0,0.0
+denoising,sample_1314,"the dissections of living animals , Harvey noted that","the dissections of living animals , Harvey noted that",0.05419208301464096,0.015916042000753805,0.0,0.0
+denoising,sample_1316,"systole , simultaneously with dilatation of the arteries","systole , simultaneously with dilatation of the arteries",0.06943633299670182,0.020357375004095957,0.0,0.0
+denoising,sample_1325,ventricular contraction . During cutting or puncture of,ventricular contraction . Ouing cutting or pencture of,0.04620579199399799,0.014472791983280331,0.05454545454545454,0.25
+denoising,sample_1326,"the ventricles , there is often forcible expulsion","the ventricles , there is often forcible expulsion",0.049214917002245784,0.014830917003564537,0.0,0.0
+denoising,sample_1327,of blood from the wound . Arterial diastole is,of blood fron the wand . Arterial diastole is,0.044670250004855916,0.014139042003080249,0.06521739130434782,0.2222222222222222
+denoising,sample_1328,"hindered by compression , infarction or inter-","hindered by canprension , infarction or inter-",0.0479822079942096,0.014474833995336667,0.06521739130434782,0.14285714285714285
+denoising,sample_1330,"thus synchronous with cardiac systole but ,","thus synchronous with cardiac systole but ,",0.04974504199344665,0.014913708000676706,0.0,0.0
+denoising,sample_1331,one can sometimes see it - so to speak,one ran sometimes it - so to sppak,0.049566667003091425,0.014995083009125665,0.15789473684210525,0.3333333333333333
+denoising,sample_1334,"three auricular beats , produce a single","three auviralar beats , produre a single",0.04570895800134167,0.018470291019184515,0.1,0.2857142857142857
+denoising,sample_1336,ventricular one slowly and,ventriralar ovie slowly eort and,0.08742774999700487,0.014968999981647357,0.34615384615384615,0.75
+denoising,sample_1339,business no good George would never conceal them .,biipinets no pod feope would wever conceat tem .,0.05991962499683723,0.01737891699303873,0.24,0.6666666666666666
+denoising,sample_1340,"would have nothing to do with him , others","woull hade notaing to do witle li , otiers",0.05774608300998807,0.016945833020145074,0.19047619047619047,0.6666666666666666
+denoising,sample_1351,12 o'clock at night . At that time pastries and buns,Nra d dtOf pirecightitt hatgjlme podtries and un.,0.04787516701617278,0.016178582998691127,0.5192307692307693,0.9090909090909091
+denoising,sample_1352,"mix 100 stone of bread in 12 hours , and Kate served in the","mix 10o stone of bread in Riours , and Vate selbed in the",0.06602895801188424,0.02020566599094309,0.13559322033898305,0.35714285714285715
+denoising,sample_1353,Soon they were good enough to sing at meetings .,Seom they were good enough ho ting at meetings .,0.060965208016568795,0.01907008298439905,0.08333333333333333,0.3
+denoising,sample_1355,"clothing , with which they wore a white tie","clothing , o with which fhey wore a wfite tie",0.05870454100659117,0.018115917016984895,0.09302325581395349,0.3333333333333333
+denoising,sample_1357,they would be there to begin the meeting .,they would be there to legin the meeting .,0.052985083020757884,0.019681832985952497,0.023809523809523808,0.1111111111111111
+denoising,sample_1359,they were able to obtain some respectable,they were able to oltain some rerpectable,0.06841050001094118,0.021446041006129235,0.04878048780487805,0.2857142857142857
+denoising,sample_1361,"men's clubs , to Conisborough on cheap trips to","mners luby , to Conisborough on cheap trips to sing",0.06758425000589341,0.013125416997354478,0.2127659574468085,0.3333333333333333
+denoising,sample_1363,school was held .,wchool was had .,0.0435412090155296,0.006976250006118789,0.17647058823529413,0.5
+denoising,sample_1367,"day evenings to the Corner Pin Hotel , to rally",day eoerings to the corner in thoteh to rallyy,0.07363120801164769,0.01334420798229985,0.2127659574468085,0.6
+denoising,sample_1372,"George , and another the dark-haired","Geonge , and another the clark- hained",0.07299079198855907,0.015666583989514038,0.1388888888888889,0.5
+denoising,sample_1374,One of the students was young,The of the studenty wo young,0.05626908299745992,0.010121083003468812,0.1724137931034483,0.5
+denoising,sample_1380,"the Church Socialist League , genuinely advocated","te Ciuses fociclist Cagae , gemciel adraatl",0.07606841699453071,0.014583957992726937,0.3877551020408163,0.8571428571428571
+denoising,sample_1386,to those of parsons he got on wonderfully well,to frose of passans be goll an vondnffeubly carll,0.07057770900428295,0.0125348340079654,0.34782608695652173,0.7777777777777778
+denoising,sample_1388,Just as the Labour Party had fought the,Just as the labomr Ruty had fught the,0.06577629197272472,0.01057145799859427,0.15384615384615385,0.375
+denoising,sample_1390,There was no abatement in political,Ther was ho abatement in politicoel,0.043656458001350984,0.014698750019306317,0.11428571428571428,0.5
+denoising,sample_1392,"Council , and to Parliament , being deter-","camcil , aud to Porliamont , being deter-",0.07856029100366868,0.015121125004952773,0.16666666666666666,0.375
+denoising,sample_1393,"had said , ' Mr. Barton would go to the poll .","had said , Mr. Barton would opo to thepoll .",0.07724437501747161,0.013759667024714872,0.10869565217391304,0.3333333333333333
+denoising,sample_1397,their candidate must go forward in the,their caudidate must go fowand in the,0.049271083989879116,0.020023541001137346,0.07894736842105263,0.2857142857142857
+denoising,sample_1398,elections . In the Sheffield Trades and Labour,elkctions . In the shetfield Tradas and Lobos,0.061683917010668665,0.022216749988729134,0.15217391304347827,0.5
+denoising,sample_1399,and a gold purse in recognition of his,and a yold ppwn in reeogntin d h.l,0.053144667006563395,0.026313707989174873,0.3157894736842105,0.625
+denoising,sample_1400,"Alf Barton , who in 1911 was presented","aly Btiton , Who in I9ll dm prested",0.0576739170064684,0.016337624983862042,0.34210526315789475,0.75
+denoising,sample_1402,he was a keen member of the B.S.P. .,he wm a peen weniw df th P. S. 1 .,0.06650254098349251,0.021236417000181973,0.3888888888888889,0.8888888888888888
+denoising,sample_1403,"work for the movement , was later","work for the wovement , a ditrs",0.05478716699872166,0.017604584019863978,0.21212121212121213,0.42857142857142855
+denoising,sample_1404,"with a book on the life of Marx ,",bith a jook on the dipe of Man .,0.0497989589930512,0.01666741698863916,0.21212121212121213,0.5555555555555556
+denoising,sample_1408,into it .,inte if .,0.020443874993361533,0.0043663329852279276,0.2222222222222222,0.6666666666666666
+denoising,sample_1410,Towards the end of my five and a half years',Fowards the end of un five and a half years !,0.04594866599654779,0.01520158298080787,0.11363636363636363,0.4
+denoising,sample_1411,"This opened up a new interest , and we plunged","This opened y a new interest , aud we pengped",0.08289004099788144,0.01658858300652355,0.13043478260869565,0.3
+denoising,sample_1413,a village choral society and conduct it .,a villbage chordl society and conduck it .,0.0816810000105761,0.014535124995745718,0.07317073170731707,0.375
+denoising,sample_1414,"Germany for ten years , by which time in","Germany for ton yeais , by which time in",0.09404391600401141,0.014933500002371147,0.05,0.2222222222222222
+denoising,sample_1415,"co-operated , we made the little side chapel a place","co-operated , we made the little side chapel a place",0.06911858398234472,0.029687292000744492,0.0,0.0
+denoising,sample_1416,of daily prayer .,of daily prayer .,0.04974950000178069,0.008785665995674208,0.0,0.0
+denoising,sample_1420,"at Purley . One felt at Tatsfield that , small as the","at furey . One feat at fafield that , smabd as the",0.07539358298527077,0.022613792010815814,0.1509433962264151,0.3333333333333333
+denoising,sample_1421,"chilliness of the new church , beautiful as it was and is .","chillineas of the new churcn , beantiful as it was and is .",0.09068141700117849,0.034767124976497144,0.05084745762711865,0.23076923076923078
+denoising,sample_1428,"warming up by constant prayer and worship , and we","warming up by constant prayer and worship , and we",0.07414545799838379,0.027704958018148318,0.0,0.0
+denoising,sample_1431,stained-glass lancet windows - finally a new altar -,stained-glass Lancet wmndows-finagly a new altar-,0.0652400839899201,0.029288207995705307,0.11538461538461539,0.6666666666666666
+denoising,sample_1437,to put beautiful things into a beautiful church,to put beautiful things into a beoutiful church,0.06267683301120996,0.01862116702250205,0.02127659574468085,0.125
+denoising,sample_1444,Meanwhile in Purley there was much activity and much,Meanwhile in furley there was much activity and much,0.09211779199540615,0.0239122080092784,0.019230769230769232,0.1111111111111111
+denoising,sample_1445,co-operation especially with the other Christian communities .,conoperation egecially with the other Christian Commnities .,0.09795045800274238,0.02747158400597982,0.08064516129032258,0.375
+denoising,sample_1451,"the Committee . We had a splendid body of local residents ,",the Committee.le had a splendid bod y of local resients,0.07301941700279713,0.016429792012786493,0.11864406779661017,0.5833333333333334
+denoising,sample_1457,included professional men from every walk of,included professinal men from every waulk of,0.07886920898454264,0.03586629198980518,0.045454545454545456,0.2857142857142857
+denoising,sample_1460,throughout . He had no sooner heard from Count Gamba,Aromnghont . Oe hd ss asoner hewid from Gomt Gutin,0.08752895798534155,0.0152543330041226,0.38461538461538464,0.8
+denoising,sample_1469,"as the year of their wedding , 1815 , had",as the year of their wedding  I 8i5 ? had,0.06997574999695644,0.02993145800428465,0.0975609756097561,0.3
+denoising,sample_1476,and it came as an appalling surprise to,and it came a an appallingt Burprise to,0.07139512500725687,0.017972290981560946,0.07692307692307693,0.375
+denoising,sample_1477,"hollow , and the news that Byron had left","hollas , ', and the ' newt that Boyon had teft",0.056139666005037725,0.018081916990922764,0.2682926829268293,0.6666666666666666
+denoising,sample_1478,Captain Byron that he had been left,Caplain Byron Thast he had bemn left,0.06584058300359175,0.021896458027185872,0.11428571428571428,0.42857142857142855
+denoising,sample_1479,"made a will in Augusta's favour , she had","made a wiul i Pugusta's fovour , the had",0.07765804202063009,0.0184261659742333,0.12195121951219512,0.5555555555555556
+denoising,sample_1481,became great sighs of ecstacy .,beccne aal nials ot ecroy,0.06355474999872968,0.01953200000571087,0.5161290322580645,1.0
+denoising,sample_1482,"and came into the livingroom , where","and came into the kvingicon , wlere",0.08290704101091251,0.016510499990545213,0.16666666666666666,0.2857142857142857
+denoising,sample_1484,drawing-in great breaths that,drawing-in gred bealls 1lol,0.0768078749824781,0.015106708015082404,0.3103448275862069,0.75
+denoising,sample_1485,and walked on the very tips of,Onl walked on We nery 1ips of,0.0896893749886658,0.016977457999018952,0.2,0.5714285714285714
+denoising,sample_1487,Heather and Steve stood aghast at,teatler and feve Hood aglan an,0.08708929200656712,0.015486207994399592,0.30303030303030304,0.8333333333333334
+denoising,sample_1498,side to side .,side to side .,0.04844650000450201,0.008609042008174583,0.0,0.0
+denoising,sample_1499,"forward . "" Isn't it a glorious thing ! Long awaited","forword . "" (n't it a glorions thing ! I ong awaited",0.05951058299979195,0.015245416987454519,0.11538461538461539,0.45454545454545453
+denoising,sample_1500,at an intersection for the light to change . At his,at an intersectar for the lglet to chauge . At his,0.05560779199004173,0.009539958991808817,0.13725490196078433,0.2727272727272727
+denoising,sample_1501,apartment he garaged his car and then stood,opartment he garaged his Gar and Then stood,0.05887345797964372,0.011192834004759789,0.06976744186046512,0.375
+denoising,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,obroad and wo pedestrian to cross his path wor to wait,0.09097537500201724,0.012428999994881451,0.08928571428571429,0.3333333333333333
+denoising,sample_1508,"shaving when it came on , with a flat",shaving when it came on ) with a Flat,0.05066937499213964,0.015955999988364056,0.05405405405405406,0.2222222222222222
+denoising,sample_1510,"the radio , which he kept tuned to CBO.","the ralio , which he kept tuned to CB0 .",0.07793812500312924,0.0315547080244869,0.07692307692307693,0.3333333333333333
+denoising,sample_1517,almost painful sharpness . He reversed and,almast painful shiarprers . Ke reversed and,0.09204583300743252,0.016041750001022592,0.11904761904761904,0.42857142857142855
+denoising,sample_1518,"whirring sound , and a high-pitched hissing",whiing oound ) and a high-pitched hining,0.07850266699097119,0.013624332990730181,0.13953488372093023,0.5714285714285714
+denoising,sample_1520,the War Memorial . There was a deep,the war Memoial . There was a deep,0.05051333300070837,0.015688999992562458,0.05714285714285714,0.25
+denoising,sample_1522,turned back on McKenzie Avenue .,turned back on tic hengie avenne .,0.06924812498618849,0.011095209018094465,0.21875,0.5
+denoising,sample_1525,caped Thetan subjugation . This time . But we no,coped thetan subjngation . This time . But we hho,0.06799591597518884,0.012589542020577937,0.10416666666666667,0.4
+denoising,sample_1526,selves in their zeal to get their orders and to carry,selves in these geal to get theix ondens and to cany,0.0787635830056388,0.014851624990114942,0.1509433962264151,0.45454545454545453
+denoising,sample_1533,may be able to promote our own,mary te able to prounate our,0.054137540981173515,0.018561083008535206,0.3,0.5714285714285714
+denoising,sample_1535,There can be little doubt that if the,Themn con be little donbl that i the,0.05268158300896175,0.017736707988660783,0.16216216216216217,0.5
+denoising,sample_1536,"are , beyond personal security ,","are , beyond Peisonl secmnrity ,",0.050039041991112754,0.01608608299284242,0.15625,0.3333333333333333
+denoising,sample_1544,on her part ; but he thought it a good idea,on her part ; but he thought it a goad idea,0.06829170900164172,0.010306999989552423,0.023255813953488372,0.09090909090909091
+denoising,sample_1546,that they use Dan as a specimen demonstra-,that they use Dan as a specimen demonskra-,0.06856699998024851,0.012479791010264307,0.023809523809523808,0.125
+denoising,sample_1551,nevertheless .,neverthellss ,0.03262283399817534,0.006093375006457791,0.21428571428571427,1.0
+denoising,sample_1560,ringing of a doorbell was to him,hinging of a doorbell war to hin,0.04924866702640429,0.016969375021290034,0.09375,0.42857142857142855
+denoising,sample_1563,"of their presence . They just stared at him , turning","of their precence . They just stared at him , tuoning",0.07510370801901445,0.013719040987780318,0.03773584905660377,0.18181818181818182
+denoising,sample_1565,Dan paced the floor . He seemed completely unaware,Ban paced the flour . He semed completely uaware,0.05027029101620428,0.018273374997079372,0.08,0.4444444444444444
+denoising,sample_1571,and the purpose he was to serve .,and the purpose he ias to serve .,0.04955704099847935,0.015995541005395353,0.030303030303030304,0.125
+denoising,sample_1576,impatience pending an awaited,impatience . Pending an anaited,0.06619050001609139,0.011806624999735504,0.13793103448275862,0.75
+denoising,sample_1577,"Finally , being so obviously on their own ,","Finally , being so abvauslyon their oun y",0.0699564160022419,0.012790916982339695,0.13953488372093023,0.4444444444444444
+denoising,sample_1578,perplexity respecting his surroundings,perplexity respecting his surrounding,0.07769920799182728,0.013729500002227724,0.02631578947368421,0.25
+denoising,sample_1579,His whole attitude was a mixture of,His whole attitule vus a mixture of,0.08012100000632927,0.013610082998638973,0.08571428571428572,0.2857142857142857
+denoising,sample_1582,a single all-exclusive purpose .,a single all-exclusive pupose .,0.05776212501223199,0.00985870900331065,0.03125,0.2
+denoising,sample_1583,the Avenue from its many tributary streets . It might have,the Aveme frou its many trlumary strets . It might have,0.04347649999544956,0.014673458994366229,0.1206896551724138,0.36363636363636365
+denoising,sample_1584,"been a normal business-day bustle , except for two anomalies .","been a normal business-ay lstle , except for two anomaies .",0.05528212498757057,0.01819983299355954,0.06451612903225806,0.2727272727272727
+denoising,sample_1587,he waited . The bus stop was a deserted island on an empty street .,ne waited . The lus stop was a desertediland on a ampty strect .,0.05300854198867455,0.017051500006346032,0.1044776119402985,0.4666666666666667
+denoising,sample_1588,"But not for long , for soon pedestrians and cars flocked upon","But nol for long , for sooupedectrians and cas floched upou",0.046739624987822026,0.014917291991878301,0.11475409836065574,0.5
+denoising,sample_1589,"as arranged , but he consoled himself by","as amanget , bat he conscled himsef by",0.073840790981194,0.011884334002388641,0.15,0.5
+denoising,sample_1591,January or early February . Angelina might be a,Jamnany or eanly Ffmary . Angelina might be a,0.07471829201676883,0.012581707997014746,0.1702127659574468,0.3333333333333333
+denoising,sample_1593,"back on Moon again , and able to do","Back on feon again , and ahle to do",0.07546254197950475,0.01228399999672547,0.11428571428571428,0.3333333333333333
+denoising,sample_1596,research at first hand into matters on which,rseanch at fist hannd into matters on whieh,0.07555141599732451,0.01234158399165608,0.11363636363636363,0.5
+denoising,sample_1597,Then he would go back to Plato for a final spell of,Then he would go hack to Pato for a fhal spell of,0.041824832995189354,0.020499207981629297,0.0784313725490196,0.25
+denoising,sample_1603,"had contacts in political circles , a school-","had contacts in poeitical eircees , a school-",0.06090741598745808,0.017913791991304606,0.06666666666666667,0.25
+denoising,sample_1605,( literally ) all-powerful Rocket Release,Lliteralit all-powerfue kodet Release,0.05453066699556075,0.01833041600184515,0.24390243902439024,0.8333333333333334
+denoising,sample_1610,"know , I had to send back our bedroom","lhow , I hod to send bach or begroom",0.0635234999936074,0.021279375010635704,0.16216216216216217,0.5555555555555556
+denoising,sample_1611,"All Sally's relations were 4makrodeb now , but Tom",AllSlfy's relitons were tmakrodeb nom  but fom,0.07203233399195597,0.01355358399450779,0.2,0.7777777777777778
+denoising,sample_1613,to 4sub-lil on the lower .,to tsub-fif on the fower .,0.04889812500914559,0.008994500007247552,0.15384615384615385,0.3333333333333333
+denoising,sample_1615,"Sometimes she took Harry around with her , but",Sometimes the took Hlary around with her  but,0.06886670799576677,0.01249670799006708,0.10869565217391304,0.3333333333333333
+denoising,sample_1617,"Sally made a mistake about me , "" he said one","saffy made a mistalle abatme , he said one",0.07660100000794046,0.013512584002455696,0.2222222222222222,0.45454545454545453
+denoising,sample_1619,not submerged beneath a deep natural atmosphere .,nt subrmegey bereatha deep rtural atrropphere .,0.07370229199295864,0.014026916003786027,0.22448979591836735,0.75
+denoising,sample_1621,penetrate beyond the minds of astronomers was of general,peretranke beyand the miiks of astrenaners os of general,0.08200112500344403,0.01500179199501872,0.19642857142857142,0.5555555555555556
+denoising,sample_1623,"interest to the Mos , doubtless because their habitat is","""ntrest ikest ' to be boy , doubtless beouse their habite is",0.04906991601455957,0.01615562502411194,0.30357142857142855,0.7
+denoising,sample_1628,allies being more inferior than formerly to W.C.U. in the,atler being more inferior tan frmegy bs Wl ! Cil! in he,0.08331524999812245,0.014371249999385327,0.2982456140350877,0.8
+denoising,sample_1629,One wondered if this greater awareness of the physical cosmos might,She wonddered if thirgetis anwrener of the prgyical comas mighl,0.04645250001340173,0.013593708979897201,0.2835820895522388,0.7272727272727273
+denoising,sample_1632,"used in the last few wars , but it seemed very probable",wed in the lat tfr few wais . but is vemed nry proll ,0.042604666989063844,0.013644416001625359,0.3090909090909091,0.75
+denoising,sample_1633,"wives , romanced about him in his absence . "" Lester was a","wivbs , romanced obout hinein his ahsence . "" ester wasa",0.05525266600307077,0.017849958006991073,0.1206896551724138,0.6153846153846154
+denoising,sample_1635,"country lawyer , and we were very small 4microdebs , weren't we ,","county tuyer . and we were veyy smoll ( micradebs weren twe ,",0.05282283399719745,0.016782874998170882,0.2153846153846154,0.6923076923076923
+denoising,sample_1636,"duties and his wife , in the manner of middle-brow","daties and his wife , in the moner of nildle-brow",0.04980775000876747,0.015419375005876645,0.1,0.3
+denoising,sample_1638,Lester was not home yet from his formidable,Cesterwas not home yet from his formidkalle,0.04648187500424683,0.022649082995485514,0.09302325581395349,0.375
+denoising,sample_1644,we came through to 4makrodeb status and,we came ttrough to Umakrodeb status and,0.06674004200613126,0.021671167021850124,0.05128205128205128,0.2857142857142857
+denoising,sample_1646,has come for him to be taken seriously,has come for him to be taken seriously,0.05382308299886063,0.017353584000375122,0.0,0.0
+denoising,sample_1649,"That 's how he got the votes , that 's how","That's how he got the votes , that's how",0.052250374981667846,0.018178416998125613,0.047619047619047616,0.36363636363636365
+denoising,sample_1651,But privately he turned out to be as friendly as,bit privately he turd out to be as frvenodly as,0.06761649998952635,0.02179145798436366,0.125,0.3
+denoising,sample_1662,"guise which , far from attracting the allegiance","qiie rhic , far fron altractinng the ollegjonce",0.07130675000371411,0.02356062500621192,0.22916666666666666,0.625
+denoising,sample_1664,The political life of Aristotle looked more and more,Thre political life of arintolle Gooped more and more,0.05505358299706131,0.02713341699563898,0.11538461538461539,0.3333333333333333
+denoising,sample_1665,like a masquerade of business interests in dis-,lihre a moguerae of Guien inererh in di-,0.05595149999135174,0.031079459004104137,0.3404255319148936,0.625
+denoising,sample_1666,haps nurture a genuinely civilizing impulse,fraps nurtre a gqgnninelyy civieinginng imnpuhie,0.060698665998643264,0.01961737498641014,0.32558139534883723,0.8333333333333334
+denoising,sample_1671,"to be diverted , however , with the single exception of one","to be athesteo toneres , witl he singte exeppion of one",0.08108291699318215,0.015596499986713752,0.2711864406779661,0.5833333333333334
+denoising,sample_1672,neurosis and not in some eruption from those,searosis and not in some ermption from these,0.05207883400726132,0.016848125000251457,0.09090909090909091,0.375
+denoising,sample_1673,GO ; but the reason probably lay in elementary,a but the reason probaby byineltonntagy,0.07557212500250898,0.012894207990029827,0.2826086956521739,0.6666666666666666
+denoising,sample_1674,deeper layers in the human psyche which are,alogrr iogers in the human pgyede which one,0.04274325000005774,0.013121416996000335,0.3023255813953488,0.5
+denoising,sample_1675,minions could do to him would ever make him,miions cn Cot al to tim maalatevar mra bie Aim,0.059021916007623076,0.025318750005681068,0.46511627906976744,1.0
+denoising,sample_1676,"Stepping out in their white shorts , they looked glad enough",Perg out in their mhite shorte they CoohoNd een,0.0732937499997206,0.013555707992054522,0.38333333333333336,0.6363636363636364
+denoising,sample_1677,putting their best foot forward .,putting their best foot forwarl .,0.0733362499740906,0.011725875025149435,0.030303030303030304,0.16666666666666666
+denoising,sample_1685,about ? ' It was most certainly an eerie,"about ? "" It was mast certainly an eerie",0.04739862499991432,0.01408066597650759,0.05,0.2222222222222222
+denoising,sample_1688,carefully casual . ' The servants are all on,"crrefully casual . "" The servants are ill on",0.05423762497957796,0.01688012498198077,0.06818181818181818,0.3333333333333333
+denoising,sample_1689,"' Something 's up , ' said Lord Undertone ,",""" Something's upor ""isaid tord Undertone ,",0.04347825000877492,0.017113500012783334,0.16279069767441862,0.8
+denoising,sample_1690,"night , exceptionally brilliant and strange ,","night , excaptionally brilliant and strange ,",0.053003375011030585,0.01629841697285883,0.022222222222222223,0.14285714285714285
+denoising,sample_1695,sensational 's going to happen . There 's things lurking,sensaional's ging to happen . There's things urking,0.055020416009938344,0.017457292007748038,0.08928571428571429,0.6
+denoising,sample_1697,"feeling , like I always get when something","feeling , lke ( afways gef when something",0.05095629199058749,0.01670187499257736,0.09523809523809523,0.5
+denoising,sample_1698,head-shrinkers .,heat- shrinkers .,0.034864084009313956,0.0057106660096906126,0.125,1.0
+denoising,sample_1705,"no matter how bad it felt , the fire you know , or a","ho mattes how bad it fet , the fire you knourior a",0.05891104097827338,0.020474292017752305,0.1346153846153846,0.42857142857142855
+denoising,sample_1707,of a bottle . If your lordship will excuse me,of a boattle . If yaur larelslig will exense me,0.04879112500930205,0.01531024998985231,0.2,0.4
+denoising,sample_1711,"afraid , with a hoof shaped like the heel","afsand , with a froof shaped like the heel",0.05147537498851307,0.016607917001238093,0.0975609756097561,0.2222222222222222
+denoising,sample_1713,may have thought I had become unbalanced,may have thanght I had become unbalaneed,0.04418554200674407,0.013120916002662852,0.075,0.2857142857142857
+denoising,sample_1716,Caine too and Mr Gilberto who would ...,Caine too and Mr gillesdo who would . ...,0.043381875002523884,0.013695542002096772,0.15384615384615385,0.25
+denoising,sample_1726,we were all invaded by a most tranquil,we were all inladed by a most tranguil,0.0673733750008978,0.012938625004608184,0.05263157894736842,0.25
+denoising,sample_1734,But after what Mrs Caine had said it was never,Pntafter what Mrs Conke bad coid it wes never,0.07301620801445097,0.04150833300082013,0.21739130434782608,0.6
+denoising,sample_1735,to receive a summons . I could see that Mr Septimus,to receie a pumans. t conld ee that tie Sepfuhng,0.07560966699384153,0.03804983297595754,0.3137254901960784,0.7272727272727273
+denoising,sample_1736,far from our minds that at any moment we were,far from ou mninds taat at ary maent wre were,0.06543058401439339,0.03354095897520892,0.15555555555555556,0.6
+denoising,sample_1737,"a promontory , a mass of clean rock crowned with","a promanbary , a mas of ceean tocd crored nith",0.07350816699909046,0.03659916599281132,0.20833333333333334,0.6
+denoising,sample_1738,"was impatient for it . This afternoon , then , we climbed","was impatient far it . Teis affernaon , taa, nechinbed",0.0640221250068862,0.03046287500183098,0.21052631578947367,0.5833333333333334
+denoising,sample_1739,"trees and bushes , that stood well out over the lake .","tees and busaes , that pted weleant aer fhe babe -",0.06816712499130517,0.03804145901813172,0.2777777777777778,0.75
+denoising,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",""" ygoea-gg ,ilegl ."" gee sont te sfol tor sin fin ars pot hhi nen troodate .",0.04786525000235997,0.015265499998349696,0.5119047619047619,0.9047619047619048
+denoising,sample_1744,"She was already up the bus steps , and the bus was away . And Morfydd Owen","gthr nes dsaby np ths pen taps , mit the tn rens arey . ti Mabl onein",0.045410541992168874,0.014523416990414262,0.5405405405405406,0.8235294117647058
+denoising,sample_1747,"on those fifteen miles of mountain roads , it disappeared from the earthly",on toafffuen indns of mven a ads it dimppeend trom te esply,0.07229891698807478,0.011382958007743582,0.4189189189189189,0.7692307692307693
+denoising,sample_1750,"So the bus set out for Llangrwl . But it never reached there ! Somewhere ,","sx pe pur nst on forppangri . Tt .i ssver rabel teler ! Soneaterx ,",0.07964208300109021,0.013107042002957314,0.43243243243243246,0.8125
+denoising,sample_1754,"supposed to leave at two-twenty . "" "" Who says so ? "" "" Your timetable . ""","mppeal te pens of tev-trerdty ."" "" Ntulto ray roi.i you tumatels !",0.07070554097299464,0.011291375005384907,0.581081081081081,0.9444444444444444
+denoising,sample_1755,""" Left here all right , "" said Ifor . "" Two-thirty-five , on the dot . "" "" It 's",""" efgte aift "" rad for ,"" bro- tuly- fria , ontfp bd .in st'""",0.06687954100198112,0.012332665995927528,0.5375,0.9047619047619048
+denoising,sample_1757,"of humour , that Isaiah . He banged down the receiver . Very uncivil . Dropped",of Aman .itost Sroihn . pe farggd Laun poe peein Vry ueni dropgpel,0.07613058399874717,0.012886334006907418,0.5256410256410257,0.875
+denoising,sample_1758,and scour the countryside between here and The Traveller's Joy .,ant ranr po vetirpido titwsenn for ent ffr Sravebsin goy .,0.0704681659990456,0.011617209005635232,0.5625,0.9090909090909091
+denoising,sample_1759,""" What do you want me to do ? Send out a sheriff's posse , is it ? "" No sense",""" Nat Bp yen naint ris fio do! Banh ont a Dariff s pepse ,rst ! "" No smse",0.05269487501936965,0.0166986660042312,0.4155844155844156,0.8095238095238095
+denoising,sample_1765,"robbers , or being whisked off to Emergency",robbers or being whisked of to Emegency,0.049166624987265095,0.016077041014796123,0.09302325581395349,0.375
+denoising,sample_1766,"was , as he feared , departed out of his life ,","was , as he feared , depanted out of hio lfe ",0.04693012498319149,0.014411250012926757,0.10638297872340426,0.3333333333333333
+denoising,sample_1769,"complete her mission . "" Paled , did Dai . For the","Complete her mission . "" Palal , cid Dar . Tor the",0.056944417010527104,0.01774412498343736,0.12,0.4166666666666667
+denoising,sample_1772,"the title of "" First Woman to Enter Space . ""","the title of ""frrst Coman to Euter Sacl . """,0.053317917016102,0.015321374987252057,0.15555555555555556,0.45454545454545453
+denoising,sample_1782,Where indeed ? Megan Thomas spoke sharply,Where indced ! Megan Thomas spoke shaptry,0.044081291009206325,0.013742165989242494,0.12195121951219512,0.42857142857142855
+denoising,sample_1784,"But nonplussed , the conductor was . A","But norplussed , the conductor was . A",0.046401500003412366,0.016793042013887316,0.02631578947368421,0.125
+denoising,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",""" Where are we goingg ? "" he echoed Codwallades .",0.041239499987568706,0.012708916998235509,0.0625,0.18181818181818182
+denoising,sample_1789,""" But something very untoward has",""" Dut eomethig very untoward has",0.0802474579832051,0.012276458990527317,0.09090909090909091,0.3333333333333333
+denoising,sample_1790,"good man , mind ; knew his job . But out of","good man , mind ; bnew his got . But out of",0.0441243750101421,0.013505959010217339,0.06976744186046512,0.16666666666666666
+denoising,sample_1791,running into Llangrwl bus station .,running into Langoul bus sfaternn. .,0.07359333301428705,0.012371832999633625,0.22857142857142856,0.3333333333333333
+denoising,sample_1794,"he cried . "" Never mind your immortal","hecried . "" Never mint your immortal",0.047998541995184496,0.01490854099392891,0.05405405405405406,0.375
+denoising,sample_1796,"window . Looked again , eyes starting from","wiindow . Looked ogain , eyes stanting fronn",0.043910334003157914,0.013898625009460375,0.11904761904761904,0.5
+denoising,sample_1797,"folded it , and glanced idly out of the","folded it , and glanced idly cut of the",0.07453529100166634,0.012531125015811995,0.02564102564102564,0.1111111111111111
+denoising,sample_1799,""" Here we are traversing the heavens at the",""" Here we are travesing the leavmns at the",0.048620832996675745,0.015895667020231485,0.06976744186046512,0.2222222222222222
+denoising,sample_1803,Mr. Hayball from the back seat .,Mr. Hayball from the backseat .,0.05153425000025891,0.015699915995355695,0.03125,0.2857142857142857
+denoising,sample_1804,"expect me to do ? "" he inquired , bitter .","expect me to do ? "" ho inguined , Gitfer .",0.06813766699633561,0.011253375007072464,0.11904761904761904,0.2727272727272727
+denoising,sample_1806,"us nowhere , "" boomed the Rev. Edwards .","us howhare , "" boomed the Dow. Etuards .",0.06436041599954478,0.01949649999733083,0.175,0.3333333333333333
+denoising,sample_1808,""" Radio Flying Control at London Airport ,",""" Radio Frigg Coutrd at London Disporrt ,",0.07497045901254751,0.012444499996490777,0.21428571428571427,0.375
+denoising,sample_1810,"at the Youth Hostel before dark . ""","at the jouth Fstel before dark . """,0.0782864160137251,0.012814291985705495,0.08571428571428572,0.25
+denoising,sample_1812,would never see her Dai again . And,wvould never nee hor Baicgain . And,0.04045212498749606,0.012629208998987451,0.17142857142857143,0.625
+denoising,sample_1814,dismay . Quietly she began to,dismay . Ouietly rhe bigan to,0.07747899999958463,0.01882045899401419,0.10344827586206896,0.5
+denoising,sample_1815,weep ...,Weeres. .,0.03194562499993481,0.005716832994949073,0.625,1.0
+denoising,sample_1817,"fortitude , it now filled her with","fortitude , it mnow filled her wvith",0.060000832978403196,0.01591862499481067,0.058823529411764705,0.2857142857142857
+denoising,sample_1821,""" Afternoon , Mr. Roberts , "" he called , polite ,",""" Afternoon , Mir. Poberls , "" he cabled , polite ,",0.05962170899147168,0.019187500001862645,0.08,0.25
+denoising,sample_1824,He had seen no sign of an accident .,Fehad reen no ningn of an accident .,0.046940250002080575,0.016580750001594424,0.1388888888888889,0.4444444444444444
+denoising,sample_1828,the bus . He passed The Traveller's,the bus . Te paned The Traveller is,0.05364837500383146,0.01796224998543039,0.14285714285714285,0.5714285714285714
+denoising,sample_1838,waiting to be transported to Dinas . And,waiting to be transported to Binas . And,0.053924458974506706,0.017134708003140986,0.025,0.125
+denoising,sample_1839,brooding in her shroud of mist .,boodinginher shroud of mist .,0.046860375005053356,0.014366624993272126,0.09375,0.42857142857142855
+denoising,sample_1841,The conductor switched on the lights .,The conductor nvitched onthe lighits .,0.05288754199864343,0.014805125014390796,0.10526315789473684,0.5714285714285714
+denoising,sample_1847,"Rev. Edwards , standing at the front ,","Rei . Edwards , ntanding at the front ,",0.04496549998293631,0.01425599999492988,0.07894736842105263,0.375
+denoising,sample_1849,On the back seat Stan Hayball embraced,On the bach reat Ptan Feapball embraced,0.05990895800641738,0.01770804199622944,0.15789473684210525,0.5714285714285714
+denoising,sample_1853,"too desperate for singing , then the","too denperatefornrirging , hen the",0.045163167000282556,0.014026124990778044,0.16666666666666666,0.5714285714285714
+denoising,sample_1854,"situation , he realised , must be desperate","nituation , he realined , muntt be desperate",0.06147745801717974,0.018391541991150007,0.09302325581395349,0.375
+denoising,sample_1855,"approaching , faster , faster , a tearing","approaching , fanter , farter , a tearin",0.04517754100379534,0.01906266697915271,0.07317073170731707,0.375
+denoising,sample_1856,sank . If the Welsh found the situation,sank . If the Melsh found the rituatign,0.057444000005489215,0.016684166999766603,0.07692307692307693,0.25
+denoising,sample_1857,"They looked at him , sullen . His heart","Phey looked athim , nullem . Tis heartt",0.041831665992503986,0.01380533300107345,0.15384615384615385,0.6666666666666666
+denoising,sample_1858,hurrying blur that was past and gone,hurrging bher that avas pat and gone,0.05089816602412611,0.015275082987500355,0.16666666666666666,0.5714285714285714
+denoising,sample_1859,indeed . But suddenly they were roused,indeed . But ruddenly they were roued,0.054319041984854266,0.017881167004816234,0.05263157894736842,0.2857142857142857
+denoising,sample_1860,rush of sound . They waved frantically .,runhof round . They waved frantically .,0.05830491700908169,0.01757120797992684,0.075,0.375
+denoising,sample_1866,a great basket .,a great basket .,0.036118916992563754,0.0056878330069594085,0.0,0.0
+denoising,sample_1867,"He looked at Price the Provisions , who was nursing","He looked at price the Prouisionp , who was muring",0.05585858301492408,0.016705083020497113,0.09803921568627451,0.3
+denoising,sample_1873,said the Rev. Edwards . Price shook his head .,sad the Rerr.Edwards . Price shoot hs head .,0.056357833003858104,0.02346099997521378,0.13043478260869565,0.5
+denoising,sample_1874,"Mutinous dog , thought the Rev. Edwards , who hadn't","Mutinons doy , Phonght the per . Eduards , who had't",0.05243845799122937,0.015139916999032721,0.17307692307692307,0.7
+denoising,sample_1879,"two pounds marge , one tin pineapple , one York ham . ""","twro founds mnarge , one tin pineapph , ene forf han.""",0.05776787499780767,0.017599583021365106,0.2,0.6923076923076923
+denoising,sample_1880,enjoyed himself so much since reading Treasure,enjoged fimelf so nml sin ce tading Treasme,0.04305070801638067,0.013359707983909175,0.2608695652173913,1.0
+denoising,sample_1882,"' But we - ' ' Stop your stupid talk , woman ! ' ' We are - '","iBut we - ' ' &op your etupid tallke , woman ! ' ' We are . ,",0.05869579201680608,0.01727995800320059,0.14754098360655737,0.3684210526315789
+denoising,sample_1884,and grow wings . Between the worlds are many strong,and grow wings . Between the worlds are nany strong,0.05675945899565704,0.01775254201493226,0.0196078431372549,0.1
+denoising,sample_1885,"rays , not seen or felt , which change our bodies .","rays , not seen or felt , which change our bodies",0.06537787499837577,0.016950541001278907,0.0392156862745098,0.08333333333333333
+denoising,sample_1891,"World , you become a true human . The grub of the","World , you becere a trhe hunan . The ginb of the",0.054379250010242686,0.016146415990078822,0.12244897959183673,0.3333333333333333
+denoising,sample_1893,"change . ' ' I cannot know what he says , ' Haris said","change . ' ' l cannot know what he says , ' Maris said",0.06037654198007658,0.019134416012093425,0.037037037037037035,0.14285714285714285
+denoising,sample_1903,babies may be born with wings . ' The Captive with,"babies nay be bonn with wings . "" The Captive with",0.05222845799289644,0.015887374989688396,0.06,0.2727272727272727
+denoising,sample_1909,is good and knows these things .,is good and knows these things .,0.042950292001478374,0.013928000000305474,0.0,0.0
+denoising,sample_1913,well we can - think . This tribe of the True World,well we can - think . this tribe of the True wonld,0.05586858300375752,0.027565374999539927,0.06,0.16666666666666666
+denoising,sample_1918,muttered together . ' Do you say that you poor,nuttered together . ' Do you say that you poor,0.05669195801601745,0.018240207980852574,0.021739130434782608,0.1
+denoising,sample_1920,"The flyman with ear lobes and thumbs connected ,","The flynan with ear lobes and thumbs connected ,",0.06606770900543779,0.019961082987720147,0.020833333333333332,0.1111111111111111
+denoising,sample_1921,"making his perpetual little gesture of protest ,","making his perpetual little gesture of protest ,",0.05189433298073709,0.016980959015199915,0.0,0.0
+denoising,sample_1923,command the knives of others . ' ' No hurt will,"command the knives of others . "" ' No hurt will",0.06532262501423247,0.019299082981888205,0.02127659574468085,0.09090909090909091
+denoising,sample_1927,from harm . ',Bron harn . ',0.03751958400243893,0.006512291001854464,0.23076923076923078,0.5
+denoising,sample_1929,"come to you , Lily-yo , ' Band Appa Bondi added .","come to you , Lily-yo , ' Band Appa Bond i added .",0.06356550002237782,0.017265957983909175,0.02040816326530612,0.16666666666666666
+denoising,sample_1931,here at a good time . Memories of the Heavy World,here at good time . Memories of the Heavy world,0.06117412500316277,0.018169957998907194,0.061224489795918366,0.18181818181818182
+denoising,sample_1933,"' Before she can enjoy , Lily-yo and her companion","' before she can enjey , Lily-yo and her corpanion",0.056307332997675985,0.016291917010676116,0.06,0.3
+denoising,sample_1934,' No ! ' the Chief Captive said with both mouths .,' Wo! the Cief captive said with bath nouths .,0.05398895899998024,0.01573524999548681,0.16,0.5833333333333334
+denoising,sample_1935,must help our great plan . ' ' The invasion ? ' Bondi,"must help our great plan . "" The invasion ? "" Bond'",0.05106991602224298,0.01574129197979346,0.09433962264150944,0.3076923076923077
+denoising,sample_1938,World . You must help to lead our force . ' The long,"World . tou must help to lead our force . "" The lang",0.054194416996324435,0.01693604199681431,0.057692307692307696,0.23076923076923078
+denoising,sample_1939,We need such memories . So we ask you to go,We need such merories . So we ask you to go,0.05491787500795908,0.01705116601078771,0.023255813953488372,0.09090909090909091
+denoising,sample_1940,"afternoon of eternity wore on , that long golden road","afternoon of eternity wane on , that long golden road",0.05343475000699982,0.01640299998689443,0.03773584905660377,0.1
+denoising,sample_1944,new flesh and tendon strengthened . To sail up in the,new flesh and tendon strengthened . To sail up in the,0.064229833020363,0.01951370798633434,0.0,0.0
+denoising,sample_1946,and Haris there were many events . Chief of these was,and Haris there were many events . Chief of these was,0.04888158300309442,0.021554374980041757,0.0,0.0
+denoising,sample_1952,"the creatures participating in them . For Lily-yo , Flor","the creatures participating in them . For Lily-yo , Flor",0.060803875006968156,0.018080207984894514,0.0,0.0
+denoising,sample_1955,"his own life , but Geoffrey's as well , to a strange girl","his oun inife , bud Geffey so wele , to a shouge Gul",0.07344287500018254,0.011933375004446134,0.3157894736842105,0.6153846153846154
+denoising,sample_1956,than a couple of telephone calls he was,than a rouple of klphone ralls ne was,0.0730931669822894,0.014561999996658415,0.15384615384615385,0.5
+denoising,sample_1958,career . Now he realised that he was entrusting not only,career . NOn he resited thal ne nas entrusrting nos only,0.06681341701187193,0.010932500008493662,0.17857142857142858,0.6363636363636364
+denoising,sample_1964,faith which he was placing in her and,fatther waith bhe war Mlecly in ber aed,0.05411591602023691,0.010600000008707866,0.3783783783783784,0.875
+denoising,sample_1965,It was a novel experience . Alastair was,Io was a novel exrennce . Alartair was,0.05350662500131875,0.01653512500342913,0.15,0.375
+denoising,sample_1977,Alastair admitted that never in a not altogether,Prastair admitted thak uuer in a not altogutner,0.043461875000502914,0.014445540989981964,0.16666666666666666,0.5
+denoising,sample_1982,no permanent image .,ns pernmnent inage,0.04480937501648441,0.007667917001526803,0.3,1.0
+denoising,sample_1985,"flickered across its surface , but there was","flickened wcros its onface , but there wher",0.04863129201112315,0.015550332987913862,0.20454545454545456,0.5
+denoising,sample_2000,on the clearest night limited angular vision . He glanced,on the clearest night imited angular wision . He Glanced,0.0515247090079356,0.018100833025528118,0.05263157894736842,0.3
+denoising,sample_2015,"Parade to Boscombe Down , slept for six blessed","pajagle to poscombe Doin , elept for six, blen) ,",0.06748729199171066,0.019278874999145046,0.2553191489361702,0.7777777777777778
+denoising,sample_2029,movements of the Bentley . It had passed,movemants of ' the Pentey . I had pasped,0.06432779200258665,0.011231749987928197,0.175,0.625
+denoising,sample_2032,through Florence and Rome and then,troay Goremce and poue and fhen,0.07628754200413823,0.013646375009557232,0.29411764705882354,0.6666666666666666
+denoising,sample_2033,miles .,hulep .,0.02902491600252688,0.00579620900680311,0.42857142857142855,0.5
+denoising,sample_2036,reproaches - and here he was bland and smiling .,repraches-und here he was bland and smiling .,0.07247079201624729,0.023704584018560126,0.08333333333333333,0.3
+denoising,sample_2042,But it did not take her long to realise that his mood,Pout it did not tahe her I my to realise that his mood,0.06283962502493523,0.018616208020830527,0.1320754716981132,0.3333333333333333
+denoising,sample_2046,"too . They 're both here . "" "" I didn't know she was","to . They'te both here . "" "" Iedidit lrow she was",0.05833029100904241,0.02666150001459755,0.15384615384615385,0.42857142857142855
+denoising,sample_2049,said the first thing that came into her head .,said the first thing that came into her head .,0.0618577919958625,0.019948916975408792,0.0,0.0
+denoising,sample_2053,"poured cold water on the project . Everyone , he declared ,","powivel old wafronthe pied ! Ererpare , h edrared .",0.05523566700867377,0.009679917013272643,0.4067796610169492,0.9166666666666666
+denoising,sample_2056,express their disgust at Sir John's abominable treatment,ypes trav dagerp s jr thu dordley tedmey,0.042400708014611155,0.007228250004118308,0.625,1.0
+denoising,sample_2058,"suggested having a second party , the following week , he","cnggeitef , having a sheond putyr the floving weer he",0.053668166015995666,0.01008491701213643,0.3157894736842105,0.7272727272727273
+denoising,sample_2062,"with injustice and contempt , ignoring","with injustiee and contempt , jqhoigy",0.05408154200995341,0.01746425000601448,0.18421052631578946,0.3333333333333333
+denoising,sample_2063,It was all over and done with .,It was aly oer any aone with .,0.058407625008840114,0.016554999980144203,0.12903225806451613,0.5
+denoising,sample_2065,ignorant child .,iguorart ehild .,0.04255149999517016,0.0070057089906185865,0.1875,0.6666666666666666
+denoising,sample_2067,For the time being Beryl was content to let,Tor the time beiny Berul vas content to let,0.07699620799394324,0.014521208999212831,0.09302325581395349,0.4444444444444444
+denoising,sample_2071,"a schoolmaster and she a small ,","a cholmaster and she a small ,",0.05598258398822509,0.024932958011049777,0.0625,0.14285714285714285
+denoising,sample_2072,her great disappointment at being,her Gereat disappointmuent at beny,0.0811289580015,0.014264541998272762,0.15151515151515152,0.6
+denoising,sample_2077,"conversation that evening , for when","conversaton thot every , for when",0.0881511670013424,0.019741500000236556,0.16666666666666666,0.5
+denoising,sample_2079,"Blanche and Jack left , he went with","Flancde and faak left , ho wrbt wigh",0.04861383402021602,0.016153875010786578,0.2222222222222222,0.625
+denoising,sample_2087,"like an ineffective imbecile . ""","libe an inefective imbecile . """,0.05175862502073869,0.01574437497765757,0.0625,0.3333333333333333
+denoising,sample_2091,""" And I 'm heartily sick of being constantly called",""" And I ' m heartily sick of being constantly called",0.05173570799524896,0.01664674998028204,0.0196078431372549,0.2
+denoising,sample_2093,you the best way I can by getting hold of Jack,you the bert way I can by seting bold of Jack,0.058465166977839544,0.01947745800134726,0.08695652173913043,0.2727272727272727
+denoising,sample_2095,""" What have I done wrong now ? I cover up for",""" What have I done wrong nou'? I cover up for",0.09765729200444184,0.01869333299691789,0.044444444444444446,0.16666666666666666
+denoising,sample_2098,""" It 's your superior attitude that riles me . "" Beryl was",""" fs pur superior atttude thit iles med beny war",0.06696095899678767,0.011769375007133931,0.29310344827586204,0.8461538461538461
+denoising,sample_2101,"scarlet with annoyance . "" How I happened to be marooned","ccadlet with annsyance "" foas ( hnppened to be mnaraned",0.05879612502758391,0.009425374999409541,0.23214285714285715,0.6363636363636364
+denoising,sample_2103,"look as though it was only what you expected of me ,",lok ar thagy it wr only ohd yor ayetd of ne,0.0451327909831889,0.008742583013372496,0.36538461538461536,0.75
+denoising,sample_2112,"Be yourself , "" she exclaimed , with","Be yourself , "" she exdaimed , with",0.07856766600161791,0.012056959007168189,0.05555555555555555,0.125
+denoising,sample_2117,equally indignant rejoinder .,agually indiguent rejoider .,0.054108915996039286,0.008521790994564071,0.1724137931034483,0.75
+denoising,sample_2119,"idyllic surroundings . "" "" How dare you say","idyllic surroundigs .  "" How dare youn say",0.0426210000005085,0.01571112501551397,0.09302325581395349,0.3333333333333333
+denoising,sample_2122,"from him to fondle Judy , who , sensing something","from fim to fondle Grcly , cifo . sensing sameting",0.07947308299480937,0.0145389579993207,0.22448979591836735,0.5
+denoising,sample_2123,"amiss , was nudging her in the endeavour to","amiss , usaes nugging lir in fh enleavour to",0.04412454101839103,0.015157458983594552,0.20930232558139536,0.5555555555555556
+denoising,sample_2126,if I had absolutely insisted on sailing at the,if l Gaed alsolukly insiskeal on saeiling af fir,0.04866204102290794,0.017063125007553026,0.30434782608695654,0.7777777777777778
+denoising,sample_2127,"gain her attention . "" The truth is that","gaein bor allenlian . "" The FEffrutf is fraf",0.058943333016941324,0.020595333975506946,0.375,0.5555555555555556
+denoising,sample_2129,"time originally arranged , Sir John would","time origimnally ancengel , Sir Goin Goull",0.07980425001005642,0.014401292020920664,0.21951219512195122,0.5714285714285714
+denoising,sample_2133,"dares to stand up to him . ""","daries to stand ag to jim . """,0.05440529200132005,0.009381625015521422,0.14285714285714285,0.375
+denoising,sample_2134,""" What harm could possibly have come to Forrest",ih9fet arm could pessibly jav came to resrst,0.05167129199253395,0.017498041997896507,0.2978723404255319,0.7777777777777778
+denoising,sample_2135,"flamingoes our first morning on the island . ""","flemingaes our foisl mosmingg an f* isliends """,0.08118258300237358,0.014399333012988791,0.34782608695652173,0.7777777777777778
+denoising,sample_2136,"through Sir John's nonsense ? "" Piers could","Arroug? Sir foin's nonsunse 8 "" Gicns coull",0.07682766701327637,0.014199667028151453,0.2558139534883721,0.75
+denoising,sample_2139,precisely the remark she had made to Guy .,precisely fre remte she Sed maack to buy .,0.048990917013725266,0.016304707998642698,0.2619047619047619,0.5555555555555556
+denoising,sample_2145,Beryl tried to suppress the thought that this was,Werpl tisil to suqpess Re NorgSl Bref Pis coes,0.07253337500151247,0.013392207998549566,0.4897959183673469,0.8888888888888888
+denoising,sample_2148,""" What they can bring off ! I 'll admit that .",""" crSal trer cam iring offi l eycedail Bol .",0.07363737499690615,0.012484999984735623,0.4782608695652174,0.8333333333333334
+denoising,sample_2153,"able destination . "" "" There 's a difference","ashe claslinalion . "" "" Fres i's a dliflsince",0.07310495799174532,0.013804874994093552,0.38636363636363635,0.5555555555555556
+denoising,sample_2156,"with Sir John ? "" she enquired cuttingly .","cilf SirfSn ? "" sha emqinep cullingty .",0.0694394170132,0.012694125005509704,0.35714285714285715,0.6666666666666666
+denoising,sample_2157,I doubt it . He 's about as easy to push around,( Goufl if . Me's aaoul as easy to pus f aenoud,0.05553858299390413,0.017487250006524846,0.2978723404255319,0.75
+denoising,sample_2159,"at that , but went on airily , "" I 'd have made","aftat , but wenl on ciniby , "" T i0 Jeo mnaede",0.0550646249903366,0.01687312501599081,0.3404255319148936,0.6153846153846154
+denoising,sample_2161,put her interests before my own .,put bar interists Sefore iy occan .,0.06143975001759827,0.011063707992434502,0.24242424242424243,0.7142857142857143
+denoising,sample_2165,"man was , she thought impatiently ,","man was , she thought upatintly ,",0.07854991700151004,0.013851125026121736,0.08571428571428572,0.14285714285714285
+denoising,sample_2167,to have been guests at yesterday's,tohave been quests at yerterdays,0.05997204201412387,0.010640166990924627,0.11764705882352941,0.6666666666666666
+denoising,sample_2172,Their air of smiling somnolence showed them,Their air of smiling somnodence showed then,0.05527966600493528,0.01573887499398552,0.046511627906976744,0.2857142857142857
+denoising,sample_2175,"toothless mouth stretched in a wide grin , told her","toolaless maul skretoed in a mide grin , lold ter",0.054932208004174754,0.017238000000361353,0.21568627450980393,0.6
+denoising,sample_2180,"in halting 6patois that "" 3Mistah Piers "" had","in halting Gpatois that "" 3 Mistak Picrs "" Lad",0.049585333006689325,0.0164113329956308,0.1111111111111111,0.5555555555555556
+denoising,sample_2184,We all know how Balicou Island dangerous,We all know how Balicon bland dangerous,0.07148783298907802,0.012328292010352015,0.075,0.2857142857142857
+denoising,sample_2188,"she was a lady who , like her Uncle Charles ,","she was a lady nhe , hike hes lncte cnatle ,",0.0728951669880189,0.0122679159976542,0.2222222222222222,0.45454545454545453
+denoising,sample_2190,rocks in an' out o' de water .,webes in anl out ol de water .,0.04206562502076849,0.014109874988207594,0.2,0.375
+denoising,sample_2191,habit .,sisil .,0.022416624997276813,0.004220125003485009,0.5714285714285714,0.5
+denoising,sample_2192,"day . Though he did not refuse wine , which the","b6y. Bougt he ait wt reflcse wime , nhiet  the",0.04968783300137147,0.01599708298454061,0.3404255319148936,0.7272727272727273
+denoising,sample_2194,except in moderate compliance with his father's,excgat in mondeste comptince witis istathers,0.04899816701072268,0.015547874994808808,0.2765957446808511,0.8571428571428571
+denoising,sample_2200,Around that rounded rocky promontory where the,Promnd tthit ronnchel roly prstuontrg where the,0.061454333015717566,0.011195416009286419,0.32608695652173914,0.7142857142857143
+denoising,sample_2202,close to the rocks that it would be dashed,close . to the roaks thnt it would be dashed,0.054700792010407895,0.018021791998762637,0.09523809523809523,0.3333333333333333
+denoising,sample_2205,What does time mean when weighed against the life of,Whed der time mean when weished apainst the life of,0.05698020799900405,0.026192791003268212,0.11538461538461539,0.4
+denoising,sample_2207,"two human beings ? "" Not until he was certain that the","ywo hnnan beeins ? "" Not untl he war cerdain thas the",0.053595541015965864,0.01525224998476915,0.16666666666666666,0.5833333333333334
+denoising,sample_2208,"by trying to come home now , even if he did promise ?","by lrying to come homn now , even if he ad promise ?",0.061771208012942225,0.020345958997495472,0.07547169811320754,0.23076923076923078
+denoising,sample_2222,It seemed to the frightened judge,ot seemed to the frightened jndge,0.08143591598491184,0.013618917000712827,0.06060606060606061,0.3333333333333333
+denoising,sample_2224,"of wet canvas , Bill cleared the","of wet cauvas , Bill cleaed te",0.08174279201193713,0.013412375003099442,0.09375,0.42857142857142855
+denoising,sample_2225,"with the tiller still hard over , brought","with the tiller still had oves , biouget",0.07574133400339633,0.01293241701205261,0.0975609756097561,0.375
+denoising,sample_2226,the tiller hard over and at the,mhe tilles hod oue and at hhe,0.045733625011052936,0.015371249988675117,0.22580645161290322,0.7142857142857143
+denoising,sample_2232,"that were a little unsteady , they","that nere a littke urvteady , twrey",0.05164616700494662,0.017034584016073495,0.17647058823529413,0.5714285714285714
+denoising,sample_2235,hip as I ever saw . That boy of,bip ax jever vaw . Tat hey of,0.04800070801866241,0.01609320900752209,0.25806451612903225,0.7777777777777778
+denoising,sample_2236,""" that was as pretty a piece of seamans-",""" thaat has as ptethy a picce of Veahuauer-",0.06118900000001304,0.019761042000027373,0.275,0.5555555555555556
+denoising,sample_2244,water in her . I wouldn't be,iate in ler. Jwoueldn If te,0.056021708995103836,0.01763341698097065,0.39285714285714285,0.8571428571428571
+denoising,sample_2245,drag the boat ashore and turn,drey the boat avhiore and turn,0.06288587499875575,0.012868916994193569,0.13793103448275862,0.3333333333333333
+denoising,sample_2246,speed records on the way in .,speed recorde on the woy in .,0.07684525000513531,0.01401154202176258,0.06896551724137931,0.2857142857142857
+denoising,sample_2250,"had more clothes on . ""","tad moe coties ou. """,0.053034541982924566,0.017306791007285938,0.2608695652173913,0.8333333333333334
+denoising,sample_2254,"man at catch 'em than Injun , Judge .",man at catch eem than bjunpuage. .,0.043674791988451034,0.016220624995185062,0.24324324324324326,0.4444444444444444
+denoising,sample_2255,dragged out but before it was turned,dragged out but before it was turned,0.04836279101436958,0.016092624980956316,0.0,0.0
+denoising,sample_2257,over Bueno Buck reached into the foot,over Bueno Bucke reached infto the foot,0.06171091701253317,0.028035374998580664,0.05405405405405406,0.2857142857142857
+denoising,sample_2260,"of water , tossed out a string of silvery","of water , tossed out a string of sbery",0.05146141702425666,0.01628012501168996,0.07317073170731707,0.1111111111111111
+denoising,sample_2261,With four doing the job and the waves,With four coing the jols and the waves,0.0481453750107903,0.015787166979862377,0.08108108108108109,0.25
+denoising,sample_2263,few moments later the yawl was upside,few mamants tter the yaul as psise,0.07449362499755807,0.013019459001952782,0.21621621621621623,0.7142857142857143
+denoising,sample_2264,"exclaimed the judge . "" Toss them on the grass","exdaimes thejnolge . "" Toss them an the gran",0.07024791699950583,0.011122083000373095,0.21739130434782608,0.5
+denoising,sample_2265,"down , exposing its shallow keel .","clown , expouing is shatlan teet ,",0.06739124999148771,0.010734291019616649,0.29411764705882354,0.8571428571428571
+denoising,sample_2269,"Bertram's face was grim . "" You think it was the Snort ,","Bertram's frce was grim . "" 4 on think it wap tee Snort ,",0.05159329198068008,0.015302499989047647,0.10714285714285714,0.38461538461538464
+denoising,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he","don't yon ? "" Johu gave a short langf . "" I aid , "" he",0.0545666660182178,0.01804520800942555,0.09259259259259259,0.25
+denoising,sample_2271,"said ; "" but I 'd better stop thinking that now .","said ! "" lut ) ' better ntop feinking fhat nour .",0.05575766699621454,0.019777542009251192,0.20408163265306123,0.6666666666666666
+denoising,sample_2272,"Pericles is fitted with an identically similar one . ""","Pericls in fitting with an identically sinifar ons .""",0.06027225000434555,0.019717499992111698,0.16666666666666666,0.7
+denoising,sample_2273,""" So there you are , my dear . "" Peggy 's eyes filled",""" To tare yon are , my dear . "" Peggy's eyes filled",0.05163204198470339,0.016439458006061614,0.09433962264150944,0.35714285714285715
+denoising,sample_2275,sick . Just because he 's an Honourable he can do,siek . Juustbecanse he's an Honourable he can do,0.05282595899188891,0.01743620799970813,0.10204081632653061,0.45454545454545453
+denoising,sample_2281,bombs during the last war . Having deposited his,lomlis during the last war . Having deopasibed lis,0.05148774999543093,0.02259229202172719,0.14583333333333334,0.3333333333333333
+denoising,sample_2284,"interest to The George , unhappily destroyed by German","""nterest to Te George , wnhappily destryed by German",0.05134174998966046,0.016678749991115183,0.07407407407407407,0.4444444444444444
+denoising,sample_2288,man who was staring moodily into a gin,man who wvas storing moodily into a gin,0.05131049998453818,0.016862208023667336,0.05263157894736842,0.25
+denoising,sample_2289,"*?2s as ' Seaweed ' , and a youngish , sharp-eyed","I iks as ""Seaveed ; anda youngish , shapp-eyed",0.0568437920010183,0.016313458007061854,0.24489795918367346,0.8181818181818182
+denoising,sample_2290,and tonic .,and tanic .,0.04006929200841114,0.007084708020556718,0.09090909090909091,0.3333333333333333
+denoising,sample_2294,of the bar was not 6persona grata . If her,of the bar was not epersana grata . f ber,0.04758558300090954,0.014815667003858835,0.09523809523809523,0.3
+denoising,sample_2295,Seaweed's memory was prodigious ; her manner,Fcaneed's memory wvas prodigious ; her manner,0.04803929099580273,0.01554970900178887,0.09090909090909091,0.2857142857142857
+denoising,sample_2298,glance at him . Evidently the other occupant,Glance at him . Evidently the ather cccupant,0.05052412499208003,0.017746875004377216,0.06818181818181818,0.375
+denoising,sample_2301,what ! ' - as the Guards officer said on his return,what . !- as thre Cuartds officer said on-biis nebttim,0.05480912499479018,0.01768150000134483,0.27450980392156865,0.6666666666666666
+denoising,sample_2303,bomb . Should have been a V.C.,Somb . Slould larx been a jiC,0.08217341598356143,0.01432291601668112,0.26666666666666666,0.5714285714285714
+denoising,sample_2305,""" Make it a large one , darling . I know the naval","intlake ita large are , darling . I bncu te naval",0.05081770900869742,0.016286624973872676,0.22,0.5384615384615384
+denoising,sample_2307,inherited desire to snub the man . If he did he,inlerited desine to snul the man . If lre did le,0.05380066597717814,0.01783104200148955,0.1276595744680851,0.45454545454545453
+denoising,sample_2310,the lounge or return to his bedroom .,the loimoe ar netirn to hi bedrmora .,0.05978462498751469,0.014397292019566521,0.2702702702702703,0.625
+denoising,sample_2314,"yourself , "" she said with mock severity .","yourself . "" she said withy mode severity .",0.07239479100098833,0.012820999982068315,0.09523809523809523,0.3333333333333333
+denoising,sample_2316,"fault entirely , "" said the stranger . "" It 's my conceited","faultentriely , "" said the stranger . itin myconceited",0.045101916999556124,0.01461004200973548,0.1694915254237288,0.5384615384615384
+denoising,sample_2317,in the Daily Courier .,inthe faily Couries .,0.044746542000211775,0.0107028330094181,0.13636363636363635,0.8
+denoising,sample_2318,"to you ? "" It did . Ian Bawley's name was","toyan? "" Ifdid . Jan Pawley's name nas",0.04507208301220089,0.014875500026391819,0.21951219512195122,0.7272727272727273
+denoising,sample_2322,nature - I assumed that you both knew who I,sature- Tasumed that you hath hrener who (,0.05131799998343922,0.017084082996007055,0.27906976744186046,0.7
+denoising,sample_2325,"drink ? "" John nodded - he could afford to buy",drink ? .s Yokn noddeed - he could afford to bry,0.05987070800620131,0.01614270801655948,0.13043478260869565,0.36363636363636365
+denoising,sample_2333,all else . We pride ourselves about accuracy on,all else . We pride ourselvs about accuracy on,0.05274741700850427,0.017313750024186447,0.02127659574468085,0.1111111111111111
+denoising,sample_2338,the Courier .,the Courier .,0.047612583002774045,0.007975125015946105,0.0,0.0
+denoising,sample_2339,Ever known us bowl a wide about your Service ?,Ever fenoun ns boul a wicle about your Bervice?,0.05683416602551006,0.018331125000258908,0.1956521739130435,0.6
+denoising,sample_2341,"gin with relish . It was his favourite brand ,","gin wiith ralish . De was his favourite trand ,",0.054656874999636784,0.016959875007160008,0.10869565217391304,0.4
+denoising,sample_2344,"truth be embarrassing ? "" John sipped his double","truth be embarrassing "" otin sipped his double",0.05513212500954978,0.01556612498825416,0.10416666666666667,0.2222222222222222
+denoising,sample_2347,Life at home and in Bath had been a,Jipe at horne arel in Bath had been a,0.04942212498281151,0.01672237497405149,0.2,0.3333333333333333
+denoising,sample_2350,"found him curiously stimulating . "" You 're a","Found him euriously stimnlating . "" Joure a",0.08378875002381392,0.014600041991798207,0.13333333333333333,0.5555555555555556
+denoising,sample_2354,"bit of a humorist , aren't you ? "" said","bit of a humorist , arerik you'? "" said",0.056158583000069484,0.019146292004734278,0.10256410256410256,0.3
+denoising,sample_2356,""" It 's my business . I 'll tell you more . You 're",Tlei's ry busmess . Jiel tell you more . jouire,0.046031416015466675,0.014809375017648563,0.29411764705882354,0.6428571428571429
+denoising,sample_2358,going to take over command of Pericles . Am I,going to takke over command ofy Pericles . Am M,0.05678620797698386,0.01999445800902322,0.06666666666666667,0.3
+denoising,sample_2360,"'em up , darling ! ""","iem rp , darling !n",0.041541334008798,0.007455000013578683,0.2,0.6666666666666666
+denoising,sample_2361,"shook his head . "" All paid for by His Lordship , ""","shooke his hend .  ' Ael paied for by His Lordship """,0.0583204579888843,0.01731308299349621,0.13725490196078433,0.46153846153846156
+denoising,sample_2369,refilled glass and looked over the rim at his,refilled fass and loohd wver the vin at hes,0.055705832986859605,0.01001854200148955,0.17777777777777778,0.5555555555555556
+denoising,sample_2372,"of course . "" "" On one condition , "" said John .","of conrse . "" On one condition ,"" said Sohn .",0.05987820800510235,0.010148874978767708,0.10416666666666667,0.38461538461538464
+denoising,sample_2374,""" Tell me who the little bird was . "" "" Can't","itell m who the litthe biird was ."" "" Canit",0.048204165999777615,0.015577458019834012,0.17777777777777778,0.6666666666666666
+denoising,sample_2375,"have dinner with me ? On His Lordship ,","have uiner with me . Ouths Lordshuip ,",0.07787737500621006,0.01418816699879244,0.20512820512820512,0.5555555555555556
+denoising,sample_2376,"again , no doubt , and then you will have .",sawn wiacndst nnelhwmm the nnleanve,0.0411677090160083,0.006789750012103468,0.7209302325581395,1.0
+denoising,sample_2379,you guess ? Whose portrait appears regularly,"pugusss Whase portrai appears , ryulay ,",0.0572051249910146,0.015291208983398974,0.3409090909090909,1.0
+denoising,sample_2383,"contact , is our Robbie ; he gives us the gen and",centactr is onr Pobbi ; he gries us the gen and,0.06850716701592319,0.011730832979083061,0.16326530612244897,0.4166666666666667
+denoising,sample_2386,"sort of thing . "" "" You 'll get nothing out of me , ""","sot of Mhing . "" Youill get nothing ant drme ",0.05675141699612141,0.012765624996973202,0.2830188679245283,0.6666666666666666
+denoising,sample_2389,disposed towards each other .,Jisposed towards one anther .,0.05894716701004654,0.010803624987602234,0.2413793103448276,0.6
+denoising,sample_2390,"tell George to bring in the 6carte du jour . """,till George to bring in the bcaste bu jar . ',0.06478733298717998,0.010377667000284418,0.15217391304347827,0.45454545454545453
+denoising,sample_2391,Bawley was a man of his word . He kept,Fwsley wasta mangy his werd . He hepet ,0.05583895798190497,0.009241250023478642,0.2631578947368421,0.7
+denoising,sample_2392,passed all too quickly . As they parted in,passed all too quichly to they pasted in,0.06546808400889859,0.011451708007371053,0.14285714285714285,0.4444444444444444
+denoising,sample_2394,the vestibule the two men were well,"theveshbule , the two men were well",0.055262334004510194,0.023835917003452778,0.14285714285714285,0.2857142857142857
+denoising,sample_2397,John took it and put it in his pocket .,Tchn took it and put it i his pochet .,0.06572354098898359,0.011697875015670434,0.10256410256410256,0.3
+denoising,sample_2398,"of the work is done . "" He held out a card .","of the warh is done "" He held ant a card .",0.07653854199452326,0.013255833007860929,0.13636363636363635,0.23076923076923078
+denoising,sample_2399,give me a ring at this number and I 'll,give ne a ving at this nunber and I M I,0.06127974999253638,0.010933042009128258,0.15384615384615385,0.5
+denoising,sample_2400,""" You should . Next time you 're in Town",i you shanld pferet time yore in town,0.04806195801938884,0.007956249988637865,0.325,0.8
+denoising,sample_2403,up on that .,up anr that .,0.020744292007293552,0.0034221250098198652,0.16666666666666666,0.25
+denoising,sample_2404,""" Ever been to Fleet Street ? "" asked Bawley .",i Ever been to Flut strect ? ashed Bawly .,0.06073408399242908,0.0096605830185581,0.1956521739130435,0.5454545454545454
+denoising,sample_2405,""" I shall be busy for a while , cleaning up after",""" I shall be busy for awhile , cleaming up after",0.04745033400831744,0.015248874988174066,0.04081632653061224,0.25
+denoising,sample_2406,lying in pairs alongside the jetty at Fort Blockhouse .,ling in paivrs alomgside the jelly at Ford Blothouse .,0.05089133299770765,0.015101750002941117,0.14545454545454545,0.6
+denoising,sample_2407,""" I don't know when that will be , "" said John .",""" I don't lmos when that will be , "" said golin .",0.05486245799693279,0.017626624990953133,0.125,0.15384615384615385
+denoising,sample_2409,Glad I met you . Don't forget to give me a ring -,blad I met gou . Bon't forget to give me a ring-,0.051557332975789905,0.015691250009695068,0.08163265306122448,0.38461538461538464
+denoising,sample_2410,"Master bloody Munyard . "" THERE were six submarines ,","Master bloody Munyard . "" FHRRE weve six submarines ,",0.05016295798122883,0.014892417006194592,0.05660377358490566,0.2
+denoising,sample_2412,"sounded , for all of them were rumbling as they","sounded , for all of them weve nembling as they",0.04833304201019928,0.014533584006130695,0.06382978723404255,0.2
+denoising,sample_2418,A light wind wafted the smoke of diesel exhaust in,A light wind sofved the smoke of diesel erhaust in,0.05447291600285098,0.01586066701565869,0.08,0.2
+denoising,sample_2423,There had been many such breakfasts lately since the,Theve had been many such brcaltasts lakely since the,0.046584916999563575,0.014687000017147511,0.09615384615384616,0.3333333333333333
+denoising,sample_2424,but she could see that it no longer came naturally .,but she could soe that it no lonpger came naturally .,0.04927049999241717,0.014792375004617497,0.038461538461538464,0.18181818181818182
+denoising,sample_2427,"His normal placid and steady-going manner remained ,","His normal placid and sready- going masrer rersained ,",0.04854783299379051,0.014513959002215415,0.11538461538461539,0.5
+denoising,sample_2429,though in peace time these happenings are few and,though in peace time these happenings are feus and,0.04857825001818128,0.014537999988533556,0.04081632653061224,0.1111111111111111
+denoising,sample_2432,must present an unruffled appearance and carry on as,must present an unmffled appearance and carry on as,0.05924524998408742,0.018447334005031735,0.038461538461538464,0.1111111111111111
+denoising,sample_2434,"locality , had been interviewed by the Press , had driven","lacality , had been intrviered by the grss , had driven",0.05187570900307037,0.015866708010435104,0.08771929824561403,0.2727272727272727
+denoising,sample_2435,must continue as before . During this period the Captain,must cosstinue as before . During this periad the Captain,0.055699832999380305,0.017965500010177493,0.05357142857142857,0.2
+denoising,sample_2440,"Jeannie 'll be on that coach , Dan . ""","Jeannie'll be on that couch , Dan . '",0.04938516701804474,0.016021749994251877,0.07894736842105263,0.4
+denoising,sample_2446,"morrow as likely as not . "" I paused . "" Miss","morraw as lilely as not . "" I paured . "" Mins",0.048141625011339784,0.015760542009957135,0.08888888888888889,0.3333333333333333
+denoising,sample_2451,"to her , Dan . "" "" She 'll be all right . It 's the","to her , Dan . "" "" Jhelll he all sfut . Is the",0.048865458025829867,0.01436462500714697,0.21568627450980393,0.375
+denoising,sample_2459,"working for , as well as the townsfolk and","wencng for , as well as The tounslolk and",0.05349229200510308,0.016348833014490083,0.16666666666666666,0.3333333333333333
+denoising,sample_2460,"of responsible for her . "" "" Of course , "" he said ,","of respourtle fwr her . "" "" Of cowse , "" he said ,",0.044998584024142474,0.014138166996417567,0.1346153846153846,0.21428571428571427
+denoising,sample_2461,"that girl all the time , Dan . I feel kind","that Surl all the tive , pan . I feel kind",0.0505947079800535,0.018360999994911253,0.09523809523809523,0.2727272727272727
+denoising,sample_2462,"the agency detective . """,the agenng delechve . .,0.040496000001439825,0.006569958990439773,0.25,0.6
+denoising,sample_2463,After all it 's them we 're supposed to be,Ater all it's them webe suppared to be,0.054557583993300796,0.01700987500953488,0.16666666666666666,0.6
+denoising,sample_2465,Dead . Shuffled out of the deck . Blasted,dead . Sunllled ont of the chk . siased,0.059445541992317885,0.01838725002016872,0.2926829268292683,0.5555555555555556
+denoising,sample_2466,"last night . """,lart nigut .',0.02587208300246857,0.004366000008303672,0.2857142857142857,1.0
+denoising,sample_2467,With something of a start I remembered the,With sometiln of a s9ox I remanhered the,0.05260195801383816,0.0169184579863213,0.23809523809523808,0.375
+denoising,sample_2470,"tried to surprise him . "" Dead ? "" he said . "" Yes .","tied to suprise hein . "" Pead ? "" he said . "" yes .",0.05436104198452085,0.01700741599779576,0.11538461538461539,0.3333333333333333
+denoising,sample_2473,fascinated by the way he looked when you,fascinated by the wany he looked when youn,0.04518612500396557,0.015309207985410467,0.05,0.25
+denoising,sample_2479,"unreadable as a rock . "" Let 's get over to the","unceadable as a roke . "" let gut over to the",0.04265858299913816,0.01435729200602509,0.1702127659574468,0.4166666666666667
+denoising,sample_2483,The air was fresh and clear and you,The air was lresh and cecs and yun,0.05182045898982324,0.015855583973461762,0.17142857142857143,0.375
+denoising,sample_2484,could see far over west and north for many,conld see fo wesd and north for may,0.04361629197956063,0.01426050000009127,0.21428571428571427,0.5555555555555556
+denoising,sample_2485,"a vast stretch of hills , canyons , buttes and","a vant gvekh of hills ,canoms , bulles and",0.04464587499387562,0.014027208992047235,0.2391304347826087,0.5
+denoising,sample_2488,colour drawing . Between us and that lay,Colour draning . Betwcer us and that lay,0.05110579199390486,0.01644241699250415,0.1,0.375
+denoising,sample_2490,the horses and drank enough to cure our,the harses and danl gfrough to cne ow .,0.0560919170093257,0.017499957990366966,0.28205128205128205,0.75
+denoising,sample_2493,""" The mine-workings lie north of the town , ""","The mine-werning hi north of the toun  """,0.05725016599171795,0.018201625003712252,0.2222222222222222,0.5
+denoising,sample_2494,"So we swung west , making slow going over","so me swurg west , malng slow going ove",0.04769537498941645,0.014294583001174033,0.14634146341463414,0.5555555555555556
+denoising,sample_2498,"four or five mile valley , sandy-floored . It","fow ar live ninle vallry , santy-floured . It",0.04781474999617785,0.014721499988809228,0.2,0.6666666666666666
+denoising,sample_2506,Here in a dried-up creek-bed we found,itere in a died-up creelk-bed he loimel,0.05731516602099873,0.017297707992838696,0.2702702702702703,0.7142857142857143
+denoising,sample_2512,"your whiskers off . "" "" Take it easy , mister , "" I sang","yow nhialers of ."" "" Tale il lerny , mie ! "" Wang",0.0511642089986708,0.01713141697109677,0.3392857142857143,0.8
+denoising,sample_2513,got no whiskers so as you can see . Just you,gut no uhiolus so asgan cin see . Ju yon,0.062251333001768216,0.017940124991582707,0.3181818181818182,0.6363636363636364
+denoising,sample_2516,"out . "" We don't aim to come any closer and we 've","ont . "" We don't oi to cone any closs and neive",0.04854449999402277,0.01574633299605921,0.18,0.46153846153846156
+denoising,sample_2521,peeking out through a hole in the shack never,peeking ont trough a hole is the shack never,0.052062208007555455,0.018041167000774294,0.06666666666666667,0.3333333333333333
+denoising,sample_2522,"though they 're expecting trouble , "" I said . "" Where","though thenlre expectin trouble ,n I said . "" Whe",0.051508791017113253,0.01739120899583213,0.14814814814814814,0.5
+denoising,sample_2525,""" Oh , "" said the unseen guard . He blew a","in ,n tid the wnseen suard . He beew a",0.04837458301335573,0.018234374991152436,0.2619047619047619,0.6666666666666666
+denoising,sample_2527,kind of sequence .,hind of reqence .,0.06089033398893662,0.010615999985020608,0.16666666666666666,0.5
+denoising,sample_2531,life came up before him in some cinematic,life came up before hitn in pome cnemetic,0.07213524999679066,0.024085250013740733,0.12195121951219512,0.375
+denoising,sample_2534,"be open . It was . He entered , and seated himself","be open . At was . He entered , and reated himselt",0.056893125001806766,0.02690299999085255,0.06,0.25
+denoising,sample_2539,"boy , then a young youth . He saw himself refusing","boay , then a yaug youthe . He san hirself  refusipp",0.05706666599144228,0.017444917000830173,0.16,0.5454545454545454
+denoising,sample_2541,dly decadence and absorption in debase-,dly decadence and absorition in dabuse-,0.05601408300572075,0.01687554200179875,0.07692307692307693,0.3333333333333333
+denoising,sample_2544,"canery and corruption , the growth of the dea-","canery and carsptisn , the prouth of the dea-",0.05410408301395364,0.015232582984026521,0.13043478260869565,0.2222222222222222
+denoising,sample_2547,"saw himself as a sulky , ugly , malformed , repressed","sa himself as a sully , uply , mabforrmned , repressead",0.0485676669923123,0.016142915992531925,0.1320754716981132,0.45454545454545453
+denoising,sample_2551,"in London . Very strange his eyes looked . Mad ,","in Loudon . Very strange his eyes Looked . Mad ,",0.04240579099860042,0.01294608399621211,0.041666666666666664,0.18181818181818182
+denoising,sample_2559,never been inside . Very remiss of,mever -beesi-nsile . Ten semiof,0.056223666993901134,0.017307458008872345,0.38235294117647056,0.8571428571428571
+denoising,sample_2560,the thought came to me I 'd like,the thonglt came te ine sel lne,0.04349279101006687,0.015125499980058521,0.34375,0.75
+denoising,sample_2564,"led the way in . "" The stained glass","led the yp in . "" Tce stnae ylens",0.05168233401491307,0.022448792005889118,0.3055555555555556,0.4444444444444444
+denoising,sample_2574,of despair Gay knew that of course,of cespair f ay knew theed ofcorse,0.04933683399576694,0.015933290997054428,0.23529411764705882,0.8571428571428571
+denoising,sample_2575,Gavin she had left her sun-,Gavin sbe bad left her skm-,0.08203612500801682,0.015601499995682389,0.14814814814814814,0.5
+denoising,sample_2576,off the plane with him were talking .,off the plame witl kim were talhlng,0.05061045801267028,0.01695908300462179,0.1891891891891892,0.625
+denoising,sample_2579,Gavin and the girl who had got,Gavin anorthe sine who kaos por,0.07948604202829301,0.015140125004108995,0.3333333333333333,0.7142857142857143
+denoising,sample_2585,laid his hand on hers . Gay smiled at him,Cad his wand on har . Gay piled at hiu,0.07943466698634438,0.012556291010696441,0.1951219512195122,0.5
+denoising,sample_2588,now Gavin was in love with her and her,na favin uas in eove withher & her,0.07554575000540353,0.013548999995691702,0.23684210526315788,0.7777777777777778
+denoising,sample_2591,"moon was just rising over the rocks , then","woon was fuet feing ovar the rode , then",0.07890399999450892,0.01411712498520501,0.23809523809523808,0.5555555555555556
+denoising,sample_2595,"All that was part of the past , she would put it behind her . She","Oll that was part of the paat , she would put it beqind Rer . Bhe",0.06888633401831612,0.020431207987712696,0.07692307692307693,0.3125
+denoising,sample_2597,"Lilyan remonstrated . "" They want to be",filya remonstiated . They wan to be,0.06256370898336172,0.01935908300220035,0.15384615384615385,0.5
+denoising,sample_2598,"can't find a table for two . """,cant find a table tee tw0 . ',0.059807667013956234,0.018591125000966713,0.2,0.5
+denoising,sample_2602,"boy friend , "" Doc called . "" No , Doc ! ""","boy feiend . "" Do0 caled . ""Nh , Loc.ll",0.060189709009137005,0.017490958998678252,0.2619047619047619,0.6923076923076923
+denoising,sample_2606,""" Come and join us and bring your",i Eome and join us and being youe,0.049569499999051914,0.016777999990154058,0.12121212121212122,0.5
+denoising,sample_2608,As Gay watched he offered the girl a,as Ga wascked kl Offered the gixl a,0.061658249993342906,0.02004216698696837,0.2222222222222222,0.75
+denoising,sample_2609,"She looked round scanning the tables ,","Rhl Rookced round scomning the tabkes ,",0.056206915993243456,0.01823945899377577,0.18421052631578946,0.5714285714285714
+denoising,sample_2612,seated at a small table in a shadowy,slated at a sluall tabsk in a rsladokyy,0.07189320898032747,0.022184667002875358,0.25,0.5
+denoising,sample_2615,"cigarette and lit it , his hands cupping","cigaxefte aud lit it , Ris Raucs apoping",0.06576854200102389,0.020620041992515326,0.25,0.625
+denoising,sample_2621,"run upstairs to her room , knowing that","punnpstaixs toler tooi , taowing thal",0.07238425000105053,0.02233500001602806,0.28205128205128205,0.875
+denoising,sample_2623,"loved her , was already flirting with a girl","eowedher, was olteadg feirting witea gixl",0.06410970800789073,0.01976979200844653,0.25,0.8888888888888888
+denoising,sample_2624,decided to go back and join Lilyan and,decided to go back and j oin Lilygon and,0.057855249993735924,0.017265250004129484,0.07894736842105263,0.375
+denoising,sample_2626,Gavin although he had told her that he,Gouin aethough he had told fu thot he,0.05635983298998326,0.02211095902021043,0.18421052631578946,0.5
+denoising,sample_2628,as Gay drew out a chair and sat,as faay cew outt a chaie and sat.,0.05039433401543647,0.015237582992995158,0.22580645161290322,0.625
+denoising,sample_2633,trying to understand Gavin's point of,byimg to enderstand Geuiin point of,0.04980825001257472,0.01477970799896866,0.24324324324324326,0.5
+denoising,sample_2635,felt wretched beyond words .,fell wceckied legoud moes .,0.052425207977648824,0.01577266599633731,0.39285714285714285,0.8
+denoising,sample_2638,with the cigarette packet which lay on the table,with the cigarete facket which lay on the table,0.04433487501228228,0.01389520798693411,0.041666666666666664,0.2222222222222222
+denoising,sample_2639,ging a smile .,ging a rnisly .,0.02735287501127459,0.004833290993701667,0.2857142857142857,0.25
+denoising,sample_2641,"lifeline and Gay got up quickly , mana-","litiline and Gry get ups puickly , mana-",0.0631628749833908,0.01238587501575239,0.15384615384615385,0.625
+denoising,sample_2642,His behaviour was not only boorish and in the worst of,Mis bchavionr was not only boorish and the worst of,0.046457208023639396,0.014200959005393088,0.1111111111111111,0.2727272727272727
+denoising,sample_2643,"dance , "" Doc's cheery voice came as a","dance "" Boc's cheary voice came as a",0.07443733399850316,0.013734042004216462,0.10526315789473684,0.3333333333333333
+denoising,sample_2645,and no doubt he would come back soon and,andno donbt he mould cac back soon and,0.06797383300727233,0.02107920899288729,0.15,0.5555555555555556
+denoising,sample_2647,kisses on the way back to the hotel .,irsses on the way bacl to the tratel !,0.08439262499450706,0.014589791011530906,0.1891891891891892,0.4444444444444444
+denoising,sample_2649,and Simone go through the doorway that led,and simane go through the dorrmay that ted,0.045226417016237974,0.01339429200743325,0.11904761904761904,0.375
+denoising,sample_2652,moment in disgust . She was fully aware that Gavin,moment in oisqust . She was falf aware that lavin,0.05119262498919852,0.015566542017040774,0.12,0.3
+denoising,sample_2655,"weakly , "" you don't know Gavin . "" "" I 've only met him","weakly , "" you don't hnow Gavin . "" "" I 've only nef hin",0.07732908299658448,0.014896834007231519,0.07142857142857142,0.2
+denoising,sample_2657,"heart out over ? "" Doc nodded towards the door . "" You","heart out over ? "" Doe nodded towards the door . "" You",0.08025500000803731,0.013874249998480082,0.018518518518518517,0.07692307692307693
+denoising,sample_2660,"him a great deal better than you do . ""","hin a great deal befer than you do. """,0.06706133397528902,0.011799166008131579,0.10256410256410256,0.4
+denoising,sample_2664,If he behaves like this now what is your,I he behaves like this now what is your,0.06067466700915247,0.01891008298844099,0.025,0.1111111111111111
+denoising,sample_2667,yourself away on a chap like that . You 're a,yourself away on a chap like that . Yu've a,0.06499937499756925,0.02088662498863414,0.06666666666666667,0.18181818181818182
+denoising,sample_2669,"Doc gave her hand a shake . "" Wake up","Te gave her hand a shake . "" Wake up",0.054572417022427544,0.018072041013510898,0.08108108108108109,0.1
+denoising,sample_2671,glad to be able to occupy herself .,elad to be abl ts occury hesely .,0.07876833298359998,0.014228375017410144,0.17142857142857143,0.625
+denoising,sample_2672,dining together . She opened her bag,slining hogelkes . She spened her bay,0.08433833398157731,0.01427412501652725,0.2222222222222222,0.5714285714285714
+denoising,sample_2681,""" So glad that you are having such a lovely time , dearie , """,""" So gfad 1hat you ane having such a fovely time , dearie """,0.04315737498109229,0.015729583014035597,0.09836065573770492,0.3333333333333333
+denoising,sample_2685,broken arm .,bngken anm .,0.029061250010272488,0.005520167003851384,0.25,0.6666666666666666
+denoising,sample_2686,No other news except that Elaine is engaged,to other news except Eaine is engaged,0.08639279199996963,0.015645875013433397,0.16279069767441862,0.375
+denoising,sample_2689,Gay read the rest of the letter then put,Gay read the rest of the leter put,0.07976424999651499,0.011899042001459748,0.15,0.2222222222222222
+denoising,sample_2693,"and going to marry a foreigner ... ""","and going to marry a foreigmer ... """,0.0625690000015311,0.010905417002504691,0.027777777777777776,0.125
+denoising,sample_2695,"it back in her bag . Elaine was engaged ,","if back in fer bag . CCaine was ' engaged ,",0.07946633399114944,0.017548500007251278,0.14634146341463414,0.4
+denoising,sample_2698,for Gavin at the way he was behaving as she,For gaun at the way he was Behaving ashe,0.05730449999100529,0.017534665996208787,0.16279069767441862,0.5
+denoising,sample_2703,"Gay's distress and in a way that Doc , as a man , could not","Gajs distres and ina wat that Doc jas a ren , Could nol",0.06022179199499078,0.02758841699687764,0.1864406779661017,0.6666666666666666
+denoising,sample_2704,"she felt happier . Gay loved them for their warm sympathy ,","Poit happie . Bay baved them for their war sxmpaty ,",0.07988499998464249,0.023495208006352186,0.23728813559322035,0.5833333333333334
+denoising,sample_2710,"be a doctor , and I already know","be a doctor , and I alreayylrow",0.05898466700455174,0.01900808300706558,0.125,0.25
+denoising,sample_2719,"that lark , I can tell you ! ""","tar lark , I can teu uu ! """,0.05985699998564087,0.009689875005278736,0.2,0.3333333333333333
+denoising,sample_2724,Little Phelpham .,little Prelphan .,0.02963262499542907,0.005218208010774106,0.17647058823529413,0.6666666666666666
+denoising,sample_2727,"which ' lark ' she would have to stop , only that significant tiny","wch s bt . she waned lovs o rep , anly har qpiprant tiny",0.0562389999977313,0.024413667008047923,0.42424242424242425,0.7857142857142857
+denoising,sample_2730,seen in Farlingham on an occasion he had sworn he had,rem in Ferlngham on an onasion he had suwn he had,0.09216787500190549,0.017897166981128976,0.18867924528301888,0.36363636363636365
+denoising,sample_2732,when she was not free ; this much they had,when she was not free ; this much they had,0.04765633400529623,0.01696000000811182,0.0,0.0
+denoising,sample_2733,about their relationship . So when Nigel,aout their relatiouship . Bo when Migel,0.0744447500037495,0.012635082995984703,0.1,0.5714285714285714
+denoising,sample_2739,"found they were off duty together , and","found they were off duty togethes , and",0.06913379099569283,0.01188695800374262,0.02564102564102564,0.125
+denoising,sample_2740,"evening surgery she had said ,","evening surgery she had said ,",0.06332625000504777,0.011190582998096943,0.0,0.0
+denoising,sample_2744,"suppose , to meet me for supper somewhere ? "" she had","supeasE , p meT me tor sruppere domewere ? "" sE tha",0.06054837501142174,0.027024749986594543,0.3018867924528302,0.6666666666666666
+denoising,sample_2749,"I 'll give you a ring , O.K. ? "" O.K. , "" she had","fll jve yon aving. 0.k . i "" D.K ."""" she had",0.060016083996742964,0.010093457996845245,0.3673469387755102,0.8
+denoising,sample_2756,"face , Di , but it certainly looked like","face , D. but it certainly loaked hitee",0.04296879199682735,0.013824416004354134,0.175,0.4444444444444444
+denoising,sample_2758,""" No , "" she told Phil Gubbins , a junior",""" M6 , "" she sold Phil Gubilins , a junian",0.044390291994204745,0.015574959019431844,0.17073170731707318,0.36363636363636365
+denoising,sample_2763,Of course such as I couldn't afford,Gf course suck as y rouldn'it affend,0.05179562501143664,0.016766459011705592,0.2,0.7142857142857143
+denoising,sample_2764,"houseman , "" it wasn't Nigel you saw ,","housesan , "" it wasn't Migel you sau ,",0.05153354202047922,0.018009083025390282,0.07894736842105263,0.3333333333333333
+denoising,sample_2768,"suddenly in an upsurging of relief , "" that stupid","suddenly in an upsurginng of relley , "" that stupid",0.06016820899094455,0.018637083005160093,0.06,0.2
+denoising,sample_2770,""" 5Ye-es ? "" he lowered his eyes and kissed her on the",""" 5 Ge-Es 2 "" he lowered his eyes asnd trissed her on the",0.05060841699014418,0.01640300001599826,0.12962962962962962,0.38461538461538464
+denoising,sample_2773,looked distinguished when he frowned ; boyishly,loobed distingshed when he frowmed ; boyishly,0.05157541699009016,0.015310209011659026,0.0851063829787234,0.42857142857142855
+denoising,sample_2774,""" Gubbins ? Gubbins ? "" he fretted . "" Who 's he ? """,""" Cinbbins ? Gubbins ? "" he fretet . "" Who 's he ? .",0.04988100001355633,0.022620042000198737,0.11538461538461539,0.2
+denoising,sample_2776,"member of the staff , distinguished or not ,","enemnben of the staofh, oitinguistee on waty",0.06170058299903758,0.02652649997617118,0.3409090909090909,0.7777777777777778
+denoising,sample_2780,Though Diana knew the name of every,Thongh Biame kaen the nare of ened,0.04574591698474251,0.020173958007944748,0.2857142857142857,0.7142857142857143
+denoising,sample_2782,to have an open quarrel,to bave oin oppu qwarvel any,0.07161595800425857,0.011574250005651265,0.4782608695652174,1.0
+denoising,sample_2783,"joking , Nigel . "" "" You shouldn't joke","potin, lint "" "" Yon shondnit . jotu",0.04786991700530052,0.014181290986016393,0.46153846153846156,0.8888888888888888
+denoising,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,""" Pnt , want it aeh perotened . 's wy ring. !",0.044829500024206936,0.014829374995315447,0.36363636363636365,0.7058823529411765
+denoising,sample_2787,"any minute , and she knew it .","pinte , and she Vmmr it .",0.04777904201182537,0.020919457980198786,0.3333333333333333,0.375
+denoising,sample_2793,"me up for tea , of course . I just thought . "" "" I 'll see , ""","me up for tea , of course . I just thovghli"" "" Till ser !l",0.05391074999351986,0.017583082983037457,0.1935483870967742,0.42105263157894735
+denoising,sample_2799,"out of his sight . "" Mine , "" Nigel Lester had","out of his sight . "" Mine , "" Nigel lestor hod",0.07951070799026638,0.014137958991341293,0.06521739130434782,0.16666666666666666
+denoising,sample_2800,"decided with a sigh of satisfaction , and",decidedwith a sigh of sofisfactiomrarnd,0.06901024997932836,0.032279917009873316,0.1951219512195122,0.625
+denoising,sample_2803,with some bitterness .,"with, some bitterness .",0.08882770899799652,0.012003500014543533,0.045454545454545456,0.25
+denoising,sample_2811,Sentence Database P03-189,ientence catahaae P63-15s,0.06370274999062531,0.018265499995322898,0.28,1.0
+denoising,sample_2817,you are satisfied . ',yo are satisfied .,0.035101624991511926,0.005541124992305413,0.14285714285714285,0.4
+denoising,sample_2819,him to my care . ' ' Nicholas - ',"hin to my care . . ' Wicbdas - ,",0.05543229100294411,0.008999707992188632,0.21212121212121213,0.4
+denoising,sample_2823,"mantle , and said with such","mantle , and said witn suchk",0.04381312499754131,0.013585709006292745,0.07407407407407407,0.3333333333333333
+denoising,sample_2829,"Even in that , his hands were","Euen in that , histands were",0.07191737499670126,0.011608125001657754,0.10344827586206896,0.42857142857142855
+denoising,sample_2830,of Philip lying in the other,of Prillp eying in the ofher,0.05486133397789672,0.008707958011655137,0.14285714285714285,0.5
+denoising,sample_2835,"# scribble on it . Then ,","#eeet seribble an it . Then ,",0.044999790989095345,0.014304291020380333,0.24,0.42857142857142855
+denoising,sample_2836,' I will leave you the necessary pre-,I I will leave yonthenecessay pre-,0.061387291993014514,0.009981625014916062,0.13513513513513514,0.5
+denoising,sample_2838,he tore off the leaflet and,be tone ofy the leaflet and,0.06313233298715204,0.010021082998719066,0.1111111111111111,0.5
+denoising,sample_2839,"with a gesture she knew so well ,","with a gestue she ken so wull ,",0.06223724997835234,0.009871834015939385,0.12121212121212122,0.375
+denoising,sample_2840,scription for the sedatives . You,GEriptrg for the sedatedes teyon,0.04399358399678022,0.007032249995972961,0.3333333333333333,0.6666666666666666
+denoising,sample_2841,when you reach your parents',wheneyyor rieach your parents I,0.06390204100171104,0.010155833006137982,0.21428571428571427,1.0
+denoising,sample_2848,with a deadly finality . Watching,wvith a deadly finality . Natcking,0.0636338330223225,0.010054291982669383,0.09090909090909091,0.3333333333333333
+denoising,sample_2850,If only he would have con-,of only he would have con-,0.05967254098504782,0.009716082975501195,0.038461538461538464,0.16666666666666666
+denoising,sample_2853,a hand and grasped hers .,"a hand andgrasped , hess .",0.05647879099706188,0.008956833014963195,0.16,0.5
+denoising,sample_2857,He needed her . She would find,Hfeneecal hes te iould fid,0.06058545800624415,0.009962124982848763,0.4,1.0
+denoising,sample_2858,Love . She revolted against,dove . She revolted aganrt ,0.051415624999208376,0.0090949589794036,0.1111111111111111,0.4
+denoising,sample_2862,know that well enough . ',bnow that well- enoughs ',0.052288209000835195,0.008336375001817942,0.16,0.6666666666666666
+denoising,sample_2868,I knew he was responsible for,TLmens hes was reponsatlefor,0.0689363329729531,0.010864540992770344,0.3793103448275862,0.8333333333333334
+denoising,sample_2873,Beryl's death . ',Beruye's death',0.03338979199179448,0.005450791999464855,0.29411764705882354,1.0
+denoising,sample_2876,disbelieve the facts . ' Elation,dis believe thefacts. Elation,0.07214200001908466,0.01134058297611773,0.15625,0.8333333333333334
+denoising,sample_2878,Her eyes darkened in torment . ' Are,Hereyes darkened in torment . Are,0.05800870800158009,0.009491542004980147,0.08333333333333333,0.375
+denoising,sample_2883,"her word . There was enough evidence ,","terward . There was enggh eridnce ,",0.07243745800224133,0.011552667012438178,0.18421052631578946,0.5
+denoising,sample_2886,"will be truthful , but what he leaves out",will be trutuefuly but what he leavesout,0.07388358298339881,0.011906458006706089,0.12195121951219512,0.4444444444444444
+denoising,sample_2888,Sandra too deeply to ruin her,Sanalra toowor deeply to ruin her,0.07448491698596627,0.012072665995219722,0.1724137931034483,0.3333333333333333
+denoising,sample_2891,he 'll confine himself to the nervous,he ll contine humsely to the hervons,0.05977120899478905,0.009420334012247622,0.16216216216216217,0.5714285714285714
+denoising,sample_2893,Philip's spirits soared .,Philip's ppiritsoared . I d .,0.06059179099975154,0.009600457997294143,0.36,1.0
+denoising,sample_2894,What his story will be . I reckon,Nhat his story will be . Erechon,0.06514295801753178,0.010367292008595541,0.12121212121212122,0.375
+denoising,sample_2899,miraculous recovery and Sandra would,mrraculous recovey and lndra would,0.07032150001032278,0.011192334000952542,0.1111111111111111,0.6
+denoising,sample_2900,' You can't forgive him for this -,G G ou cant forgive kinfor this-,0.05420650000451133,0.008584333001635969,0.23529411764705882,1.0
+denoising,sample_2901,"patronizing word , ' she replied . ' I despise","patromiaing word "" shereplied . Edupite",0.0667544580064714,0.010655083984602243,0.2826086956521739,0.8
+denoising,sample_2906,purpose than the throwing of dust in his,puerpose ljan fe Aroeimng of clesst in js,0.07320320801227354,0.011583417013753206,0.375,0.75
+denoising,sample_2908,"His digressions too , seemed to have no other","fis degressions foo , secmrd to savr no olier",0.07060554099734873,0.01126208298956044,0.2,0.6666666666666666
+denoising,sample_2910,"just dusty-grey but muddy , slimy even .","Sesf duisliy-gres but mceddy , Elauy lvan .",0.041986541997175664,0.012942834000568837,0.35,0.625

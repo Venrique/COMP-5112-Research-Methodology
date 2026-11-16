@@ -1,0 +1,7 @@
+technique,configuration,parameters,cer,wer,winner_including_baseline,improves_baseline
+denoising,nlm_h1,"{'name': 'non_local_means', 'enabled': True, 'h': 1.0, 'h_color': 3.0, 'template_window_size': 7, 'search_window_size': 21}",0.10070151618013125,0.34294871794871795,baseline,False
+deskew,deskew_max5_step0.5,"{'name': 'deskew', 'enabled': True, 'max_angle': 5, 'angle_step': 0.5, 'estimator': 'otsu_projection_difference', 'resampling': 'bicubic', 'expand': True, 'fill': 'white'}",0.10183299389002037,0.3525641025641026,baseline,False
+clahe,clahe_clip1_grid8x8,"{'name': 'clahe', 'enabled': True, 'clip_limit': 1, 'tile_grid_size': (8, 8), 'processing': 'grayscale directly; RGB via LAB luminance'}",0.10432224485177642,0.3547008547008547,baseline,False
+grayscale,grayscale,"{'name': 'grayscale', 'enabled': True, 'output_mode': 'L'}",0.10070151618013125,0.34294871794871795,baseline,False
+intensity_normalization,intensity_normalization,"{'name': 'intensity_normalization', 'enabled': True, 'processing': 'global min-max over all channels; round to uint8; constant unchanged', 'output_range': [0, 255]}",0.09979633401221996,0.3344017094017094,intensity_normalization,True
+size_normalization,size_height48,"{'name': 'size_normalization', 'enabled': True, 'target_height': 48, 'resampling': 'LANCZOS', 'preserve_aspect_ratio': True, 'width_rounding': 'nearest integer, ties to even; minimum 1'}",0.09957003847024214,0.33653846153846156,size_height48,True

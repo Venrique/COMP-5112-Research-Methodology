@@ -1,0 +1,1001 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+grayscale,sample_0,"assuredness "" Bella Bella Marie "" ( Parlophone ) , a lively song that changes tempo mid-way .","assuredness "" Bella bella Marie  ( Parlophone ) , a lively song thal change s bempo mid-way .",3.879200085066259e-05,0.021046500012744218,0.06451612903225806,0.3333333333333333
+grayscale,sample_6,He is also a director of a couple of garages . And he finds time as well to be a lyric,the is also a director of a couple of garages . And he finds time as well to be a lyric,9.733301703818142e-05,0.028016208001645282,0.023255813953488372,0.047619047619047616
+grayscale,sample_8,"The numbers include "" Scotland the Brave , "" "" Men of Harlech , ""","The yumbers inelude Scotland the Brave 's a Men of Harlech , '",6.69579894747585e-05,0.017102665995480493,0.13846153846153847,0.4666666666666667
+grayscale,sample_9,"Fay Compton stars in "" No Hiding Place "" (I T V , 9.35 p.m. ) .","Pay Compton sfars in "" No tiding plave n ( 97 V , 2i35 p in.?. .",6.404099985957146e-05,0.015614834002917632,0.25396825396825395,0.5882352941176471
+grayscale,sample_10,She plays the possessive mother of a man whose hobby revolves,she plays the possessive mathier o a mran whose habiby remlvs,6.04590168222785e-05,0.014168916008202359,0.16393442622950818,0.5454545454545454
+grayscale,sample_12,"THREE people will be hypnotised in tonight's "" Lifeline ""","THaFE puople wild be hyyyotised in tonightis "" Liteline "" """,6.350001785904169e-05,0.01665591698838398,0.17543859649122806,0.7
+grayscale,sample_13,"( B B C , 10.15 ) .","CPPe , 10.1s ) .",8.779100608080626e-05,0.005554667004616931,0.42105263157894735,0.625
+grayscale,sample_15,of Rhodesia and Nyasaland ( 10.30 p.m. ) .,"if phodes,a and pNyasalond CiOizDpin.g .",3.950000973418355e-05,0.013390458014328033,0.40476190476190477,0.7777777777777778
+grayscale,sample_17,"playwright Arnold Wesker . "" Instead , Muggeridge's appointment","playuright brnokd werker . "" "" Iustead , Mhuygeridge's ayppaintment",6.9500005338341e-05,0.01611016600509174,0.19047619047619047,0.7777777777777778
+grayscale,sample_19,will be with Sir Roy Welensky the Premier of the Federation,will be with Sir Boy weleasky the Premsier of the fe er ation,9.508398943580687e-05,0.017738041002303362,0.11864406779661017,0.5454545454545454
+grayscale,sample_26,essay on soldiering which stated that a fighting,cesay on soldiertng which shated thet a fighting,6.820799899287522e-05,0.013881499995477498,0.10416666666666667,0.5
+grayscale,sample_27,"Say Granada T V , the producers : "" We decided to make","Say GnanakaipV , the pralucers : "" We decided to make",0.00016737499390728772,0.01950774999568239,0.12962962962962962,0.3076923076923077
+grayscale,sample_28,first big T V part . The play was a brilliantly-written,fivt big TV paut The play was a billantly-witta,7.079198257997632e-05,0.016954499995335937,0.2,0.5454545454545454
+grayscale,sample_29,affairs . The Wesker interview will be seen at a later,orffairs . Te yesker Iutenicw will be seen at a later,8.716699085198343e-05,0.025395208009285852,0.16666666666666666,0.36363636363636365
+grayscale,sample_35,"what he was - Potter , a frightened boy who had a","what fe was . Rter , a frigitered by who had a",7.558299694210291e-05,0.015469250007299706,0.16326530612244897,0.4166666666666667
+grayscale,sample_45,"of an American T V reporter , Eric Sevareid , and","of an Rmerican II reporler , (ric Serareid , and",9.091701940633357e-05,0.019771708990447223,0.14285714285714285,0.5454545454545454
+grayscale,sample_46,strike . It showed Britain today through the eyes,strine . It showed Britain today through the eyes,6.962500629015267e-05,0.01966645900392905,0.02040816326530612,0.1111111111111111
+grayscale,sample_47,Britain was slipping behind ... .,Britain was slepping beind .. .,6.879199645482004e-05,0.012714583019260317,0.09090909090909091,0.5
+grayscale,sample_49,Shelagh Delaney and Alan Sillitoe attacked,Shelagh Delaney and llan Sillitoe attacked,7.366601494140923e-05,0.015789750003023073,0.023809523809523808,0.16666666666666666
+grayscale,sample_53,offering to drop by for a chat .,ofenng to orap bry for a chat .,6.962500629015267e-05,0.015407708007842302,0.1875,0.375
+grayscale,sample_54,arrived two hours earlier by appointment,arrived two hann earlier br appeinturent,0.00010500001371838152,0.023115541000152007,0.2,0.5
+grayscale,sample_58,"has rung a couple of times , calls from","ha pung a conple of timres , calls frous",6.666698027402163e-05,0.016930166020756587,0.15384615384615385,0.5555555555555556
+grayscale,sample_65,Fourth Gospel by explanations based on assumed textual dislocations . The,Fourtl bospel by explomntions bosed on assamed festual iskocations . Te,6.69579894747585e-05,0.02222041698405519,0.1643835616438356,0.7272727272727273
+grayscale,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .","coull af te ahoa by ploaing Mr fragmente , or sheete , or peges j in ord; .",8.004199480637908e-05,0.01748966600280255,0.21518987341772153,0.6111111111111112
+grayscale,sample_68,present state of the Gospel is the result of an accident-prone history . The,prosent stal of he Coopel is the rosull of on orccident - prone histor . Me,6.470800144597888e-05,0.01632145798066631,0.21052631578947367,0.7857142857142857
+grayscale,sample_74,this is possible it is necessary to examine the,this is possible it is necessary to examine the,6.129199755378067e-05,0.016348458011634648,0.0,0.0
+grayscale,sample_77,"case is that , in common with all his colleagues ,","case is that , in common with alt his cdkeaghes ,",0.00015850001364015043,0.016436750011052936,0.1,0.18181818181818182
+grayscale,sample_79,simple and coherent plan . To understand how,simple and coherent plan . To undersland how,6.041600136086345e-05,0.016269249987090006,0.022727272727272728,0.125
+grayscale,sample_86,text with absolute precision .,text with absolute precision .,6.370799383148551e-05,0.009793333010748029,0.0,0.0
+grayscale,sample_89,"The bar was the commonest marking , but others","Thebar wad tre comncnest morleing , lut Others .",7.020801422186196e-05,0.016677417006576434,0.2608695652173913,1.0
+grayscale,sample_92,were also used . Dots sometimes served in place of the,were olo used . fots sonetimas Served in place ofthe,9.658400085754693e-05,0.022720832988852635,0.12962962962962962,0.5454545454545454
+grayscale,sample_96,the original of the Gospel would be unmarked . The,the Orignal of the Gagpel wOuld be unmoreed. The,7.670899503864348e-05,0.01725824997993186,0.16,0.5
+grayscale,sample_98,about one third of a page of Souter's print .,aba ane third At a page of Sortaris prink .,6.837499677203596e-05,0.015572750009596348,0.2222222222222222,0.5
+grayscale,sample_102,"original of the Gospel , whether written on a roll or codex ,","orgnal ofthe Aaspel , whether uitten on a roll Or cadex ,",7.220800034701824e-05,0.016270833992166445,0.14754098360655737,0.5384615384615384
+grayscale,sample_109,which have survived the centuries is ample evidence of,which have survived the centuries is ample evidence of,7.987499702721834e-05,0.023182334000011906,0.0,0.0
+grayscale,sample_110,"was generally a single-sided form of book , and it was not","was generally a singple-sided form of book , and it was hot",6.954200216569006e-05,0.02010579200577922,0.034482758620689655,0.16666666666666666
+grayscale,sample_111,"overwhelmed Herculaneum and Pompeii in A.D. 79 , his","overwhelmed tercnlanenm and Pompei"" in A.D.78 ,his",7.650000043213367e-05,0.022142000001622364,0.1346153846153846,0.6666666666666666
+grayscale,sample_113,The other form of book was the codex . In this the,The other form of book was the cocder . In this the,6.44999963697046e-05,0.021961042017210275,0.04,0.08333333333333333
+grayscale,sample_115,sheets were bound together down one edge much as,sheets were boud together doin on edbe much as,7.712500519119203e-05,0.01936004200251773,0.08333333333333333,0.4444444444444444
+grayscale,sample_116,information is contemporaneous with the New Testament .,information is cortemporanlons with the New Testamet .,6.408401532098651e-05,0.02078083300148137,0.07272727272727272,0.25
+grayscale,sample_120,"the roll , a sheet could easily be glued on .","the roll , a shut could easily be glned on .",5.9416983276605606e-05,0.013010333001147956,0.06666666666666667,0.18181818181818182
+grayscale,sample_121,whether or not a particular text was written on,whether or not a particular text was written on,0.0001369579986203462,0.01669045799644664,0.0,0.0
+grayscale,sample_122,might be bulky . It is sometimes possible to tell,might be bulky . It is sometimes possible to tell,6.4416992245242e-05,0.01433808301226236,0.0,0.0
+grayscale,sample_131,"in the case of the single-sheet quire , an extra","in the case of the single-sheet quire , an extra",7.141698733903468e-05,0.015611540991812944,0.0,0.0
+grayscale,sample_132,"sending out his Gospel lacking the ending ,","sending out his Gospel lacking the ending ,",6.350001785904169e-05,0.0125574589765165,0.0,0.0
+grayscale,sample_133,"cannot think of an author , Mark for example ,","camot think of an author , Nark for example ,",6.900000153109431e-05,0.01602787501178682,0.06521739130434782,0.2
+grayscale,sample_134,sheet glued on might have to be gummed on,shut glud on might have to be gummed on,6.183399818837643e-05,0.01600329199573025,0.07317073170731707,0.2222222222222222
+grayscale,sample_135,in it the reservoir ... and I made both the,"inAftthae Verarvail. . "" and Iale hoh tie",6.833299994468689e-05,0.019181667012162507,0.4186046511627907,0.9
+grayscale,sample_136,"construction in lines 9 , 23-25 of the Moabite Stone ,","cmostyhltion in knos ? a-is of ther Mosdite Pane ,",6.416600081138313e-05,0.014546249993145466,0.3888888888888889,0.7272727272727273
+grayscale,sample_138,A natural transition from gardens and,Anabunal transitien fren gandeng and,7.366700447164476e-05,0.013215832994319499,0.21621621621621623,0.8333333333333334
+grayscale,sample_141,supply . The pools are probably natural springs,Supply . Tha pots cna prctaboly nallrad porings,6.491600652225316e-05,0.013939124997705221,0.3191489361702128,0.875
+grayscale,sample_147,"all his heart , and with all his soul and",a ll his heart and with all his soul . and,8.370800060220063e-05,0.021980916993925348,0.12195121951219512,0.4
+grayscale,sample_150,with all his might and studies the,sith al hs rnight ond stdis the,6.337498780339956e-05,0.008745333994738758,0.23529411764705882,0.8571428571428571
+grayscale,sample_151,"regards himself as insignificant , as the","regards himself , os insigrificant , as the",0.00011116699897684157,0.01242141702095978,0.0975609756097561,0.42857142857142855
+grayscale,sample_152,word of God .,word of God,0.00032570798066444695,0.007101290975697339,0.15384615384615385,0.25
+grayscale,sample_155,us earthly creatures to build an Altar,us earthly creatures to build an Altar,6.895899423398077e-05,0.016712082986487076,0.0,0.0
+grayscale,sample_156,"This man is the worm , the creature that",This man is the worm the creature thay,9.058302384801209e-05,0.019027624977752566,0.075,0.2222222222222222
+grayscale,sample_158,Such a Shamir possesses the real acid,Such a shomir possesses the real acid,7.916701724752784e-05,0.016747749992646277,0.05405405405405406,0.14285714285714285
+grayscale,sample_160,for God to come nearer to God .,for God to come nearer to God .,6.249998114071786e-05,0.018474957993021235,0.0,0.0
+grayscale,sample_162,cuts and polishes Altar-Stones . Such,cits and polishes MUur-stores . Such y,5.037497612647712e-05,0.009958207985619083,0.24324324324324326,0.5
+grayscale,sample_163,heart of stone . This Shamir helps,neart of stone . This shamir helpe,2.6458001229912043e-05,0.009929791995091364,0.08823529411764706,0.42857142857142855
+grayscale,sample_167,tell !,tere l,6.254200707189739e-05,0.003015875001437962,0.5,1.0
+grayscale,sample_170,books are readable . This Shamir is indeed a rare,baoks are readable This shamir in indeed a rate,7.445900700986385e-05,0.028972500003874302,0.12244897959183673,0.5
+grayscale,sample_171,"refused , but it is to become the head-stone","retused , but it is to become the head-stone",7.545799599029124e-05,0.025359958002809435,0.022727272727272728,0.1111111111111111
+grayscale,sample_173,"Lord , as the waters cover the sea . "" ( Hab. 2 , 14 . )","hord , as the waters cover the seais (Ctab . & , 1.)",6.233298336155713e-05,0.019499916001223028,0.21428571428571427,0.5882352941176471
+grayscale,sample_174,""" For the stone shall cry out of the wall "" , like","a for the stome shall cry out of the wallss , lite",7.074998575262725e-05,0.01669824999407865,0.12,0.46153846153846156
+grayscale,sample_179,the Light which can be read in every,the Lgnt which cany be read in every,6.404099985957146e-05,0.012103958986699581,0.08333333333333333,0.25
+grayscale,sample_180,They make us the Altar for God to emit,"Shay wake ""s the uetar for God to eu!t",7.524999091401696e-05,0.011277333018369973,0.21052631578947367,0.5555555555555556
+grayscale,sample_181,a deep impression on our feelings and senses .,a deeg rypresslay oy air foelings ayd sajses .,6.787499296478927e-05,0.01273520800168626,0.2826086956521739,0.7777777777777778
+grayscale,sample_182,"of life , and all facts are "" one "" . We have all","of lifo , ayd all facts are oye "" We have all",9.191699791699648e-05,0.015239875006955117,0.14285714285714285,0.35714285714285715
+grayscale,sample_185,"language . The Shamir is the "" seventh "" and","Layghage . The shanir is the sevefh"" and",6.958399899303913e-05,0.01216474999091588,0.22727272727272727,0.5
+grayscale,sample_187,"the eve of the Sabbath , to bring the","the eve of the Sabbath , to brig the",2.7542002499103546e-05,0.013352499983739108,0.02702702702702703,0.1111111111111111
+grayscale,sample_191,"shall come to pass , if 1ye shall 1hearken",shall coane to pass iP tye stiall Lheartey,6.845800089649856e-05,0.013157042005332187,0.2619047619047619,0.6666666666666666
+grayscale,sample_193,is something deficient .,is souethinng deficiept .,2.5625020498409867e-05,0.006082999985665083,0.125,0.5
+grayscale,sample_195,"you this day , to love the Lord your God , and to","fo this day , Is love the Lord your God , anyd to",6.220801151357591e-05,0.01287258299998939,0.10204081632653061,0.23076923076923078
+grayscale,sample_197,"Lord God with all their visionary power ,","Lord God with all their visionary power ,",0.00012470802175812423,0.024000792007427663,0.0,0.0
+grayscale,sample_199,the work will have to be done by each,the work wilt have to be elore by each,7.579100201837718e-05,0.02274775001569651,0.10810810810810811,0.2222222222222222
+grayscale,sample_200,mind together we cannot solve the further,mind together we cannot solve the further,6.9500005338341e-05,0.024498124985257164,0.0,0.0
+grayscale,sample_201,"Jochai ( Tanis 6a ) "" if Israel does not fulfil",Sochail Tanis ea)I'if lsrael does net fitfil,8.912498014979064e-05,0.02812041700235568,0.2553191489361702,0.8181818181818182
+grayscale,sample_202,"the wish of the Lord , failing to serve the","The wish of the Lord , fating to serve the",9.424999007023871e-05,0.02484887497848831,0.06976744186046512,0.2
+grayscale,sample_206,"gratify selfish aims , then each man will gather-in","girafity selfish aims , then each man will gathel -in",7.308297790586948e-05,0.01764879099209793,0.09803921568627451,0.3333333333333333
+grayscale,sample_207,"for himself only , instead of all to help to gather your","Foc hinself only , intead of all to help to gathet youk",8.991599315777421e-05,0.017467458004830405,0.10714285714285714,0.4166666666666667
+grayscale,sample_212,our duty ) . Of course the individual will,"our duty ) , Of course the indiidual will",0.00010125001426786184,0.02309333300217986,0.047619047619047616,0.2222222222222222
+grayscale,sample_215,seeking self .,seeting self .,5.1499984692782164e-05,0.008977999998023733,0.07142857142857142,0.3333333333333333
+grayscale,sample_216,Freedom from want cannot be fulfilled nor,frieedom from want cannot fulfiilled nor,9.479201980866492e-05,0.0313465420040302,0.14634146341463414,0.42857142857142855
+grayscale,sample_227,"yourself , under such conditions the goods are your gods .","Joutself , under such condition's the goods are your gods .",6.900000153109431e-05,0.018969791010022163,0.05172413793103448,0.18181818181818182
+grayscale,sample_231,For without the vision to serve the Lord your God with all,For without the ysion to serve the tord yaur God with all,8.25420138426125e-05,0.020519499987130985,0.06896551724137931,0.25
+grayscale,sample_235,"in the first part of the Shmah , we have first "" and","in the first part of the shmah , we have first i anch",0.00013995901099406183,0.01757358299801126,0.07692307692307693,0.23076923076923078
+grayscale,sample_239,them without visionary power .,them without visionary power .,7.38340022508055e-05,0.010735624993685633,0.0,0.0
+grayscale,sample_242,children will grasp now what will befall,children will grasp mow what will betall,6.720901001244783e-05,0.012586875003762543,0.05,0.2857142857142857
+grayscale,sample_245,And they are ( 1 ) Matzo ; ( 2 ) Bitter Herbs ; ( 3 ) Salt-water and,And they are (s ) Matao ; (a ) Bitter Herbsfs ) Salt-water and,0.00012558299931697547,0.02384833397809416,0.16176470588235295,0.47368421052631576
+grayscale,sample_247,back .,back .,2.195901470258832e-05,0.003994874976342544,0.0,0.0
+grayscale,sample_251,"are used on Passover , to depict the "" time of our freedom "" .","are used on Passover , to depict the itime of our Freedo "".",7.474998710677028e-05,0.029226541984826326,0.08064516129032258,0.3333333333333333
+grayscale,sample_255,"We eat it . We accept it , to show we have self-control",be eat it . We accept it . to show we have self-contpl,8.891700417734683e-05,0.025418750010430813,0.07272727272727272,0.23076923076923078
+grayscale,sample_259,cure our mental incapacity we should be willing,cure our mental incapacity we should be willing,6.404099985957146e-05,0.021171959000639617,0.0,0.0
+grayscale,sample_261,the salt-water at the Seder-Table represents the Covenant of the Torah,the soll -water at the Geder-iaale reensents the Govenan gf the Torah,6.462499732151628e-05,0.023661374987568706,0.17142857142857143,0.5454545454545454
+grayscale,sample_266,Tradition .,Frasittion .,2.3708009393885732e-05,0.004539707995718345,0.2727272727272727,0.5
+grayscale,sample_269,"meek : "" But the meek shall inherit the earth ; and shall","meex : "" "" But the meex slaall ,innerit the eorth ; and shall",8.574998355470598e-05,0.021819874993525445,0.15789473684210525,0.46153846153846156
+grayscale,sample_272,"We dip into both , at the Seder . And we want to understand","Ne dip into bain , ot the seder . And we woust to underednd",7.554201874881983e-05,0.021833666978636757,0.2033898305084746,0.42857142857142855
+grayscale,sample_273,"more of the Torah and the Oral Tradition , our inheritance .","more gy the fprah anf the prat f radtinn , our inheritace .",6.67919812258333e-05,0.01900766699691303,0.2,0.5833333333333334
+grayscale,sample_274,( This is the PARDUS . ) Matzo represents,cthis is the phapuslNlafo rerresauks,6.504199700430036e-05,0.02061841599061154,0.5121951219512195,0.7777777777777778
+grayscale,sample_275,Derush ; ( 4 ) Leaning-back represents Saud .,Berush ; cu) Leaning-back reeresentr sand .,6.466600461862981e-05,0.01799266698071733,0.2,0.6666666666666666
+grayscale,sample_277,and the sweet Mortar in which we dip-in represents,and tne sweet dlortar in wniln we die-in rerreseuts,8.545798482373357e-05,0.03124612499959767,0.18,0.5555555555555556
+grayscale,sample_278,is called : The Feast of Matzos . The,is ralled .The feast of Mafeor. The,6.545899668708444e-05,0.02398554197861813,0.21621621621621623,0.6666666666666666
+grayscale,sample_279,"principle and this gives us "" a wink "" ( Remez )","princiele . and this gives us ia mink """" Chener )",6.041600136086345e-05,0.020658708992414176,0.25,0.6666666666666666
+grayscale,sample_282,the literal meaning of Pesach which,the literal meaning of Pesach which,6.533399573527277e-05,0.019562792003853247,0.0,0.0
+grayscale,sample_283,( 1 ) Matzo represents Peshat ; ( 2 ) Moraur,A)Matzo represeutr Peshat ; (a ) Moraur,6.166700040921569e-05,0.01696208299836144,0.20454545454545456,0.6363636363636364
+grayscale,sample_284,Bitter-Herbs represent the spiritual,Bifeer-cterbs reeresent the spirifual,6.366698653437197e-05,0.019833958009257913,0.16666666666666666,0.75
+grayscale,sample_287,burdens of Egypt . ( 2 ) I will rid you of their bondage .,burden's of Eass . Ial 1 wil rid yo of their kondage .,5.449997843243182e-05,0.01642412500223145,0.2413793103448276,0.6
+grayscale,sample_295,( 3 ) I will redeem you . ( 4 ) I will take you to me for a,Is) I will redeen yo.fhl I will take yoo to me for a,6.141600897535682e-05,0.014995125005953014,0.23728813559322035,0.5263157894736842
+grayscale,sample_298,"eating Matzos in Egypt and the "" Feast of Matzos ""","eating Matzos in Egiyft and the i feait of Mattos""",6.399999256245792e-05,0.017189999984111637,0.14,0.45454545454545453
+grayscale,sample_300,"James had grown up in Presbyterian Scotland ,","fames had grown up in Presbyterian Scotland ,",7.045900565572083e-05,0.019089709006948397,0.022222222222222223,0.125
+grayscale,sample_302,Book was issued in 1604 but the Puritans,Busk was issued in 1roy but the puritans,9.204100933857262e-05,0.020659292000345886,0.15,0.375
+grayscale,sample_304,"spoiled that . The Puritans had high hopes , for","spoiled that . The Puritans had high hopes , for",7.500001811422408e-05,0.016749166999943554,0.0,0.0
+grayscale,sample_307,remained . Other changes in the Book were equally,remaines . Olhe . Llonges in the Bosk were equably,6.42910017631948e-05,0.011929291009437293,0.1836734693877551,0.6666666666666666
+grayscale,sample_308,They objected to the word Confirmation . So the phrase,tmy dicis b hhe wond lonfimation . So the furose,2.5957997422665358e-05,0.010550625011092052,0.35185185185185186,0.7
+grayscale,sample_310,They objected to the word Absolution . So the phrase ' or,They dijeded to the word Absohhian . So hre phvare ' ar,6.845800089649856e-05,0.0176605420128908,0.22807017543859648,0.4166666666666667
+grayscale,sample_312,added to the Catechism .,ajdr bo the Cchicin. .,2.804200630635023e-05,0.008012749982299283,0.4166666666666667,0.6
+grayscale,sample_313,minor except for the new section on the Sacraments,minore excey for the rew seehim an the Scrament s,6.733302143402398e-05,0.013473291997797787,0.22,0.7777777777777778
+grayscale,sample_315,able to render an account of their faith according,ahe to rendes an accounnt of thir filh aceerding,7.866701344028115e-05,0.012183790997369215,0.18,0.6666666666666666
+grayscale,sample_316,This indicated how ephemeral in the Church had,This inadicated how ephemeral in the Church had,6.191598367877305e-05,0.026162875001318753,0.021739130434782608,0.125
+grayscale,sample_318,( which was never actually authorized ! ) .,which was never actuaby #d antarrised ! ) .,8.212498505599797e-05,0.01747608301229775,0.2558139534883721,0.4444444444444444
+grayscale,sample_324,"definite . It was at this time , too , that King James made","definite . It was at this time , too, that King James made",7.712500519119203e-05,0.019211042003007606,0.01694915254237288,0.14285714285714285
+grayscale,sample_326,In that year Shakespeare had just turned,In that year Shakespeare had just turned,6.891600787639618e-05,0.01636999999755062,0.0,0.0
+grayscale,sample_328,before . Bacon was at work and Milton was,before . Bacon was at worte and ilton war,7.300000288523734e-05,0.01774874998955056,0.0975609756097561,0.3333333333333333
+grayscale,sample_329,important Prayer Books in the Anglican,important Prayer Bookes in the tnglican,6.633298471570015e-05,0.015421541989780962,0.05263157894736842,0.3333333333333333
+grayscale,sample_335,first public acts was a hard-hitting battle with,first public acts was a hard-hitting batble with,0.00010487501276656985,0.016120624990435317,0.020833333333333332,0.125
+grayscale,sample_337,"the Jesuit , Fisher . But anyone who was friendly","the Jernit , Fisher . But angone who was friendly",7.495799218304455e-05,0.016135416022734717,0.061224489795918366,0.2
+grayscale,sample_341,"with James and Charles , the Puritans argued ,","with James and Charles , the Puritans argned ,",8.304198854602873e-05,0.0161341660132166,0.021739130434782608,0.1111111111111111
+grayscale,sample_345,and so was the office of a bishop . Altars should be,and so wras th affice of a bishop . Altars should be,6.78329961374402e-05,0.016903790994547307,0.057692307692307696,0.25
+grayscale,sample_347,"altars and not any broken down , transportable","allars and nof amy frols dawn , Eranspanrtabll",6.29170099273324e-05,0.015392792003694922,0.2608695652173913,0.75
+grayscale,sample_348,a sense of reverence . The Prayer Book was to be respected,a rnse of reverence . The Prayes Bool was frbe respacted,0.00010199999087490141,0.017269041010877118,0.13793103448275862,0.5
+grayscale,sample_350,"to face their fears , to see through them and come out on the",to face their feos  to vee thraugh them and cone ont on the,7.20410025678575e-05,0.015061375015648082,0.13114754098360656,0.42857142857142855
+grayscale,sample_351,"by laughing at what are very real fears . As adults , we know",by lnyhing ot what ave wy real frars . Ar wdaltr we bamw,6.29170099273324e-05,0.01218508300371468,0.29508196721311475,0.6428571428571429
+grayscale,sample_352,but to a child they are very real . Not that I am suggesting,bat to a dhild they are rery real . Mit that I an nyerting,6.662501255050302e-05,0.014345582982059568,0.18333333333333332,0.42857142857142855
+grayscale,sample_353,that children should be molly-coddled - they must be made,that diltren shonld be moly-cddled - they manst &e made,2.704199869185686e-05,0.012877582979854196,0.15789473684210525,0.5
+grayscale,sample_359,unnecessary its fears were .,mnuecenvany its fears rrere .,6.50830043014139e-05,0.013676749978912994,0.25,0.4
+grayscale,sample_360,To ridicule them only pushes them farther,To riadicule tham only pushes them farther,6.454100366681814e-05,0.019554875005269423,0.04878048780487805,0.2857142857142857
+grayscale,sample_361,reaped at forty or fifty . Far better to,reaped at forty or fity . Far beker to,6.09580019954592e-05,0.017550042015500367,0.075,0.2222222222222222
+grayscale,sample_363,the harvest of which may still be being,the hanvent of whicch wan wtill ke bing,7.199999527074397e-05,0.018654042010894045,0.20512820512820512,0.75
+grayscale,sample_368,of twelve or thirteen under the,of bwebve axt thirten under the,6.433299859054387e-05,0.015620458987541497,0.1935483870967742,0.5
+grayscale,sample_370,it is a good idea to condition a child,it is a good idea to conditian a ctied,6.137500167824328e-05,0.011704000004101545,0.07894736842105263,0.2222222222222222
+grayscale,sample_376,"happens is not merely dishonest , it","tagysens is nat mericy dirhonest , it",6.116600707173347e-05,0.013580124999862164,0.2222222222222222,0.5714285714285714
+grayscale,sample_377,frightening possibilities and yet by facing,Grisghtening paribilities and yet byfacing,6.666601984761655e-05,0.015775415988173336,0.13953488372093023,0.6666666666666666
+grayscale,sample_382,the way to face life . To see all the latent,the way to face lfe . To see all the latent,6.358299287967384e-05,0.016904749994864687,0.022727272727272728,0.09090909090909091
+grayscale,sample_385,has something important to do with our,ha souething ienpertant to ao wnth onr,0.0002275829901918769,0.019067625020397827,0.21052631578947367,0.8571428571428571
+grayscale,sample_391,"dwells in my hand , Knows this","dwells in my hand , Knous this",6.737498915754259e-05,0.012512708024587482,0.03333333333333333,0.14285714285714285
+grayscale,sample_392,Was this : That a secret plan Is hid in,was thie : That a secrerplan Ts kid is,7.683300646021962e-05,0.015526041999692097,0.1794871794871795,0.7
+grayscale,sample_396,"seen to be allies and not enemies and that ,",seen to be alkies and not exemmies amor let,0.0001538340002298355,0.01946337500703521,0.25,0.5
+grayscale,sample_398,we are with Thee .,we are with Phee .,6.858300184831023e-05,0.009872666007140651,0.05555555555555555,0.2
+grayscale,sample_399,"come what may , we are never alone when","come what may , we are never alane wban",9.129199315793812e-05,0.016214667004533112,0.07692307692307693,0.2222222222222222
+grayscale,sample_400,"be really afraid , help us to know that when","be realy cfraid , betp ls to tnow teat wlin",0.0001018750190269202,0.016213708993745968,0.20454545454545456,0.7
+grayscale,sample_410,realize that tiredness itself is largely in,reallice thnar tirednessitselt is lasrgely in,6.50830043014139e-05,0.015441708994330838,0.16279069767441862,0.7142857142857143
+grayscale,sample_413,a mother has news late at night that her,a moths ter nuuur latt at mihl the thrs,6.975000724196434e-05,0.015085959021234885,0.45,0.7777777777777778
+grayscale,sample_415,of tiredness to the body . This can be proved by,op livw te the begj. This can be prord bh,9.875002433545887e-05,0.01609137500054203,0.3541666666666667,0.6363636363636364
+grayscale,sample_418,noting the effect of a new stimulus on some-,soting the eypet of o nu slinctir on emd-,9.466701885685325e-05,0.01553899998543784,0.36363636363636365,0.6666666666666666
+grayscale,sample_423,"refer to something you like doing , bring a","refer to something yon like doing , bnbg a",6.637498154304922e-05,0.018500917009077966,0.09302325581395349,0.2222222222222222
+grayscale,sample_424,up with no apparent tiredness at all when,up nith ho opparent Arehemns at a ehen,8.041600813157856e-05,0.020130624994635582,0.2926829268292683,0.75
+grayscale,sample_428,to different situations . There are some which,to dilferent situatianns . Thare ar voure which,7.829198148101568e-05,0.023185917001683265,0.17391304347826086,0.625
+grayscale,sample_429,"if the cause of our pain is too deep seated ,","if tha case of buer pain is too seyp sealor ,",6.504199700430036e-05,0.012835333007387817,0.2,0.45454545454545453
+grayscale,sample_430,Any mental confusion can cause this and,Ceny mental contirtin can caue fhis and,8.749999688006938e-05,0.01947012500022538,0.23076923076923078,0.5714285714285714
+grayscale,sample_435,As we are unable to cure our own bodies,Tes we are unable to cure aur buin bockies,8.033399353735149e-05,0.019300707994261757,0.20512820512820512,0.4444444444444444
+grayscale,sample_437,if the trouble is a complicated one,if the f franhle i a complicaled ane,6.0999998822808266e-05,0.016205833002459258,0.2571428571428571,0.7142857142857143
+grayscale,sample_438,"inability to deal with life , especially under",inatilily tele witlt lte ricictly anotr,6.045898771844804e-05,0.014292333013145253,0.4782608695652174,1.0
+grayscale,sample_445,century .,culesjs .,2.1832995116710663e-05,0.004335750010795891,0.6666666666666666,0.5
+grayscale,sample_446,"physical illness . There is , nevertheless , a",phyticol iltmps . Ttu is nerthili a,6.425002356991172e-05,0.013451584003632888,0.43478260869565216,0.6666666666666666
+grayscale,sample_450,"be happening at the other end of England ,",b hamrnino at the ofter enet eesond,0.00014424999244511127,0.03153895799187012,0.42857142857142855,0.7777777777777778
+grayscale,sample_455,"When news from the Continent took days ,","When newss from the Contient tot days ,",6.170902634039521e-05,0.01694470801157877,0.1,0.375
+grayscale,sample_457,to live a day at a time . Even those who,to live a dal at a tiure . Gan the who,8.529200567863882e-05,0.021038042003056034,0.2,0.36363636363636365
+grayscale,sample_460,thirty even sixty miles from his,thirty even sixty miles from his,6.395799573510885e-05,0.01027049997355789,0.0,0.0
+grayscale,sample_463,work . The only connexion is the,work . The orly connerion is the,8.91250092536211e-05,0.011992415995337069,0.0625,0.2857142857142857
+grayscale,sample_466,travel day by day .,travel day by day .,2.5582994567230344e-05,0.006781083007808775,0.0,0.0
+grayscale,sample_467,"in one place , their lives were of one","in oneplace , their lives were of one",6.1166996601969e-05,0.01018149999435991,0.02631578947368421,0.2222222222222222
+grayscale,sample_468,pipeline of the railway on which they,pipeline of the raslway on which they,6.154199945740402e-05,0.012559791008243337,0.02702702702702703,0.14285714285714285
+grayscale,sample_473,of what is going on . It is easier to live life in,ofunat is gaing on Mligeagielouveufein,6.791600026190281e-05,0.01430737500777468,0.44,0.8461538461538461
+grayscale,sample_474,"compartments but over the years it builds up ,","compastmerls hut arer theyearsitbuils wp ,",7.083397940732539e-05,0.019890208990545943,0.2391304347826087,0.8888888888888888
+grayscale,sample_475,"homes . It is easy , desperately easy , to lead","hamnes. t icasy , desperatelyyeosytoleacd",7.529201684519649e-05,0.016448624985059723,0.2978723404255319,0.9090909090909091
+grayscale,sample_477,and to do so inevitably builds up tensions which,andto oineitably builds yp tensiongunicn,7.191600161604583e-05,0.013077541982056573,0.2708333333333333,0.8888888888888888
+grayscale,sample_479,planning to do so or in fact being conscious,planningtodosoorin factbeingcanscows,6.504199700430036e-05,0.014697959006298333,0.22727272727272727,1.0
+grayscale,sample_483,Can we then frame some ' rules ' which may enable us to live life,Gan we then frame some rules ' wich may enable us to lire Wfe,9.624997619539499e-05,0.015163458010647446,0.1076923076923077,0.3333333333333333
+grayscale,sample_486,write out all the necessary jobs waiting to,writ out otithe nuinary jitraiiiingto,6.487499922513962e-05,0.013512000004993752,0.4186046511627907,0.875
+grayscale,sample_488,rather than getting from one thing to the next .,sottir ton gltti jrom on thii te teasit,7.887501851655543e-05,0.014634666993515566,0.4375,1.0
+grayscale,sample_490,thing else . If we would only sit down and,tirp tee Ga wbtonly it bunond,6.216700421646237e-05,0.015032750001410022,0.5714285714285714,1.0
+grayscale,sample_493,"if she made a list , followed a routine of work",ijstrmoolo hirl jotev a routin ojvost,5.670799873769283e-05,0.014829542022198439,0.574468085106383,0.9090909090909091
+grayscale,sample_498,out for forty years I find difficult to understand .,sut fas forty years I find difficiief to rndersfand .,8.387502748519182e-05,0.016059666028013453,0.17307692307692307,0.4
+grayscale,sample_501,it becomes possible to work out a system,it becomnes possikle to wort gut a pateu,6.166700040921569e-05,0.016080291010439396,0.2,0.625
+grayscale,sample_503,the pressure on over-crowded trains .,the pressure on over-crowded treins .,6.891597877256572e-05,0.013053207978373393,0.02702702702702703,0.16666666666666666
+grayscale,sample_504,can go through the same routine day in and day,can go thsugh the samne rutine day in aind daey,8.362499647773802e-05,0.016811624984256923,0.13043478260869565,0.5
+grayscale,sample_513,"As it is , with so much of our life already","19 if ig , wieh somon of ouslfe atreosiy",7.358301081694663e-05,0.01623858298989944,0.37209302325581395,0.8181818181818182
+grayscale,sample_516,started day one again and so on .,started day one again and so on .,8.37499974295497e-05,0.010609749995637685,0.0,0.0
+grayscale,sample_521,week being the same with a pupil,week being the same with a pupir,2.5459012249484658e-05,0.011008542001945898,0.03125,0.14285714285714285
+grayscale,sample_522,Monday to Friday were days one,"""Onday to. Friday were dags one",2.62079993262887e-05,0.011107708007330075,0.13333333333333333,0.5
+grayscale,sample_524,would be on Friday afternoon at,woul be on Friday Afternoon at,6.870899233035743e-05,0.011222417000681162,0.06451612903225806,0.3333333333333333
+grayscale,sample_527,To have order does not mean getting,To have oreder ctoes nat thean getting,2.9208982596173882e-05,0.012435833021299914,0.17142857142857143,0.5714285714285714
+grayscale,sample_528,"It was a little complicated to work ,",it was a little complicated t wart,0.00011699998867698014,0.015144792007049546,0.16216216216216217,0.5
+grayscale,sample_534,into a dull routine . I have great,into adull toutine . I habe great,7.716601248830557e-05,0.010268291982356459,0.08823529411764706,0.5
+grayscale,sample_540,sit down quietly and make a list of everything she has got to,sit down paatly and mabe a hist of ererything ohe har got h,8.804097888059914e-05,0.014205292012775317,0.18032786885245902,0.5384615384615384
+grayscale,sample_542,"the day without becoming exhausted , she will be well advised to",the dy withont beaming exhansted she will be ndrised to,7.070798892527819e-05,0.013848208996932954,0.21875,0.5833333333333334
+grayscale,sample_546,put all our energies into the particular,put ol or mnpi into tporticstar,6.750001921318471e-05,0.01433524998719804,0.375,0.7142857142857143
+grayscale,sample_547,"She will , in fact , be surprised at what peace",Ihe witt in fou  besrpitdadwtarod,6.837499677203596e-05,0.01508687500609085,0.5531914893617021,0.9090909090909091
+grayscale,sample_551,"( Actually , the Mishnah quotes two further proof","ikctually , the Mishaah guotes two further prot",9.129199315793812e-05,0.013598791003460065,0.14285714285714285,0.5555555555555556
+grayscale,sample_553,not quoted here because they are not,not guoted here because they are not,0.0001090829900931567,0.012877415982075036,0.027777777777777776,0.14285714285714285
+grayscale,sample_554,"texts and the Gemara explains why these ,","texts and the Gemara explains why these ,",7.366601494140923e-05,0.01409320899983868,0.0,0.0
+grayscale,sample_555,necessary to prove the point made by,necessary to prove the point made by,6.724998820573092e-05,0.013632374990265816,0.0,0.0
+grayscale,sample_556,"R. Joshua b. Levi . ) Finally , we note that","R. toshua b. Leiri ) Finally , we note that",6.662501255050302e-05,0.015083666978171095,0.09090909090909091,0.2727272727272727
+grayscale,sample_564,"From the above it follows that here , once again ,","From the above it follous that here , once again ",5.9707992477342486e-05,0.014221292018191889,0.06,0.18181818181818182
+grayscale,sample_569,actual practice of greeting by the divine,actual practice of greeting by the divine,6.916699931025505e-05,0.012354916980257258,0.0,0.0
+grayscale,sample_571,There is no reference to the Mishnah here,There is no reference to the Kishuah here,7.508299313485622e-05,0.021188292012084275,0.04878048780487805,0.125
+grayscale,sample_573,by the Gemara in support of R. Joshua b.,by the Gemrara in support of R. toshma b .,0.0001316250127274543,0.013923040998633951,0.1,0.4444444444444444
+grayscale,sample_574,Name and the Gemara here quotes the,Name and the gemara here guotes the,7.333399844355881e-05,0.014284708013292402,0.05714285714285714,0.2857142857142857
+grayscale,sample_576,need for the text of the angel are quoted,need for the text of the angel are goted,7.295800605788827e-05,0.013070666987914592,0.04878048780487805,0.1111111111111111
+grayscale,sample_587,accord but there was no approval of his action,accord but there was no approral of his action,6.687501445412636e-05,0.015607332985382527,0.021739130434782608,0.1111111111111111
+grayscale,sample_588,original question and answer and this is quoted,original question and answer and this is geoted,7.779098814353347e-05,0.015803999995114282,0.0425531914893617,0.125
+grayscale,sample_592,in the decision of the human court . ),in the decisionn of the bumrann court . ),0.0001093749888241291,0.014323542010970414,0.10526315789473684,0.2222222222222222
+grayscale,sample_597,part of the verse .,part of the verse .,2.5583984097465873e-05,0.007926999998744577,0.0,0.0
+grayscale,sample_598,is then quoted and the interpretation of the,is then guoted and the interpretation of the,0.0001474160235375166,0.017441166972275823,0.022727272727272728,0.125
+grayscale,sample_599,latter part of the verse by Rami bar Rabh,latter part of the verse by Ram bar Rath,8.604198228567839e-05,0.016052542021498084,0.04878048780487805,0.2222222222222222
+grayscale,sample_600,"is added , not because this is at all relevant","is added , not becouse this is at all relevanf",0.000142250006319955,0.019951750000473112,0.043478260869565216,0.2
+grayscale,sample_601,become so well known that it was,become so well Lnoun that it was,9.120898903347552e-05,0.02057933300966397,0.0625,0.14285714285714285
+grayscale,sample_602,The proof text of bringing the tithe to the Temple,The proof tent of bringing the tithe tothe Temple,6.945797940716147e-05,0.015085249993717298,0.04,0.3
+grayscale,sample_605,deals with a similar theme .,deals with a similar thene .,6.883297464810312e-05,0.016806833998998627,0.03571428571428571,0.16666666666666666
+grayscale,sample_606,and the court of Solomon . ' The place of this,"and the court of Golonon "" The place of this",6.412499351426959e-05,0.015071583999088034,0.10869565217391304,0.2727272727272727
+grayscale,sample_611,"the court of Shem , the court of Samuel of Ramah ,","the court of shemn , the court of canmrel of famah ,",8.191601955331862e-05,0.017800500005250797,0.12,0.25
+grayscale,sample_614,One can remember with horror the pictures of the,One can remember with horor the pictures of the,7.087501580826938e-05,0.016555582988075912,0.020833333333333332,0.1111111111111111
+grayscale,sample_615,"trends . Crochet today has a variety of uses , and","trends . Crochet today has a varity of wses , and",0.0001260410062968731,0.016190791997360066,0.04,0.18181818181818182
+grayscale,sample_622,numerous other crocheted pieces . It was some years,mumeraus other crocheted pieces . It was some yans,8.658299339003861e-05,0.018271999986609444,0.0784313725490196,0.2222222222222222
+grayscale,sample_623,This could hardly happen without the,Phris could hardly lhappen witlhout the,9.866699110716581e-05,0.015114250010810792,0.1111111111111111,0.5
+grayscale,sample_631,"helped and hindered by water flow ,","tufped and hindered by water fhn ,",7.229100447148085e-05,0.012131916999351233,0.17142857142857143,0.2857142857142857
+grayscale,sample_633,Thus we can see that herring,Thus we can see that teriiing,2.65840208157897e-05,0.010862458002520725,0.10714285714285714,0.16666666666666666
+grayscale,sample_634,the herring spawn along the northern,tcr tirring prn alang tke nhorthern,2.5500019546598196e-05,0.012577332992805168,0.2777777777777778,1.0
+grayscale,sample_639,are also closely related to the sea-bed,are alss cforely related tothe sea-bed,2.662499900907278e-05,0.013737166998907924,0.10256410256410256,0.5714285714285714
+grayscale,sample_641,a deep-water channel to the Dogger where,a cleepmater chated to the Nogger where,7.43329874239862e-05,0.014435333025176078,0.2,0.42857142857142855
+grayscale,sample_646,"they migrate easterly to the Norwegian side , or westerly , until","they mjrate eartoly to the Normeyian slde , or wertorly , natil",0.00011091699707321823,0.016269540996290743,0.18461538461538463,0.5
+grayscale,sample_651,The joint evidence of echo-sounders,The fircit evidence of echo- saunders,7.224999717436731e-05,0.013675291993422434,0.2,0.6
+grayscale,sample_656,spawn . Some will spawn at the,spawn . tame Wiicl spuwn aut hk,6.854100502096117e-05,0.015282541018677875,0.3,0.7142857142857143
+grayscale,sample_659,The details are harder still to see .,The cetais are tumder stid toace .,7.712500519119203e-05,0.01684166697668843,0.2702702702702703,0.625
+grayscale,sample_661,So the arrival of any particular shoal,to fae axsival of an particular soal,7.054099114611745e-05,0.016595208988292143,0.18421052631578946,0.7142857142857143
+grayscale,sample_665,fish at a certain spawning ground may,tal at a eertain spamming proemod may,6.579200271517038e-05,0.015664166974602267,0.2972972972972973,0.5714285714285714
+grayscale,sample_678,longshore fishings . The surface,Longshore fishings . The suyace,6.424999446608126e-05,0.009795833990210667,0.09375,0.4
+grayscale,sample_680,with it the herring to the Norfolk,with it the harring to the Nortolke,6.462502642534673e-05,0.010235374997137114,0.08823529411764706,0.2857142857142857
+grayscale,sample_681,"course - one breeze will not do it ,","cou-one breeye tid hat a il ,",2.7708010748028755e-05,0.01121612498536706,0.3888888888888889,0.8888888888888888
+grayscale,sample_682,but quite apart from this wind effect,bunt guite apurt from this wrind effet,2.8584006940945983e-05,0.011198124993825331,0.13513513513513514,0.7142857142857143
+grayscale,sample_689,"to this rump of coastline , caused by","to this runp of coastiine , cansed by",7.733298116363585e-05,0.013137166999513283,0.08108108108108109,0.375
+grayscale,sample_691,of winds is needed for this effect of,of winds is peeded for this efect of,6.679201032966375e-05,0.014506166975479573,0.05405405405405406,0.25
+grayscale,sample_694,"Herring fishermen call this "" the outset "" . It","Herring fsnermencall thi ""ihe ouoediitt",9.087499347515404e-05,0.01299879199359566,0.3191489361702128,0.9
+grayscale,sample_699,been the biggest factor through the ages,been the biggest factarimough the ages,5.4042000556364655e-05,0.012510833999840543,0.125,0.2857142857142857
+grayscale,sample_700,in the constancy of this great herring fishery .,in the cenalancy of this greathering fisnery .,5.750000127591193e-05,0.015389375010272488,0.125,0.4444444444444444
+grayscale,sample_703,"to overcome its effect , very few fish would be caught .",to erercome itos ofoot ray few fik uould be aught .,7.162502151913941e-05,0.012834749999456108,0.2857142857142857,0.6666666666666666
+grayscale,sample_711,Let us consider first what would,tet us consider first what woula,8.141700527630746e-05,0.01237170901731588,0.0625,0.3333333333333333
+grayscale,sample_713,to the disturbance .,tothedistwbance . ',2.6166992029175162e-05,0.006857291009509936,0.3,1.0
+grayscale,sample_716,it reaches them . They move away before,it reaches them . They move away before,6.533300620503724e-05,0.011184667004272342,0.0,0.0
+grayscale,sample_717,"for an unknown period of time , until","for an untenoun periad of time , until",0.00015233299927785993,0.016487790999235585,0.10810810810810811,0.25
+grayscale,sample_719,indeed passing over some fish .,iroho porinp onssoml fite .,2.8541020583361387e-05,0.009400833980180323,0.5161290322580645,0.8333333333333334
+grayscale,sample_725,"field of disturbance , or bow wave . This suggests","Milofciilirbona,orbewwa thismrpt ",6.683301762677729e-05,0.01344474998768419,0.6,1.0
+grayscale,sample_726,Then they stop swimming and are caught . In,Tnthy tter wimig andanaoti !s,7.237499812617898e-05,0.014787708991207182,0.5116279069767442,1.0
+grayscale,sample_727,Cover in the fast-moving trawl is considered,Crerin the fatmaingtrauslis casiered,0.00010966698755510151,0.014871166000375524,0.3181818181818182,0.8571428571428571
+grayscale,sample_729,would seem to be even more essential ;,"woylal seern to be even more esentionl ,",6.762499106116593e-05,0.01935691700782627,0.23684210526315788,0.5
+grayscale,sample_731,essential to catch round fish whose,exgential to cotn roun fih wnase,6.883402238599956e-05,0.016472582996357232,0.2571428571428571,0.8333333333333334
+grayscale,sample_732,"fish like haddock , which would hardly",fin lhe nasaackiwnion woubhasaly,7.100001676008105e-05,0.012604832998476923,0.5,1.0
+grayscale,sample_735,"find safety on the bottom , this cover",fin sofeyy on the pattorninigcover .,7.01249809935689e-05,0.012714000011328608,0.39473684210526316,0.75
+grayscale,sample_739,the victim and inspecting at Waterloo the carriage,the wictim ans i nspectiny at uateloo ane coriagh,9.1583002358675e-05,0.03193270898191258,0.22,0.875
+grayscale,sample_743,man had been seen fleeing from Vauxhall station on,man has been seen fleaingg from yan thall sration on,8.587498450651765e-05,0.026372916996479034,0.16,0.5555555555555556
+grayscale,sample_744,"me well meant , some mischievous , including one that a","mewell meant , some nis Chievous , inelusing one that a",8.67500202730298e-05,0.02878224998130463,0.10909090909090909,0.45454545454545453
+grayscale,sample_745,beyond the jury hearing a formal identification of,beyons the jury hearing a formad i d entif i Cation of,6.462499732151628e-05,0.02555525000207126,0.14,0.875
+grayscale,sample_749,named Brown .,haamed feown .,6.258400389924645e-05,0.010959333012579009,0.3076923076923077,0.6666666666666666
+grayscale,sample_750,trails . It was learned that Elizabeth Camp had been lending,trails. It was learned that Elizabeth Camp had been leansing,9.254200267605484e-05,0.027662917011184618,0.05,0.2727272727272727
+grayscale,sample_757,at Wandsworth . A passenger described this individual,at Wandsworh . A passenger described this ingividva l,7.574999472126365e-05,0.023994958988623694,0.07547169811320754,0.375
+grayscale,sample_762,"defective , and , despite his claim to infamy ,","Jefective , and , deseite his claim to infamy ,",8.57920094858855e-05,0.015314332995330915,0.0425531914893617,0.2
+grayscale,sample_769,had been nowhere near the 7.42 that evening .,had been nownere near the til2 that evening .,7.570901652798057e-05,0.016598040994722396,0.08888888888888889,0.2222222222222222
+grayscale,sample_777,sinister in the idea of tunnels . The building of,sinister in the iea of tunnels . The bailding of,6.487499922513962e-05,0.015603375009959564,0.04081632653061224,0.2
+grayscale,sample_778,solution emerged . There has always been something,sodution emerged . There has aways been sonelhing,6.033299723640084e-05,0.014656625018687919,0.08,0.375
+grayscale,sample_781,were many people who believed that to travel,were many people who beliered that to travel,0.00012058400898240507,0.014662666013464332,0.022727272727272728,0.125
+grayscale,sample_784,a further seven years before even a ghost of a,a further seven years helore even a ghost of a,6.958399899303913e-05,0.01504012499935925,0.043478260869565216,0.1
+grayscale,sample_788,"by it will be so heartily sick , what with the",by it will be So heactilf sick  what wien the,6.991700502112508e-05,0.021846499992534518,0.15217391304347827,0.36363636363636365
+grayscale,sample_795,"said , "" the deafening peal of thunder , the sudden","saih , "" the deafering peal of thunaee , the sugalen",9.408302139490843e-05,0.019145750004099682,0.13725490196078433,0.36363636363636365
+grayscale,sample_797,"immersion in gloom , and the clash of reverberated","immlssion in ploom , and the clash ef Eevecberated",6.641700747422874e-05,0.02446254200185649,0.12,0.4444444444444444
+grayscale,sample_798,darkness .,dactness .,4.8958027036860585e-05,0.004753999994136393,0.2,0.5
+grayscale,sample_799,passengers would be robbed and assaulted in the,passengeis wald be robbed and assaulkey in the,6.462499732151628e-05,0.017442042008042336,0.10638297872340426,0.375
+grayscale,sample_800,"of annihilation . "" It was also prophesied that",of anninilationlt was also peophesie that,0.00010691600618883967,0.021747125021647662,0.19148936170212766,0.5555555555555556
+grayscale,sample_803,sounds in a confined space combine to produce a,soungs in a confiney Sface comline to peouuce a,6.424999446608126e-05,0.022311042004730552,0.14893617021276595,0.5555555555555556
+grayscale,sample_807,"For all that , as far as England is concerned ,","for all that , as far ay Englad is concemned ,",7.995797204785049e-05,0.02026345900958404,0.0851063829787234,0.36363636363636365
+grayscale,sample_817,Though in the minds of most people there was,Thouyh in the minds of nost peqphe theve wo,0.0001266250037588179,0.020555124996462837,0.1590909090909091,0.5555555555555556
+grayscale,sample_818,"Brighton line , is approximately one mile long ,","Briguton line , is approrimatel y one mile long ,",6.354102515615523e-05,0.018920417001936585,0.0625,0.3333333333333333
+grayscale,sample_819,was not sufficient evidence to show whether,wat not sufficient eridence to slow whether,8.212498505599797e-05,0.029175416013458744,0.06976744186046512,0.42857142857142855
+grayscale,sample_820,and some time before midnight on September,and sowe time before midnighy on september,8.183301542885602e-05,0.02448366698808968,0.07142857142857142,0.42857142857142855
+grayscale,sample_823,"Was it a case of suicide , where some unhappy soul","Wasit a case of suicide , Whee same unheppy soul",6.341698463074863e-05,0.01461820799158886,0.1,0.45454545454545453
+grayscale,sample_824,"doctor , the woman , young , small , and rather plump ,","doctor , the woman , young  small andrather plumnp .",6.17500045336783e-05,0.012312082981225103,0.12727272727272726,0.46153846153846156
+grayscale,sample_829,thrust in her mouth like a gag .,thurst in her . Mouth like a gag,8.39589920360595e-05,0.016457875026389956,0.21875,0.5
+grayscale,sample_831,was found to have her own silk scarf drawn,Was found to have herown silk scarf otrawn,6.09580019954592e-05,0.015527583018410951,0.09523809523809523,0.4444444444444444
+grayscale,sample_834,"fication , no money , and no railway ticket . By then","ficationno money , andno railway ticnet . By then",3.0291994335129857e-05,0.014575708017218858,0.09433962264150944,0.5
+grayscale,sample_835,occurred before her death was ensured by some,occurred before her death was ensured by some,7.537499186582863e-05,0.016268290986772627,0.0,0.0
+grayscale,sample_836,"this stretch of line , but no information was","this stretch of line , but ho intormation was",6.262498209252954e-05,0.015399124997202307,0.044444444444444446,0.2222222222222222
+grayscale,sample_839,which might relate .,Which might relate .,2.2792024537920952e-05,0.00600966700585559,0.05,0.25
+grayscale,sample_841,and there were other injuries on her body which had,and there were other injuvies on her hody which had,6.220900104381144e-05,0.015344374987762421,0.0392156862745098,0.2
+grayscale,sample_843,no letters or papers found on her to assist identi,"no letters or papers fouud on her to assist idont ,",6.637498154304922e-05,0.01614870800403878,0.08,0.3
+grayscale,sample_846,"circulated , and a Mr Robert Money came forward to","cireulated , and a ur Robert noney cake forwarg to",0.00013175001367926598,0.026855208998313174,0.1,0.5
+grayscale,sample_854,"jolly , "" had been unmarried , and lived at Lavender Hill ,","Jolly ' ' nad been unuarried , and lived at Lavenger Mill ,",8.066699956543744e-05,0.021738958021160215,0.11864406779661017,0.5384615384615384
+grayscale,sample_855,"evening at about seven o'clock , telling her room-mate , Emma","evaniny at about sevel o "" clock , Jelling ner look-Mate , Carka",6.941700121387839e-05,0.02999579199240543,0.2459016393442623,0.8181818181818182
+grayscale,sample_856,purse .,DuirSR .,2.2624997654929757e-05,0.005900167016079649,0.5714285714285714,0.5
+grayscale,sample_859,"carrying a handbag , but she believed she had had a small","carrying a hanbag , but she belived she nad nad a small",8.591602090746164e-05,0.028954666981007904,0.07017543859649122,0.3333333333333333
+grayscale,sample_860,"gone for long . According to Miss Hone , she had not been","Bone for loup . According to Miss Houe , she nad not been",8.029199671000242e-05,0.028241541993338615,0.08771929824561403,0.3076923076923077
+grayscale,sample_861,rican would not say ; nothing an,"rican would not say , nothig an",6.19160127826035e-05,0.014756708987988532,0.0625,0.2857142857142857
+grayscale,sample_863,glishman would not do ; nothing an Ame-,gtishman would not do ; nothing an Amme,6.237498018890619e-05,0.013480250025168061,0.07692307692307693,0.25
+grayscale,sample_864,SOME years ago a contemporary philosopher,SOME yeard ago a contemporary philosophen,7.562499376945198e-05,0.015526542003499344,0.04878048780487805,0.3333333333333333
+grayscale,sample_867,told us that there was nothing an En-,fold us that there was notting an lu-,6.254200707189739e-05,0.017936874995939434,0.10810810810810811,0.375
+grayscale,sample_869,not covet ; and nothing the Chinese,not covef ; and nothing the Cinete,6.054100231267512e-05,0.014325916999951005,0.08571428571428572,0.2857142857142857
+grayscale,sample_875,music to which the Frenchman would not dance ;,music to whicd th Frenchman would not dancer .,0.0001177079975605011,0.02047029201639816,0.08695652173913043,0.4444444444444444
+grayscale,sample_878,hold forth from a spear the welcome gobbet of,Rrld firth froin a syear the Welcome gotbet of,6.0708000091835856e-05,0.011494541016872972,0.17777777777777778,0.6666666666666666
+grayscale,sample_882,borrowed straight from the prehistoric . How,boirowsed straigtt fromn thre prebistorra . Hfow,6.304099224507809e-05,0.010212833003606647,0.20454545454545456,0.8571428571428571
+grayscale,sample_884,Suffice to say that few of us stop to marvel at,Juffice to say that few of us stop to marvel at,6.225000834092498e-05,0.012005832977592945,0.02127659574468085,0.09090909090909091
+grayscale,sample_888,How many centuries later did the mercenary in,fow many centuries later did the mercenary in,7.500001811422408e-05,0.013495832972694188,0.022222222222222223,0.125
+grayscale,sample_890,later still the young Victorian buck adventuring,later atill th young Victorian buck adventuric,7.724997703917325e-05,0.012711457995465025,0.08333333333333333,0.42857142857142855
+grayscale,sample_894,"And , if certain dishes and modes of food have","And ,if certain diskes aund mods of food havs",6.358401151373982e-05,0.01197987500927411,0.10869565217391304,0.6
+grayscale,sample_897,always been strong in mankind . The sharing of,allrays teen stonp in manbind . The sharing of,6.612500874325633e-05,0.013009374990360811,0.13043478260869565,0.4444444444444444
+grayscale,sample_898,day ; the desire to share something more intimate,day ; the desire to shere som thing more intimate,7.741601439192891e-05,0.015011582989245653,0.04081632653061224,0.3333333333333333
+grayscale,sample_900,a meal in those earliest dangerous days was an,a meal in thnse earlieit dangrous dlays wras an,6.370799383148551e-05,0.015347084001405165,0.10869565217391304,0.5555555555555556
+grayscale,sample_904,tation affords an opportunity of,tation affords anopportunity of,6.37920165900141e-05,0.013220790977356955,0.03125,0.4
+grayscale,sample_905,It is a far enough cry from the primitive,A is a fa enough crk from primitive,6.079202285036445e-05,0.014433209027629346,0.1951219512195122,0.4444444444444444
+grayscale,sample_909,groaned under its load of complicated,groaned undar its Cad of complicutel,7.224999717436731e-05,0.016779541998403147,0.13513513513513514,0.5
+grayscale,sample_920,"those days , as ever , ate sparingly , but","those dnns , as ever , ate sparringl' , bu t",6.383398431353271e-05,0.0151021670026239,0.11904761904761904,0.4
+grayscale,sample_923,by Catherine de Medici . The peasant in,bu Catherine do Jledici . The peasant in,6.225000834092498e-05,0.016260250005871058,0.10256410256410256,0.375
+grayscale,sample_926,"Epicures and gourmands , sated by the unending","Epicures an gourmands , sated by the unending",0.00012175002484582365,0.023267250013304874,0.021739130434782608,0.125
+grayscale,sample_928,of the 18th century - that amazing epoch of,of the 18th century - thatt amaeing epach of,6.879100692458451e-05,0.0226775000046473,0.06976744186046512,0.3333333333333333
+grayscale,sample_929,"intelligent selection and comparative simplicity , though","intelligent selection and comparative simplicity , thougn",0.00011741599882952869,0.024623083998449147,0.017543859649122806,0.14285714285714285
+grayscale,sample_931,nowadays their simplified meals would seem quite,nowadays their simplifield menls wauld seem avite,9.570899419486523e-05,0.021827999997185543,0.10416666666666667,0.5714285714285714
+grayscale,sample_934,"of gorging the eye with magnitude ,",of genrging the ee nith magnitud,6.15829776506871e-05,0.01350008399458602,0.2,0.7142857142857143
+grayscale,sample_935,"simplicity , though nowadays their","simplicite , Though mowadans their",0.00019216700457036495,0.014096082973992452,0.11764705882352941,0.6
+grayscale,sample_936,"the dishes of the country , and , instead","the dishes of the countwy , and , instend",8.420899393968284e-05,0.015174291009316221,0.04878048780487805,0.2222222222222222
+grayscale,sample_940,simplified meals would seem quite,snmuplified meals would seem cuite,0.00012087501818314195,0.015496583975618705,0.09090909090909091,0.4
+grayscale,sample_944,unending procession of dishes from those,unending prucession ofUishes from thasa,8.850000449456275e-05,0.014953042002161965,0.125,0.6666666666666666
+grayscale,sample_946,"water and food ? The ancient Britons , I believe , used to","mater and foadt The ancient Britons , ) believe , usegd to",8.212501415982842e-05,0.02603137501864694,0.10344827586206896,0.38461538461538464
+grayscale,sample_949,his birthright to him for a mess of pottage - and,his birthrignt to him for a mess of pettage - and,6.391698843799531e-05,0.019140124990371987,0.04081632653061224,0.18181818181818182
+grayscale,sample_950,which the Israelites sighed .,which the lsraelites sighed .,6.541699985973537e-05,0.01384854200296104,0.034482758620689655,0.2
+grayscale,sample_953,"Does one , however , know who first thought","fres one , houever linow who first Thought",6.325001595541835e-05,0.016370541998185217,0.16279069767441862,0.5555555555555556
+grayscale,sample_959,"would , because Esau sold his birthright","would , becauss Esan sodd his toirthrght",8.129197522066534e-05,0.016183666011784226,0.15,0.5714285714285714
+grayscale,sample_963,When Achilles gave a royal feast the principal dish,When Achiilles gave a royal feast the principal digh,6.699998630210757e-05,0.022999375010840595,0.0392156862745098,0.2222222222222222
+grayscale,sample_970,"Anyhow , Homer does not seem to have known any","Anyhou , ttomer does not seemn to have lnoun any",6.479202420450747e-05,0.031015499989734963,0.13043478260869565,0.4
+grayscale,sample_971,"how to do it , too : - When the languid flames at","how to do it , to0 : - When the languid flames at",8.804097888059914e-05,0.02305470799910836,0.02040816326530612,0.07692307692307693
+grayscale,sample_972,"Anyhow , Homer does not seem to have","AiVhow , Homa , Cloes not seem -o ha v t",7.258399273268878e-05,0.018315416993573308,0.3055555555555556,1.0
+grayscale,sample_976,throws a bed of glowing embers wide ;,Hrorows abed of fowig erfes wide ;,8.73749959282577e-05,0.0166409169905819,0.2702702702702703,0.625
+grayscale,sample_980,"dish was a grill , which he cooked himself ,","dish wus a grrill , which he cockied himself ,",6.86249986756593e-05,0.017692458990495652,0.09090909090909091,0.3
+grayscale,sample_981,Achilles gave a royal feast the principal,"Hchilles jave "" oval feast the principal",7.204199209809303e-05,0.016707625007256866,0.12195121951219512,0.5714285714285714
+grayscale,sample_982,known any way of cooking meat,lnown an way of cookirng meut,7.112501771189272e-05,0.01645150000695139,0.13793103448275862,0.6666666666666666
+grayscale,sample_983,and intellect . A remarkable peculiarity in the banquets,and intellect . A remarkable peculiarity in the banquets,0.00011145899770781398,0.02210245799506083,0.0,0.0
+grayscale,sample_987,confine the resources of the table to the gratification,confine the resources of the table to the gratification,7.245800225064158e-05,0.02378399998997338,0.0,0.0
+grayscale,sample_989,of one sense alone . Having exhausted their invention,"of one senise alone , ltaving exhausted their invention",5.941599374637008e-05,0.0264196660136804,0.07547169811320754,0.3333333333333333
+grayscale,sample_996,"perfumes , these refined voluptuaries aroused the",perfumesthese refined waluptuaries acousey the,9.216601029038429e-05,0.03010587499011308,0.14285714285714285,0.7142857142857143
+grayscale,sample_999,of fruits .,of fruits .,7.454102160409093e-05,0.0073350830061826855,0.0,0.0
+grayscale,sample_1000,fainting appetite and added a more exquisite and,fainting appetite and aded a more exquisite and,8.545798482373357e-05,0.024612792010884732,0.020833333333333332,0.125
+grayscale,sample_1001,They considered flowers as forming a very essential,They consigered flwers as forming a very essential,6.679201032966375e-05,0.048648916999809444,0.0392156862745098,0.25
+grayscale,sample_1004,traveller occasionally encounters a certain,fraveller occatonally encontiens a certai,4.4540996896103024e-05,0.026396125002065673,0.16279069767441862,0.8
+grayscale,sample_1006,measure of novelty .,measure of noveltyr .,6.591700366698205e-05,0.014379375003045425,0.05,0.25
+grayscale,sample_1012,piece of resistance .,piece of resvstance .,8.641599561087787e-05,0.011910208995686844,0.047619047619047616,0.25
+grayscale,sample_1013,a delicacy . The visitor is told that,a dehicacy . iefhe visttor is t old tahat,0.00014650000957772136,0.01596600000630133,0.1891891891891892,0.75
+grayscale,sample_1018,"alive , dipped in treacle and swallowed","alive , dupped in fireade and awaltowed",3.200001083314419e-05,0.015422291005961597,0.1794871794871795,0.42857142857142855
+grayscale,sample_1019,"from eating it fresh , squash it , press",from eating is fresh y sghrak it  pren,3.079199814237654e-05,0.014286459016148001,0.275,0.5555555555555556
+grayscale,sample_1020,roasted on the point of a spear are,roased on the poit off a Bpear ore,7.974999607540667e-05,0.01664741599233821,0.14285714285714285,0.625
+grayscale,sample_1021,peoples have a high opinion of the octopus,peoples have a high opinnon of the oopu,7.991600432433188e-05,0.01583566699991934,0.09523809523809523,0.25
+grayscale,sample_1022,as an article of diet . So have the Japanese,"as an artice of diet ;, Do howv e the Sapanere",6.983301136642694e-05,0.015273750002961606,0.20454545454545456,0.6
+grayscale,sample_1023,Among the natives of Northern Australia lizards,pmmong the netives of Gforthern ftralian linzandy,6.541699985973537e-05,0.014241666009183973,0.2553191489361702,0.7142857142857143
+grayscale,sample_1024,of it in almost any provision shop .,of it in amost any provvnon stop .,6.637501064687967e-05,0.01565662500797771,0.1388888888888889,0.375
+grayscale,sample_1026,"over with flour , you will find a stack","ovar with flour , you will find a stock",9.608399705030024e-05,0.016138667007908225,0.05128205128205128,0.2222222222222222
+grayscale,sample_1027,"and the Chinese . The Celestials , apart","and the chinese . ffe celestials , apart",5.887501174584031e-05,0.012955624988535419,0.1,0.375
+grayscale,sample_1028,"it and dry it , in which form , dusted","Af and dury it , i which gorm , dusted",6.037499406374991e-05,0.015325250016758218,0.13157894736842105,0.4
+grayscale,sample_1031,provides many Magyar dishes with a vivid and brilliant,provides many Magyar dishes with a virid and Brilliant,6.170899723656476e-05,0.019050958013394848,0.037037037037037035,0.2222222222222222
+grayscale,sample_1033,Hungary would have been deprived of the condiment which,Hunserg would nave been deprired of the condioment which,6.887500057928264e-05,0.020509458001470193,0.10909090909090909,0.4444444444444444
+grayscale,sample_1039,"fire , aerian creams , ingenious pastries and a","fire , aerian creams , ingenious pastries and a",6.933399708941579e-05,0.018334583000978455,0.0,0.0
+grayscale,sample_1042,"cookery is reminiscent of bull-fights , of Spanish dancing","coskery is reminiscent of bull-fights , of foanish dancins",7.11659959051758e-05,0.021991707995766774,0.06896551724137931,0.3333333333333333
+grayscale,sample_1047,"streaks of poetry , meat disguised under heavy and vehement","streates of poetry , meat diguised under heavy and rehemmnt",6.604098598472774e-05,0.019846040988340974,0.0847457627118644,0.3
+grayscale,sample_1051,the meats with their antithesis . The,the mneats with their antithesis . The,8.2874990766868e-05,0.026605207996908575,0.02702702702702703,0.14285714285714285
+grayscale,sample_1052,opulent varieties of Czechoslovak past-,opulent varieties of ceechaslovak past-,9.179097833111882e-05,0.025168416992528364,0.07692307692307693,0.2
+grayscale,sample_1054,"essentially French , and , irrespective of","essentially Fionch , and , irrespective of",0.0001203749852720648,0.022232333023566753,0.047619047619047616,0.14285714285714285
+grayscale,sample_1060,"touch , the same unfailing sense of","touch , the same unfailing sense of",7.379200542345643e-05,0.018707207986153662,0.0,0.0
+grayscale,sample_1061,proportion as exists among her,proportion as exists among her,6.445799954235554e-05,0.020854375005001202,0.0,0.0
+grayscale,sample_1063,exponents of things that are,exponents of things that are,0.00011204200563952327,0.01736208298825659,0.0,0.0
+grayscale,sample_1075,the same unfailing sense of proportion as exists among,the same unfailing sunse of preportion as exists among,0.00011720802285708487,0.021038457984104753,0.037037037037037035,0.2222222222222222
+grayscale,sample_1082,waxed enthusiastic about Bouilla-,waxed enthusiaistic about ouilla-,8.950001210905612e-05,0.029917707986896858,0.06060606060606061,0.5
+grayscale,sample_1089,prepared at least once a week in every bourgeois,prepared at least once a wek in every bourgeois,7.270800415426493e-05,0.019309457973577082,0.020833333333333332,0.1111111111111111
+grayscale,sample_1091,A hotch-potch of all sorts of fishes That Greenwich,A hokch-petch of all sorts of fishes That Greenwich,6.441600271500647e-05,0.021698333002859727,0.0392156862745098,0.1111111111111111
+grayscale,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,","noble dih is , A sort of soup , or broth , or brew ,",0.00013237498933449388,0.018665333016542718,0.018867924528301886,0.06666666666666667
+grayscale,sample_1101,fast and supper consisted of a,fast and supper consisted of a,8.312499267049134e-05,0.02065037499414757,0.0,0.0
+grayscale,sample_1106,intellectual faculties . Bunyan's break-,intellectual faculties.Bsunyanis break,7.174999336712062e-05,0.022858500014990568,0.125,0.8
+grayscale,sample_1110,breakfast and supper consisted of a piece of coarse bread,Brealfut and snpper consinked ofa puiece of coase bread,8.029097807593644e-05,0.011095499998191372,0.17543859649122806,0.7
+grayscale,sample_1113,"had a great contempt for animal food , believing that",lnd a grent conkenpt for aimal frod Geleving that,2.7708010748028755e-05,0.011186957999598235,0.20754716981132076,0.7
+grayscale,sample_1114,A fascinating study also opens up in the dietary,o fecinaing stdy alio gqens up in the cetonyg,5.787500413134694e-05,0.008421792008448392,0.2708333333333333,0.6666666666666666
+grayscale,sample_1118,been blind to the charms of turbot and,been blind to the ehnarms of turbot and,7.508302223868668e-05,0.02715754197561182,0.05263157894736842,0.125
+grayscale,sample_1119,in the dish in which it was served . He,in the dlish in which it was seved .te,0.0001228339970111847,0.024707666016183794,0.10256410256410256,0.4
+grayscale,sample_1125,removed first .,remored fist .,2.491599298082292e-05,0.0040738750249147415,0.13333333333333333,0.6666666666666666
+grayscale,sample_1126,dinner he is said to have been blind to the charms of,dimer be in aaid to have baen blind to the chamns of,5.991599755361676e-05,0.011855000018840656,0.1509433962264151,0.5
+grayscale,sample_1127,turbot and to have been much more interested in the,fbot and to have been mmch move intoeted in the,6.61670055706054e-05,0.015027832996565849,0.1568627450980392,0.4
+grayscale,sample_1133,"with Dickens says the menu was Whitstable oysters , a brown","will Dickons augs the menn was Wlittibll ogrkis , a brovs",7.258300320245326e-05,0.012585000018589199,0.3050847457627119,0.6363636363636364
+grayscale,sample_1135,placing his food in his mouth and gulping it down as,plaing hin food in his monbll and gulping it doun an,9.533297270536423e-05,0.012627250020159408,0.15384615384615385,0.45454545454545453
+grayscale,sample_1142,"The same man went to see Carlyle , and , after mentioning","dle ame mnan west tos Curbgle and , efhe netioring",6.325001595541835e-05,0.008795750007266179,0.3333333333333333,0.8333333333333334
+grayscale,sample_1144,"him was the French Admiral , Jean de Vienne -","hin was the French tmiral , ean de Uienre-",7.387498044408858e-05,0.02707795798778534,0.15555555555555556,0.5
+grayscale,sample_1145,"leadership . But , at last , Gaunt sailed . Opposing","ieadership . But , at lat , Gout sailed . Opposing",0.00011774999438785017,0.01944962501875125,0.07692307692307693,0.2727272727272727
+grayscale,sample_1146,who still believed that they had a monopoly of,who still believed that they had a monopaly of,0.00011783401714637876,0.018951459001982585,0.021739130434782608,0.1111111111111111
+grayscale,sample_1151,"something to show , he foolishly attempted to besiege","something to show , he fodishly attempted to besiege",6.941700121387839e-05,0.019083958002738655,0.03773584905660377,0.1111111111111111
+grayscale,sample_1152,on land . Gaunt was compelled to give up his search for,on land . Gaunt was compelled to give up his search fos,8.279201574623585e-05,0.01835095798014663,0.01818181818181818,0.08333333333333333
+grayscale,sample_1154,"an elusive foe , and , afraid to return home without","an elusive foe , and , afraid to return home without",6.933399708941579e-05,0.025871124991681427,0.0,0.0
+grayscale,sample_1155,"which Gaunt , under the Black Prince , had shown","which Gount , under the Black Frince , had shoun",7.700000423938036e-05,0.020886874990537763,0.0625,0.3
+grayscale,sample_1157,trouble at sea as cleverly as Du Guesclin avoided it,trouble at sea as cleverly as Dn Gvesclin avoided it,8.120900020003319e-05,0.020404582988703623,0.038461538461538464,0.2
+grayscale,sample_1160,comparing the failure of a subsidized duke,conparing the foilure of a subidiges dills,6.0874997870996594e-05,0.012587458011694252,0.21428571428571427,0.5714285714285714
+grayscale,sample_1161,"When all seemed to be going well , a sortie surprised","wheu oll soemed to be going well , s oortie ourpriseo",7.783301407471299e-05,0.011848624999402091,0.1509433962264151,0.5454545454545454
+grayscale,sample_1162,fame and glory . Gaunt was compelled to return,fome and glary . Pout wa3 compelle to retun,6.491699605248868e-05,0.013106124999467283,0.17391304347826086,0.6666666666666666
+grayscale,sample_1164,"even despised failure . The ' ribald ' Londoners , who","oven dspised feili . The ribald , Loudoner , who",6.620900239795446e-05,0.01417204100289382,0.2037037037037037,0.5454545454545454
+grayscale,sample_1165,the longbows of yeomen could pierce the,the lougbows of yeomen could pierce the,6.545797805301845e-05,0.01239112499752082,0.02564102564102564,0.14285714285714285
+grayscale,sample_1169,"and that , if archers had no target , campaigns","and thatiif ardes lad w togget , compegus",6.150000263005495e-05,0.01231708301929757,0.3191489361702128,0.8
+grayscale,sample_1170,"after the event . It seems obvious that , though","after the event . It seems obvious thot , thagh",7.10829917807132e-05,0.011418834008509293,0.0625,0.2
+grayscale,sample_1180,command of the Channel . It seems obvious,command of tho Chsuvel . It wems oviovs,6.462502642534673e-05,0.014358749991515651,0.1951219512195122,0.5
+grayscale,sample_1183,the story of the prelude to the,the story of the prelude to the,0.00013449997641146183,0.01671991602052003,0.0,0.0
+grayscale,sample_1186,to which the Exchequer resorted is,to which the Exchequesir resorted is,0.00011566700413823128,0.019440208008745685,0.058823529411764705,0.16666666666666666
+grayscale,sample_1187,hammering out nations on the anvils of,h a mmeriny out nations on the anvils of,0.00015741598326712847,0.0172359160205815,0.07894736842105263,0.42857142857142855
+grayscale,sample_1191,"war , there was a constant stirring of","war , there was a constant stirring of",6.487499922513962e-05,0.018546000006608665,0.0,0.0
+grayscale,sample_1195,taxation not merely for defence and,taxation not merely for defence and,7.24170240573585e-05,0.01739479199750349,0.0,0.0
+grayscale,sample_1196,the private wealth of the monarchy,the private wealth of the monarcny,8.116700337268412e-05,0.017813040991313756,0.029411764705882353,0.16666666666666666
+grayscale,sample_1198,ceptions of governmental duties must be,ceptions of governmental duties must be,7.12089822627604e-05,0.01756300000124611,0.0,0.0
+grayscale,sample_1202,social services . A mediaeval oligarchy,social services . A mediaeval oligarchy,7.958299829624593e-05,0.01778695799293928,0.0,0.0
+grayscale,sample_1204,Social service as a function of government,Sociol service os o tunction of government,0.00018625002121552825,0.023449041007552296,0.09523809523809523,0.5714285714285714
+grayscale,sample_1206,it was therefore always granted grudgingly,it was theretore alwoys gronted qruadgingly,7.429200923070312e-05,0.020491582981776446,0.11904761904761904,0.6666666666666666
+grayscale,sample_1207,return was the uncertain bounty of booty,return was the uncertoin bounty of booty,0.00014229200314730406,0.02839204200427048,0.025,0.14285714285714285
+grayscale,sample_1216,the unsuccessful . But the Commons were not,the unsuccesstul . But the commons were not,0.00012512499233707786,0.030537124985130504,0.046511627906976744,0.25
+grayscale,sample_1219,"accounts , and even at times the impeachment of","accounts , and even at times the impeachment of",8.091700146906078e-05,0.028934165980899706,0.0,0.0
+grayscale,sample_1222,When ' his ' war did not bring victory and,"When his , war did not bring victory and",7.416697917506099e-05,0.022477874998003244,0.07142857142857142,0.2
+grayscale,sample_1225,"successful farmers , the artisans , craftsmen ,","successtul tarmers , the ortisans , crafilsmen ,",0.00010154099436476827,0.023081499995896593,0.10638297872340426,0.5
+grayscale,sample_1226,"towns , and the retainers and men-at-arms","towns , and the retainers and men-at-arms",7.408301462419331e-05,0.027099499973701313,0.0,0.0
+grayscale,sample_1227,"had bought their release , free labourers","had bought their release , free lobourers",0.00010183401172980666,0.021365749998949468,0.024390243902439025,0.14285714285714285
+grayscale,sample_1232,feudal obligations of work or villeins who,Feuol obligotions of work or villeins who,8.529098704457283e-05,0.020984458999009803,0.09523809523809523,0.2857142857142857
+grayscale,sample_1233,"None of these classes , except the yeomen , paid or","nanl of thete clanes , ereapt the yeomen , paid or",7.700000423938036e-05,0.014812874986091629,0.17647058823529413,0.36363636363636365
+grayscale,sample_1235,financing the Exchequer had become stabilized .,financi the Precheguer had became Pabilised .,6.254200707189739e-05,0.01218287498340942,0.2127659574468085,0.5714285714285714
+grayscale,sample_1236,expected to pay direct taxes . During the four-,spectecd to pay direet tanees . Muinily the foin-,2.9290997190400958e-05,0.0100992500083521,0.2765957446808511,0.5555555555555556
+grayscale,sample_1239,"prices , quality and tax could be efficiently su-","pias , quality and tore coulol be efficienly p.",5.295799928717315e-05,0.014204667008016258,0.24489795918367346,0.5555555555555556
+grayscale,sample_1244,"the foreign merchants , with whom the King's","the forejpn merchaiy , which wham the lirgy'ss",3.3750024158507586e-05,0.01381079200655222,0.2727272727272727,0.625
+grayscale,sample_1245,sanction at a rate roughly fifty per cent in,sanctian at a rath roughly tity per centin,6.141600897535682e-05,0.012635666003916413,0.11363636363636363,0.5555555555555556
+grayscale,sample_1248,"at ' colloquies of merchants ' , and whose","af "" clloguies of iTerchanls "" , anl whale",0.00016324999160133302,0.01476533300592564,0.2619047619047619,0.7777777777777778
+grayscale,sample_1250,There were two other sources of public revenue -,There nerltwo other souvees of pubflic rerenne-,8.233299013227224e-05,0.014913874998455867,0.1875,0.6666666666666666
+grayscale,sample_1251,excess of the rate for native merchants .,weuen of the robfar native murclanly .,6.700001540593803e-05,0.016224583989242092,0.34146341463414637,0.5
+grayscale,sample_1253,"In addition to these revenues , the King had the","In additian to these revemmus , the ling had the",2.7458008844405413e-05,0.009652749984525144,0.10416666666666667,0.3
+grayscale,sample_1255,"and national war , and in which the comparati-","and national war , and in whiille the canpparati-",7.341700256802142e-05,0.0184376249962952,0.15217391304347827,0.2222222222222222
+grayscale,sample_1256,"It was , therefore , a complicated and not very","It way , therefore , a camplicatad anet nat beny",8.483298006467521e-05,0.015516875020693988,0.1702127659574468,0.5
+grayscale,sample_1257,as ill-defined as the borders between private,ar i/folifild as the borlay hetreen privalt,8.412500028498471e-05,0.01608683299855329,0.35555555555555557,0.7142857142857143
+grayscale,sample_1262,borders between private and public purse were,borders betrreen privai and putlc plrtl were,7.999999797903001e-05,0.016130166011862457,0.2,0.5714285714285714
+grayscale,sample_1267,scale of payments was fixed for the,scale of payments was fixenl for the,0.00018412500503472984,0.015509040997130796,0.05714285714285714,0.14285714285714285
+grayscale,sample_1268,payments demanded . The definition of an,payments demanded . The detinition of an,6.758299423381686e-05,0.017563542001880705,0.025,0.14285714285714285
+grayscale,sample_1274,the results disappointing - a tax estimated,the resalts disappointinng - a tak e stimated,0.00012020801659673452,0.01867687498452142,0.09302325581395349,0.7142857142857143
+grayscale,sample_1276,Again the resentment was widespread and,Again the resentmnent was widespreal and,6.908300565555692e-05,0.015582249994622543,0.05128205128205128,0.3333333333333333
+grayscale,sample_1279,with hostelries and lodgings .,with hostelries and lodgings .,7.97079992480576e-05,0.012359040993032977,0.0,0.0
+grayscale,sample_1282,There were dark reasons for a meeting so,Tnere were dark reasony for a meeting so,9.933399269357324e-05,0.01873795801657252,0.05,0.25
+grayscale,sample_1284,from the chronicles that this was a sordid,from the chroaicles that this was a sordid,7.554201874881983e-05,0.02326591598102823,0.023809523809523808,0.125
+grayscale,sample_1286,baronage with rarer luxuries than those,baronage with rarer lnxurics than those,9.216699982061982e-05,0.01924137500463985,0.05128205128205128,0.16666666666666666
+grayscale,sample_1287,quarrel between monopolists and interlopers .,quarrel between moaopolists and inferloper .,6.624998059123755e-05,0.018921792012406513,0.06666666666666667,0.3333333333333333
+grayscale,sample_1291,"chant from Genoa had been murdered , and","chaat Prom Geno"" had been murdered , and",7.391601684503257e-05,0.0217402080015745,0.075,0.375
+grayscale,sample_1293,the suggestion that the rich should help,the pugyestinn Phat the sich phouklheyy,0.0001025829988066107,0.014902875002007931,0.275,0.7142857142857143
+grayscale,sample_1298,"three times the rate would produce 66,000 .",prrefimes tteniewouldtstotmebtoer .,7.02909892424941e-05,0.015681750024668872,0.5581395348837209,0.875
+grayscale,sample_1300,The only concession made in view of the,The only conussion qruteinNiuf the,6.345901056192815e-05,0.01486649998696521,0.3333333333333333,0.625
+grayscale,sample_1301,because no machinery was provided for,Nemmen mooochinng woo frvided for,5.8083998737856746e-05,0.01204870900255628,0.4594594594594595,0.8333333333333334
+grayscale,sample_1304,ments alternate with rests and are seen best in cold animals,ments alternate with rests and are seen best in cold animals,0.00010945799294859171,0.023760791984386742,0.0,0.0
+grayscale,sample_1307,In Chapter Two he gauged the nature of the heart's movements,In Chapter two be ganged the nature of the heast 's movements,5.7958997786045074e-05,0.01415133400587365,0.08333333333333333,0.45454545454545453
+grayscale,sample_1308,"such as serpents , frogs , and the like .","such as serpents , frogs , and the hihke .",2.6249996153637767e-05,0.01075499999569729,0.04878048780487805,0.1
+grayscale,sample_1313,"of the apex , the thickening of the heart walls , and","of the apex , the thickening of the heart walls , and",7.858299068175256e-05,0.015196291991742328,0.0,0.0
+grayscale,sample_1314,"the dissections of living animals , Harvey noted that","the dissections of living animals , Harvey noted that",4.924999666400254e-05,0.01699904099223204,0.0,0.0
+grayscale,sample_1316,"systole , simultaneously with dilatation of the arteries","systole , simultaneously with dilatation of the arteries",0.00011216601706109941,0.02180291697732173,0.0,0.0
+grayscale,sample_1325,ventricular contraction . During cutting or puncture of,ventricular contraction . Ouing cutting or pencture of,7.054200978018343e-05,0.015613166004186496,0.05454545454545454,0.25
+grayscale,sample_1326,"the ventricles , there is often forcible expulsion","the ventricles , there is often forcible expulsion",0.00010862498311325908,0.01672987500205636,0.0,0.0
+grayscale,sample_1327,of blood from the wound . Arterial diastole is,of blood fron the wand . Arterial diastole is,8.770800195634365e-05,0.015809749980689958,0.06521739130434782,0.2222222222222222
+grayscale,sample_1328,"hindered by compression , infarction or inter-","hindered by canprension , infarction or inter-",0.0001622909912839532,0.01576624999870546,0.06521739130434782,0.14285714285714285
+grayscale,sample_1330,"thus synchronous with cardiac systole but ,","thus synchronous with cardiac systole but ,",6.520800525322556e-05,0.015837624989217147,0.0,0.0
+grayscale,sample_1331,one can sometimes see it - so to speak,one ran sometimes it - so to sppak,7.879198528826237e-05,0.01630820898571983,0.15789473684210525,0.3333333333333333
+grayscale,sample_1334,"three auricular beats , produce a single","three auviralar beats , produre a single",6.312501500360668e-05,0.01476479199482128,0.1,0.2857142857142857
+grayscale,sample_1336,ventricular one slowly and,ventriralar ovie slowly eort and,6.304201087914407e-05,0.013934582995716482,0.34615384615384615,0.75
+grayscale,sample_1339,business no good George would never conceal them .,biipinets no pod feope would wever conceat tem .,7.254199590533972e-05,0.01632429100573063,0.24,0.6666666666666666
+grayscale,sample_1340,"would have nothing to do with him , others","woull hade notaing to do witle li , otiers",8.529200567863882e-05,0.017161958006909117,0.19047619047619047,0.6666666666666666
+grayscale,sample_1351,12 o'clock at night . At that time pastries and buns,Nra d dtOf pirecightitt hatgjlme podtries and un.,7.304101018235087e-05,0.014690999989397824,0.5192307692307693,0.9090909090909091
+grayscale,sample_1352,"mix 100 stone of bread in 12 hours , and Kate served in the","mix 10o stone of bread in Riours , and Vate selbed in the",6.441600271500647e-05,0.018361624999670312,0.13559322033898305,0.35714285714285715
+grayscale,sample_1353,Soon they were good enough to sing at meetings .,Seom they were good enough ho ting at meetings .,6.220801151357591e-05,0.01884529198287055,0.08333333333333333,0.3
+grayscale,sample_1355,"clothing , with which they wore a white tie","clothing , o with which fhey wore a wfite tie",0.0001265829778276384,0.01780454200343229,0.09302325581395349,0.3333333333333333
+grayscale,sample_1357,they would be there to begin the meeting .,they would be there to legin the meeting .,8.425000123679638e-05,0.01580249998369254,0.023809523809523808,0.1111111111111111
+grayscale,sample_1359,they were able to obtain some respectable,they were able to oltain some rerpectable,7.295800605788827e-05,0.019013040990103036,0.04878048780487805,0.2857142857142857
+grayscale,sample_1361,"men's clubs , to Conisborough on cheap trips to","mners cluby , to Conisborough on cheap trips to sing",2.7915986720472574e-05,0.010446083004353568,0.19148936170212766,0.3333333333333333
+grayscale,sample_1363,school was held .,wchool was had .,5.858400254510343e-05,0.006378458987455815,0.17647058823529413,0.5
+grayscale,sample_1367,"day evenings to the Corner Pin Hotel , to rally",day eoerings to the corner in thoteh to rallyy,6.33329909760505e-05,0.01161537499865517,0.2127659574468085,0.6
+grayscale,sample_1372,"George , and another the dark-haired","Geonge , and another the clark- hained",6.029201904311776e-05,0.011428208003053442,0.1388888888888889,0.5
+grayscale,sample_1374,One of the students was young,The of the studenty wo young,6.512500112876296e-05,0.00910229200962931,0.1724137931034483,0.5
+grayscale,sample_1380,"the Church Socialist League , genuinely advocated","te Ciuses fociclist Cagae , gemciel adraatl",0.00011170801008120179,0.013372499990509823,0.3877551020408163,0.8571428571428571
+grayscale,sample_1386,to those of parsons he got on wonderfully well,to frose of passans be goll an vondnffeully carll,0.0001277499832212925,0.012722207990009338,0.32608695652173914,0.7777777777777778
+grayscale,sample_1388,Just as the Labour Party had fought the,Just as the labomr Ruty had fught the,5.9999991208314896e-05,0.012044500006595626,0.15384615384615385,0.375
+grayscale,sample_1390,There was no abatement in political,Ther was ho abatement in politicoel,8.100000559352338e-05,0.014135625009657815,0.11428571428571428,0.5
+grayscale,sample_1392,"Council , and to Parliament , being deter-","camcil , aud to Porliamont , being deter-",6.787499296478927e-05,0.014086334005696699,0.16666666666666666,0.375
+grayscale,sample_1393,"had said , ' Mr. Barton would go to the poll .","had said , Mr. Barton would opo to thepoll .",7.420900510624051e-05,0.012928584008477628,0.10869565217391304,0.3333333333333333
+grayscale,sample_1397,their candidate must go forward in the,their caudidate must go fowand in the,9.449999197386205e-05,0.015351042005931959,0.07894736842105263,0.2857142857142857
+grayscale,sample_1398,elections . In the Sheffield Trades and Labour,elkctions . In the shetfield Tradas and Lobos,6.933399708941579e-05,0.018196791992522776,0.15217391304347827,0.5
+grayscale,sample_1399,and a gold purse in recognition of his,and a yold ppwn in reeogntin d h.l,6.404099985957146e-05,0.014855791989248246,0.3157894736842105,0.625
+grayscale,sample_1400,"Alf Barton , who in 1911 was presented","aly Btiton , Who in I9ll dm preted",7.95419909991324e-05,0.014774042007047683,0.3684210526315789,0.75
+grayscale,sample_1402,he was a keen member of the B.S.P. .,he wm a peen weniw df th P. S. 1 .,6.483300239779055e-05,0.019143208977766335,0.3888888888888889,0.8888888888888888
+grayscale,sample_1403,"work for the movement , was later","work for the wovement , a ditrs",6.329099414870143e-05,0.01498666699626483,0.21212121212121213,0.42857142857142855
+grayscale,sample_1404,"with a book on the life of Marx ,",bith a jook on the dipe of Man .,3.279201337136328e-05,0.015088833024492487,0.21212121212121213,0.5555555555555556
+grayscale,sample_1408,into it .,inte if .,2.1249987185001373e-05,0.0032072089961729944,0.2222222222222222,0.6666666666666666
+grayscale,sample_1410,Towards the end of my five and a half years',Fowards the end of un five and a half years !,6.17500045336783e-05,0.014582042000256479,0.11363636363636363,0.4
+grayscale,sample_1411,"This opened up a new interest , and we plunged","This opened y a new interest , aud we pengped",8.241599425673485e-05,0.013625333027448505,0.13043478260869565,0.3
+grayscale,sample_1413,a village choral society and conduct it .,a villbage chordl society and conduck it .,6.404099985957146e-05,0.012038291984936222,0.07317073170731707,0.375
+grayscale,sample_1414,"Germany for ten years , by which time in","Germany for ton yeais , by which time in",2.779200440272689e-05,0.012640333006856963,0.05,0.2222222222222222
+grayscale,sample_1415,"co-operated , we made the little side chapel a place","co-operated , we made the little side chapel a place",8.333299774676561e-05,0.02568654200877063,0.0,0.0
+grayscale,sample_1416,of daily prayer .,of daily prayer .,2.3542001144960523e-05,0.008007124997675419,0.0,0.0
+grayscale,sample_1420,"at Purley . One felt at Tatsfield that , small as the","at furey . One feat at fafield that , smabd as the",9.249997674487531e-05,0.021024834015406668,0.1509433962264151,0.3333333333333333
+grayscale,sample_1421,"chilliness of the new church , beautiful as it was and is .","chillineas of the new churcn , beantiful as it was and is .",8.40419961605221e-05,0.027369667019229382,0.05084745762711865,0.23076923076923078
+grayscale,sample_1428,"warming up by constant prayer and worship , and we","warming up by constant prayer and worship , and we",0.0001228329783771187,0.023232624982483685,0.0,0.0
+grayscale,sample_1431,stained-glass lancet windows - finally a new altar -,stained-glass Lancet wmndows-finagly a new altar-,7.8208016930148e-05,0.023729665990686044,0.11538461538461539,0.6666666666666666
+grayscale,sample_1437,to put beautiful things into a beautiful church,to put beautiful things into a beoutiful church,8.983397856354713e-05,0.018117666011676192,0.02127659574468085,0.125
+grayscale,sample_1444,Meanwhile in Purley there was much activity and much,Meanwhile in furley there was much activity and much,7.566600106656551e-05,0.020752500015078112,0.019230769230769232,0.1111111111111111
+grayscale,sample_1445,co-operation especially with the other Christian communities .,conoperation egecially with the other Christian Commnities .,6.358299287967384e-05,0.018898958020145074,0.08064516129032258,0.375
+grayscale,sample_1451,"the Committee . We had a splendid body of local residents ,",the Committee.le had a splendid bod y of local resients,8.254099520854652e-05,0.014377000014064834,0.11864406779661017,0.5833333333333334
+grayscale,sample_1457,included professional men from every walk of,included professinal men from every waulk of,6.416699034161866e-05,0.015512750018388033,0.045454545454545456,0.2857142857142857
+grayscale,sample_1460,throughout . He had no sooner heard from Count Gamba,Aromnghont . Oe hd ss asoner hewid from Gomt Gutin,7.870802073739469e-05,0.012919417000375688,0.38461538461538464,0.8
+grayscale,sample_1469,"as the year of their wedding , 1815 , had",as the year of their wedding  I 8i5 ? had,8.754100417718291e-05,0.019431666005402803,0.0975609756097561,0.3
+grayscale,sample_1476,and it came as an appalling surprise to,and it came a an appallingt Burprise to,6.479199510067701e-05,0.01607404201058671,0.07692307692307693,0.375
+grayscale,sample_1477,"hollow , and the news that Byron had left","hollas , ', and the ' newt that Boyon had teft",8.654201519675553e-05,0.01616312499390915,0.2682926829268293,0.6666666666666666
+grayscale,sample_1478,Captain Byron that he had been left,Caplain Byron Thast he had bemn left,5.600001895800233e-05,0.01706191702396609,0.11428571428571428,0.42857142857142855
+grayscale,sample_1479,"made a will in Augusta's favour , she had","made a wiul i Pugusta's fovour , the had",7.983300019986928e-05,0.017863082990515977,0.12195121951219512,0.5555555555555556
+grayscale,sample_1481,became great sighs of ecstacy .,beccne aal nials ot ecroy,7.949999417178333e-05,0.02016833398374729,0.5161290322580645,1.0
+grayscale,sample_1482,"and came into the livingroom , where","and cane into the kvingicon , wlere",6.504100747406483e-05,0.014715291006723419,0.19444444444444445,0.42857142857142855
+grayscale,sample_1484,drawing-in great breaths that,drawing-in gred bealls 1lol,6.87920255586505e-05,0.012230833002831787,0.3103448275862069,0.75
+grayscale,sample_1485,and walked on the very tips of,Onl walked on We nery 1ips of,6.279200897552073e-05,0.015119457995751873,0.2,0.5714285714285714
+grayscale,sample_1487,Heather and Steve stood aghast at,teatler and feve Hood aglan an,6.799999391660094e-05,0.013696416979655623,0.30303030303030304,0.8333333333333334
+grayscale,sample_1498,side to side .,side to side .,7.279097917489707e-05,0.008478457981254905,0.0,0.0
+grayscale,sample_1499,"forward . "" Isn't it a glorious thing ! Long awaited","forword . "" (n't it a glorions thing ! I ong awaited",0.0001244169834535569,0.01632095899549313,0.11538461538461539,0.45454545454545453
+grayscale,sample_1500,at an intersection for the light to change . At his,at an intersectar for the lglet to chauge . At his,7.19579984433949e-05,0.009805457986658439,0.13725490196078433,0.2727272727272727
+grayscale,sample_1501,apartment he garaged his car and then stood,opartment he garaged his Gar and Then stood,2.649999805726111e-05,0.010106166999321431,0.06976744186046512,0.375
+grayscale,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,obroad and wo pedestrian to cross his path wor to wait,6.845901953056455e-05,0.012838457972975448,0.08928571428571429,0.3333333333333333
+grayscale,sample_1508,"shaving when it came on , with a flat",shaving when it came on ) with a Flat,7.091698353178799e-05,0.01684970801579766,0.05405405405405406,0.2222222222222222
+grayscale,sample_1510,"the radio , which he kept tuned to CBO.","the ralio , which he kept tuned to CB0 .",0.00011570801143534482,0.018519834004109725,0.07692307692307693,0.3333333333333333
+grayscale,sample_1517,almost painful sharpness . He reversed and,almast painful shiarprers . Ke reversed and,6.0084013966843486e-05,0.013857749989256263,0.11904761904761904,0.42857142857142855
+grayscale,sample_1518,"whirring sound , and a high-pitched hissing",whiing oound ) and a high-pitched hining,2.7750007575377822e-05,0.012959292012965307,0.13953488372093023,0.5714285714285714
+grayscale,sample_1520,the War Memorial . There was a deep,the war Memoial . There was a deep,0.00012074998812749982,0.015182500006631017,0.05714285714285714,0.25
+grayscale,sample_1522,turned back on McKenzie Avenue .,turned back on tic hengie avenne .,6.562500493600965e-05,0.012076082988642156,0.21875,0.5
+grayscale,sample_1525,caped Thetan subjugation . This time . But we no,coped thetan subjngation . This time . But we hho,6.370799383148551e-05,0.011976667010458186,0.10416666666666667,0.4
+grayscale,sample_1526,selves in their zeal to get their orders and to carry,selves in these geal to get theix ondens and to cany,7.700000423938036e-05,0.012999166996451095,0.1509433962264151,0.45454545454545453
+grayscale,sample_1533,may be able to promote our own,mary te able to prounate our,6.608400144614279e-05,0.01733416601200588,0.3,0.5714285714285714
+grayscale,sample_1535,There can be little doubt that if the,Themn con be little donbl that i the,6.395799573510885e-05,0.015817665989743546,0.16216216216216217,0.5
+grayscale,sample_1536,"are , beyond personal security ,","are , beyond Peisonl secmnrity ,",0.00025291601195931435,0.02110491698840633,0.15625,0.3333333333333333
+grayscale,sample_1544,on her part ; but he thought it a good idea,on her part ; but he thought it a goad idea,7.283399463631213e-05,0.011546541994903237,0.023255813953488372,0.09090909090909091
+grayscale,sample_1546,that they use Dan as a specimen demonstra-,that they use Dan as a specimen demonskra-,2.508299075998366e-05,0.012956166989170015,0.023809523809523808,0.125
+grayscale,sample_1551,nevertheless .,neverthellss ,2.4666980607435107e-05,0.0051380420045461506,0.21428571428571427,1.0
+grayscale,sample_1560,ringing of a doorbell was to him,hinging of a doorbell war to hin,6.450002547353506e-05,0.01507091597886756,0.09375,0.42857142857142855
+grayscale,sample_1563,"of their presence . They just stared at him , turning","of their precence . They just stared at him , tuoning",6.545899668708444e-05,0.012067958014085889,0.03773584905660377,0.18181818181818182
+grayscale,sample_1565,Dan paced the floor . He seemed completely unaware,Ban paced the flour . He semed completely uaware,7.691601058468223e-05,0.016242874989984557,0.08,0.4444444444444444
+grayscale,sample_1571,and the purpose he was to serve .,and the purpose he ias to serve .,7.995800115168095e-05,0.015231375000439584,0.030303030303030304,0.125
+grayscale,sample_1576,impatience pending an awaited,impatience . Pending an anaited,7.624999852851033e-05,0.009090584004297853,0.13793103448275862,0.75
+grayscale,sample_1577,"Finally , being so obviously on their own ,","Finally , being so abvauslyon their oun y",8.324999362230301e-05,0.010831874998984858,0.13953488372093023,0.4444444444444444
+grayscale,sample_1578,perplexity respecting his surroundings,perplexity respecting his surrounding,2.7000001864507794e-05,0.012488125008530915,0.02631578947368421,0.25
+grayscale,sample_1579,His whole attitude was a mixture of,His whole attitule vus a mixture of,5.545798921957612e-05,0.012916208012029529,0.08571428571428572,0.2857142857142857
+grayscale,sample_1582,a single all-exclusive purpose .,a single all-exclusive pupose .,2.8458016458898783e-05,0.009936332993675023,0.03125,0.2
+grayscale,sample_1583,the Avenue from its many tributary streets . It might have,the Aveme frou its many trlumary strets . It might have,8.654102566652e-05,0.014839707990176976,0.1206896551724138,0.36363636363636365
+grayscale,sample_1584,"been a normal business-day bustle , except for two anomalies .","been a normal business-ay lstle , except for two anomaies .",0.00012158299796283245,0.017332291026832536,0.06451612903225806,0.2727272727272727
+grayscale,sample_1587,he waited . The bus stop was a deserted island on an empty street .,ne waited . The lus stop was a desertediland on a ampty strect .,0.00014929199824109674,0.01690949997282587,0.1044776119402985,0.4666666666666667
+grayscale,sample_1588,"But not for long , for soon pedestrians and cars flocked upon","But nol for long , for sooupedectrians and cas floched upou",8.39589920360595e-05,0.016034542000852525,0.11475409836065574,0.5
+grayscale,sample_1589,"as arranged , but he consoled himself by","as amanget , bat he conscled himsef by",6.53750030323863e-05,0.013560833991505206,0.15,0.5
+grayscale,sample_1591,January or early February . Angelina might be a,Jamnany or eanly Ffmary . Angelina might be a,6.0999998822808266e-05,0.013887333014281467,0.1702127659574468,0.3333333333333333
+grayscale,sample_1593,"back on Moon again , and able to do","Back on feon again , and ahle to do",6.120899342931807e-05,0.014493082999251783,0.11428571428571428,0.3333333333333333
+grayscale,sample_1596,research at first hand into matters on which,rseanch at fist hannd into matters on whieh,6.550000398419797e-05,0.01383808397804387,0.11363636363636363,0.5
+grayscale,sample_1597,Then he would go back to Plato for a final spell of,Then he would go hack to Pato for a fhal spell of,4.083302337676287e-05,0.014365417009685189,0.0784313725490196,0.25
+grayscale,sample_1603,"had contacts in political circles , a school-","had contacts in poeitical eircees , a school-",7.704200106672943e-05,0.016316625027684495,0.06666666666666667,0.25
+grayscale,sample_1605,( literally ) all-powerful Rocket Release,Lliteralit all-powerfue kodet Release,7.850001566112041e-05,0.01543866700376384,0.24390243902439024,0.8333333333333334
+grayscale,sample_1610,"know , I had to send back our bedroom","lhow , I hod to send bach or begroom",8.13750084489584e-05,0.018096167012117803,0.16216216216216217,0.5555555555555556
+grayscale,sample_1611,"All Sally's relations were 4makrodeb now , but Tom",AllSlfy's relitons were tmakrodeb nom  but fom,6.745901191607118e-05,0.011267041001701728,0.2,0.7777777777777778
+grayscale,sample_1613,to 4sub-lil on the lower .,to tsub-fif on the fower .,2.6708003133535385e-05,0.007889749977039173,0.15384615384615385,0.3333333333333333
+grayscale,sample_1615,"Sometimes she took Harry around with her , but",Sometimes the took Hlary around with her  but,6.558300810866058e-05,0.01136791700264439,0.10869565217391304,0.3333333333333333
+grayscale,sample_1617,"Sally made a mistake about me , "" he said one","saffy made a mistalle abatme , he said one",6.77499920129776e-05,0.012724416999844834,0.2222222222222222,0.45454545454545453
+grayscale,sample_1619,not submerged beneath a deep natural atmosphere .,nt subrmegey bereatha deep rtural atrropphere .,5.9333979152143e-05,0.012666499998886138,0.22448979591836735,0.75
+grayscale,sample_1621,penetrate beyond the minds of astronomers was of general,peretranke beyand the miiks of astrenaners os of general,7.029197877272964e-05,0.013573833013651893,0.19642857142857142,0.5555555555555556
+grayscale,sample_1623,"interest to the Mos , doubtless because their habitat is","""ntrest ikest ' to be boy , doubtless beouse their habite is",7.062498480081558e-05,0.015256292012054473,0.30357142857142855,0.7
+grayscale,sample_1628,allies being more inferior than formerly to W.C.U. in the,atler being more inferior tan frmegy bs Wl ! Cil! in he,0.00010654199286364019,0.014551292028045282,0.2982456140350877,0.8
+grayscale,sample_1629,One wondered if this greater awareness of the physical cosmos might,She wonddered if thirgetis anwrener of the prgyical comas mighl,8.437500218860805e-05,0.014907291013514623,0.2835820895522388,0.7272727272727273
+grayscale,sample_1632,"used in the last few wars , but it seemed very probable",wed in the lat tfr few wais . but is vemed nry proll ,6.279200897552073e-05,0.01484833299764432,0.3090909090909091,0.75
+grayscale,sample_1633,"wives , romanced about him in his absence . "" Lester was a","wivbs , romanced obout hinein his ahsence . "" ester wasa",6.337498780339956e-05,0.016148249997058883,0.1206896551724138,0.6153846153846154
+grayscale,sample_1635,"country lawyer , and we were very small 4microdebs , weren't we ,","county tuyer . and we were veyy smoll ( micradebs weren twe ,",8.829199941828847e-05,0.01603400000021793,0.2153846153846154,0.6923076923076923
+grayscale,sample_1636,"duties and his wife , in the manner of middle-brow","daties and his wife , in the moner of nildle-brow",6.154202856123447e-05,0.014808167004957795,0.1,0.3
+grayscale,sample_1638,Lester was not home yet from his formidable,Cesterwas not home yet from his formidkalle,6.00829953327775e-05,0.014790124987484887,0.09302325581395349,0.375
+grayscale,sample_1644,we came through to 4makrodeb status and,we came ttrough to Umakrodeb status and,8.429199806414545e-05,0.01735162499244325,0.05128205128205128,0.2857142857142857
+grayscale,sample_1646,has come for him to be taken seriously,has come for him to be taken seriously,6.562500493600965e-05,0.01593887500348501,0.0,0.0
+grayscale,sample_1649,"That 's how he got the votes , that 's how","That's how he got the votes , that's how",6.695900810882449e-05,0.015741499984869733,0.047619047619047616,0.36363636363636365
+grayscale,sample_1651,But privately he turned out to be as friendly as,bit privately he turd out to be as frvenodly as,6.391698843799531e-05,0.01953716602292843,0.125,0.3
+grayscale,sample_1662,"guise which , far from attracting the allegiance","qiie rhic , far fron altractinng the ollegjonce",0.00010104099055752158,0.019075707998126745,0.22916666666666666,0.625
+grayscale,sample_1664,The political life of Aristotle looked more and more,Thre political life of arintolle Gooped more and more,6.441702134907246e-05,0.023299666994716972,0.11538461538461539,0.3333333333333333
+grayscale,sample_1665,like a masquerade of business interests in dis-,lihre a moguerae of Guien inererh in di-,0.00013279099948704243,0.02181708300486207,0.3404255319148936,0.625
+grayscale,sample_1666,haps nurture a genuinely civilizing impulse,fraps nurtre a gqgnninelyy civieinginng imnpuhie,8.416699711233377e-05,0.01770424999995157,0.32558139534883723,0.8333333333333334
+grayscale,sample_1671,"to be diverted , however , with the single exception of one","to be athesteol toneres , witl he singte exeppion of one",6.275001214817166e-05,0.014049499994143844,0.2711864406779661,0.5833333333333334
+grayscale,sample_1672,neurosis and not in some eruption from those,searosis and not in some ermption from these,8.283299393951893e-05,0.01699433400062844,0.09090909090909091,0.375
+grayscale,sample_1673,GO ; but the reason probably lay in elementary,a but the reason probaby byineltonntagy,6.058401777409017e-05,0.013382790988544002,0.2826086956521739,0.6666666666666666
+grayscale,sample_1674,deeper layers in the human psyche which are,alogrr iogers in the human pgyede which one,5.9999991208314896e-05,0.01459616600186564,0.3023255813953488,0.5
+grayscale,sample_1675,minions could do to him would ever make him,miions cn Cot al to tim maalatevar mra bie Aim,0.00013050000416114926,0.027523875003680587,0.46511627906976744,1.0
+grayscale,sample_1676,"Stepping out in their white shorts , they looked glad enough",Perg out in their mhite shorte they CoohoNd een,6.408299668692052e-05,0.013712916988879442,0.38333333333333336,0.6363636363636364
+grayscale,sample_1677,putting their best foot forward .,putting their best foot forwarl .,8.491601329296827e-05,0.01362587499897927,0.030303030303030304,0.16666666666666666
+grayscale,sample_1685,about ? ' It was most certainly an eerie,"about ? "" It was mast certainly an eerie",8.504200377501547e-05,0.015306665998650715,0.05,0.2222222222222222
+grayscale,sample_1688,carefully casual . ' The servants are all on,"crrefully casual . "" The servants are ill on",7.204199209809303e-05,0.017674208007520065,0.06818181818181818,0.3333333333333333
+grayscale,sample_1689,"' Something 's up , ' said Lord Undertone ,",""" Something's upor ""isaid tord Undertone ,",6.200000643730164e-05,0.014753333991393447,0.16279069767441862,0.8
+grayscale,sample_1690,"night , exceptionally brilliant and strange ,","night , excaptionally brilliant and strange ,",6.279197987169027e-05,0.01591412498964928,0.022222222222222223,0.14285714285714285
+grayscale,sample_1695,sensational 's going to happen . There 's things lurking,sensaional's ging to happen . There's things urking,0.00012099999003112316,0.017394249996868894,0.08928571428571429,0.6
+grayscale,sample_1697,"feeling , like I always get when something","feeling , lke ( afways gef when something",6.308298907242715e-05,0.015718041016953066,0.09523809523809523,0.5
+grayscale,sample_1698,head-shrinkers .,heat- shrinkers .,5.237499135546386e-05,0.005856542004039511,0.125,1.0
+grayscale,sample_1705,"no matter how bad it felt , the fire you know , or a","ho mattes how bad it fet , the fire you knourior a",0.00010629100142978132,0.019873709010425955,0.1346153846153846,0.42857142857142855
+grayscale,sample_1707,of a bottle . If your lordship will excuse me,of a boattle . If yaur larelslig will exense me,6.824999582022429e-05,0.016599875001702458,0.2,0.4
+grayscale,sample_1711,"afraid , with a hoof shaped like the heel","afsand , with a froof shaped like the heel",6.708299042657018e-05,0.016860875010024756,0.0975609756097561,0.2222222222222222
+grayscale,sample_1713,may have thought I had become unbalanced,may have thanght I had become unbalaneed,6.379198748618364e-05,0.015132917003938928,0.075,0.2857142857142857
+grayscale,sample_1716,Caine too and Mr Gilberto who would ...,Caine too and Mr gillesdo who would . ...,0.00014391698641702533,0.01627312501659617,0.15384615384615385,0.25
+grayscale,sample_1726,we were all invaded by a most tranquil,we were all inladed by a most tranguil,4.833299317397177e-05,0.012815083988243714,0.05263157894736842,0.25
+grayscale,sample_1734,But after what Mrs Caine had said it was never,Pntafter what Mrs Conke bad coid it wes never,8.141700527630746e-05,0.03192429200862534,0.21739130434782608,0.6
+grayscale,sample_1735,to receive a summons . I could see that Mr Septimus,to receie a pumans. t conld ee that tie Sepfuhng,7.904102676548064e-05,0.036432209017220885,0.3137254901960784,0.7272727272727273
+grayscale,sample_1736,far from our minds that at any moment we were,far from ou mninds taat at ary maent wre were,9.191699791699648e-05,0.030565166991436854,0.15555555555555556,0.6
+grayscale,sample_1737,"a promontory , a mass of clean rock crowned with","a promanbary , a mas of ceean tocd crored nith",0.00010204198770225048,0.032522583001991734,0.20833333333333334,0.6
+grayscale,sample_1738,"was impatient for it . This afternoon , then , we climbed","was impatient far it . Teis affernaon , taa, nechinbed",0.00011354198795743287,0.03034795800340362,0.21052631578947367,0.5833333333333334
+grayscale,sample_1739,"trees and bushes , that stood well out over the lake .","tees and busaes , that pted weleant aer fhe babe -",9.183402289636433e-05,0.03694049999467097,0.2777777777777778,0.75
+grayscale,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",""" ygoea-gg ,ilegl ."" gee sont te sfol tor sin fin ars pot hhi nen troodate .",0.0001179169921670109,0.016213166993111372,0.5119047619047619,0.9047619047619048
+grayscale,sample_1744,"She was already up the bus steps , and the bus was away . And Morfydd Owen","gthr nes dsaby np ths pen taps , mit the tn rens arey . ti Mabl onein",8.21659923531115e-05,0.016404125024564564,0.5405405405405406,0.8235294117647058
+grayscale,sample_1747,"on those fifteen miles of mountain roads , it disappeared from the earthly",on toafffuen indns of mven a ads it dimppeend trom te esply,6.933399708941579e-05,0.012662332999752834,0.4189189189189189,0.7692307692307693
+grayscale,sample_1750,"So the bus set out for Llangrwl . But it never reached there ! Somewhere ,","sx pe pur nst on forppangri . Tt .i ssver rabel teler ! Soneaterx ,",8.812500163912773e-05,0.01468233298510313,0.43243243243243246,0.8125
+grayscale,sample_1754,"supposed to leave at two-twenty . "" "" Who says so ? "" "" Your timetable . ""","mppeal te pens of tev-trerdty ."" "" Ntulto ray roi.i you tumatels !",8.620900916866958e-05,0.013781499990727752,0.581081081081081,0.9444444444444444
+grayscale,sample_1755,""" Left here all right , "" said Ifor . "" Two-thirty-five , on the dot . "" "" It 's",""" efgte aift "" rad for ,"" bro- tuly- fria , ontfp bd .in st'""",7.09999876562506e-05,0.012493082991568372,0.5375,0.9047619047619048
+grayscale,sample_1757,"of humour , that Isaiah . He banged down the receiver . Very uncivil . Dropped",of Aman .itost Sroihn . pe farggd Laun poe peein Vry ueni dropgpel,8.095800876617432e-05,0.014387292001629248,0.5256410256410257,0.875
+grayscale,sample_1758,and scour the countryside between here and The Traveller's Joy .,ant ranr po vetirpido titwsenn for ent ffr Sravebsin goy .,0.00010616600047796965,0.012675707985181361,0.5625,0.9090909090909091
+grayscale,sample_1759,""" What do you want me to do ? Send out a sheriff's posse , is it ? "" No sense",""" Nat Bp yen naint ris fio do! Banh ont a Dariff s pepse ,rst ! "" No smse",0.00010649999603629112,0.015763125004014,0.4155844155844156,0.8095238095238095
+grayscale,sample_1765,"robbers , or being whisked off to Emergency",robbers or being whisked of to Emegency,6.216601468622684e-05,0.017074666015105322,0.09302325581395349,0.375
+grayscale,sample_1766,"was , as he feared , departed out of his life ,","was , as he feared , depanted out of hio lfe ",7.041700882837176e-05,0.015590082999551669,0.10638297872340426,0.3333333333333333
+grayscale,sample_1769,"complete her mission . "" Paled , did Dai . For the","Complete her mission . "" Palal , cid Dar . Tor the",8.662499021738768e-05,0.018619540991494432,0.12,0.4166666666666667
+grayscale,sample_1772,"the title of "" First Woman to Enter Space . ""","the title of ""frrst Coman to Euter Sacl . """,0.00011654201080091298,0.01737575000151992,0.15555555555555556,0.45454545454545453
+grayscale,sample_1782,Where indeed ? Megan Thomas spoke sharply,Where indced ! Megan Thomas spoke shaptry,7.425001240335405e-05,0.015116874972591177,0.12195121951219512,0.42857142857142855
+grayscale,sample_1784,"But nonplussed , the conductor was . A","But norplussed , the conductor was . A",7.01249809935689e-05,0.017234375001862645,0.02631578947368421,0.125
+grayscale,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",""" Where are we goingg ? "" he echoed Codwallades .",9.09580267034471e-05,0.014753291005035862,0.0625,0.18181818181818182
+grayscale,sample_1789,""" But something very untoward has",""" Dut eomethig very untoward has",0.00014054198982194066,0.013386500009801239,0.09090909090909091,0.3333333333333333
+grayscale,sample_1790,"good man , mind ; knew his job . But out of","good man , mind ; bnew his got . But out of",5.87090034969151e-05,0.01484066600096412,0.06976744186046512,0.16666666666666666
+grayscale,sample_1791,running into Llangrwl bus station .,running into Langoul bus sfatorn. .,6.808299804106355e-05,0.014010208018589765,0.2,0.3333333333333333
+grayscale,sample_1794,"he cried . "" Never mind your immortal","hecried . "" Never mint your immortal",6.412499351426959e-05,0.01590945801581256,0.05405405405405406,0.375
+grayscale,sample_1796,"window . Looked again , eyes starting from","wiindow . Looked ogain , eyes stanting fronn",8.950001210905612e-05,0.01508533299784176,0.11904761904761904,0.5
+grayscale,sample_1797,"folded it , and glanced idly out of the","folded it , and glanced idly cut of the",6.329102325253189e-05,0.012945583992404863,0.02564102564102564,0.1111111111111111
+grayscale,sample_1799,""" Here we are traversing the heavens at the",""" Here we are travesing the leavmns at the",6.741698598489165e-05,0.016190041991649196,0.06976744186046512,0.2222222222222222
+grayscale,sample_1803,Mr. Hayball from the back seat .,Mr. Hayball from the backseat .,6.662501255050302e-05,0.015886332985246554,0.03125,0.2857142857142857
+grayscale,sample_1804,"expect me to do ? "" he inquired , bitter .","expect me to do ? "" ho inguined , Gitfer .",6.849999772384763e-05,0.013104249985190108,0.11904761904761904,0.2727272727272727
+grayscale,sample_1806,"us nowhere , "" boomed the Rev. Edwards .","us howhare , "" boomed the Dow. Etuards .",0.00015079198055900633,0.020818458026042208,0.175,0.3333333333333333
+grayscale,sample_1808,""" Radio Flying Control at London Airport ,",""" Radio Frigg Coutrd at London Disporrt ,",7.458400796167552e-05,0.013064666010905057,0.21428571428571427,0.375
+grayscale,sample_1810,"at the Youth Hostel before dark . ""","at the jouth Fstel before dark . """,0.00010537498746998608,0.014379416010342538,0.08571428571428572,0.25
+grayscale,sample_1812,would never see her Dai again . And,wvould never nee hor Baicgain . And,6.770799518562853e-05,0.014408749993890524,0.17142857142857143,0.625
+grayscale,sample_1814,dismay . Quietly she began to,dismay . Ouietly rhe bigan to,6.533399573527277e-05,0.012669249990722165,0.10344827586206896,0.5
+grayscale,sample_1815,weep ...,Weeres. .,2.4959008442237973e-05,0.005225375003647059,0.625,1.0
+grayscale,sample_1817,"fortitude , it now filled her with","fortitude , it mnow filled her wvith",6.249998114071786e-05,0.01830229099141434,0.058823529411764705,0.2857142857142857
+grayscale,sample_1821,""" Afternoon , Mr. Roberts , "" he called , polite ,",""" Afternoon , Mir. Poberls , "" he cabled , polite ,",9.587500244379044e-05,0.01851904101204127,0.08,0.25
+grayscale,sample_1824,He had seen no sign of an accident .,Fehad reen no ningn of an accident .,6.508402293547988e-05,0.015632082999218255,0.1388888888888889,0.4444444444444444
+grayscale,sample_1828,the bus . He passed The Traveller's,the bus . Te paned The Traveller is,8.900000830180943e-05,0.016927332995692268,0.14285714285714285,0.5714285714285714
+grayscale,sample_1838,waiting to be transported to Dinas . And,waiting to be transported to Binas . And,6.683301762677729e-05,0.01628970800084062,0.025,0.125
+grayscale,sample_1839,brooding in her shroud of mist .,boodinginher shroud of mist .,6.754201604053378e-05,0.01502408302621916,0.09375,0.42857142857142855
+grayscale,sample_1841,The conductor switched on the lights .,The conductor nvitched onthe lighits .,9.029099601320922e-05,0.016390083997976035,0.10526315789473684,0.5714285714285714
+grayscale,sample_1847,"Rev. Edwards , standing at the front ,","Rei . Edwards , ntanding at the front ,",6.883300375193357e-05,0.016628375014988706,0.07894736842105263,0.375
+grayscale,sample_1849,On the back seat Stan Hayball embraced,On the bach reat Ptan Feapball embraced,7.129099685698748e-05,0.020090334000997245,0.15789473684210525,0.5714285714285714
+grayscale,sample_1853,"too desperate for singing , then the","too denperatefornrirging , then the",6.570899859070778e-05,0.01547637500334531,0.1388888888888889,0.42857142857142855
+grayscale,sample_1854,"situation , he realised , must be desperate","nituation , he realined , muntt be desperate",6.558300810866058e-05,0.019817624997813255,0.09302325581395349,0.375
+grayscale,sample_1855,"approaching , faster , faster , a tearing","approaching , fanter , farter , a tearin",0.00013270799536257982,0.01629029100877233,0.07317073170731707,0.375
+grayscale,sample_1856,sank . If the Welsh found the situation,sank . If the Melsh found the rituatign,0.00012820801930502057,0.01892308398964815,0.07692307692307693,0.25
+grayscale,sample_1857,"They looked at him , sullen . His heart","Phey looked athim , nullem . Tis heartt",6.691599264740944e-05,0.014883540978189558,0.15384615384615385,0.6666666666666666
+grayscale,sample_1858,hurrying blur that was past and gone,hurrging bher that avas pat and gone,6.566700176335871e-05,0.01648824999574572,0.16666666666666666,0.5714285714285714
+grayscale,sample_1859,indeed . But suddenly they were roused,indeed . But ruddenly they were roued,6.570899859070778e-05,0.016648667020490393,0.05263157894736842,0.2857142857142857
+grayscale,sample_1860,rush of sound . They waved frantically .,runhof round . They waved frantically .,6.112499977461994e-05,0.016694582998752594,0.075,0.375
+grayscale,sample_1866,a great basket .,a great basket .,2.341700019314885e-05,0.0061724589904770255,0.0,0.0
+grayscale,sample_1867,"He looked at Price the Provisions , who was nursing","He looked at price the Prouisionp , who was muring",8.008297299966216e-05,0.01720991701586172,0.09803921568627451,0.3
+grayscale,sample_1873,said the Rev. Edwards . Price shook his head .,sad the Rerr.Edwards . Price shoot hs head .,9.983399650081992e-05,0.024534791009500623,0.13043478260869565,0.5
+grayscale,sample_1874,"Mutinous dog , thought the Rev. Edwards , who hadn't","Mutinons doy , Phonght the per . Eduards , who had't",7.675000233575702e-05,0.016115541016915813,0.17307692307692307,0.7
+grayscale,sample_1879,"two pounds marge , one tin pineapple , one York ham . ""","twro founds mnarge , one tin pineapph , ene forf han.""",6.250001024454832e-05,0.017518874985398725,0.2,0.6923076923076923
+grayscale,sample_1880,enjoyed himself so much since reading Treasure,enjoged fimelf so nml sin ce tading Treasme,6.379099795594811e-05,0.015431041014380753,0.2608695652173913,1.0
+grayscale,sample_1882,"' But we - ' ' Stop your stupid talk , woman ! ' ' We are - '","iBut we - ' ' &op your etupid tallke , woman ! ' ' We are . ,",6.604098598472774e-05,0.019616666017100215,0.14754098360655737,0.3684210526315789
+grayscale,sample_1884,and grow wings . Between the worlds are many strong,and grow wings . Between the worlds are nany strong,8.354202145710588e-05,0.01899549999507144,0.0196078431372549,0.1
+grayscale,sample_1885,"rays , not seen or felt , which change our bodies .","rays , not seen or felt , which change our bodies",6.645798566751182e-05,0.01762279201648198,0.0392156862745098,0.08333333333333333
+grayscale,sample_1891,"World , you become a true human . The grub of the","World , you becere a trhe hunan . The ginb of the",7.845897926017642e-05,0.017157041002064943,0.12244897959183673,0.3333333333333333
+grayscale,sample_1893,"change . ' ' I cannot know what he says , ' Haris said","change . ' ' l cannot know what he says , ' Maris said",7.829198148101568e-05,0.020147417002590373,0.037037037037037035,0.14285714285714285
+grayscale,sample_1903,babies may be born with wings . ' The Captive with,"babies nay be bonn with wings . "" The Captive with",6.024999311193824e-05,0.01674479100620374,0.06,0.2727272727272727
+grayscale,sample_1909,is good and knows these things .,is good and knows these things .,6.845800089649856e-05,0.01407358402502723,0.0,0.0
+grayscale,sample_1913,well we can - think . This tribe of the True World,well we can - think . this tribe of the True wonld,0.0002212919935118407,0.02581629200722091,0.06,0.16666666666666666
+grayscale,sample_1918,muttered together . ' Do you say that you poor,nuttered together . ' Do you say that you poor,8.220798918046057e-05,0.017852709017461166,0.021739130434782608,0.1
+grayscale,sample_1920,"The flyman with ear lobes and thumbs connected ,","The flynan with ear lobes and thumbs connected ,",7.737497799098492e-05,0.021959083998808637,0.020833333333333332,0.1111111111111111
+grayscale,sample_1921,"making his perpetual little gesture of protest ,","making his perpetual little gesture of protest ,",0.00014770898269489408,0.016968000010820106,0.0,0.0
+grayscale,sample_1923,command the knives of others . ' ' No hurt will,"command the knives of others . "" ' No hurt will",8.645901107229292e-05,0.019695249997312203,0.02127659574468085,0.09090909090909091
+grayscale,sample_1927,from harm . ',Bron harn . ',2.3874978069216013e-05,0.006306333001703024,0.23076923076923078,0.5
+grayscale,sample_1929,"come to you , Lily-yo , ' Band Appa Bondi added .","come to you , Lily-yo , ' Band Appa Bond i added .",0.0001414580037817359,0.02002358401659876,0.02040816326530612,0.16666666666666666
+grayscale,sample_1931,here at a good time . Memories of the Heavy World,here at good time . Memories of the Heavy world,6.7666987888515e-05,0.02004529201076366,0.061224489795918366,0.18181818181818182
+grayscale,sample_1933,"' Before she can enjoy , Lily-yo and her companion","' before she can enjey , Lily-yo and her corpanion",6.36660261079669e-05,0.016546291997656226,0.06,0.3
+grayscale,sample_1934,' No ! ' the Chief Captive said with both mouths .,' Wo! the Cief captive said with bath nouths .,8.029199671000242e-05,0.016342500020982698,0.16,0.5833333333333334
+grayscale,sample_1935,must help our great plan . ' ' The invasion ? ' Bondi,"must help our great plan . "" The invasion ? "" Bond'",0.00010958299390040338,0.01637891700374894,0.09433962264150944,0.3076923076923077
+grayscale,sample_1938,World . You must help to lead our force . ' The long,"World . tou must help to lead our force . "" The lang",7.970898877829313e-05,0.017598040984012187,0.057692307692307696,0.23076923076923078
+grayscale,sample_1939,We need such memories . So we ask you to go,We need such merories . So we ask you to go,9.14999982342124e-05,0.018652833008673042,0.023255813953488372,0.09090909090909091
+grayscale,sample_1940,"afternoon of eternity wore on , that long golden road","afternoon of eternity wane on , that long golden road",6.404201849363744e-05,0.017740209004841745,0.03773584905660377,0.1
+grayscale,sample_1944,new flesh and tendon strengthened . To sail up in the,new flesh and tendon strengthened . To sail up in the,8.566697943024337e-05,0.025539875001413748,0.0,0.0
+grayscale,sample_1946,and Haris there were many events . Chief of these was,and Haris there were many events . Chief of these was,9.59169992711395e-05,0.023503584001446143,0.0,0.0
+grayscale,sample_1952,"the creatures participating in them . For Lily-yo , Flor","the creatures participating in them . For Lily-yo , Flor",6.429199129343033e-05,0.02150758300558664,0.0,0.0
+grayscale,sample_1955,"his own life , but Geoffrey's as well , to a strange girl","his oun inife , bud Geffey so wele , to a shouge Gul",9.879199205897748e-05,0.013544084009481594,0.3157894736842105,0.6153846153846154
+grayscale,sample_1956,than a couple of telephone calls he was,than a rouple of klphone ralls ne was,6.650001159869134e-05,0.013574791984865442,0.15384615384615385,0.5
+grayscale,sample_1958,career . Now he realised that he was entrusting not only,career . NOn he resited thal ne nas entrusrting nos only,6.566697265952826e-05,0.011841375002404675,0.17857142857142858,0.6363636363636364
+grayscale,sample_1964,faith which he was placing in her and,fatther waith bhe war Mlecly in ber aed,8.970900671556592e-05,0.009642958000767976,0.3783783783783784,0.875
+grayscale,sample_1965,It was a novel experience . Alastair was,Io was a novel exrennce . Alartair was,6.266700802370906e-05,0.017821499990532175,0.15,0.375
+grayscale,sample_1977,Alastair admitted that never in a not altogether,Prastair admitted thak uuer in a not altogutner,0.00016175000928342342,0.014865625009406358,0.16666666666666666,0.5
+grayscale,sample_1982,no permanent image .,ns pernmnent inage,2.5291985366493464e-05,0.00803345799795352,0.3,1.0
+grayscale,sample_1985,"flickered across its surface , but there was","flickened wcros its onface , but there wher",0.00014045799616724253,0.016564999998081475,0.20454545454545456,0.5
+grayscale,sample_2000,on the clearest night limited angular vision . He glanced,on the clearest night imited angular wision . He Glanced,9.324998245574534e-05,0.016401417000452057,0.05263157894736842,0.3
+grayscale,sample_2015,"Parade to Boscombe Down , slept for six blessed","pajagle to poscombe Doin , elept for six, blen) ,",8.833297761157155e-05,0.01853137501166202,0.2553191489361702,0.7777777777777778
+grayscale,sample_2029,movements of the Bentley . It had passed,movemants of ' the Pentey . I had pasped,8.283401257358491e-05,0.011848791007651016,0.175,0.625
+grayscale,sample_2032,through Florence and Rome and then,troay Goremce and poue and fhen,6.67919812258333e-05,0.012288625002838671,0.29411764705882354,0.6666666666666666
+grayscale,sample_2033,miles .,hulep .,2.520799171179533e-05,0.004006250004749745,0.42857142857142855,0.5
+grayscale,sample_2036,reproaches - and here he was bland and smiling .,repraches-und here he was bland and smiling .,7.054200978018343e-05,0.020478958991589025,0.08333333333333333,0.3
+grayscale,sample_2042,But it did not take her long to realise that his mood,Pout it did not tahe her I my to realise that his mood,7.73330102674663e-05,0.019454875000519678,0.1320754716981132,0.3333333333333333
+grayscale,sample_2046,"too . They 're both here . "" "" I didn't know she was","to . They'te both here . "" "" Iedidit lrow she was",0.00011620900477282703,0.024989333003759384,0.15384615384615385,0.42857142857142855
+grayscale,sample_2049,said the first thing that came into her head .,said the first thing that came into her head .,8.095899829640985e-05,0.01842625002609566,0.0,0.0
+grayscale,sample_2053,"poured cold water on the project . Everyone , he declared ,","powivel old wafronthe pied ! Ererpare , h edrared .",6.375001976266503e-05,0.00874900000053458,0.4067796610169492,0.9166666666666666
+grayscale,sample_2056,express their disgust at Sir John's abominable treatment,ypes trav dagerp s jr thu dordley tedmey,2.5415996788069606e-05,0.006917708000401035,0.625,1.0
+grayscale,sample_2058,"suggested having a second party , the following week , he","cnggeitef , having a sheond putyr the floving weer he",0.00010062498040497303,0.008643167006084695,0.3157894736842105,0.7272727272727273
+grayscale,sample_2062,"with injustice and contempt , ignoring","with injustiee and contempt , jqhoigy",8.037500083446503e-05,0.022185540990903974,0.18421052631578946,0.3333333333333333
+grayscale,sample_2063,It was all over and done with .,It was aly oer any aone with .,0.000243957998463884,0.01515566700254567,0.12903225806451613,0.5
+grayscale,sample_2065,ignorant child .,iguorart ehild .,2.8291979106143117e-05,0.00723604200175032,0.1875,0.6666666666666666
+grayscale,sample_2067,For the time being Beryl was content to let,Tor the time beiny Berul vas content to let,6.558300810866058e-05,0.01359412499004975,0.09302325581395349,0.4444444444444444
+grayscale,sample_2071,"a schoolmaster and she a small ,","a cholmaster and she a small ,",0.0001000420015770942,0.022769750008592382,0.0625,0.14285714285714285
+grayscale,sample_2072,her great disappointment at being,her Gereat disappointmuent at beny,7.091599400155246e-05,0.012847375008277595,0.15151515151515152,0.6
+grayscale,sample_2077,"conversation that evening , for when","conversaton thot every , for when",6.458399002440274e-05,0.014042875001905486,0.16666666666666666,0.5
+grayscale,sample_2079,"Blanche and Jack left , he went with","Flancde and faak left , ho wrbt wigh",8.80839943420142e-05,0.015294665994588286,0.2222222222222222,0.625
+grayscale,sample_2087,"like an ineffective imbecile . ""","libe an inefective imbecile . """,0.00011408299906179309,0.015410583990160376,0.0625,0.3333333333333333
+grayscale,sample_2091,""" And I 'm heartily sick of being constantly called",""" And I ' m heartily sick of being constantly called",7.558299694210291e-05,0.01600624999264255,0.0196078431372549,0.2
+grayscale,sample_2093,you the best way I can by getting hold of Jack,you the bert way I can by seting bold of Jack,9.358298848383129e-05,0.016665333008859307,0.08695652173913043,0.2727272727272727
+grayscale,sample_2095,""" What have I done wrong now ? I cover up for",""" What have I done wrong nou'? I cover up for",6.0999998822808266e-05,0.016936334024649113,0.044444444444444446,0.16666666666666666
+grayscale,sample_2098,""" It 's your superior attitude that riles me . "" Beryl was",""" fs pur superior atttude thit iles med beny war",2.587502240203321e-05,0.011071916989749297,0.29310344827586204,0.8461538461538461
+grayscale,sample_2101,"scarlet with annoyance . "" How I happened to be marooned","ccadlet with annsyance "" foas ( hnppened to be mnaraned",2.649999805726111e-05,0.01083666700287722,0.23214285714285715,0.6363636363636364
+grayscale,sample_2103,"look as though it was only what you expected of me ,",lok ar thagy it wr only ohd yor ayetd of ne,2.358300844207406e-05,0.008247624995419756,0.36538461538461536,0.75
+grayscale,sample_2112,"Be yourself , "" she exclaimed , with","Be yourself , "" she exdaimed , with",6.241700612008572e-05,0.013782291993265972,0.05555555555555555,0.125
+grayscale,sample_2117,equally indignant rejoinder .,agually indiguent rejoider .,6.412499351426959e-05,0.009959207993233576,0.1724137931034483,0.75
+grayscale,sample_2119,"idyllic surroundings . "" "" How dare you say","idyllic surroundigs .  "" How dare youn say",5.387500277720392e-05,0.014686708018416539,0.09302325581395349,0.3333333333333333
+grayscale,sample_2122,"from him to fondle Judy , who , sensing something","from fim to fondle Grcly , cifo . sensing sameting",9.724998380988836e-05,0.013959583011455834,0.22448979591836735,0.5
+grayscale,sample_2123,"amiss , was nudging her in the endeavour to","amiss , usaes nugging lir in fh enleavour to",7.091701263561845e-05,0.014705790992593393,0.20930232558139536,0.5555555555555556
+grayscale,sample_2126,if I had absolutely insisted on sailing at the,if l Gaed alsolukly insiskeal on saeiling af fir,8.016600622795522e-05,0.015968583000358194,0.30434782608695654,0.7777777777777778
+grayscale,sample_2127,"gain her attention . "" The truth is that","gaein bor allenlian . "" The FEffrutf is fraf",7.329200161620975e-05,0.01682183297816664,0.375,0.5555555555555556
+grayscale,sample_2129,"time originally arranged , Sir John would","time origimnally ancengel , Sir Goin Goull",0.00011958298273384571,0.013320415979251266,0.21951219512195122,0.5714285714285714
+grayscale,sample_2133,"dares to stand up to him . ""","daries to stand ag to jim . """,6.170899723656476e-05,0.008776583010330796,0.14285714285714285,0.375
+grayscale,sample_2134,""" What harm could possibly have come to Forrest",ih9fet arm could pessibly jav came to resrst,8.258299203589559e-05,0.016047832992626354,0.2978723404255319,0.7777777777777778
+grayscale,sample_2135,"flamingoes our first morning on the island . ""","flemingaes our foisl mosmingg an f* isliends """,8.104200242087245e-05,0.013471249985741451,0.34782608695652173,0.7777777777777778
+grayscale,sample_2136,"through Sir John's nonsense ? "" Piers could","Arroug? Sir foin's nonsunse 8 "" Gicns coull",6.879199645482004e-05,0.011832457996206358,0.2558139534883721,0.75
+grayscale,sample_2139,precisely the remark she had made to Guy .,precisely fre remte she Sed maack to buy .,0.00012754200724884868,0.01639937498839572,0.2619047619047619,0.5555555555555556
+grayscale,sample_2145,Beryl tried to suppress the thought that this was,Werpl tisil to suqpss Re NorgSl Bref Pis coes,6.341701373457909e-05,0.01310495799407363,0.5102040816326531,0.8888888888888888
+grayscale,sample_2148,""" What they can bring off ! I 'll admit that .",""" crSal trer cam iring offi l eycedail Bol .",6.920800660736859e-05,0.012010459002340212,0.4782608695652174,0.8333333333333334
+grayscale,sample_2153,"able destination . "" "" There 's a difference","ashe claslinalion . "" "" Fres i's a dliflsince",2.7250003768131137e-05,0.011871041991980746,0.38636363636363635,0.5555555555555556
+grayscale,sample_2156,"with Sir John ? "" she enquired cuttingly .","cilf SirfSn ? "" sha emqinep cullingty .",9.720897651277483e-05,0.011210583994397894,0.35714285714285715,0.6666666666666666
+grayscale,sample_2157,I doubt it . He 's about as easy to push around,( Goufl if . Me's aaoul as easy to pus f aenoud,6.775002111680806e-05,0.015297874982934445,0.2978723404255319,0.75
+grayscale,sample_2159,"at that , but went on airily , "" I 'd have made","aftat , but wenl on ciniby , "" T i0 Jeo mnaede",6.724998820573092e-05,0.01637587501318194,0.3404255319148936,0.6153846153846154
+grayscale,sample_2161,put her interests before my own .,put bar interists Sefore iy occan .,6.52919989079237e-05,0.010471916990354657,0.24242424242424243,0.7142857142857143
+grayscale,sample_2165,"man was , she thought impatiently ,","man was , she thought upatintly ,",9.049999061971903e-05,0.012474834016757086,0.08571428571428572,0.14285714285714285
+grayscale,sample_2167,to have been guests at yesterday's,tohave been quests at yerterdays,3.070800448767841e-05,0.010345749993575737,0.11764705882352941,0.6666666666666666
+grayscale,sample_2172,Their air of smiling somnolence showed them,Their air of smiling somnodence showed then,0.00012383298599161208,0.014818583003943786,0.046511627906976744,0.2857142857142857
+grayscale,sample_2175,"toothless mouth stretched in a wide grin , told her","toolaless maul skretoed in a mide grin , lold ter",8.016702486202121e-05,0.016095540981041268,0.21568627450980393,0.6
+grayscale,sample_2180,"in halting 6patois that "" 3Mistah Piers "" had","in halting Gpatois that "" 3 Mistak Picrs "" Lad",6.908300565555692e-05,0.015709792001871392,0.1111111111111111,0.5555555555555556
+grayscale,sample_2184,We all know how Balicou Island dangerous,We all know how Balicon bland dangerous,6.395799573510885e-05,0.013347083004191518,0.075,0.2857142857142857
+grayscale,sample_2188,"she was a lady who , like her Uncle Charles ,","she was a lady nhe , hike hes lncte cnatle ,",5.845801206305623e-05,0.013315416988916695,0.2222222222222222,0.45454545454545453
+grayscale,sample_2190,rocks in an' out o' de water .,webes in anl out ol de water .,8.958298712968826e-05,0.014748334011528641,0.2,0.375
+grayscale,sample_2191,habit .,sisil .,2.1833984646946192e-05,0.004197500005830079,0.5714285714285714,0.5
+grayscale,sample_2192,"day . Though he did not refuse wine , which the","b6y. Bougt he ait wt reflcse wime , nhiek  the",0.00010679199476726353,0.01640600000973791,0.3404255319148936,0.7272727272727273
+grayscale,sample_2194,except in moderate compliance with his father's,excgat in mondeste comptince witis istathers,0.00013091700384393334,0.015478665998671204,0.2765957446808511,0.8571428571428571
+grayscale,sample_2200,Around that rounded rocky promontory where the,Promnd tthit ronnchel roly prstuontrg where the,9.870799840427935e-05,0.011059209005907178,0.32608695652173914,0.7142857142857143
+grayscale,sample_2202,close to the rocks that it would be dashed,close . to the roaks thnt it would be dashed,7.1291986387223e-05,0.01619658400886692,0.09523809523809523,0.3333333333333333
+grayscale,sample_2205,What does time mean when weighed against the life of,Whed der time mean when weished apainst the life of,0.00011462499969638884,0.022996667015831918,0.11538461538461539,0.4
+grayscale,sample_2207,"two human beings ? "" Not until he was certain that the","ywo hnnan beeins ? "" Not untl he war cerdain thas the",6.808299804106355e-05,0.01644383301027119,0.16666666666666666,0.5833333333333334
+grayscale,sample_2208,"by trying to come home now , even if he did promise ?","by lrying to come homn now , even if he ad promise ?",8.008300210349262e-05,0.018981792003614828,0.07547169811320754,0.23076923076923078
+grayscale,sample_2222,It seemed to the frightened judge,ot seemed to the frightened jndge,6.074999691918492e-05,0.012418958998750895,0.06060606060606061,0.3333333333333333
+grayscale,sample_2224,"of wet canvas , Bill cleared the","of wet cauvas , Bill cleaed te",0.000149500003317371,0.013307415996678174,0.09375,0.42857142857142855
+grayscale,sample_2225,"with the tiller still hard over , brought","with the tiller still had oves , biouget",6.316698272712529e-05,0.013536250015022233,0.0975609756097561,0.375
+grayscale,sample_2226,the tiller hard over and at the,mhe tilles hod oue and at hhe,6.466699414886534e-05,0.01534758397610858,0.22580645161290322,0.7142857142857143
+grayscale,sample_2232,"that were a little unsteady , they","that nere a littke urvteady , twrey",8.120900020003319e-05,0.016702167020412162,0.17647058823529413,0.5714285714285714
+grayscale,sample_2235,hip as I ever saw . That boy of,bip ax jever vaw . Tat hey of,8.854200132191181e-05,0.015564083005301654,0.25806451612903225,0.7777777777777778
+grayscale,sample_2236,""" that was as pretty a piece of seamans-",""" thaat has as ptethy a picce of Veahuauer-",8.387499838136137e-05,0.018571708002127707,0.275,0.5555555555555556
+grayscale,sample_2244,water in her . I wouldn't be,iate in ler. Jwoueldn If te,6.766599835827947e-05,0.016480292018968612,0.39285714285714285,0.8571428571428571
+grayscale,sample_2245,drag the boat ashore and turn,drey the boat avhiore and turn,6.695897900499403e-05,0.011405833007302135,0.13793103448275862,0.3333333333333333
+grayscale,sample_2246,speed records on the way in .,speed recorde on the woy in .,7.966699195094407e-05,0.013407124992227182,0.06896551724137931,0.2857142857142857
+grayscale,sample_2250,"had more clothes on . ""","tad moe coties ou. """,7.01249809935689e-05,0.016273917019134387,0.2608695652173913,0.8333333333333334
+grayscale,sample_2254,"man at catch 'em than Injun , Judge .",man at catch eem than bjunpuage. .,0.0001509999856352806,0.015583000000333413,0.24324324324324326,0.4444444444444444
+grayscale,sample_2255,dragged out but before it was turned,dragged out but before it was turned,2.8665992431342602e-05,0.018039000016869977,0.0,0.0
+grayscale,sample_2257,over Bueno Buck reached into the foot,over Bueno Bucke reached infto the foot,9.366698213852942e-05,0.03011729201534763,0.05405405405405406,0.2857142857142857
+grayscale,sample_2260,"of water , tossed out a string of silvery","of water , tossed out a string of sbery",0.00010237499373033643,0.019002457993337885,0.07317073170731707,0.1111111111111111
+grayscale,sample_2261,With four doing the job and the waves,With four coing the jols and the waves,6.929200026206672e-05,0.019027500005904585,0.08108108108108109,0.25
+grayscale,sample_2263,few moments later the yawl was upside,few mamants tter the yaul as psise,0.00016237498493865132,0.014029334008228034,0.21621621621621623,0.7142857142857143
+grayscale,sample_2264,"exclaimed the judge . "" Toss them on the grass","exdaimes thejnolge . "" Toss them an the gran",6.870899233035743e-05,0.013630874978844076,0.21739130434782608,0.5
+grayscale,sample_2265,"down , exposing its shallow keel .","clown , expouing is shatlan teet ,",7.000000914558768e-05,0.013380916003370658,0.29411764705882354,0.8571428571428571
+grayscale,sample_2269,"Bertram's face was grim . "" You think it was the Snort ,","Bertram's frce was grim . "" 4 on think it wap tee Snort ,",9.275000775232911e-05,0.01801212498685345,0.10714285714285714,0.38461538461538464
+grayscale,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he","don't yon ? "" Johu gave a short langf . "" I aid , "" he",8.666599751450121e-05,0.01815341698238626,0.09259259259259259,0.25
+grayscale,sample_2271,"said ; "" but I 'd better stop thinking that now .","said ! "" lut ) ' better ntop feinking fhat nour .",6.816699169576168e-05,0.018504290987038985,0.20408163265306123,0.6666666666666666
+grayscale,sample_2272,"Pericles is fitted with an identically similar one . ""","Pericls in fitting with an identically sinifar ons .""",0.00015495900879614055,0.01677449999260716,0.16666666666666666,0.7
+grayscale,sample_2273,""" So there you are , my dear . "" Peggy 's eyes filled",""" To tare yon are , my dear . "" Peggy's eyes filled",6.887500057928264e-05,0.015440040995599702,0.09433962264150944,0.35714285714285715
+grayscale,sample_2275,sick . Just because he 's an Honourable he can do,siek . Juustbecanse he's an Honourable he can do,7.312500383704901e-05,0.01678816700587049,0.10204081632653061,0.45454545454545453
+grayscale,sample_2281,bombs during the last war . Having deposited his,lomlis during the last war . Having deopasibed lis,7.229202310554683e-05,0.017688334017293528,0.14583333333333334,0.3333333333333333
+grayscale,sample_2284,"interest to The George , unhappily destroyed by German","""nterest to Te George , wnhappily destryed by German",0.00010262499563395977,0.016660249995766208,0.07407407407407407,0.4444444444444444
+grayscale,sample_2288,man who was staring moodily into a gin,man who wvas storing moodily into a gin,0.00010629100142978132,0.015208291995804757,0.05263157894736842,0.25
+grayscale,sample_2289,"*?2s as ' Seaweed ' , and a youngish , sharp-eyed","I iks as ""Seaveed ; anda youngish , shapp-eyed",8.850000449456275e-05,0.015057207987410948,0.24489795918367346,0.8181818181818182
+grayscale,sample_2290,and tonic .,and tanic .,2.3708009393885732e-05,0.005656624998664483,0.09090909090909091,0.3333333333333333
+grayscale,sample_2294,of the bar was not 6persona grata . If her,of the bar was not epersana grata . f ber,6.658301572315395e-05,0.01568295797915198,0.09523809523809523,0.3
+grayscale,sample_2295,Seaweed's memory was prodigious ; her manner,Fcaneed's memory wvas prodigious ; her manner,3.762502456083894e-05,0.08242470800178126,0.09090909090909091,0.2857142857142857
+grayscale,sample_2298,glance at him . Evidently the other occupant,Glance at him . Evidently the ather cccupant,7.816700963303447e-05,0.06523262499831617,0.06818181818181818,0.375
+grayscale,sample_2301,what ! ' - as the Guards officer said on his return,what . !- as thre Cuartds officer said on-biis nebttim,0.00015391598572023213,0.031884249998256564,0.27450980392156865,0.6666666666666666
+grayscale,sample_2303,bomb . Should have been a V.C.,Somb . Slould larx been a jiC,3.8583006244152784e-05,0.021270375000312924,0.26666666666666666,0.5714285714285714
+grayscale,sample_2305,""" Make it a large one , darling . I know the naval","intlake ita large are , darling . I bncu te naval",8.220801828429103e-05,0.01915779200498946,0.22,0.5384615384615384
+grayscale,sample_2307,inherited desire to snub the man . If he did he,inlerited desine to snul the man . If lre did le,4.0790997445583344e-05,0.06076812502578832,0.1276595744680851,0.45454545454545453
+grayscale,sample_2310,the lounge or return to his bedroom .,the loimoe ar netirn to hi bedrmora .,0.0001739160215947777,0.030218708998290822,0.2702702702702703,0.625
+grayscale,sample_2314,"yourself , "" she said with mock severity .","yourself . "" she said withy mode severity .",0.00019508300465531647,0.028056333016138524,0.09523809523809523,0.3333333333333333
+grayscale,sample_2316,"fault entirely , "" said the stranger . "" It 's my conceited","faultentriely , "" said the stranger . itin myconceited",0.00014612500672228634,0.023916790989460424,0.1694915254237288,0.5384615384615384
+grayscale,sample_2317,in the Daily Courier .,inthe faily Couries .,0.00010904198279604316,0.013568750000558794,0.13636363636363635,0.8
+grayscale,sample_2318,"to you ? "" It did . Ian Bawley's name was","toyan? "" Ifdid . Jan Pawley's name nas",0.00016812499961815774,0.024132958991685882,0.21951219512195122,0.7272727272727273
+grayscale,sample_2322,nature - I assumed that you both knew who I,sature- Tasumed that you hath hrener who (,0.00015370899927802384,0.025832250015810132,0.27906976744186046,0.7
+grayscale,sample_2325,"drink ? "" John nodded - he could afford to buy",drink ? .s Yokn noddeed - he could afford to bry,0.00012983300257474184,0.028262166015338153,0.13043478260869565,0.36363636363636365
+grayscale,sample_2333,all else . We pride ourselves about accuracy on,all else . We pride ourselvs about accuracy on,0.00014966700109653175,0.03653466599644162,0.02127659574468085,0.1111111111111111
+grayscale,sample_2338,the Courier .,the Courier .,0.00014529100735671818,0.014462874998571351,0.0,0.0
+grayscale,sample_2339,Ever known us bowl a wide about your Service ?,Ever fenoun ns boul a wicle about your Bervice?,0.0001430839765816927,0.021959709003567696,0.1956521739130435,0.6
+grayscale,sample_2341,"gin with relish . It was his favourite brand ,","gin wiith ralish . De was his favourite trand ,",3.470800584182143e-05,0.026744917005999014,0.10869565217391304,0.4
+grayscale,sample_2344,"truth be embarrassing ? "" John sipped his double","truth be embarrassing "" otin sipped his double",0.00018287499551661313,0.019500750000588596,0.10416666666666667,0.2222222222222222
+grayscale,sample_2347,Life at home and in Bath had been a,Jipe at horne arel in Bath had been a,0.00010587499127723277,0.01960204099304974,0.2,0.3333333333333333
+grayscale,sample_2350,"found him curiously stimulating . "" You 're a","Found him euriously stimnlating . "" Joure a",9.208297706209123e-05,0.016788375010946766,0.13333333333333333,0.5555555555555556
+grayscale,sample_2354,"bit of a humorist , aren't you ? "" said","bit of a humorist , arerik you'? "" said",8.55830148793757e-05,0.017201916984049603,0.10256410256410256,0.3
+grayscale,sample_2356,""" It 's my business . I 'll tell you more . You 're",Tlei's ry busmess . Jiel tell you more . jouire,8.475000504404306e-05,0.014718166989041492,0.29411764705882354,0.6428571428571429
+grayscale,sample_2358,going to take over command of Pericles . Am I,going to takke over command ofy Pericles . Am M,9.287500870414078e-05,0.017527541000163183,0.06666666666666667,0.3
+grayscale,sample_2360,"'em up , darling ! ""","iem rp , darling !n",2.4333014152944088e-05,0.006830333994003013,0.2,0.6666666666666666
+grayscale,sample_2361,"shook his head . "" All paid for by His Lordship , ""","shooke his hend .  ' Ael paied for by His Lordship """,8.545801392756402e-05,0.019712874985998496,0.13725490196078433,0.46153846153846156
+grayscale,sample_2369,refilled glass and looked over the rim at his,refilled fass and loohd wver the vin at hes,9.995899745263159e-05,0.00976487499428913,0.17777777777777778,0.5555555555555556
+grayscale,sample_2372,"of course . "" "" On one condition , "" said John .","of conrse . "" On one condition ,"" said Sohn .",2.8749986086040735e-05,0.010556583001744002,0.10416666666666667,0.38461538461538464
+grayscale,sample_2374,""" Tell me who the little bird was . "" "" Can't","itell m who the litthe biird was . "" "" Canint",7.270800415426493e-05,0.014822041994193569,0.17777777777777778,0.5
+grayscale,sample_2375,"have dinner with me ? On His Lordship ,","have uiner with me . Ouths Lordshuip ,",8.31669894978404e-05,0.014072749996557832,0.20512820512820512,0.5555555555555556
+grayscale,sample_2376,"again , no doubt , and then you will have .",sawn wiacndst nnelhwmm the nnleanve,2.691699774004519e-05,0.007245250017149374,0.7209302325581395,1.0
+grayscale,sample_2379,you guess ? Whose portrait appears regularly,"pugusss Whase portrai appears , ryulay ,",2.8167007258161902e-05,0.009279249992687255,0.3409090909090909,1.0
+grayscale,sample_2383,"contact , is our Robbie ; he gives us the gen and",centactr is onr Pobbi ; he gries us the gen and,9.06249915715307e-05,0.01196041700313799,0.16326530612244897,0.4166666666666667
+grayscale,sample_2386,"sort of thing . "" "" You 'll get nothing out of me , ""","sot of Mhing . "" Youill get nothing ant drme ",6.558300810866058e-05,0.009542834013700485,0.2830188679245283,0.6666666666666666
+grayscale,sample_2389,disposed towards each other .,Jisposed towards one anther .,2.6166992029175162e-05,0.008998290984891355,0.2413793103448276,0.6
+grayscale,sample_2390,"tell George to bring in the 6carte du jour . """,till George to bring in the bcaste bu jar . ',2.604199107736349e-05,0.010142834013095126,0.15217391304347827,0.45454545454545453
+grayscale,sample_2391,Bawley was a man of his word . He kept,Fwsley wasta mangy his werd . He hepet ,2.633300027810037e-05,0.009002750011859462,0.2631578947368421,0.7
+grayscale,sample_2392,passed all too quickly . As they parted in,passed all too quichly to thny pasted in,6.970798131078482e-05,0.01089708402287215,0.16666666666666666,0.5555555555555556
+grayscale,sample_2394,the vestibule the two men were well,"theveshbule , the two men were well",8.20829882286489e-05,0.0170353330031503,0.14285714285714285,0.2857142857142857
+grayscale,sample_2397,John took it and put it in his pocket .,Tchn took it and put it i his pochet .,7.591699250042439e-05,0.01136116698035039,0.10256410256410256,0.3
+grayscale,sample_2398,"of the work is done . "" He held out a card .","of the warh is done "" He held ant a card .",0.00012483398313634098,0.013485375005984679,0.13636363636363635,0.23076923076923078
+grayscale,sample_2399,give me a ring at this number and I 'll,give ne a ving at this nunber and I M I,7.075001485645771e-05,0.010559083020780236,0.15384615384615385,0.5
+grayscale,sample_2400,""" You should . Next time you 're in Town",i you shanld pferet time yore in town,2.5832996470853686e-05,0.008116208977298811,0.325,0.8
+grayscale,sample_2403,up on that .,up anr that .,2.2208987502381206e-05,0.00386850000359118,0.16666666666666666,0.25
+grayscale,sample_2404,""" Ever been to Fleet Street ? "" asked Bawley .",i Ever been to Flut strect ? ashed Bawly .,6.808299804106355e-05,0.011134750006021932,0.1956521739130435,0.5454545454545454
+grayscale,sample_2405,""" I shall be busy for a while , cleaning up after",""" I shall be busy for awhile , cleaming up after",7.062501390464604e-05,0.016690249991370365,0.04081632653061224,0.25
+grayscale,sample_2406,lying in pairs alongside the jetty at Fort Blockhouse .,ling in paivrs alomgside the jelly at Ford Blothouse .,0.00012395900557748973,0.01741979201324284,0.14545454545454545,0.6
+grayscale,sample_2407,""" I don't know when that will be , "" said John .",""" I don't lmos when that will be , "" said golin .",7.162499241530895e-05,0.01920370801235549,0.125,0.15384615384615385
+grayscale,sample_2409,Glad I met you . Don't forget to give me a ring -,blad I met gou . Bon't forget to give me a ring-,6.891699740663171e-05,0.016900082991924137,0.08163265306122448,0.38461538461538464
+grayscale,sample_2410,"Master bloody Munyard . "" THERE were six submarines ,","Master bloody Munyard . "" FHRRE weve six submarines ,",0.0001452919968869537,0.016570499981753528,0.05660377358490566,0.2
+grayscale,sample_2412,"sounded , for all of them were rumbling as they","sounded , for all of them weve nembling as they",0.00010354199912399054,0.016439708997495472,0.06382978723404255,0.2
+grayscale,sample_2418,A light wind wafted the smoke of diesel exhaust in,A light wind sofved the smoke of diesel erhaust in,7.03750120010227e-05,0.01691787500749342,0.08,0.2
+grayscale,sample_2423,There had been many such breakfasts lately since the,Theve had been many such brcaltasts lakely since the,0.0001176249934360385,0.016159666993189603,0.09615384615384616,0.3333333333333333
+grayscale,sample_2424,but she could see that it no longer came naturally .,but she could soe that it no lonpger came naturally .,6.858300184831023e-05,0.016037708992371336,0.038461538461538464,0.18181818181818182
+grayscale,sample_2427,"His normal placid and steady-going manner remained ,","His normal placid and sready- going masrer rersained ,",7.033301517367363e-05,0.015916749980533496,0.11538461538461539,0.5
+grayscale,sample_2429,though in peace time these happenings are few and,though in peace time these happenings are feus and,9.862499427981675e-05,0.015999625000404194,0.04081632653061224,0.1111111111111111
+grayscale,sample_2432,must present an unruffled appearance and carry on as,must present an unmffled appearance and carry on as,8.783300290815532e-05,0.020458165992749855,0.038461538461538464,0.1111111111111111
+grayscale,sample_2434,"locality , had been interviewed by the Press , had driven","lacality , had been intrviered by the grss , had driven",6.200000643730164e-05,0.017250750010134652,0.08771929824561403,0.2727272727272727
+grayscale,sample_2435,must continue as before . During this period the Captain,must cosstinue as before . During this periad the Captain,0.00014712501433677971,0.01813079198473133,0.05357142857142857,0.2
+grayscale,sample_2440,"Jeannie 'll be on that coach , Dan . ""","Jeannie'll be on that couch , Dan . '",6.295801722444594e-05,0.015300958999432623,0.07894736842105263,0.4
+grayscale,sample_2446,"morrow as likely as not . "" I paused . "" Miss","morraw as lilely as not . "" I paued . "" Mins",7.28330051060766e-05,0.015133375010918826,0.08888888888888889,0.3333333333333333
+grayscale,sample_2451,"to her , Dan . "" "" She 'll be all right . It 's the","to her , Dan . "" "" Jhelll he all sfut . Is the",6.38750207144767e-05,0.01567174997762777,0.21568627450980393,0.375
+grayscale,sample_2459,"working for , as well as the townsfolk and","wencng for , as well as The tounslolk and",9.05419874470681e-05,0.018274250003742054,0.16666666666666666,0.3333333333333333
+grayscale,sample_2460,"of responsible for her . "" "" Of course , "" he said ,","of respourtle fwr her . "" "" Of cowse , "" he said ,",6.33329909760505e-05,0.015360208984930068,0.1346153846153846,0.21428571428571427
+grayscale,sample_2461,"that girl all the time , Dan . I feel kind","that Surl all the tive , pan . I feel kind",6.645897519774735e-05,0.016310500010149553,0.09523809523809523,0.2727272727272727
+grayscale,sample_2462,"the agency detective . """,the agenng delechve . .,7.429099059663713e-05,0.006962709012441337,0.25,0.6
+grayscale,sample_2463,After all it 's them we 're supposed to be,Ater all it's them webe suppared to be,6.93329784553498e-05,0.016876291017979383,0.16666666666666666,0.6
+grayscale,sample_2465,Dead . Shuffled out of the deck . Blasted,dead . Sunllled ont of the chk . siased,8.399999933317304e-05,0.01921954200952314,0.2926829268292683,0.5555555555555556
+grayscale,sample_2466,"last night . """,lart nigut .',2.3041997337713838e-05,0.004738166986498982,0.2857142857142857,1.0
+grayscale,sample_2467,With something of a start I remembered the,With sometiln of a s9ox I remanhered the,7.795801502652466e-05,0.016473083989694715,0.23809523809523808,0.375
+grayscale,sample_2470,"tried to surprise him . "" Dead ? "" he said . "" Yes .","tied to suprise hein . "" Pead ? "" he said . "" yes .",3.8416997995227575e-05,0.018271082983119413,0.11538461538461539,0.3333333333333333
+grayscale,sample_2473,fascinated by the way he looked when you,fascinated by the wany he looked when youn,9.516600403003395e-05,0.015434667002409697,0.05,0.25
+grayscale,sample_2479,"unreadable as a rock . "" Let 's get over to the","unceadable as a roke . "" let gut over to the",5.574998795054853e-05,0.014608458994189277,0.1702127659574468,0.4166666666666667
+grayscale,sample_2483,The air was fresh and clear and you,The air was lresh and cecs and yun,8.941598935052752e-05,0.01704541698563844,0.17142857142857143,0.375
+grayscale,sample_2484,could see far over west and north for many,conld see fo wesd and north for may,7.95419909991324e-05,0.015724875003797933,0.21428571428571427,0.5555555555555556
+grayscale,sample_2485,"a vast stretch of hills , canyons , buttes and","a vant gvekh of hills ,canoms , bulles and",9.300000965595245e-05,0.01592916698427871,0.2391304347826087,0.5
+grayscale,sample_2488,colour drawing . Between us and that lay,Colour draning . Betwcer us and that lay,8.362499647773802e-05,0.01570804201764986,0.1,0.375
+grayscale,sample_2490,the horses and drank enough to cure our,the harses and danl gfrough to cne ow .,8.062500273808837e-05,0.016303250013152137,0.28205128205128205,0.75
+grayscale,sample_2493,""" The mine-workings lie north of the town , ""","The mine-werning hi north of the toun  """,8.545798482373357e-05,0.016707457980373874,0.2222222222222222,0.5
+grayscale,sample_2494,"So we swung west , making slow going over","so me swurg west , malng slow going ove",2.9375019948929548e-05,0.015363416983745992,0.14634146341463414,0.5555555555555556
+grayscale,sample_2498,"four or five mile valley , sandy-floored . It","fow ar live ninle vallry , santy-floured . It",0.0001170419855043292,0.016045167023548856,0.2,0.6666666666666666
+grayscale,sample_2506,Here in a dried-up creek-bed we found,itere in a died-up creelk-bed he loimel,6.82090176269412e-05,0.018811333022313192,0.2702702702702703,0.7142857142857143
+grayscale,sample_2512,"your whiskers off . "" "" Take it easy , mister , "" I sang","yow nhialers of ."" "" Tale il lerny , mie ! "" Wang",6.633298471570015e-05,0.015815000020666048,0.3392857142857143,0.8
+grayscale,sample_2513,got no whiskers so as you can see . Just you,gut no uhiolus so asgan cin see . Ju yon,8.995900861918926e-05,0.019721416989341378,0.3181818181818182,0.6363636363636364
+grayscale,sample_2516,"out . "" We don't aim to come any closer and we 've","ont . "" We don't oi to cone any closs and neive",7.745900074951351e-05,0.01631262499722652,0.18,0.46153846153846156
+grayscale,sample_2521,peeking out through a hole in the shack never,peeking ont trough a hole is the shack never,7.079201168380678e-05,0.01675845799036324,0.06666666666666667,0.3333333333333333
+grayscale,sample_2522,"though they 're expecting trouble , "" I said . "" Where","though thenlre expectin trouble ,n I said . "" Whe",8.49170028232038e-05,0.017459249997045845,0.14814814814814814,0.5
+grayscale,sample_2525,""" Oh , "" said the unseen guard . He blew a","in ,n tid the wnseen suard . He beew a",6.179200136102736e-05,0.015799709013663232,0.2619047619047619,0.6666666666666666
+grayscale,sample_2527,kind of sequence .,hind of reqence .,8.295901352539659e-05,0.009752458019647747,0.16666666666666666,0.5
+grayscale,sample_2531,life came up before him in some cinematic,life came up before hitn in pome cnemetic,7.37080117687583e-05,0.022136958985356614,0.12195121951219512,0.375
+grayscale,sample_2534,"be open . It was . He entered , and seated himself","be open . At was . He entered , and reated himselt",6.887500057928264e-05,0.0234902499942109,0.06,0.25
+grayscale,sample_2539,"boy , then a young youth . He saw himself refusing","boay , then a yaug youthe . He san hirself  refusipp",0.00011691602412611246,0.01722874998813495,0.16,0.5454545454545454
+grayscale,sample_2541,dly decadence and absorption in debase-,dly decadence and absorition in dabuse-,8.074997458606958e-05,0.016604959004325792,0.07692307692307693,0.3333333333333333
+grayscale,sample_2544,"canery and corruption , the growth of the dea-","canery and carsptisn , the prouth of the dea-",7.820798782631755e-05,0.01703095799894072,0.13043478260869565,0.2222222222222222
+grayscale,sample_2547,"saw himself as a sulky , ugly , malformed , repressed","sa himself as a sully , uply , mabforrmned , repressead",7.133299368433654e-05,0.01573737498256378,0.1320754716981132,0.45454545454545453
+grayscale,sample_2551,"in London . Very strange his eyes looked . Mad ,","in Loudon . Very strange his eyes Looked . Mad ,",6.137500167824328e-05,0.014553707995219156,0.041666666666666664,0.18181818181818182
+grayscale,sample_2559,never been inside . Very remiss of,mever -beesi-nsile . Ten semiof,8.933397475630045e-05,0.01925270800711587,0.38235294117647056,0.8571428571428571
+grayscale,sample_2560,the thought came to me I 'd like,the thonglt came te ine sel lne,5.8833014918491244e-05,0.014749208989087492,0.34375,0.75
+grayscale,sample_2564,"led the way in . "" The stained glass","led the yp in . "" Tce stnae ylens",9.095799759961665e-05,0.016270167019683868,0.3055555555555556,0.4444444444444444
+grayscale,sample_2574,of despair Gay knew that of course,of cespair f ay knew theed ofcorse,7.820900646038353e-05,0.015161707997322083,0.23529411764705882,0.8571428571428571
+grayscale,sample_2575,Gavin she had left her sun-,Gavin sbe bad left her skm-,8.729100227355957e-05,0.013610666996100917,0.14814814814814814,0.5
+grayscale,sample_2576,off the plane with him were talking .,off the plame witl kim were talhlng,6.416699034161866e-05,0.015895500022452325,0.1891891891891892,0.625
+grayscale,sample_2579,Gavin and the girl who had got,Gavin anorthe sine who kaos por,6.383299478329718e-05,0.013066916988464072,0.3333333333333333,0.7142857142857143
+grayscale,sample_2585,laid his hand on hers . Gay smiled at him,Cad his wand on har . Gay piled at hiu,5.9582991525530815e-05,0.011712874984368682,0.1951219512195122,0.5
+grayscale,sample_2588,now Gavin was in love with her and her,na favin uas in eove withher & her,0.00011687501682899892,0.012422207975760102,0.23684210526315788,0.7777777777777778
+grayscale,sample_2591,"moon was just rising over the rocks , then","woon was fuet feing ovar the rode , then",7.804197957739234e-05,0.013507541996659711,0.23809523809523808,0.5555555555555556
+grayscale,sample_2595,"All that was part of the past , she would put it behind her . She","Oll that was part of the paat , she would put it beqind Rer . Bhe",9.220800711773336e-05,0.019670583977131173,0.07692307692307693,0.3125
+grayscale,sample_2597,"Lilyan remonstrated . "" They want to be",filya remonstiated . They wan to be,0.00011500000255182385,0.018151708005461842,0.15384615384615385,0.5
+grayscale,sample_2598,"can't find a table for two . """,cant find a table tee tw0 . ',7.704200106672943e-05,0.018527958018239588,0.2,0.5
+grayscale,sample_2602,"boy friend , "" Doc called . "" No , Doc ! ""","boy feiend . "" Do0 caled . ""Nh , Loc.ll",6.85419945511967e-05,0.01690104100271128,0.2619047619047619,0.6923076923076923
+grayscale,sample_2606,""" Come and join us and bring your",i Eome and join us and being youe,2.6416004402562976e-05,0.0159326660213992,0.12121212121212122,0.5
+grayscale,sample_2608,As Gay watched he offered the girl a,as Ga wascked kl Offered the gixl a,0.0001666249881964177,0.018536541989305988,0.2222222222222222,0.75
+grayscale,sample_2609,"She looked round scanning the tables ,","Rhl Rookced round scomning the tabkes ,",7.775000995025039e-05,0.017693708010483533,0.18421052631578946,0.5714285714285714
+grayscale,sample_2612,seated at a small table in a shadowy,slated at a sluall tabsk in a rsladokyy,6.729198503307998e-05,0.0197365420171991,0.25,0.5
+grayscale,sample_2615,"cigarette and lit it , his hands cupping","cigaxefte aud lit it , Ris Raucs apoping",6.545800715684891e-05,0.019918582984246314,0.25,0.625
+grayscale,sample_2621,"run upstairs to her room , knowing that","punnpstaixs toler tooi , taowing thal",7.695800741203129e-05,0.02195687501807697,0.28205128205128205,0.875
+grayscale,sample_2623,"loved her , was already flirting with a girl","eowedher, was olteadg feirting witea gixl",6.0416990891098976e-05,0.02255900000454858,0.25,0.8888888888888888
+grayscale,sample_2624,decided to go back and join Lilyan and,decided to go back and j oin lilygon and,6.68749853502959e-05,0.019112833018880337,0.10526315789473684,0.375
+grayscale,sample_2626,Gavin although he had told her that he,Gouin aethough he had told fu thot he,8.670901297591627e-05,0.023541040980489925,0.18421052631578946,0.5
+grayscale,sample_2628,as Gay drew out a chair and sat,as faay cew outt a chaie and sat.,9.354099165648222e-05,0.01639695800258778,0.22580645161290322,0.625
+grayscale,sample_2633,trying to understand Gavin's point of,byimg to enderstand Geuiin point of,0.00010983302490785718,0.016071417019702494,0.24324324324324326,0.5
+grayscale,sample_2635,felt wretched beyond words .,fell wceckied legoud moes .,6.67919812258333e-05,0.016752708004787564,0.39285714285714285,0.8
+grayscale,sample_2638,with the cigarette packet which lay on the table,with the cigarete facket which lay on the table,6.812502397224307e-05,0.015137000009417534,0.041666666666666664,0.2222222222222222
+grayscale,sample_2639,ging a smile .,ging a rnisly .,2.054200740531087e-05,0.005052833002991974,0.2857142857142857,0.25
+grayscale,sample_2641,"lifeline and Gay got up quickly , mana-","litiline and Gry get ups puickly , mana-",6.716599455103278e-05,0.011569958995096385,0.15384615384615385,0.625
+grayscale,sample_2642,His behaviour was not only boorish and in the worst of,Mis bchavionr was not only boorish and the worst of,9.770799078978598e-05,0.014615416992455721,0.1111111111111111,0.2727272727272727
+grayscale,sample_2643,"dance , "" Doc's cheery voice came as a","dance "" Boc's cheary voice came as a",7.904198719188571e-05,0.012213415990117937,0.10526315789473684,0.3333333333333333
+grayscale,sample_2645,and no doubt he would come back soon and,andno donbt he mould cac back soon and,6.904100882820785e-05,0.019937125005526468,0.15,0.5555555555555556
+grayscale,sample_2647,kisses on the way back to the hotel .,irsses on the way bacl to the tratel !,9.512499673292041e-05,0.014177041011862457,0.1891891891891892,0.4444444444444444
+grayscale,sample_2649,and Simone go through the doorway that led,and simane go through the dorrmay that ted,6.741698598489165e-05,0.01515250001102686,0.11904761904761904,0.375
+grayscale,sample_2652,moment in disgust . She was fully aware that Gavin,moment in oisqust . She was falf aware that lavin,9.495799895375967e-05,0.01701170898741111,0.12,0.3
+grayscale,sample_2655,"weakly , "" you don't know Gavin . "" "" I 've only met him","weakly , "" you don't hnow Gavin . "" "" I 've only nef hin",7.854198338463902e-05,0.013345500017749146,0.07142857142857142,0.2
+grayscale,sample_2657,"heart out over ? "" Doc nodded towards the door . "" You","heart out over ? "" Doe nodded towards the door . "" You",6.429202039726079e-05,0.01356324998778291,0.018518518518518517,0.07692307692307693
+grayscale,sample_2660,"him a great deal better than you do . ""","hin a great deal befer than you do. """,2.6541994884610176e-05,0.01157466700533405,0.10256410256410256,0.4
+grayscale,sample_2664,If he behaves like this now what is your,I he behaves like this now what is your,6.554200081154704e-05,0.018173125019529834,0.025,0.1111111111111111
+grayscale,sample_2667,yourself away on a chap like that . You 're a,yourself away on a chap like that . Yu've a,9.670897270552814e-05,0.018754165997961536,0.06666666666666667,0.18181818181818182
+grayscale,sample_2669,"Doc gave her hand a shake . "" Wake up","Te gave her hand a shake . "" Wake up",7.395900320261717e-05,0.016582250013016164,0.08108108108108109,0.1
+grayscale,sample_2671,glad to be able to occupy herself .,elad to be abl ts occury hesely .,5.991698708385229e-05,0.013299500016728416,0.17142857142857143,0.625
+grayscale,sample_2672,dining together . She opened her bag,slining hogelkes . She spened her bay,6.374999065883458e-05,0.013019000005442649,0.2222222222222222,0.5714285714285714
+grayscale,sample_2681,""" So glad that you are having such a lovely time , dearie , """,""" So gfad 1hat you ane having such a fovely time , dearie """,8.38330015540123e-05,0.014200791978510097,0.09836065573770492,0.3333333333333333
+grayscale,sample_2685,broken arm .,bngken anm .,0.00010024997754953802,0.005440834007458761,0.25,0.6666666666666666
+grayscale,sample_2686,No other news except that Elaine is engaged,to other news except Eaine is engaged,6.512500112876296e-05,0.014227707986719906,0.16279069767441862,0.375
+grayscale,sample_2689,Gay read the rest of the letter then put,Gay read the rest of the leter put,9.849999332800508e-05,0.011737332999473438,0.15,0.2222222222222222
+grayscale,sample_2693,"and going to marry a foreigner ... ""","and going to marry a foreigmer ... """,6.43339881207794e-05,0.010421250015497208,0.027777777777777776,0.125
+grayscale,sample_2695,"it back in her bag . Elaine was engaged ,","if back in fer bag . CCaine was ' engaged ,",9.225000394508243e-05,0.013673041976289824,0.14634146341463414,0.4
+grayscale,sample_2698,for Gavin at the way he was behaving as she,For gaun at the way he was Behaving ashe,7.24170240573585e-05,0.018349541001953185,0.16279069767441862,0.5
+grayscale,sample_2703,"Gay's distress and in a way that Doc , as a man , could not","Gajs distres and ina wat that Doc jas a ren , Could nol",8.550001075491309e-05,0.026141083013499156,0.1864406779661017,0.6666666666666666
+grayscale,sample_2704,"she felt happier . Gay loved them for their warm sympathy ,","Poit happie . Bay baved them for their war sxmpaty ,",0.00010125001426786184,0.024297541996929795,0.23728813559322035,0.5833333333333334
+grayscale,sample_2710,"be a doctor , and I already know","be a doctor , and I alreayylrow",6.112499977461994e-05,0.01718808399164118,0.125,0.25
+grayscale,sample_2719,"that lark , I can tell you ! ""","tar lark , I can teu uu ! """,6.795799708925188e-05,0.009777667000889778,0.2,0.3333333333333333
+grayscale,sample_2724,Little Phelpham .,little Prelphan .,2.4999986635521054e-05,0.004912458010949194,0.17647058823529413,0.6666666666666666
+grayscale,sample_2727,"which ' lark ' she would have to stop , only that significant tiny","wch s bk . she waned lovs o rep , anly har qpiprant tiny",2.791700535453856e-05,0.009711082995636389,0.4090909090909091,0.7857142857142857
+grayscale,sample_2730,seen in Farlingham on an occasion he had sworn he had,rem in Ferlngham on an onasion he had suwn he had,8.241599425673485e-05,0.012577916000736877,0.18867924528301888,0.36363636363636365
+grayscale,sample_2732,when she was not free ; this much they had,when she was not free ; this much they had,0.0001238750119227916,0.015176667016930878,0.0,0.0
+grayscale,sample_2733,about their relationship . So when Nigel,aout their relatiouship . Bo when Migel,8.804199751466513e-05,0.01214191599865444,0.1,0.5714285714285714
+grayscale,sample_2739,"found they were off duty together , and","found they were off duty togethes , and",0.00010795801063068211,0.012627499992959201,0.02564102564102564,0.125
+grayscale,sample_2740,"evening surgery she had said ,","evening surgery she had said ,",6.533300620503724e-05,0.010436791984830052,0.0,0.0
+grayscale,sample_2744,"suppose , to meet me for supper somewhere ? "" she had","supeasE , p meT me tor sruppere domewere ? "" sE tha",9.008400957100093e-05,0.030374750000191852,0.3018867924528302,0.6666666666666666
+grayscale,sample_2749,"I 'll give you a ring , O.K. ? "" O.K. , "" she had","fll jve yon aving. 0.k . i "" D.K ."""" she had",6.699998630210757e-05,0.010984916996676475,0.3673469387755102,0.8
+grayscale,sample_2756,"face , Di , but it certainly looked like","face , D. but it certainly loaked hitee",3.691701567731798e-05,0.015246666996972635,0.175,0.4444444444444444
+grayscale,sample_2758,""" No , "" she told Phil Gubbins , a junior",""" M6 , "" she sold Phil Gubilins , a junian",7.537499186582863e-05,0.015943000005790964,0.17073170731707318,0.36363636363636365
+grayscale,sample_2763,Of course such as I couldn't afford,Gf course suck as y rouldn'it affend,8.7958003859967e-05,0.017461249983171,0.2,0.7142857142857143
+grayscale,sample_2764,"houseman , "" it wasn't Nigel you saw ,","housesan , "" it wasn't Migel you sau ,",7.574999472126365e-05,0.01816062501166016,0.07894736842105263,0.3333333333333333
+grayscale,sample_2768,"suddenly in an upsurging of relief , "" that stupid","suddenly in an upsurginng of relley , "" that stupid",0.00014729201211594045,0.01802566699916497,0.06,0.2
+grayscale,sample_2770,""" 5Ye-es ? "" he lowered his eyes and kissed her on the",""" 5 Ge-Es 2 "" he lowered his eyes asnd trissed her on the",6.945800851099193e-05,0.01633958300226368,0.12962962962962962,0.38461538461538464
+grayscale,sample_2773,looked distinguished when he frowned ; boyishly,loobed distingshed when he frowmed ; boyishly,8.54159879963845e-05,0.016111500008264557,0.0851063829787234,0.42857142857142855
+grayscale,sample_2774,""" Gubbins ? Gubbins ? "" he fretted . "" Who 's he ? """,""" Cinbbins ? Gubbins ? "" he fretet . "" Who 's he ? .",8.699999307282269e-05,0.023680374986724928,0.11538461538461539,0.2
+grayscale,sample_2776,"member of the staff , distinguished or not ,","enemnben of the staofh, oitinguistee on waty",0.00012408397742547095,0.028804208006476983,0.3409090909090909,0.7777777777777778
+grayscale,sample_2780,Though Diana knew the name of every,Thongh Biame kaen the nare of ened,7.120799273252487e-05,0.022416916996007785,0.2857142857142857,0.7142857142857143
+grayscale,sample_2782,to have an open quarrel,to bave oin oppu qwarvel any,2.7959002181887627e-05,0.01346045799436979,0.4782608695652174,1.0
+grayscale,sample_2783,"joking , Nigel . "" "" You shouldn't joke","potin, lint "" "" Yon shondnit . jotu",8.50000069476664e-05,0.016117332997964695,0.46153846153846156,0.8888888888888888
+grayscale,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,""" Pnt , want it aeh perotened . 's wy ring. !",8.22919828351587e-05,0.014910583005985245,0.36363636363636365,0.7058823529411765
+grayscale,sample_2787,"any minute , and she knew it .","pinte , and she Vmmr it .",8.458300726488233e-05,0.015273458004230633,0.3333333333333333,0.375
+grayscale,sample_2793,"me up for tea , of course . I just thought . "" "" I 'll see , ""","me up for tea , of course . I just thovghl "" "" Till ser !l",8.079200051724911e-05,0.01680329200462438,0.1774193548387097,0.3684210526315789
+grayscale,sample_2799,"out of his sight . "" Mine , "" Nigel Lester had","out of his sight . "" Mine , "" Nigel lestor hod",7.095799082890153e-05,0.01376012500259094,0.06521739130434782,0.16666666666666666
+grayscale,sample_2800,"decided with a sigh of satisfaction , and",decidedwith a sigh of sofisfactiomrarnd,6.533399573527277e-05,0.015264290996128693,0.1951219512195122,0.625
+grayscale,sample_2803,with some bitterness .,"with, some bitterness .",6.366599700413644e-05,0.012429208989487961,0.045454545454545456,0.25
+grayscale,sample_2811,Sentence Database P03-189,ientence catahaae P63-15s,0.00013883400242775679,0.019597375008743256,0.28,1.0
+grayscale,sample_2817,you are satisfied . ',yo are satisfied .,2.3708009393885732e-05,0.006370749993948266,0.14285714285714285,0.4
+grayscale,sample_2819,him to my care . ' ' Nicholas - ',"hin to my care . . ' Wicbdas - ,",2.608299837447703e-05,0.009985959011828527,0.21212121212121213,0.4
+grayscale,sample_2823,"mantle , and said with such","mantle , and said witn suchk",6.666601984761655e-05,0.017517375003080815,0.07407407407407407,0.3333333333333333
+grayscale,sample_2829,"Even in that , his hands were","Euen in that , histands were",7.108401041477919e-05,0.013614957977551967,0.10344827586206896,0.42857142857142855
+grayscale,sample_2830,of Philip lying in the other,of Prillp eying in the ofher,5.633299588225782e-05,0.01027050000266172,0.14285714285714285,0.5
+grayscale,sample_2835,"# scribble on it . Then ,","#eeet seribble an it . Then ,",0.0002823329996317625,0.01607704200432636,0.24,0.42857142857142855
+grayscale,sample_2836,' I will leave you the necessary pre-,I I will leave yonthenecessay pre-,6.554101128131151e-05,0.01188566698692739,0.13513513513513514,0.5
+grayscale,sample_2838,he tore off the leaflet and,be tone ofy the leaflet and,2.837498323060572e-05,0.011632458015810698,0.1111111111111111,0.5
+grayscale,sample_2839,"with a gesture she knew so well ,","with a gestue she ken so wull ,",2.8375012334436178e-05,0.01092025000252761,0.12121212121212122,0.375
+grayscale,sample_2840,scription for the sedatives . You,GEriptrg for the sedatedes teyon,6.308400770649314e-05,0.008713082992471755,0.3333333333333333,0.6666666666666666
+grayscale,sample_2841,when you reach your parents',wheneyyor rieach your parents I,6.0708989622071385e-05,0.010790583008201793,0.21428571428571427,1.0
+grayscale,sample_2848,with a deadly finality . Watching,wvith a deadly finality . Natcking,6.245900294743478e-05,0.012085207999916747,0.09090909090909091,0.3333333333333333
+grayscale,sample_2850,If only he would have con-,of only he would have con-,7.62919953558594e-05,0.012300542002776638,0.038461538461538464,0.16666666666666666
+grayscale,sample_2853,a hand and grasped hers .,"a hand andgrasped , hess .",5.2040995797142386e-05,0.010790958011057228,0.16,0.5
+grayscale,sample_2857,He needed her . She would find,Hfeneecal hes te iould fid,7.04169797245413e-05,0.012067125004250556,0.4,1.0
+grayscale,sample_2858,Love . She revolted against,dove . She revolted aganrt ,2.8582988306879997e-05,0.0095641250081826,0.1111111111111111,0.4
+grayscale,sample_2862,know that well enough . ',bnow that well- enoughs ',2.9290997190400958e-05,0.009941540978616104,0.16,0.6666666666666666
+grayscale,sample_2868,I knew he was responsible for,TLmens hes was reponsatlefor,6.383299478329718e-05,0.01315633300691843,0.3793103448275862,0.8333333333333334
+grayscale,sample_2873,Beryl's death . ',Beruye's death',6.679201032966375e-05,0.006294458988122642,0.29411764705882354,1.0
+grayscale,sample_2876,disbelieve the facts . ' Elation,dis believe thefacts. Elation,9.104199125431478e-05,0.013177875021938235,0.15625,0.8333333333333334
+grayscale,sample_2878,Her eyes darkened in torment . ' Are,Hereyes darkened in torment . Are,6.504199700430036e-05,0.01152095801080577,0.08333333333333333,0.375
+grayscale,sample_2883,"her word . There was enough evidence ,","terward . There was enggh eridnce ,",6.579200271517038e-05,0.013517707993742079,0.18421052631578946,0.5
+grayscale,sample_2886,"will be truthful , but what he leaves out",will be trutuefuly but what he leavesout,6.854100502096117e-05,0.014028208999661729,0.12195121951219512,0.4444444444444444
+grayscale,sample_2888,Sandra too deeply to ruin her,Sanalra toowor deeply to ruin her,7.770900265313685e-05,0.01445754201267846,0.1724137931034483,0.3333333333333333
+grayscale,sample_2891,he 'll confine himself to the nervous,he ll contine humsely to the hervons,6.533297710120678e-05,0.01140658400254324,0.16216216216216217,0.5714285714285714
+grayscale,sample_2893,Philip's spirits soared .,Philip's ppiritsoared . I d .,2.720800694078207e-05,0.011145291005959734,0.36,1.0
+grayscale,sample_2894,What his story will be . I reckon,Nhat his story will be . Erechon,6.841699359938502e-05,0.012314459017943591,0.12121212121212122,0.375
+grayscale,sample_2899,miraculous recovery and Sandra would,mrraculous recovey and lndra would,9.666697587817907e-05,0.013206042000092566,0.1111111111111111,0.6
+grayscale,sample_2900,' You can't forgive him for this -,G G ou cant forgive kinfor this-,8.312499267049134e-05,0.010552709019975737,0.23529411764705882,1.0
+grayscale,sample_2901,"patronizing word , ' she replied . ' I despise","patromiaing word "" shereplied . Edupite",8.324999362230301e-05,0.012085624999599531,0.2826086956521739,0.8
+grayscale,sample_2906,purpose than the throwing of dust in his,puerpose ljan fe Aroeimng of clesst in js,7.695899694226682e-05,0.013653665984747931,0.375,0.75
+grayscale,sample_2908,"His digressions too , seemed to have no other","fis degressions foo , secmrd to savr no olier",0.00011699998867698014,0.013175750005757436,0.2,0.6666666666666666
+grayscale,sample_2910,"just dusty-grey but muddy , slimy even .","Sesf duisliy-gres but mceddy , Elauy lvan .",6.525000208057463e-05,0.014812084002187476,0.35,0.625

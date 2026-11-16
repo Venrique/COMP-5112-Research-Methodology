@@ -1,0 +1,1143 @@
+{
+  "signature": "ee92d5653dedda918df22d2f1eae8030e8a2515755396fb144c5619c6f231b47",
+  "model": {
+    "architecture": "CNN-BiLSTM-CTC",
+    "num_classes": 80,
+    "input_height": 64,
+    "cnn_channels": [
+      32,
+      64,
+      128
+    ],
+    "hidden_size": 128,
+    "lstm_layers": 2,
+    "dropout": 0.1,
+    "width_downsampling": 4,
+    "height_reduction": "mean after CNN",
+    "cnn_padding_policy": "crop to each actual width before CNN",
+    "lstm_padding_policy": "packed sequences",
+    "output": "time,batch,class log probabilities",
+    "vocabulary": {
+      "characters": [
+        " ",
+        "!",
+        "\"",
+        "#",
+        "&",
+        "'",
+        "(",
+        ")",
+        "*",
+        "+",
+        ",",
+        "-",
+        ".",
+        "/",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        ":",
+        ";",
+        "?",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+      ],
+      "blank_id": 0,
+      "normalization": "collapse whitespace; retain case and punctuation",
+      "source_split": "train"
+    },
+    "mandatory_input": {
+      "height": 64,
+      "mode": "L",
+      "preserve_aspect_ratio": true,
+      "resampling": "LANCZOS",
+      "pixel_range": [
+        0,
+        1
+      ],
+      "alpha_background": "white",
+      "padding": "right, white (1.0)",
+      "optional_preprocessing": "none"
+    },
+    "device": "cpu",
+    "decoding": "greedy CTC",
+    "checkpoint": "/Users/vmendoza/Documents/Lakehead/RM/COMP-5112-Research-Methodology/results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt",
+    "checkpoint_sha256": "94948bc77ede0780766df02c68f514e23163ec719eed9917851b9478a7729f0b",
+    "checkpoint_epoch": 14,
+    "weights_status": "trained"
+  },
+  "pipeline": {
+    "steps": [
+      {
+        "name": "deskew",
+        "enabled": true,
+        "max_angle": 5,
+        "angle_step": 0.5,
+        "estimator": "otsu_projection_difference",
+        "resampling": "bicubic",
+        "expand": true,
+        "fill": "white"
+      }
+    ]
+  },
+  "samples": [
+    {
+      "id": "sample_6",
+      "text": "wartime naval officer in the B B C's",
+      "mode": "L",
+      "size": [
+        1347,
+        128
+      ],
+      "pixels": "4a2acc8a45aa77b86fa9666676d728cf8f4c98d90d1ab60a7e2f722c1ea718e3"
+    },
+    {
+      "id": "sample_25",
+      "text": "at his most nauseating ) turns the palazzo into a luxury",
+      "mode": "L",
+      "size": [
+        1539,
+        128
+      ],
+      "pixels": "4b0e4ba24938834264ae908f3dc08d31e553c536e8aa248f07f5e14fdcc9c96d"
+    },
+    {
+      "id": "sample_27",
+      "text": "Most of those who expound a theory of textual",
+      "mode": "L",
+      "size": [
+        2116,
+        128
+      ],
+      "pixels": "4432bf43c89ff8b1e91aa3b488a89d1ee500aef21d7bdc37c4373ceba05b143c"
+    },
+    {
+      "id": "sample_30",
+      "text": "argument against them .",
+      "mode": "L",
+      "size": [
+        1221,
+        128
+      ],
+      "pixels": "e0aa03af1944e39648d5e2ddcb7476a4462e0692e80e933202cb53fc75f6853c"
+    },
+    {
+      "id": "sample_32",
+      "text": "dislocation take it for granted that the Gospel was",
+      "mode": "L",
+      "size": [
+        2467,
+        128
+      ],
+      "pixels": "8b4a0f46e31890600d12cd0e34f1b7d7431bce97eaec75d6f0fa5ad70c62e465"
+    },
+    {
+      "id": "sample_44",
+      "text": "have been used , and ( as shown in Table 1 )",
+      "mode": "L",
+      "size": [
+        1952,
+        128
+      ],
+      "pixels": "0055c29b259ff36e85b421b2d6e76d26314cfc98a3203b66a284fdc6d2b2897b"
+    },
+    {
+      "id": "sample_46",
+      "text": "Souter and the other texts is rather",
+      "mode": "L",
+      "size": [
+        2537,
+        128
+      ],
+      "pixels": "3eb8d65cc3619052d58776d27b9138fc47d0228a349f402fdf6c567a50af8ac6"
+    },
+    {
+      "id": "sample_71",
+      "text": "According to the legend , Solomon had asked the",
+      "mode": "L",
+      "size": [
+        1881,
+        128
+      ],
+      "pixels": "9f7f1ca247d634a51174b4273c51e3c3a5b57928e8986a08b3187df62c084128"
+    },
+    {
+      "id": "sample_80",
+      "text": "means the Kingdom of Messianic Righteousness",
+      "mode": "L",
+      "size": [
+        1592,
+        128
+      ],
+      "pixels": "1b63bc0feed459eb5b4095feef7fad502fe53865c6deb775501fef3535fb9157"
+    },
+    {
+      "id": "sample_81",
+      "text": "the Lord swear unto your father to give them ,",
+      "mode": "L",
+      "size": [
+        1356,
+        128
+      ],
+      "pixels": "6d6401dfbc4bca752e3146f32a34999f8246bd815f69ce6019fc40f495b51ed0"
+    },
+    {
+      "id": "sample_89",
+      "text": "the \" tsitsits \" . This lesson used to be read",
+      "mode": "L",
+      "size": [
+        1878,
+        128
+      ],
+      "pixels": "4d2523932181a1dd65c6e44fc366b9c32915641ffc38d948b43f1a67aa103a75"
+    },
+    {
+      "id": "sample_94",
+      "text": "Rabbi Eleasar ben Assarja said , \" I am",
+      "mode": "L",
+      "size": [
+        1404,
+        128
+      ],
+      "pixels": "234337af84594a14058910fde0d4d1d741e2071acce4b019f50ccd96a3454927"
+    },
+    {
+      "id": "sample_95",
+      "text": "Egypt \" . It starts with the story of the fringes",
+      "mode": "L",
+      "size": [
+        1388,
+        128
+      ],
+      "pixels": "0ff1cc19576f333c0cfc3d63b6380a845ce0983014a1567f83e175c20b81c436"
+    },
+    {
+      "id": "sample_99",
+      "text": "Ben Zoma said : \" The days of 1thy life",
+      "mode": "L",
+      "size": [
+        1712,
+        128
+      ],
+      "pixels": "e23346b37f37d61ce5939d824b1af2dda9099ac8e1d6056cff176d7f60e991e2"
+    },
+    {
+      "id": "sample_103",
+      "text": "Deliverance : Passover and its connection",
+      "mode": "L",
+      "size": [
+        2434,
+        128
+      ],
+      "pixels": "d19d571c5e8d4f858bce20db61d7ab33bddabc69c75b1e66610f1e53b07ca631"
+    },
+    {
+      "id": "sample_104",
+      "text": "( Berochoth . ) And the Rabbis thought",
+      "mode": "L",
+      "size": [
+        1504,
+        128
+      ],
+      "pixels": "814d334e70c7c527783d9bf904174a1fb799651fe2ea08b02e32f5267eb38341"
+    },
+    {
+      "id": "sample_114",
+      "text": "really interrogations to examine into the principles of the four re-",
+      "mode": "L",
+      "size": [
+        3119,
+        128
+      ],
+      "pixels": "89fc742b81384077f4bfbc4ff6b8ff12df7bed81ab91fdf59f34178eff90ca62"
+    },
+    {
+      "id": "sample_127",
+      "text": "already suggested , not to be silly or",
+      "mode": "L",
+      "size": [
+        2575,
+        128
+      ],
+      "pixels": "53d136e3f4a08fdb61486d7ed18b638777229e18f0365ad10e00ad082ffa4735"
+    },
+    {
+      "id": "sample_142",
+      "text": "Nor is she necessarily being deceitful . She really did feel tired",
+      "mode": "L",
+      "size": [
+        1753,
+        128
+      ],
+      "pixels": "934a0ed3ef80b0852bb937d4a62c6d6903b299590a9714610ab1eeb95c271059"
+    },
+    {
+      "id": "sample_159",
+      "text": "exactly what , on any given day of the",
+      "mode": "L",
+      "size": [
+        2660,
+        128
+      ],
+      "pixels": "f965da56093b5a968bb9af51e7473f88f4e2a5ab5f6d16069578bb524b7dfd8d"
+    },
+    {
+      "id": "sample_163",
+      "text": "There may be some who will argue that",
+      "mode": "L",
+      "size": [
+        2375,
+        128
+      ],
+      "pixels": "81349bff25f782fbf7b741bd48962692c88efcdb11975e155d892e5b38c38d1b"
+    },
+    {
+      "id": "sample_166",
+      "text": "that he was a great man for lace - paying",
+      "mode": "L",
+      "size": [
+        1592,
+        128
+      ],
+      "pixels": "5f0330521ac2b50b93fed82616fdd69b4ebed4b0f31df1c056d58f3d71f0e29b"
+    },
+    {
+      "id": "sample_196",
+      "text": "sometimes ; and the high swimming ,",
+      "mode": "L",
+      "size": [
+        2277,
+        128
+      ],
+      "pixels": "f2c9e6585e3dd31ccf935d0603bc9c93f47ce8cb2a16f69edacc68f33cce7006"
+    },
+    {
+      "id": "sample_203",
+      "text": "few yards of netting . These and other",
+      "mode": "L",
+      "size": [
+        2469,
+        128
+      ],
+      "pixels": "8ce79d37e67b71993d06de9d4d7b96d167fc01aa8e66c0d3292bafe94f950f81"
+    },
+    {
+      "id": "sample_214",
+      "text": "of her sisters . A young man from Reading named Marshall",
+      "mode": "L",
+      "size": [
+        2292,
+        128
+      ],
+      "pixels": "ade1f3e6fe19acd0daeca8739e7f967d10f7baffef99a9337ecbedcaf156fecf"
+    },
+    {
+      "id": "sample_220",
+      "text": "his military bearing ) , and this was accepted .",
+      "mode": "L",
+      "size": [
+        1639,
+        128
+      ],
+      "pixels": "7b03a9155c1b0031910b1e16cc78da164210bf9191e5e11b5aebd7c01326b3d9"
+    },
+    {
+      "id": "sample_223",
+      "text": "dford for a false moustache , it left him with something to",
+      "mode": "L",
+      "size": [
+        2640,
+        128
+      ],
+      "pixels": "712b8a76bd0f9f4c47ee10e331089ee481b4edbf13efdbac13ac318d57885d88"
+    },
+    {
+      "id": "sample_225",
+      "text": "This man was known to have left his home on February 11 , and",
+      "mode": "L",
+      "size": [
+        1940,
+        128
+      ],
+      "pixels": "1d4491b0b0d77af7040640ce064029c1e1a6eddcb82c72598b830d8e9e5cb778"
+    },
+    {
+      "id": "sample_228",
+      "text": "A passenger at Victoria said he had seen",
+      "mode": "L",
+      "size": [
+        1776,
+        128
+      ],
+      "pixels": "ca3d5f16f5a34bd5fad50fd4670fbbb41a64385eedc064f842c05573fc81d0a3"
+    },
+    {
+      "id": "sample_233",
+      "text": "like the photograph shown him , with",
+      "mode": "L",
+      "size": [
+        1642,
+        128
+      ],
+      "pixels": "8f576330f993cb237b368ecd5b325928a3e0291980f1eb11809058c8dab4ef65"
+    },
+    {
+      "id": "sample_238",
+      "text": "A guard reported that at East Croydon",
+      "mode": "L",
+      "size": [
+        1779,
+        128
+      ],
+      "pixels": "10379deb0811d45caf4795216516536934a72f87673b5f208f5cdb87047a7e76"
+    },
+    {
+      "id": "sample_250",
+      "text": "hour before her body was discovered ,",
+      "mode": "L",
+      "size": [
+        1860,
+        128
+      ],
+      "pixels": "511d9cd379da0d8158ad88bbfd869455de11b0d1296b9c4ba48592d7be1b29ee"
+    },
+    {
+      "id": "sample_270",
+      "text": "and intellect . A remarkable peculiarity in",
+      "mode": "L",
+      "size": [
+        2426,
+        128
+      ],
+      "pixels": "d0256c968b16e598237746a7d40655e76b9100289b132d314a1e6ccdcb72d830"
+    },
+    {
+      "id": "sample_273",
+      "text": "By delicate application of odours and richly-",
+      "mode": "L",
+      "size": [
+        1955,
+        128
+      ],
+      "pixels": "ba0930b0aa7923b360365a659ff0a5745686f8cc368c62c2da046b2c0b00df0a"
+    },
+    {
+      "id": "sample_281",
+      "text": "They considered flowers as forming a very",
+      "mode": "L",
+      "size": [
+        1966,
+        128
+      ],
+      "pixels": "8b83bb3101eb8204cd47632e901703376adc25b1f060ca7bd4d18a02f97cf79e"
+    },
+    {
+      "id": "sample_284",
+      "text": "recreations of Heliogabalus was to",
+      "mode": "L",
+      "size": [
+        1915,
+        128
+      ],
+      "pixels": "1c2340f6cabc62a21b47ba76d01522e7601f10efd6484bdcd05046b28aa6eed9"
+    },
+    {
+      "id": "sample_296",
+      "text": "expresses it , in clarifying the functions",
+      "mode": "L",
+      "size": [
+        2060,
+        128
+      ],
+      "pixels": "b258a7ad082a9a3e017cb59f5c19dedb220200b5a99c129a7303f63af34abd8c"
+    },
+    {
+      "id": "sample_300",
+      "text": "encounters a certain measure of novelty .",
+      "mode": "L",
+      "size": [
+        2106,
+        128
+      ],
+      "pixels": "94437856970bbb9deaa89481a208238d26d0b45cb6b0a12448f8c90496e245f9"
+    },
+    {
+      "id": "sample_344",
+      "text": "in the Labour movement a more militant attitude",
+      "mode": "L",
+      "size": [
+        2151,
+        128
+      ],
+      "pixels": "89bd39e143f7c5bad12af3b63e5f2e50add32beb929cec9e94eeae30e8793370"
+    },
+    {
+      "id": "sample_348",
+      "text": "Vicar of St. Mark's , Woodcote , Purley , a new church built",
+      "mode": "L",
+      "size": [
+        1981,
+        128
+      ],
+      "pixels": "969eb33b038851a07482ea820a6fa4d24716274c0c9ccb2f7e4ad438b3d63c6e"
+    },
+    {
+      "id": "sample_352",
+      "text": "later on joint executor of his estate with his",
+      "mode": "L",
+      "size": [
+        1568,
+        128
+      ],
+      "pixels": "564de51b1572fad336143b804934fa4599f2f5ee89b11ae482630fb2dd47b790"
+    },
+    {
+      "id": "sample_363",
+      "text": "service . I soon saw that the parish needed",
+      "mode": "L",
+      "size": [
+        2364,
+        128
+      ],
+      "pixels": "a523d4fbce5511114cf1f7b6289224f3cedafeb0aaec040134efebb8377a1437"
+    },
+    {
+      "id": "sample_367",
+      "text": "district .",
+      "mode": "L",
+      "size": [
+        467,
+        128
+      ],
+      "pixels": "5f05d5d44a88dbd0cf3af99478fa08f33177c4a3804b9b3d3356671f3f7b91c5"
+    },
+    {
+      "id": "sample_370",
+      "text": "there , but was soon changed into the better-",
+      "mode": "L",
+      "size": [
+        1713,
+        128
+      ],
+      "pixels": "6a3aeca6c438d45bcfad4ac400825707546cd8ac86082c14a9d54a157afdba8a"
+    },
+    {
+      "id": "sample_373",
+      "text": "the people of the parish .",
+      "mode": "L",
+      "size": [
+        1349,
+        128
+      ],
+      "pixels": "2f07f9a80fb972051bc7e672399bd934b59b122374440d1098eb171e0757ad89"
+    },
+    {
+      "id": "sample_379",
+      "text": "that one of us must volunteer . The Bishop , Dr. Burge , did",
+      "mode": "L",
+      "size": [
+        2336,
+        128
+      ],
+      "pixels": "a4bd711de97015fe9262a0eb2f819ee15e18471518e9e7e4425e5501f5e1ed67"
+    },
+    {
+      "id": "sample_387",
+      "text": "for a year . Mr. Evitt , however , was much less committed",
+      "mode": "L",
+      "size": [
+        2300,
+        128
+      ],
+      "pixels": "b8bd03f624b500ed6c64522e665fea313bb3581401b5f99e91f7c5a1b660810b"
+    },
+    {
+      "id": "sample_389",
+      "text": "the date of birth of each child , as had been done",
+      "mode": "L",
+      "size": [
+        2592,
+        128
+      ],
+      "pixels": "d1f4bf1482417771d67776e24bab129bb6c2660f1779570f493772bb141f6213"
+    },
+    {
+      "id": "sample_429",
+      "text": "craterlet on Face ( ours is an agricultural",
+      "mode": "L",
+      "size": [
+        1829,
+        128
+      ],
+      "pixels": "80e71dc0de341cd92d38ac2da8c25b8247936af15c52af4fddbb3e52f24de3e1"
+    },
+    {
+      "id": "sample_432",
+      "text": "sentences of his speech : ' Cut the",
+      "mode": "L",
+      "size": [
+        1621,
+        128
+      ],
+      "pixels": "341c76c677d02f50ca3ade99e0755516d39220d0f5495cc89703499bb31183c4"
+    },
+    {
+      "id": "sample_459",
+      "text": "turn . By comparing personal appearances",
+      "mode": "L",
+      "size": [
+        1574,
+        128
+      ],
+      "pixels": "a21aae4c0cfc18b708d4fc1f4b1907fe9852bdad735a4f85b67ecfa169c4e3d1"
+    },
+    {
+      "id": "sample_464",
+      "text": "businesses would pick on young men",
+      "mode": "L",
+      "size": [
+        1374,
+        128
+      ],
+      "pixels": "fccd9feb710bef821783072465a1fdf84696c21b3cfcd155fe70c35b7ddf5a6e"
+    },
+    {
+      "id": "sample_470",
+      "text": "were really means . So , seeing them revolve in",
+      "mode": "L",
+      "size": [
+        1681,
+        128
+      ],
+      "pixels": "22d5e82cc3b27f6542fde0725f4a8d68db8a873c61d4387fb1cd459256159688"
+    },
+    {
+      "id": "sample_517",
+      "text": "is established . Ifor Huw Evans , Propr. ,",
+      "mode": "L",
+      "size": [
+        1927,
+        128
+      ],
+      "pixels": "bbfc3df73ddcb9d6bdbe80ad178541d6bd2c0d83ff807236695f9719e104f672"
+    },
+    {
+      "id": "sample_549",
+      "text": "Flying Officer Broughtons shuffled his feet .",
+      "mode": "L",
+      "size": [
+        1568,
+        128
+      ],
+      "pixels": "fde716b678324db1a8e678d56e6da8faf150b292226696fe69c5ecc15af52816"
+    },
+    {
+      "id": "sample_558",
+      "text": "sir . It said Llangrwl . \" Llewelyn Jones sat",
+      "mode": "L",
+      "size": [
+        2027,
+        128
+      ],
+      "pixels": "703533855769c2cad837543559b9484225ed76bea83d7a98d7a78818b5c076cb"
+    },
+    {
+      "id": "sample_565",
+      "text": "there were anything in Queen's Regulations to cover this ,",
+      "mode": "L",
+      "size": [
+        2031,
+        128
+      ],
+      "pixels": "dd752d1fc453038a74f5d8448612e8220d8eff07ebe12ec543ffe13e8d398599"
+    },
+    {
+      "id": "sample_574",
+      "text": "Time passed . The bus climbed , and went quietly",
+      "mode": "L",
+      "size": [
+        2628,
+        128
+      ],
+      "pixels": "9f2b3e3c67bf899885051f3ca20758f8c495fbce93c6b088ce9401fe66788b97"
+    },
+    {
+      "id": "sample_591",
+      "text": "But losing a bus ! People were always losing",
+      "mode": "L",
+      "size": [
+        2471,
+        128
+      ],
+      "pixels": "32a91550eaca7cdb02068f54fdc154922d0ac2078cce08acbdd6867ee2b563a0"
+    },
+    {
+      "id": "sample_603",
+      "text": "flag on a palm tree . And he tries to ensure",
+      "mode": "L",
+      "size": [
+        2871,
+        128
+      ],
+      "pixels": "8b768bfa21fa39458068b1ac92f2ab2b49b7a71e1fad9e564b88a8a9abf98b34"
+    },
+    {
+      "id": "sample_604",
+      "text": "\" Can't go lighting bonfires on this bus , \"",
+      "mode": "L",
+      "size": [
+        2017,
+        128
+      ],
+      "pixels": "66bb9e6b8b57a746f200a5077207cb0c750c7cfb64e07a391b55fa70fbc249be"
+    },
+    {
+      "id": "sample_616",
+      "text": "Though your wings and your scars are new ,",
+      "mode": "L",
+      "size": [
+        2308,
+        128
+      ],
+      "pixels": "513fc8f24ed6013d09003de05f93aab2e979e99afc9b085faa610fbf6b60cd78"
+    },
+    {
+      "id": "sample_618",
+      "text": "not join you . ' The Captives grunted in boredom .",
+      "mode": "L",
+      "size": [
+        2646,
+        128
+      ],
+      "pixels": "36c9c4357659c7d112ca9c1cffda362c81ad6051dd4e258ac94ea7c2348c40f8"
+    },
+    {
+      "id": "sample_633",
+      "text": "going to live with friends of the bank manager , just",
+      "mode": "L",
+      "size": [
+        1959,
+        128
+      ],
+      "pixels": "c50c37956c284cf36b1686e7545439f8d6abf18322af313b7a393825ce28218f"
+    },
+    {
+      "id": "sample_643",
+      "text": "last impertinent remark . \" With four other people - \"",
+      "mode": "L",
+      "size": [
+        2599,
+        128
+      ],
+      "pixels": "5b8a2a2878905d29268af8606f6ce96a1f3f6a99408efcc0d5edbd0fd2ea70ea"
+    },
+    {
+      "id": "sample_650",
+      "text": "She wavered , and at last said",
+      "mode": "L",
+      "size": [
+        2200,
+        128
+      ],
+      "pixels": "a8b410270326f9ff3488bac0fc285e27e61600a6f5a1ba48f90c806e9abae75a"
+    },
+    {
+      "id": "sample_654",
+      "text": "out and sucked in his baggy black",
+      "mode": "L",
+      "size": [
+        1501,
+        128
+      ],
+      "pixels": "dee5ffa2a4d016081eaa8840dd8563ff0378b52ce9d5c097a3f9109b2996f7eb"
+    },
+    {
+      "id": "sample_665",
+      "text": "she blow some more . \" \" Hello , Willie , where",
+      "mode": "L",
+      "size": [
+        1389,
+        128
+      ],
+      "pixels": "d88441c9ff9dcfa6ad5a5a99caa8080e72261ee05d086f8b3efb9da92e7e026c"
+    },
+    {
+      "id": "sample_677",
+      "text": "when there came a sudden gust of wind",
+      "mode": "L",
+      "size": [
+        2313,
+        128
+      ],
+      "pixels": "ab1bffd6cd85d33b3c1025f4c794e780495af29f9bcac1a9e127a09d1a8a9f51"
+    },
+    {
+      "id": "sample_686",
+      "text": "If I 'd known what it would be like I 'd sooner",
+      "mode": "L",
+      "size": [
+        1960,
+        128
+      ],
+      "pixels": "a1ab9ad6c870f40922af0a1ec952a6c04ebd7c8f991296088dff7794b798a2c9"
+    },
+    {
+      "id": "sample_692",
+      "text": "mistresses . Anyway it might be much worse .",
+      "mode": "L",
+      "size": [
+        1779,
+        128
+      ],
+      "pixels": "65c072cc9a52f090a87ac1878a7d611b33653790aa3afa33fc4f5ccc5cee2701"
+    },
+    {
+      "id": "sample_714",
+      "text": "an officer should join a ship , on taking up a",
+      "mode": "L",
+      "size": [
+        1632,
+        128
+      ],
+      "pixels": "e426a2f4b0e096986c3df07b3162c4ec55ede0e0a384a9eab78f8a9f86d97200"
+    },
+    {
+      "id": "sample_718",
+      "text": "It would have been acceptable to all concerned",
+      "mode": "L",
+      "size": [
+        1937,
+        128
+      ],
+      "pixels": "4295eb9cf6e30bbf6a832b8ed052dcc368bd1a238eb212310c4cc53096e4399e"
+    },
+    {
+      "id": "sample_721",
+      "text": "\" Better ask Robbie Munyard . \" \" What 's he been",
+      "mode": "L",
+      "size": [
+        1681,
+        128
+      ],
+      "pixels": "29fe1c1afd61185c47dd68148a6015180d209bd6cabd9f734fe819f2dd309d3f"
+    },
+    {
+      "id": "sample_733",
+      "text": "and X-rayed and that it was as sound as a bell ? \"",
+      "mode": "L",
+      "size": [
+        1932,
+        128
+      ],
+      "pixels": "659a6d27efa3f6ed7cf8eea8e88094edae18d4621294c9c260d4666abd0481b9"
+    },
+    {
+      "id": "sample_747",
+      "text": "Dowd , still wearing his blue check shirt . He",
+      "mode": "L",
+      "size": [
+        2561,
+        128
+      ],
+      "pixels": "3bc4c8e74cdf113a3abb8f64421b5472c0158a302d09790109d748bd305de892"
+    },
+    {
+      "id": "sample_754",
+      "text": "come 2a-calling , \" I said . \" Can't see no reason",
+      "mode": "L",
+      "size": [
+        2869,
+        128
+      ],
+      "pixels": "3645212f0fb0c3aa8a61c43537decb717ac4a1e47b8dbb035faeb7a1a4dd76fe"
+    },
+    {
+      "id": "sample_758",
+      "text": "We followed Nick Dowd into the shack .",
+      "mode": "L",
+      "size": [
+        3212,
+        128
+      ],
+      "pixels": "cda7b8ba7347ed3760a9155ffb2a66d1e7eeeb6fc5d97547a757e1d4ec79e04d"
+    },
+    {
+      "id": "sample_759",
+      "text": "Nick Dowd took our horses off to water .",
+      "mode": "L",
+      "size": [
+        3526,
+        128
+      ],
+      "pixels": "65fe96cb890fd7531a40b87fed2e72b268d25fbd7304fd20938dd35ca3739f42"
+    },
+    {
+      "id": "sample_777",
+      "text": "the man called Shorty said , \" You were saying when",
+      "mode": "L",
+      "size": [
+        2896,
+        128
+      ],
+      "pixels": "bfd6d55bea4512921dd5cbead825c9024f585a48140c85f325d6642a2f87d10f"
+    },
+    {
+      "id": "sample_781",
+      "text": "\" They gives you the wind , \" said the Sodbuster",
+      "mode": "L",
+      "size": [
+        1805,
+        128
+      ],
+      "pixels": "0d797a39b99d18a32c5ebaefa83c6404d65e62efe07330824678b910dbfee769"
+    },
+    {
+      "id": "sample_791",
+      "text": "After you 'd left the meeting , mister \" - I",
+      "mode": "L",
+      "size": [
+        2532,
+        128
+      ],
+      "pixels": "2d80e9c2c3a0ffdf280f420466ff756e71acfeb34cc0e8030932f8df207bb1b7"
+    },
+    {
+      "id": "sample_825",
+      "text": "to do that . \" Gavin drained his glass",
+      "mode": "L",
+      "size": [
+        1443,
+        128
+      ],
+      "pixels": "f415f3678fed5c55b9aefc585e89bdb2347fb21cdcbb8c1e3dd1864811d96100"
+    },
+    {
+      "id": "sample_826",
+      "text": "hardly believe that she was the same girl ,",
+      "mode": "L",
+      "size": [
+        1355,
+        128
+      ],
+      "pixels": "7c620a7c67fa58bd9e3feffb8a236451e9465940e8d437cc58bcfc3e78857ea3"
+    },
+    {
+      "id": "sample_828",
+      "text": "Gavin raised his glass to her and smiled",
+      "mode": "L",
+      "size": [
+        1484,
+        128
+      ],
+      "pixels": "ec6dda0ba9fcc9826515455c5a06a2dbf3507f2da0fa92067a13f270709aa588"
+    },
+    {
+      "id": "sample_849",
+      "text": "Now let him go and you won't have to wait",
+      "mode": "L",
+      "size": [
+        2196,
+        128
+      ],
+      "pixels": "8ebca5cbf170170d935eb8c6e4a24e319a1ca7e42f4f0240ea1af4e3151b4f61"
+    },
+    {
+      "id": "sample_854",
+      "text": "normally .",
+      "mode": "L",
+      "size": [
+        306,
+        128
+      ],
+      "pixels": "56e7a72439a290345a7a8e64c7b756a94b290336e9ebc16d304faf5786cb2804"
+    },
+    {
+      "id": "sample_867",
+      "text": "\" If I were a tramp I would simply blow a",
+      "mode": "L",
+      "size": [
+        1890,
+        128
+      ],
+      "pixels": "500f3820ba165326d5d53fe70027ec962bcb8a75e7b794943d21da67ddc2f1a9"
+    },
+    {
+      "id": "sample_875",
+      "text": "I got a good look at her . But if Nigel",
+      "mode": "L",
+      "size": [
+        1792,
+        128
+      ],
+      "pixels": "897a595effe29c6424324b90fd855f80b72b8314395767d14090c774c58e9f7b"
+    },
+    {
+      "id": "sample_882",
+      "text": "meaning no offence , \" but does he ?",
+      "mode": "L",
+      "size": [
+        1401,
+        128
+      ],
+      "pixels": "8aaf40b867bd079b5356103e0e1d2db2067acd8034779ffa2a0ab470a99155af"
+    },
+    {
+      "id": "sample_887",
+      "text": "you took Luke Parson's surgery and there was a woman",
+      "mode": "L",
+      "size": [
+        2137,
+        128
+      ],
+      "pixels": "1d0be7ffbf9c13d620d2573ad6fb036c9097a67a184d5dad5d2c0c2f317696eb"
+    },
+    {
+      "id": "sample_890",
+      "text": "was as though a red mist veiled her usually clear sight and",
+      "mode": "L",
+      "size": [
+        2276,
+        128
+      ],
+      "pixels": "a8cf860e6a6f71d04f022ee6f266ecc86084927822af2284197ceb7d39f48493"
+    },
+    {
+      "id": "sample_913",
+      "text": "I 'm such a dull fellow , really . \" \" Dull ? \" She",
+      "mode": "L",
+      "size": [
+        1784,
+        128
+      ],
+      "pixels": "1bb4c368e07594bcfc83e0043019a84ce81c12988d09b09b44464c9f08010442"
+    },
+    {
+      "id": "sample_923",
+      "text": "body else for a moment there . It doesn't",
+      "mode": "L",
+      "size": [
+        2018,
+        128
+      ],
+      "pixels": "e742f0a39ff0bd1ee543f6781a0cb918ba00fc07cfb7e39636b14c4fa120d295"
+    },
+    {
+      "id": "sample_930",
+      "text": "at this time of year ? I can't ask you up because it 's",
+      "mode": "L",
+      "size": [
+        1739,
+        128
+      ],
+      "pixels": "c764eb44e33e207ee226787843bc4ac06209447f3873c36acd87be4c088b174a"
+    },
+    {
+      "id": "sample_940",
+      "text": "broody and going out with brash blondes . I don't deserve",
+      "mode": "L",
+      "size": [
+        1904,
+        128
+      ],
+      "pixels": "16f3c313d59a6e7e5c8267b8e1c9b88ae3df2f7ca9529ac056c384ba08f55e9e"
+    },
+    {
+      "id": "sample_954",
+      "text": "\" Isn't it ? \" he rose and smoothed himself",
+      "mode": "L",
+      "size": [
+        1828,
+        128
+      ],
+      "pixels": "5a6157426e3920a9a1ae71e286b15b5e904daffdd97c88f3c35de81838351548"
+    },
+    {
+      "id": "sample_959",
+      "text": "it , looking moodily beyond her . \" Perhaps it 's as",
+      "mode": "L",
+      "size": [
+        1476,
+        128
+      ],
+      "pixels": "13db10343c3bc223a51568ca62bee43846a27f72d4df52f697df170f44022665"
+    },
+    {
+      "id": "sample_962",
+      "text": "your ring back . \" She loosened the half-hoop of",
+      "mode": "L",
+      "size": [
+        2048,
+        128
+      ],
+      "pixels": "db694059f5f53abc550d702b2d797d19878335ea78a9da4b1bb77e6c2c33be0d"
+    },
+    {
+      "id": "sample_966",
+      "text": "If it is - \" she laughed uncertainly - \" you can have",
+      "mode": "L",
+      "size": [
+        2049,
+        128
+      ],
+      "pixels": "4ac7eda015c40267645e65a74cb20d4d6a60335cd2131a0c6101a1d2712b293c"
+    }
+  ],
+  "normalization": "collapse whitespace; preserve case/punctuation"
+}

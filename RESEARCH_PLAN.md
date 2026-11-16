@@ -81,7 +81,20 @@ The test split was successfully loaded with 2,915 samples.
 The dataset provides `image` and `text` columns.
 
 ### RIMES — French
-Potential second dataset for language generalization experiments.
+Implemented loader: `src/load_dataset/rimes.py`, using Hugging Face
+`Teklia/RIMES-2011-line` with its original train/validation/test splits.
+Independent notebook: `notebooks/experiments/experiment_a_rimes.ipynb`.
+It defaults to validation and compares baseline with six individual techniques;
+initial parameters are prespecified, not RIMES-selected optima. It does not
+depend on or rerun the IAM/Bentham Experiment A notebook.
+French checkpoint: `dj0w/trocr-french-handwriting-v5`, pinned to
+`6047032cbe5f3c7f17244a4c3dd21d9356f15480`. Its Hub card declares MIT and
+reports RIMES/custom-data fine-tuning, but exact split overlap is unverified.
+The weight upload refers to V3 while the card says V5; keep this uncertainty
+with reported results. Cross-dataset absolute accuracy also reflects changed
+checkpoint/training provenance, not language alone. Dataset SHA, sample indices,
+processor/decoding settings and versions are saved with each run. No RIMES
+recognition experiment has been run as part of this implementation.
 
 ### Other languages
 Consider additional handwritten datasets, including Spanish, if compatible pretrained models and appropriate evaluation data are available.
@@ -117,11 +130,33 @@ Compare:
 
 Identify the individual effect of each technique.
 
-### Experiment B — Combined preprocessing
+### Experiment B — CNN-LSTM-CTC individual preprocessing (IAM only)
 
-Evaluate selected combinations of techniques against the baseline.
+Revised by user request: replicate Experiment A using the frozen CNN epoch 14
+checkpoint on IAM test only. Notebook: `notebooks/experiments/experiment_b.ipynb`.
+Use Experiment A's same 1000 IAM test indices (seed 5112, same pinned revision)
+and six individual treatments. This supersedes the older CNN 250-test-line
+scope for this replication. Select active settings using CNN-specific IAM
+validation grids; no tuning on test. Earlier transferred-TrOCR runs are retained.
+Keep mandatory checkpoint grayscale/resize and greedy CTC decoding fixed.
+Bentham and RIMES are excluded. Save predictions, corpus CER/WER, deltas,
+charts and provenance separately under `results/test/experiment_b/`.
+The original combined-preprocessing experiment is deferred.
 
-Make preprocessing order explicit.
+CNN parameter validation completed in
+`notebooks/validation/cnn_iam_preprocessing.ipynb`, with reusable evaluation
+in `src/validation/cnn.py`. Run:
+`results/validation/cnn_iam/20261116T031934197602Z`. Used frozen epoch 14,
+the existing 100 validation indices and 22 active settings plus one shared
+baseline. Active settings selected by corpus CER then WER; exact ties retain
+grid order. Baseline wins ties in the separate baseline-inclusive comparison.
+Selected: NLM h=1; deskew max=5, step=0.5; CLAHE clip=1, grid=8x8;
+standard grayscale; global min-max intensity; size height=48.
+Only intensity and size improved validation CER; NLM and grayscale tied baseline.
+These are subset grid-search results on the same development lines used for
+checkpoint selection, not independent generalization estimates. Experiment B
+loads the saved selections and verifies the checkpoint hash; no new test
+evaluation was performed during parameter validation.
 
 ### Experiment C — Model comparison
 

@@ -1,0 +1,9 @@
+{
+  "dataset": "rimes",
+  "configuration": "grayscale",
+  "sample_count": 778,
+  "cer": 0.05347502415184406,
+  "wer": 0.1805284624933499,
+  "preprocessing_seconds": 0.029767260915832594,
+  "inference_seconds": 374.70699808900827
+}

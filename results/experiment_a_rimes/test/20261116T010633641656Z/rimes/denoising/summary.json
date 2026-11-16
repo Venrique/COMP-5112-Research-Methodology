@@ -1,0 +1,9 @@
+{
+  "dataset": "rimes",
+  "configuration": "denoising",
+  "sample_count": 778,
+  "cer": 0.05364550775700404,
+  "wer": 0.1805284624933499,
+  "preprocessing_seconds": 46.816290630406,
+  "inference_seconds": 376.9160451249045
+}

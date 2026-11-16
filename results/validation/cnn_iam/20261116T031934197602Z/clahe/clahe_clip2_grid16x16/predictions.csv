@@ -1,0 +1,101 @@
+sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+sample_6,wartime naval officer in the B B C's,wastime naval offieer in the BBC's,0.0002784999960567802,0.011071457993239164,0.1111111111111111,0.625
+sample_25,at his most nauseating ) turns the palazzo into a luxury,at his most nauseating ) tums the palazee into a lnxeury,0.00024079199647530913,0.012954583013197407,0.10714285714285714,0.2727272727272727
+sample_27,Most of those who expound a theory of textual,Past of those whs exponnd a thear of tetual,0.0003100840258412063,0.016040333022829145,0.15555555555555556,0.5555555555555556
+sample_30,argument against them .,argument against them,0.00024374999338760972,0.00950824999017641,0.08695652173913043,0.25
+sample_32,dislocation take it for granted that the Gospel was,dislocationtake itfor granted that the Gospel was,0.00036845801514573395,0.0192082499852404,0.0392156862745098,0.4444444444444444
+sample_44,"have been used , and ( as shown in Table 1 )","cave been used , and ( as shown in Fabtef )",0.00029791699489578605,0.014913833001628518,0.11363636363636363,0.25
+sample_46,Souter and the other texts is rather,souter and the ather fexts is rather,0.0003604580124374479,0.01918470801319927,0.08333333333333333,0.42857142857142855
+sample_71,"According to the legend , Solomon had asked the",feeording to the legend Solomon had esed the,0.00029691599775105715,0.01404999999795109,0.14893617021276595,0.3333333333333333
+sample_80,means the Kingdom of Messianic Righteousness,Weos the fingdom of Messiaric Pighteongvess .,0.0002866660070139915,0.012355708022369072,0.25,0.8333333333333334
+sample_81,"the Lord swear unto your father to give them ,","the hond svear nacto your fatver to give thew ,",0.00023812497965991497,0.010505624988581985,0.17391304347826086,0.5
+sample_89,"the "" tsitsits "" . This lesson used to be read","the 1 aitsits , . This Lesson used to be nead",0.0003902500029653311,0.016377084015402943,0.13043478260869565,0.45454545454545453
+sample_94,"Rabbi Eleasar ben Assarja said , "" I am","Pabbi Efeasar ben Assavja said "" I an",0.0002740840136539191,0.011417959001846611,0.15384615384615385,0.5555555555555556
+sample_95,"Egypt "" . It starts with the story of the fringes","Egypt"" It starts with the story of the fringes",0.0002749999985098839,0.011274374992353842,0.061224489795918366,0.2727272727272727
+sample_99,"Ben Zoma said : "" The days of 1thy life","Ben Bomd sand : "" Thedays of 1thy life",0.000264957983745262,0.013515500002540648,0.10256410256410256,0.4
+sample_103,Deliverance : Passover and its connection,behveronce : Passover and its conneetion,0.0003351250197738409,0.018551417015260085,0.12195121951219512,0.3333333333333333
+sample_104,( Berochoth . ) And the Rabbis thought,( Berochath ) And the Rabhis therght,0.0002655420103110373,0.012129000009736046,0.15789473684210525,0.5
+sample_114,really interrogations to examine into the principles of the four re-,"reallyinterrogarions toekam,ne i no the p rinciples of t he fokr rer",0.00039658299647271633,0.02402741598780267,0.16176470588235295,1.0
+sample_127,"already suggested , not to be silly or","alreaalyf suagested , hot to be silly op",0.0003583329962566495,0.0194271249929443,0.15789473684210525,0.5
+sample_142,Nor is she necessarily being deceitful . She really did feel tired,Nor is she necessarily heing deceitful . She really did fael tired,0.00029341698973439634,0.014452333998633549,0.030303030303030304,0.16666666666666666
+sample_159,"exactly what , on any given day of the","exactly what , on any given aay of the",0.0003776670200750232,0.020050958002684638,0.02631578947368421,0.1111111111111111
+sample_163,There may be some who will argue that,There may be some who will argue that,0.0004751670057885349,0.020976708008674905,0.0,0.0
+sample_166,that he was a great man for lace - paying,that he was a great man for lace- paying,0.0002952920040115714,0.012643374997423962,0.024390243902439025,0.2
+sample_196,"sometimes ; and the high swimming ,","sometimes ; and the high swimming ,",0.0004002080240752548,0.01713295900844969,0.0,0.0
+sample_203,few yards of netting . These and other,few yards of netting . These and other,0.0003620409988798201,0.018435874982969835,0.0,0.0
+sample_214,of her sisters . A young man from Reading named Marshall,of her sisters . A young man from Peading named Mopshall,0.0003319169918540865,0.017456083005527034,0.05357142857142857,0.18181818181818182
+sample_220,"his military bearing ) , and this was accepted .","his military bearing ) , and this was accepfed .",0.0003135829756502062,0.012721375009277835,0.020833333333333332,0.1
+sample_223,"dford for a false moustache , it left him with something to","dford for a false moustache , it bett him with something to",0.00034324999433010817,0.01976300001842901,0.03389830508474576,0.08333333333333333
+sample_225,"This man was known to have left his home on February 11 , and","This man was known to have left his home on february 1 , and",0.00033762500970624387,0.014979666011640802,0.03278688524590164,0.14285714285714285
+sample_228,A passenger at Victoria said he had seen,A passenger at Victoria said he had seen,0.00026862500817514956,0.014068083983147517,0.0,0.0
+sample_233,"like the photograph shown him , with","like the photograph shown hi , with",0.000280875014141202,0.012769666005624458,0.027777777777777776,0.14285714285714285
+sample_238,A guard reported that at East Croydon,a guard reperted that at East Craydon,0.0003955000138375908,0.016376915998989716,0.08108108108108109,0.42857142857142855
+sample_250,"hour before her body was discovered ,","hour before her body was discovered ,",0.00029504101257771254,0.014386583003215492,0.0,0.0
+sample_270,and intellect . A remarkable peculiarity in,get-inntelectii remasheke peeeieeisiag,0.00034133298322558403,0.018333750020246953,0.5813953488372093,1.0
+sample_273,By delicate application of odours and richly-,Byelicate application of odouss and pieys,0.00030574999982491136,0.015236834005918354,0.17777777777777778,0.5714285714285714
+sample_281,They considered flowers as forming a very,Feey censideredfsweasenaingaggge ,0.0003124580252915621,0.016083541995612904,0.4878048780487805,1.0
+sample_284,recreations of Heliogabalus was to,recreatione of Hreliogabalus was #to,0.0003269159933552146,0.014830333006102592,0.08823529411764706,0.6
+sample_296,"expresses it , in clarifying the functions",Bxpreesseitr ina cfariyine Hfe tunstigiag,0.0003055419947486371,0.015529790980508551,0.42857142857142855,1.0
+sample_300,encounters a certain measure of novelty .,Beeseesasgeeaesngeeseieaigsgey .,0.0003027919738087803,0.017567125003552064,0.7073170731707317,0.8571428571428571
+sample_344,in the Labour movement a more militant attitude,in she labeus wevement a mose millzong affitude,0.00034454200067557395,0.017090291978092864,0.2765957446808511,0.75
+sample_348,"Vicar of St. Mark's , Woodcote , Purley , a new church built","Virar of It . Maskis Woodeote , Purley , a new chuvch fuill",0.0002954999799840152,0.014953625010093674,0.18333333333333332,0.5384615384615384
+sample_352,later on joint executor of his estate with his,later on joint execntor of his estate e with his,0.0002657500153873116,0.015161166986217722,0.06521739130434782,0.2222222222222222
+sample_363,service . I soon saw that the parish needed,sernce I soan saw that the pacish neeoled,0.0003219159843865782,0.01843008300056681,0.18604651162790697,0.5555555555555556
+sample_367,district .,oisteict .,0.00020533401402644813,0.0037100419867783785,0.2,0.5
+sample_370,"there , but was soon changed into the better-","there , bur was soon changed into the better-",0.00026129098841920495,0.013949582993518561,0.022222222222222223,0.1111111111111111
+sample_373,the people of the parish .,the people of the parish .,0.0002543330192565918,0.01125479198526591,0.0,0.0
+sample_379,"that one of us must volunteer . The Bishop , Dr. Burge , did","thot one of us must volunteer . The Bishop . Dr. Burge , did",0.00041187499300576746,0.018073208018904552,0.03333333333333333,0.14285714285714285
+sample_387,"for a year . Mr. Evitt , however , was much less committed","for a year . Mr. Evitt , however , was much less committed",0.00034254201455041766,0.017420916992705315,0.0,0.0
+sample_389,"the date of birth of each child , as had been done",the slate of Birth of each child  as hat been one,0.00032737498986534774,0.01951625000219792,0.14,0.4166666666666667
+sample_429,craterlet on Face ( ours is an agricultural,craterlet on Fece (ourrs is an agriculterral,0.00033325000549666584,0.014225833001546562,0.11627906976744186,0.5
+sample_432,sentences of his speech : ' Cut the,sentences of his soeecti ' Cnt the,0.000283041998045519,0.013090332999126986,0.14285714285714285,0.375
+sample_459,turn . By comparing personal appearances,thrn . By canparing persoual appearances,0.0003887080238200724,0.014414874982321635,0.1,0.5
+sample_464,businesses would pick on young men,businesses would pick an youny men,0.00026500000967644155,0.011063790996558964,0.058823529411764705,0.3333333333333333
+sample_470,"were really means . So , seeing them revolve in","were vealy means . I , scediug them vecdves in",0.00031525001395493746,0.01463466600398533,0.2553191489361702,0.4
+sample_517,"is established . Ifor Huw Evans , Propr. ,","is cstablishrd . Ior Huw Erans , Propr. ,",0.000346042012097314,0.014759624988073483,0.09523809523809523,0.3333333333333333
+sample_549,Flying Officer Broughtons shuffled his feet .,Flying Officr Broughtons shudfled his fet,0.0002777920162770897,0.01233929197769612,0.1111111111111111,0.5714285714285714
+sample_558,"sir . It said Llangrwl . "" Llewelyn Jones sat","sir . It sinpl said Clanginl . "" Lewebgn Jones sut",0.0003158750187139958,0.015556500002276152,0.28888888888888886,0.4
+sample_565,"there were anything in Queen's Regulations to cover this ,","there wee anything in Aneens Kegulations to corethis ,",0.00033537502167746425,0.015819207997992635,0.13793103448275862,0.5
+sample_574,"Time passed . The bus climbed , and went quietly","Time passed . The bus climbed , and went quiefly",0.00038795798900537193,0.019737791997613385,0.020833333333333332,0.1
+sample_591,But losing a bus ! People were always losing,But losing a bus ! People were always losing,0.00034708299790509045,0.01904508299776353,0.0,0.0
+sample_603,flag on a palm tree . And he tries to ensure,Fragon a palm Eree. And he Eries to ensare,0.00038054201286286116,0.022250624984735623,0.1590909090909091,0.5454545454545454
+sample_604,""" Can't go lighting bonfires on this bus , ""","i6an't go lighting bonfires on this bus , """,0.00047149998135864735,0.018015416018897668,0.06818181818181818,0.2
+sample_616,"Though your wings and your scars are new ,","Though your wings and your scars are new ,",0.0003699999942909926,0.017940709018148482,0.0,0.0
+sample_618,not join you . ' The Captives grunted in boredom .,"notjoin vou"" The Coptives ggrunted in boredom .",0.0004299999854993075,0.019985291990451515,0.16,0.6363636363636364
+sample_633,"going to live with friends of the bank manager , just","gingto lire with triends of the bank manaper , inst",0.00028729200130328536,0.014738708006916568,0.1320754716981132,0.5454545454545454
+sample_643,"last impertinent remark . "" With four other people - ""","last iipertinent remark . "" Wikh four olher peaple-n",0.00035345801734365523,0.020212208008160815,0.12962962962962962,0.5454545454545454
+sample_650,"She wavered , and at last said","She wavered , and at Last said ss",0.00033995899138972163,0.016843791992869228,0.13333333333333333,0.2857142857142857
+sample_654,out and sucked in his baggy black,out and stucked in his baggy black,0.0002784169919323176,0.011677500006044284,0.030303030303030304,0.14285714285714285
+sample_665,"she blow some more . "" "" Hello , Willie , where","she blow some more . "" "" Ntello , illie , wheil",0.0002827499993145466,0.011149625002872199,0.10638297872340426,0.25
+sample_677,when there came a sudden gust of wind,when therre came a sudden goot gusd of wind,0.000352917006239295,0.017780916998162866,0.1891891891891892,0.375
+sample_686,If I 'd known what it would be like I 'd sooner,af d'd enown what it would be like dld sener,0.0002947910106740892,0.014875749999191612,0.19148936170212766,0.5833333333333334
+sample_692,mistresses . Anyway it might be much worse .,mistresees . Anywa it nuht be muc worse .,0.00038704200414940715,0.01699400000507012,0.13636363636363635,0.4444444444444444
+sample_714,"an officer should join a ship , on taking up a","an ofticersheuld sein a ship , en taking up a",0.0002595830010250211,0.01328325000940822,0.13043478260869565,0.36363636363636365
+sample_718,It would have been acceptable to all concerned,ot would hare been acceptable to all concemed,0.00036495900712907314,0.01519541599554941,0.08695652173913043,0.375
+sample_721,""" Better ask Robbie Munyard . "" "" What 's he been","""ettirail Robbie sngard: n "" Whati's be been",0.00026033399626612663,0.013231166987679899,0.2857142857142857,0.75
+sample_733,"and X-rayed and that it was as sound as a bell ? """,and &-rayed and that it was as sound as a belii. g,0.00029904101393185556,0.014881915994919837,0.1,0.3076923076923077
+sample_747,"Dowd , still wearing his blue check shirt . He","Boud , still wearing his bme check shirt . te",0.00039862500852905214,0.020015833986690268,0.10869565217391304,0.3
+sample_754,"come 2a-calling , "" I said . "" Can't see no reason","come 2a-ealling , "" T said . Cant see no reaon",0.0003955409920308739,0.02166162501089275,0.12,0.4166666666666667
+sample_758,We followed Nick Dowd into the shack .,te Folowed lick wond into the stacl .,0.0004573749902192503,0.02487745799589902,0.21052631578947367,0.625
+sample_759,Nick Dowd took our horses off to water .,Nicl Doud took our horses of the water .,0.0004918329941574484,0.02743870799895376,0.125,0.4444444444444444
+sample_777,"the man called Shorty said , "" You were saying when","the man cated shorty saicly "" Yon were saying when",0.0004396250005811453,0.022757583996281028,0.13725490196078433,0.45454545454545453
+sample_781,""" They gives you the wind , "" said the Sodbuster",""" Tey gives yon the wind , "" sand the sodbuster",0.00044858301407657564,0.017078707984182984,0.08333333333333333,0.36363636363636365
+sample_791,"After you 'd left the meeting , mister "" - I","After you l lef the meeting , mister """"- I",0.0004253750084899366,0.019460291980067268,0.09090909090909091,0.36363636363636365
+sample_825,"to do that . "" Gavin drained his glass","to do thal . "" Gavin drameod tis gfears",0.0002694590075407177,0.011534833000041544,0.21052631578947367,0.4444444444444444
+sample_826,"hardly believe that she was the same girl ,","hally bakeie thal she was the some gisl ,",0.0002565419999882579,0.010671916999854147,0.20930232558139536,0.5555555555555556
+sample_828,Gavin raised his glass to her and smiled,gavi saisgel tis gfors to ther anat smited,0.0002607500064186752,0.011280332983005792,0.325,0.875
+sample_849,Now let him go and you won't have to wait,Now let him go and you won't have to wait,0.0003247499989811331,0.016544165991945192,0.0,0.0
+sample_854,normally .,hommallly .,0.00016887497622519732,0.0025425000058021396,0.3,0.5
+sample_867,""" If I were a tramp I would simply blow a",If I were atramp I would sinply blows a,0.00029329099925234914,0.014636333013186231,0.12195121951219512,0.45454545454545453
+sample_875,I got a good look at her . But if Nigel,Topt a good Cook at hes . But if Nigel,0.0002867909788619727,0.014462916005868465,0.15384615384615385,0.36363636363636365
+sample_882,"meaning no offence , "" but does he ?","meaning no offence , "" but does he ?",0.0002934579970315099,0.01164245800464414,0.0,0.0
+sample_887,you took Luke Parson's surgery and there was a woman,you tok Lehe Parsoni's eigeiy and there was a woman,0.000414459005696699,0.018737209000391886,0.15384615384615385,0.4
+sample_890,was as though a red mist veiled her usually clear sight and,uas as though a red mist veiled her usually cleas sighd and,0.00037541601341217756,0.01752854199730791,0.05084745762711865,0.25
+sample_913,"I 'm such a dull fellow , really . "" "" Dull ? "" She","Jim sucha dull fellow , realy . "" "" Dull? "" she",0.00032416702015325427,0.014238000003388152,0.13725490196078433,0.5333333333333333
+sample_923,body else for a moment there . It doesn't,body ete for a moment there . It doesn't,0.0003200409992132336,0.015051750000566244,0.04878048780487805,0.1111111111111111
+sample_930,at this time of year ? I can't ask you up because it 's,"at this timne of year "" I can't ask youyp becanse it's",0.000378625001758337,0.014011791005032137,0.10909090909090909,0.5
+sample_940,broody and going out with brash blondes . I don't deserve,brooly and going aut with Arart blds . I abt alive,0.00028508302057161927,0.014719624974532053,0.2982456140350877,0.5454545454545454
+sample_954,""" Isn't it ? "" he rose and smoothed himself","itut it ? "" he rose and smoothed himnself",0.0003100830072071403,0.013935374998254701,0.16279069767441862,0.3
+sample_959,"it , looking moodily beyond her . "" Perhaps it 's as","t s Iooning Mieadily beyond her . '"" Perkaps ttis as",0.00027829199098050594,0.011618166987318546,0.25,0.6666666666666666
+sample_962,"your ring back . "" She loosened the half-hoop of",your riny back . ' She basened the hayf - haop oy,0.0003277500218246132,0.01697587501257658,0.20833333333333334,0.7
+sample_966,"If it is - "" she laughed uncertainly - "" you can have","If it iss - ' she langhed uncertainly - "" you can have",0.0004013330035377294,0.016464624990476295,0.05660377358490566,0.23076923076923078

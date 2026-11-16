@@ -1,0 +1,9 @@
+{
+  "dataset": "rimes",
+  "configuration": "deskew",
+  "sample_count": 778,
+  "cer": 0.0588168437801898,
+  "wer": 0.1918779925518709,
+  "preprocessing_seconds": 21.831550194416195,
+  "inference_seconds": 382.60100137491827
+}

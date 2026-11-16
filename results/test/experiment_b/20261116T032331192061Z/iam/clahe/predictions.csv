@@ -1,0 +1,1001 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+clahe,sample_0,"assuredness "" Bella Bella Marie "" ( Parlophone ) , a lively song that changes tempo mid-way .","assuredness "" Bella bella Marie  ( Parlophone ) , a lively song thal changes bempo mid-way .",0.0005627909849863499,0.021794291998958215,0.053763440860215055,0.2222222222222222
+clahe,sample_6,He is also a director of a couple of garages . And he finds time as well to be a lyric,the is also a direclor of a couple of garages . And he finds time as well to be a lyric,0.0005652089894283563,0.02836774999741465,0.03488372093023256,0.09523809523809523
+clahe,sample_8,"The numbers include "" Scotland the Brave , "" "" Men of Harlech , ""","The yumbers inelude Scotland the Brave 's a Men of Harlech , '",0.0004232909996062517,0.017489416990429163,0.13846153846153847,0.4666666666666667
+clahe,sample_9,"Fay Compton stars in "" No Hiding Place "" (I T V , 9.35 p.m. ) .","Pay Compton sfars in "" No tiding plave n ( 37 4 , 2i35 p in.?. .",0.0005699169996660203,0.016194583993637934,0.2698412698412698,0.6470588235294118
+clahe,sample_10,She plays the possessive mother of a man whose hobby revolves,she plays the possessive mathier of a man whose habiby remlvs,0.0003411659854464233,0.01643254200462252,0.13114754098360656,0.36363636363636365
+clahe,sample_12,"THREE people will be hypnotised in tonight's "" Lifeline ""","THaFE puople wild be hyyyotised in tonightis "" Liteline "" """,0.00041512498864904046,0.01708595801028423,0.17543859649122806,0.7
+clahe,sample_13,"( B B C , 10.15 ) .","CPPe ,10.1s ) .",0.00035220899735577404,0.005204582994338125,0.47368421052631576,0.75
+clahe,sample_15,of Rhodesia and Nyasaland ( 10.30 p.m. ) .,"if phodes,a and pNyasalond CiOizDpin.g .",0.00047987501602619886,0.012951332988450304,0.40476190476190477,0.7777777777777778
+clahe,sample_17,"playwright Arnold Wesker . "" Instead , Muggeridge's appointment","playuright Arnokd wesker . "" "" Instead , Mhuygeridge's ayppintment",0.0003837500116787851,0.01607716697617434,0.14285714285714285,0.6666666666666666
+clahe,sample_19,will be with Sir Roy Welensky the Premier of the Federation,will be with Sir Boy welessky the Premsier of the fe er ation,0.0004199590184725821,0.01793349999934435,0.11864406779661017,0.5454545454545454
+clahe,sample_26,essay on soldiering which stated that a fighting,cesay on soldiertng which shated thet a fighting,0.00034304099972359836,0.013230666983872652,0.10416666666666667,0.5
+clahe,sample_27,"Say Granada T V , the producers : "" We decided to make","Say GnanakaipV , the pralucers : "" We decided to make",0.0003859169955831021,0.018543500016676262,0.12962962962962962,0.3076923076923077
+clahe,sample_28,first big T V part . The play was a brilliantly-written,fivt big TV paut rhe play was a hillantly-witta,0.00040374998934566975,0.018035459012025967,0.23636363636363636,0.6363636363636364
+clahe,sample_29,affairs . The Wesker interview will be seen at a later,orffairs . Te yesker Iutenicw will be seen at a bater,0.0006104999920353293,0.027651207987219095,0.18518518518518517,0.45454545454545453
+clahe,sample_35,"what he was - Potter , a frightened boy who had a","what fe was . Bter , a frigitered by who had a",0.00047408402315340936,0.01841516699641943,0.16326530612244897,0.4166666666666667
+clahe,sample_45,"of an American T V reporter , Eric Sevareid , and","of an Rmerican II reporler , (ric Serareid , and",0.0005968339974060655,0.024071082996670157,0.14285714285714285,0.5454545454545454
+clahe,sample_46,strike . It showed Britain today through the eyes,strine . It showed Britain today through the eyes,0.0006578750035259873,0.02207162501872517,0.02040816326530612,0.1111111111111111
+clahe,sample_47,Britain was slipping behind ... .,Britain was slepping beind .. .,0.0006264580006245524,0.01554195798235014,0.09090909090909091,0.5
+clahe,sample_49,Shelagh Delaney and Alan Sillitoe attacked,Shelagh Delaney and llan Sillitoe attacked,0.0007638749957550317,0.01921125000808388,0.023809523809523808,0.16666666666666666
+clahe,sample_53,offering to drop by for a chat .,oferng to orap br for achat .,0.00040570899727754295,0.019114791008178145,0.1875,0.625
+clahe,sample_54,arrived two hours earlier by appointment,arrived tho hann earkier br appenturent,0.0008736670133657753,0.027572042017709464,0.275,0.8333333333333334
+clahe,sample_58,"has rung a couple of times , calls from","ha pun a conple of timrer , calls froun",0.0005347500264178962,0.021103792008943856,0.20512820512820512,0.5555555555555556
+clahe,sample_65,Fourth Gospel by explanations based on assumed textual dislocations . The,Fourtl bospel by explomntions bosed on ossamed festual iskocations . Te,0.0007868749962653965,0.02728579199174419,0.1780821917808219,0.7272727272727273
+clahe,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .","coull af le ahea by ploaing Me frogmente , or sheeke , or peges iin ordir .",0.00043929199455305934,0.0233364169835113,0.25316455696202533,0.6666666666666666
+clahe,sample_68,present state of the Gospel is the result of an accident-prone history . The,prosent stal of he Coopel is hhe rosll of on orccident - prone histor . Me,0.0004859160108026117,0.020107207994442433,0.23684210526315788,0.8571428571428571
+clahe,sample_74,this is possible it is necessary to examine the,this is possible it is necessary to examine the,0.0005549580091610551,0.02222229100880213,0.0,0.0
+clahe,sample_77,"case is that , in common with all his colleagues ,","case is that , in common with alt his cdkeaghes ,",0.0006310000026132911,0.022235167009057477,0.1,0.18181818181818182
+clahe,sample_79,simple and coherent plan . To understand how,simple and coherent plan . To undersland how,0.0004457909963093698,0.02055245899828151,0.022727272727272728,0.125
+clahe,sample_86,text with absolute precision .,text with absolute precision .,0.0004089580033905804,0.012700124992989004,0.0,0.0
+clahe,sample_89,"The bar was the commonest marking , but others","Thebar wad tre comncnest morleing , lut Others .",0.00045858300291001797,0.019404082995606586,0.2608695652173913,1.0
+clahe,sample_92,were also used . Dots sometimes served in place of the,were olo used . fots sometimas served in plac ofthe,0.0005652919935528189,0.023574708990054205,0.1111111111111111,0.5454545454545454
+clahe,sample_96,the original of the Gospel would be unmarked . The,the Orignal ofthe Gagpel wOuld be unmoreed. The,0.00041420801426284015,0.019275208993349224,0.18,0.7
+clahe,sample_98,about one third of a page of Souter's print .,abax ane third At a poge of Sortaris prink .,0.0003965419891756028,0.01937783299945295,0.24444444444444444,0.6
+clahe,sample_102,"original of the Gospel , whether written on a roll or codex ,","orgnal ofthe Aaapel , whether uitten on a roll Or codex ,",0.0004079999926034361,0.022802709019742906,0.14754098360655737,0.46153846153846156
+clahe,sample_109,which have survived the centuries is ample evidence of,which have survived the centuries is ample evidence of,0.000752166990423575,0.029550874984124675,0.0,0.0
+clahe,sample_110,"was generally a single-sided form of book , and it was not","was generally a singple-sided form of book , and it was hot",0.00048279197653755546,0.02673491701716557,0.034482758620689655,0.16666666666666666
+clahe,sample_111,"overwhelmed Herculaneum and Pompeii in A.D. 79 , his","overwhelmed tercnlanenm and Pompei in A.D.78 ,his",0.0005236249999143183,0.02734579099342227,0.1346153846153846,0.6666666666666666
+clahe,sample_113,The other form of book was the codex . In this the,The other form of book was the cocder . In this the,0.0006436670082621276,0.02961541697732173,0.04,0.08333333333333333
+clahe,sample_115,sheets were bound together down one edge much as,sheets were boud together doin on edbe much as,0.0005065000150352716,0.024570041976403445,0.08333333333333333,0.4444444444444444
+clahe,sample_116,information is contemporaneous with the New Testament .,information is cotemporanlons with the New Testamet .,0.0005877499934285879,0.025982624996686354,0.07272727272727272,0.25
+clahe,sample_120,"the roll , a sheet could easily be glued on .","the roll , a shut could easily be glned on .",0.0004264999879524112,0.017454124987125397,0.06666666666666667,0.18181818181818182
+clahe,sample_121,whether or not a particular text was written on,whether or not a particular tet was written on,0.0005699169996660203,0.021476542024174705,0.02127659574468085,0.1111111111111111
+clahe,sample_122,might be bulky . It is sometimes possible to tell,might be bulky . It is sometimes possible to tell,0.0005061659903731197,0.018759667000267655,0.0,0.0
+clahe,sample_131,"in the case of the single-sheet quire , an extra","in the case of the single-sheet quire , an extra",0.0004556249768938869,0.021492708998266608,0.0,0.0
+clahe,sample_132,"sending out his Gospel lacking the ending ,","sending out his Gospel lacking the ending ,",0.00046304200077429414,0.01650962498388253,0.0,0.0
+clahe,sample_133,"cannot think of an author , Mark for example ,","camot think of an author , Nark for example ,",0.0003857080009765923,0.021176415990339592,0.06521739130434782,0.2
+clahe,sample_134,sheet glued on might have to be gummed on,shut gld on might have to be gummed on,0.00042837500222958624,0.020768165995832533,0.0975609756097561,0.2222222222222222
+clahe,sample_135,in it the reservoir ... and I made both the,"inIfshae Verarvail . "" "" and ale hoh tre",0.0005491249903570861,0.024684458010597154,0.5116279069767442,0.9
+clahe,sample_136,"construction in lines 9 , 23-25 of the Moabite Stone ,","cmostyhltlon in Anos ? a-is of ther Mosdite Aane ,",0.0003642090014182031,0.028926583006978035,0.4074074074074074,0.7272727272727273
+clahe,sample_138,A natural transition from gardens and,Anabunal transitlen fre gandeng and,0.0012767500011250377,0.01920912499190308,0.24324324324324326,0.8333333333333334
+clahe,sample_141,supply . The pools are probably natural springs,gupply . Tha pots cna prctaboly nalldrad ponings,0.0006130000110715628,0.01708308298839256,0.3617021276595745,0.875
+clahe,sample_147,"all his heart , and with all his soul and",all his heart and with all his soul . and,0.0006324999849312007,0.030493500002194196,0.0975609756097561,0.2
+clahe,sample_150,with all his might and studies the,sith al his rnight und stdis the,0.0004981670062988997,0.012821791984606534,0.20588235294117646,0.7142857142857143
+clahe,sample_151,"regards himself as insignificant , as the","regards himself os insigrificant , as the",0.0005991669895593077,0.023933499993290752,0.04878048780487805,0.2857142857142857
+clahe,sample_152,word of God .,word of God,0.0008697090088389814,0.014335499989101663,0.15384615384615385,0.25
+clahe,sample_155,us earthly creatures to build an Altar,us earthly creatures to build an Altar,0.0006657080084551126,0.02476141697843559,0.0,0.0
+clahe,sample_156,"This man is the worm , the creature that",This man is the worm the creature thay,0.0007323340105358511,0.023404167004628107,0.075,0.2222222222222222
+clahe,sample_158,Such a Shamir possesses the real acid,Such a shomir possesses the real acid,0.0004840829933527857,0.020118916989304125,0.05405405405405406,0.14285714285714285
+clahe,sample_160,for God to come nearer to God .,for God to come nearer to God .,0.00043683298281393945,0.02369195900973864,0.0,0.0
+clahe,sample_162,cuts and polishes Altar-Stones . Such,cts and polishes MUur-stores . Such ,0.0004370420065242797,0.012104791996534914,0.1891891891891892,0.3333333333333333
+clahe,sample_163,heart of stone . This Shamir helps,neart of stone . This shamir helpe,0.0005510839982889593,0.010814832989126444,0.08823529411764706,0.42857142857142855
+clahe,sample_167,tell !,tepe l,0.00037370799691416323,0.00318400000105612,0.5,1.0
+clahe,sample_170,books are readable . This Shamir is indeed a rare,books are readable This shamir in indeed a rate,0.0008107500034384429,0.03460825001820922,0.10204081632653061,0.4
+clahe,sample_171,"refused , but it is to become the head-stone","retused , but it is to become the head-stone",0.0005999999993946403,0.04690437501994893,0.022727272727272728,0.1111111111111111
+clahe,sample_173,"Lord , as the waters cover the sea . "" ( Hab. 2 , 14 . )","hord , as the waters cover the seais (tab . & , 1d",0.003351874998770654,0.11003512499155477,0.25,0.5882352941176471
+clahe,sample_174,""" For the stone shall cry out of the wall "" , like","a for the stome shall cry out of the wallss , like",0.0011564580199774355,0.03163170799962245,0.1,0.38461538461538464
+clahe,sample_179,the Light which can be read in every,the Lgnt which cany be read in every,0.0007417500019073486,0.026152083999477327,0.08333333333333333,0.25
+clahe,sample_180,They make us the Altar for God to emit,"shay wake ""s the retar for God to eult",0.000754291977500543,0.09304879198316485,0.21052631578947367,0.5555555555555556
+clahe,sample_181,a deep impression on our feelings and senses .,a deeg rppresslay oy air foelings ayd sapses .,0.0009755840001162142,0.02874229202279821,0.2826086956521739,0.7777777777777778
+clahe,sample_182,"of life , and all facts are "" one "" . We have all","of lifo , ayd all facts are oye "" We have all",0.0007752090168651193,0.08076754098874517,0.14285714285714285,0.35714285714285715
+clahe,sample_185,"language . The Shamir is the "" seventh "" and","Lanyghage . The shauir is the sevefh"" and",0.0003990410186816007,0.026003999984823167,0.22727272727272727,0.5
+clahe,sample_187,"the eve of the Sabbath , to bring the","the eve of the Sabbath , to brig the",0.0009800420084502548,0.02710837501217611,0.02702702702702703,0.1111111111111111
+clahe,sample_191,"shall come to pass , if 1ye shall 1hearken",shall cone to pass IP tye shall theartey,0.0006536250002682209,0.057719375006854534,0.21428571428571427,0.5555555555555556
+clahe,sample_193,is something deficient .,is souethinng deficiept .,0.00046537499292753637,0.016912834020331502,0.125,0.5
+clahe,sample_195,"you this day , to love the Lord your God , and to","fo this day , Is love the Lord your God , anyd to",0.000687332998495549,0.02987895900150761,0.10204081632653061,0.23076923076923078
+clahe,sample_197,"Lord God with all their visionary power ,","Lord God with all their visionary power ,",0.0015461669827345759,0.07216220800182782,0.0,0.0
+clahe,sample_199,the work will have to be done by each,the work wilt have to be elore by each,0.0009568330133333802,0.03436962500563823,0.10810810810810811,0.2222222222222222
+clahe,sample_200,mind together we cannot solve the further,mind together we cannot solve the further,0.0008017079962883145,0.036188207974191755,0.0,0.0
+clahe,sample_201,"Jochai ( Tanis 6a ) "" if Israel does not fulfil",Sochail Tanis ea)I'if lsrael does net futfil,0.0037577080074697733,0.04070766599033959,0.23404255319148937,0.8181818181818182
+clahe,sample_202,"the wish of the Lord , failing to serve the","The wish of the Lord , fating to serve the",0.0010122910025529563,0.05651604200829752,0.06976744186046512,0.2
+clahe,sample_206,"gratify selfish aims , then each man will gather-in","giafity selfish aims , then each man will gathel -in",0.0006581659836228937,0.03684612500364892,0.09803921568627451,0.3333333333333333
+clahe,sample_207,"for himself only , instead of all to help to gather your","Foc hinself only , intead of all to help to gathet youk",0.0007961250084917992,0.03554866701597348,0.10714285714285714,0.4166666666666667
+clahe,sample_212,our duty ) . Of course the individual will,"our auty) , of course the indiidual wif",0.0015807499876245856,0.03388195898151025,0.16666666666666666,0.6666666666666666
+clahe,sample_215,seeking self .,seeting self .,0.0005519169790204614,0.015566250018309802,0.07142857142857142,0.3333333333333333
+clahe,sample_216,Freedom from want cannot be fulfilled nor,frieedom from want cannat fulfiilled nor,0.0011622919992078096,0.04504666698630899,0.17073170731707318,0.5714285714285714
+clahe,sample_227,"yourself , under such conditions the goods are your gods .","Joutself , under such conditions the goods are yout gods .",0.000742750009521842,0.027652209013467655,0.05172413793103448,0.18181818181818182
+clahe,sample_231,For without the vision to serve the Lord your God with all,Fot without the ysion to serve the tord yauk God with all,0.0007145840208977461,0.026355333015089855,0.10344827586206896,0.3333333333333333
+clahe,sample_235,"in the first part of the Shmah , we have first "" and","in the first part of the shmah , we have first i anh",0.0004931659786961973,0.021109624998643994,0.057692307692307696,0.23076923076923078
+clahe,sample_239,them without visionary power .,them without visionary power .,0.00044995799544267356,0.021935917000519112,0.0,0.0
+clahe,sample_242,children will grasp now what will befall,children will grasp mow what will befall,0.0005117090186104178,0.018668999982764944,0.025,0.14285714285714285
+clahe,sample_245,And they are ( 1 ) Matzo ; ( 2 ) Bitter Herbs ; ( 3 ) Salt-water and,And they are (s ) Matao ; (a ) Bitter Herbsfa ) Salt-water and,0.0006067500216886401,0.03259162500035018,0.16176470588235295,0.47368421052631576
+clahe,sample_247,back .,back .,0.0003013749956153333,0.005106708005769178,0.0,0.0
+clahe,sample_251,"are used on Passover , to depict the "" time of our freedom "" .","are used on Passover , to depict the itime of our Freedom"".",0.001099334011087194,0.036974042013753206,0.08064516129032258,0.3333333333333333
+clahe,sample_255,"We eat it . We accept it , to show we have self-control",be eat it . We accept it . to show we nave self-contpol,0.0005622919998131692,0.02845700000762008,0.07272727272727272,0.3076923076923077
+clahe,sample_259,cure our mental incapacity we should be willing,cure our mental incapacity we should be willing,0.0005905829893890768,0.024661125004058704,0.0,0.0
+clahe,sample_261,the salt-water at the Seder-Table represents the Covenant of the Torah,the Soll -water at the Geder-ifale reensens the Govenan of the Torah,0.0007035830058157444,0.026729708013590425,0.2,0.45454545454545453
+clahe,sample_266,Tradition .,Frasittion .,0.0003002920129802078,0.006022499990649521,0.2727272727272727,0.5
+clahe,sample_269,"meek : "" But the meek shall inherit the earth ; and shall","meex : "" "" But the meex slaall innerit the eorth ; and shall",0.0005432080070022494,0.023389542009681463,0.14035087719298245,0.46153846153846156
+clahe,sample_272,"We dip into both , at the Seder . And we want to understand","Ne dipinto batn , ot the seder . And we woust to underednd",0.0006283750117290765,0.027609875018242747,0.2033898305084746,0.5714285714285714
+clahe,sample_273,"more of the Torah and the Oral Tradition , our inheritance .","more gy the fprah anf the prat f radtinn , our inheritace .",0.0005026669823564589,0.0258526669931598,0.2,0.5833333333333334
+clahe,sample_274,( This is the PARDUS . ) Matzo represents,cthis is the phapuslNlafo rexresauts,0.0005537079996429384,0.025794209010200575,0.4878048780487805,0.7777777777777778
+clahe,sample_275,Derush ; ( 4 ) Leaning-back represents Saud .,Berush ; cu) Leaning-back reeresentr sand .,0.0004399169993121177,0.02319616699242033,0.2,0.6666666666666666
+clahe,sample_277,and the sweet Mortar in which we dip-in represents,and tne sweet dortar in wniln we die-in rerreseuts,0.0008775409951340407,0.040228750003734604,0.16,0.5555555555555556
+clahe,sample_278,is called : The Feast of Matzos . The,is ralled:the feast of Mator. The,0.0005060829862486571,0.028086708014598116,0.21621621621621623,0.6666666666666666
+clahe,sample_279,"principle and this gives us "" a wink "" ( Remez )","Brinciele . and this gives us ia mink"""" Chener )",0.0005107079923618585,0.026542000006884336,0.2708333333333333,0.6666666666666666
+clahe,sample_282,the literal meaning of Pesach which,the literal meaning of Pesach which,0.0004896250029560179,0.023258375003933907,0.0,0.0
+clahe,sample_283,( 1 ) Matzo represents Peshat ; ( 2 ) Moraur,A)Natzo representr Peshat ; (a ) Moraur,0.00047879197518341243,0.0220896250102669,0.20454545454545456,0.6363636363636364
+clahe,sample_284,Bitter-Herbs represent the spiritual,Bifeer-cterbs reeresent the spirifual,0.0005672500119544566,0.024821875005727634,0.16666666666666666,0.75
+clahe,sample_287,burdens of Egypt . ( 2 ) I will rid you of their bondage .,burden's of Eass . Ial 1 wil pid yo of their kondage .,0.0004097500059287995,0.028880792000563815,0.25862068965517243,0.6666666666666666
+clahe,sample_295,( 3 ) I will redeem you . ( 4 ) I will take you to me for a,Is) I will redeen yo.fl I will take yoo to me for a,0.0004140410164836794,0.02404729198315181,0.23728813559322035,0.5263157894736842
+clahe,sample_298,"eating Matzos in Egypt and the "" Feast of Matzos ""","eating Matzos in Egiyft and the i feait of Mattos""",0.0003786669985856861,0.017465082986745983,0.14,0.45454545454545453
+clahe,sample_300,"James had grown up in Presbyterian Scotland ,","fames had grown up in Presbyterian Scotland ,",0.0005130830104462802,0.01833141699898988,0.022222222222222223,0.125
+clahe,sample_302,Book was issued in 1604 but the Puritans,Bosk was issued in 1roy but the puritans,0.00047616701340302825,0.020521792001090944,0.125,0.375
+clahe,sample_304,"spoiled that . The Puritans had high hopes , for","spoiled that . The Puritans had high hopes , for",0.00040350001654587686,0.01674741701572202,0.0,0.0
+clahe,sample_307,remained . Other changes in the Book were equally,remained . Olhe . Llonges in the Bosk were equably,0.0003656670160125941,0.012099957995815203,0.16326530612244897,0.5555555555555556
+clahe,sample_308,They objected to the word Confirmation . So the phrase,tmy dicis b hhe wond lonfimatien . So the furose,0.0003992919810116291,0.011053457972593606,0.37037037037037035,0.7
+clahe,sample_310,They objected to the word Absolution . So the phrase ' or,They dijeled to the word Absohhian . So hre phvare ' ar,0.00043629101128317416,0.01750487499521114,0.22807017543859648,0.4166666666666667
+clahe,sample_312,added to the Catechism .,ajde bo the Cchichin. .,0.0003031250089406967,0.009103541990043595,0.3333333333333333,0.6
+clahe,sample_313,minor except for the new section on the Sacraments,minore excey for the rew seehim an the Serament s,0.00038370798574760556,0.014160917024128139,0.24,0.7777777777777778
+clahe,sample_315,able to render an account of their faith according,ahe to rendes an accnunnt of thir filh aceording,0.00033400001120753586,0.011955291993217543,0.18,0.6666666666666666
+clahe,sample_316,This indicated how ephemeral in the Church had,This inadicated how ephemeral in the Church had,0.0006476670096162707,0.024400957976467907,0.021739130434782608,0.125
+clahe,sample_318,( which was never actually authorized ! ) .,which was never actuaby #d antarrised ! ) .,0.00040620798245072365,0.017375584022374824,0.2558139534883721,0.4444444444444444
+clahe,sample_324,"definite . It was at this time , too , that King James made","definite . It was at this time , toa that King James made",0.00040595800965093076,0.02083912497619167,0.05084745762711865,0.14285714285714285
+clahe,sample_326,In that year Shakespeare had just turned,In that year Shakespeare had just turned,0.0004042089858558029,0.01870033299201168,0.0,0.0
+clahe,sample_328,before . Bacon was at work and Milton was,before . Bacon was at worte and ilton war,0.0007117080094758421,0.021749624982476234,0.0975609756097561,0.3333333333333333
+clahe,sample_329,important Prayer Books in the Anglican,important ppayer Books in the tnglican,0.00044287502532824874,0.01887379100662656,0.07894736842105263,0.3333333333333333
+clahe,sample_335,first public acts was a hard-hitting battle with,first public acts was a hard-hitting batble with,0.00042387499706819654,0.020727041992358863,0.020833333333333332,0.125
+clahe,sample_337,"the Jesuit , Fisher . But anyone who was friendly","the Jemnit , Fisher . But angone who was friendly",0.0004346249916125089,0.021047749993158504,0.061224489795918366,0.2
+clahe,sample_341,"with James and Charles , the Puritans argued ,","with James and Charles , the Puritans argned ,",0.0006380419945344329,0.01998474998981692,0.021739130434782608,0.1111111111111111
+clahe,sample_345,and so was the office of a bishop . Altars should be,and so wras th affice of a bishop . Altars should be,0.000590750016272068,0.021773415995994583,0.057692307692307696,0.25
+clahe,sample_347,"altars and not any broken down , transportable","allars and nof any frol down , Eranspanrtabll",0.0004768329963553697,0.019936374999815598,0.21739130434782608,0.5
+clahe,sample_348,a sense of reverence . The Prayer Book was to be respected,a anse of reverence . The Prayes Bool was frbe respacted,0.0005931669729761779,0.01942850000341423,0.13793103448275862,0.5
+clahe,sample_350,"to face their fears , to see through them and come out on the",to face their feors  to vee thraugh them and cone ont on the,0.00046291699982248247,0.018672540987608954,0.11475409836065574,0.42857142857142855
+clahe,sample_351,"by laughing at what are very real fears . As adults , we know",by lnyhing ot what ave wy real frars . Ar wdaltr we bamw,0.00040233301115222275,0.016472958988742903,0.29508196721311475,0.6428571428571429
+clahe,sample_352,but to a child they are very real . Not that I am suggesting,bat to a dild they are rery real . Mit that I an nperting,0.00042058399412781,0.019320999999763444,0.2,0.42857142857142855
+clahe,sample_353,that children should be molly-coddled - they must be made,that diltren shonld be moly-cddled - they manst &e made,0.00038441698416136205,0.017811875004554167,0.15789473684210525,0.5
+clahe,sample_359,unnecessary its fears were .,mnuecenvany its fears rrere .,0.0004326670023147017,0.01673870801459998,0.25,0.4
+clahe,sample_360,To ridicule them only pushes them farther,To riadicule tham anly pushes them farther,0.0006224170210771263,0.02531908400123939,0.07317073170731707,0.42857142857142855
+clahe,sample_361,reaped at forty or fifty . Far better to,reaped at forty or fity . Far beker to,0.0004627919988706708,0.021848083997610956,0.075,0.2222222222222222
+clahe,sample_363,the harvest of which may still be being,the hanvest of whicch way wtill ke being,0.0005135000101290643,0.024647749989526346,0.1282051282051282,0.625
+clahe,sample_368,of twelve or thirteen under the,of bwebve axt thirten under the,0.00043741700937971473,0.019238292006775737,0.1935483870967742,0.5
+clahe,sample_370,it is a good idea to condition a child,it is a good idea to conditian a ctied,0.0003498339792713523,0.01499937500921078,0.07894736842105263,0.2222222222222222
+clahe,sample_376,"happens is not merely dishonest , it","tagysens is nat mericy dirhonest , it",0.0004487910191528499,0.016201749996980652,0.2222222222222222,0.5714285714285714
+clahe,sample_377,frightening possibilities and yet by facing,Grisghtening paribilities and yet byfacing,0.0005064999859314412,0.020722207991639152,0.13953488372093023,0.6666666666666666
+clahe,sample_382,the way to face life . To see all the latent,the way to face lfe . To see all the latent,0.0005259159952402115,0.020254708011634648,0.022727272727272728,0.09090909090909091
+clahe,sample_385,has something important to do with our,ha sowething ienpertant to do wnth onr,0.000586750014917925,0.0244380829972215,0.18421052631578946,0.7142857142857143
+clahe,sample_391,"dwells in my hand , Knows this","dwells in my hand , Knous this",0.0004557910142466426,0.017880458006402478,0.03333333333333333,0.14285714285714285
+clahe,sample_392,Was this : That a secret plan Is hid in,was thie : That a secrerplan ts kid is,0.0006238339992705733,0.021229042002232745,0.1794871794871795,0.7
+clahe,sample_396,"seen to be allies and not enemies and that ,",seen to be alkies and not exemmies anod lef,0.0005726249946746975,0.026186458009760827,0.22727272727272727,0.5
+clahe,sample_398,we are with Thee .,we are with Phee .,0.0003852499939966947,0.013764040981186554,0.05555555555555555,0.2
+clahe,sample_399,"come what may , we are never alone when","come what may , we are never allene wban",0.0006712920148856938,0.021951707982225344,0.10256410256410256,0.2222222222222222
+clahe,sample_400,"be really afraid , help us to know that when","be realy afraid , betpy ls to tnow teat wlin",0.0004732500237878412,0.022067374986363575,0.20454545454545456,0.6
+clahe,sample_410,realize that tiredness itself is largely in,reallice thnar tirenessttseltis lasrgelyin,0.0004311669908929616,0.020079584006452933,0.2558139534883721,1.0
+clahe,sample_413,a mother has news late at night that her,a molhs ter nuuur latt at mihl thet thrs,0.00043541600462049246,0.018952666985569522,0.45,0.7777777777777778
+clahe,sample_415,of tiredness to the body . This can be proved by,op liva te the teoj. This can be prord bh,0.00048312501166947186,0.020513041992671788,0.375,0.6363636363636364
+clahe,sample_418,noting the effect of a new stimulus on some-,soting the eypet of o nu stinctir on semy-,0.0007161669782362878,0.021129291999386624,0.3181818181818182,0.6666666666666666
+clahe,sample_423,"refer to something you like doing , bring a","refer to something yon like doing , bnbg a",0.0005030409956816584,0.022995667008217424,0.09302325581395349,0.2222222222222222
+clahe,sample_424,up with no apparent tiredness at all when,up nith ho opparent Arehemns at a ehen,0.0005859580123797059,0.02545833302428946,0.2926829268292683,0.75
+clahe,sample_428,to different situations . There are some which,to dilfrent situatianns . There ar voure which,0.0006010000070091337,0.025215832982212305,0.17391304347826086,0.5
+clahe,sample_429,"if the cause of our pain is too deep seated ,","if tha case of buer pain is too deags sealor ,",0.0004847919917665422,0.015399625001009554,0.2222222222222222,0.45454545454545453
+clahe,sample_430,Any mental confusion can cause this and,Ceny mental contirtin can caue fhin and,0.0005136669788043946,0.022804084001109004,0.2564102564102564,0.5714285714285714
+clahe,sample_435,As we are unable to cure our own bodies,Tes we are unable to cure ber bun bockies,0.00044104098924435675,0.02517466599238105,0.20512820512820512,0.4444444444444444
+clahe,sample_437,if the trouble is a complicated one,if the f franhle i a complicaled ane,0.0006163340003695339,0.02485991601133719,0.2571428571428571,0.7142857142857143
+clahe,sample_438,"inability to deal with life , especially under",inatilily tele witlt lte ugricictly anotr,0.00038300000596791506,0.01734187500551343,0.4782608695652174,1.0
+clahe,sample_445,century .,eulesys .,0.00031025000498630106,0.004751999978907406,0.6666666666666666,0.5
+clahe,sample_446,"physical illness . There is , nevertheless , a",phyiiol iltmps . Ttu is nerthili a,0.00046970800030976534,0.020248499989975244,0.45652173913043476,0.6666666666666666
+clahe,sample_450,"be happening at the other end of England ,",b harrnina at thr ofter enet eccsnd,0.0005602919845841825,0.03089837500010617,0.4523809523809524,0.8888888888888888
+clahe,sample_455,"When news from the Continent took days ,","When newss from the Gntitent tot days ,",0.00043975000153295696,0.01917045802110806,0.15,0.375
+clahe,sample_457,to live a day at a time . Even those who,to live a dal at a tiure . Gan the who,0.0004182080156169832,0.023748790990794078,0.2,0.36363636363636365
+clahe,sample_460,thirty even sixty miles from his,thirty even sixty miles from his,0.0005733750003855675,0.012453500006813556,0.0,0.0
+clahe,sample_463,work . The only connexion is the,work . The only connerion is the,0.0003568340034689754,0.013595291005913168,0.03125,0.14285714285714285
+clahe,sample_466,travel day by day .,travel day by day .,0.00028433301486074924,0.006946584006072953,0.0,0.0
+clahe,sample_467,"in one place , their lives were of one","in oneplace , their lives were of one",0.0005911249900236726,0.012571125000249594,0.02631578947368421,0.2222222222222222
+clahe,sample_468,pipeline of the railway on which they,pipeline of the raslway on whick they,0.0006637079932261258,0.014872250001644716,0.05405405405405406,0.2857142857142857
+clahe,sample_473,of what is going on . It is easier to live life in,ofunat is gaing on Mliseagiolouveufein,0.00045320799108594656,0.016846666985657066,0.44,0.8461538461538461
+clahe,sample_474,"compartments but over the years it builds up ,","compastmenlshutarertheyearsitbuls wg ,",0.001659541012486443,0.027473416994325817,0.32608695652173914,0.8888888888888888
+clahe,sample_475,"homes . It is easy , desperately easy , to lead","hamnes. ticasy , desperatelyyeosytoleacd",0.00039416601066477597,0.01808091698330827,0.3191489361702128,0.9090909090909091
+clahe,sample_477,and to do so inevitably builds up tensions which,andto oineitably buildsup tengiongunicn,0.0003961249894928187,0.015272250020643696,0.2916666666666667,1.0
+clahe,sample_479,planning to do so or in fact being conscious,planningtodosoorin factbeingcanscows,0.00038758301525376737,0.017210207995958626,0.22727272727272727,1.0
+clahe,sample_483,Can we then frame some ' rules ' which may enable us to live life,Gan we then frame some rules ' wich may enable us to lire Wfe,0.00042020800174213946,0.020668707991717383,0.1076923076923077,0.3333333333333333
+clahe,sample_486,write out all the necessary jobs waiting to,wiilt out olithe muinary jitrauiiingto,0.0014999999839346856,0.019634333992144093,0.46511627906976744,0.875
+clahe,sample_488,rather than getting from one thing to the next .,sothir ton gltti jrom on thin to tlast,0.00034904200583696365,0.01714783301576972,0.3958333333333333,0.9
+clahe,sample_490,thing else . If we would only sit down and,tirp tee Ga wbtonly it dunond,0.00044345800415612757,0.017884666012832895,0.5476190476190477,1.0
+clahe,sample_493,"if she made a list , followed a routine of work",istrmoolo hirl jotevo routin ojuust,0.00041304100886918604,0.018165874993428588,0.6382978723404256,1.0
+clahe,sample_498,out for forty years I find difficult to understand .,sut fas forty years I find difficiief to ndersfand .,0.00046441698214039207,0.019578041014028713,0.17307692307692307,0.4
+clahe,sample_501,it becomes possible to work out a system,it becomnes possible to work gut a pafe,0.00043566699605435133,0.018706167000345886,0.175,0.375
+clahe,sample_503,the pressure on over-crowded trains .,the pressure on over-crowded treins .,0.0003796250093728304,0.01537529198685661,0.02702702702702703,0.16666666666666666
+clahe,sample_504,can go through the same routine day in and day,can go thsugh the samne rutine day in aind day,0.0003970419929828495,0.018508584005758166,0.10869565217391304,0.4
+clahe,sample_513,"As it is , with so much of our life already","19 if ig , uieh soman of ouslfe atreosiy",0.0005732080026064068,0.01682129199616611,0.3953488372093023,0.8181818181818182
+clahe,sample_516,started day one again and so on .,started day one again and so on .,0.00042083399603143334,0.016310708015225828,0.0,0.0
+clahe,sample_521,week being the same with a pupil,week being the same with a pupir,0.0005175829865038395,0.012829333019908518,0.03125,0.14285714285714285
+clahe,sample_522,Monday to Friday were days one,"""Onday to. Friday were dags one",0.00034554098965600133,0.012065249989973381,0.13333333333333333,0.5
+clahe,sample_524,would be on Friday afternoon at,woul be on Friday Afternoon at,0.0003475419944152236,0.011631332978140563,0.06451612903225806,0.3333333333333333
+clahe,sample_527,To have order does not mean getting,To have oreder ctoes nat thean getting,0.00036345800617709756,0.0162069590005558,0.17142857142857143,0.5714285714285714
+clahe,sample_528,"It was a little complicated to work ,",it was a little complicated h wart,0.000689166015945375,0.017646624997723848,0.1891891891891892,0.5
+clahe,sample_534,into a dull routine . I have great,into adull toutine . I habe great,0.00042424999992363155,0.018799084005877376,0.08823529411764706,0.5
+clahe,sample_540,sit down quietly and make a list of everything she has got to,sit down paatly and mabe a hist of ererthing ohe har got h,0.0009709580044727772,0.018448666000040248,0.19672131147540983,0.5384615384615384
+clahe,sample_542,"the day without becoming exhausted , she will be well advised to",the dy withont beaming exhansted she wil be ndrined to,0.0005035419890191406,0.0164300829928834,0.25,0.6666666666666666
+clahe,sample_546,put all our energies into the particular,put ol our mnpi into tporticstar,0.0004070000140927732,0.016062542010331526,0.35,0.5714285714285714
+clahe,sample_547,"She will , in fact , be surprised at what peace",Ihe wit in foul bsrpidadwtaro,0.00042749999556690454,0.018433540972182527,0.5531914893617021,0.9090909090909091
+clahe,sample_551,"( Actually , the Mishnah quotes two further proof","Ikctually , the Mishaah guotes two further prot",0.00042104197200387716,0.01620241699856706,0.14285714285714285,0.5555555555555556
+clahe,sample_553,not quoted here because they are not,not guoted here because they are not,0.0004243750008754432,0.016260582982795313,0.027777777777777776,0.14285714285714285
+clahe,sample_554,"texts and the Gemara explains why these ,","texts and the Gemara explains why these ,",0.000414082984207198,0.01720095900236629,0.0,0.0
+clahe,sample_555,necessary to prove the point made by,necessary to prove the point made by,0.0005214999837335199,0.01877308401162736,0.0,0.0
+clahe,sample_556,"R. Joshua b. Levi . ) Finally , we note that","R. toshua b. Lerri ) Finally , we note that",0.0003730829921551049,0.019744457997148857,0.11363636363636363,0.2727272727272727
+clahe,sample_564,"From the above it follows that here , once again ,","From the above it follous that here , once again ",0.0005836249911226332,0.01778870797716081,0.06,0.18181818181818182
+clahe,sample_569,actual practice of greeting by the divine,actual practice of greeting by the divine,0.00038712500827386975,0.014142542000627145,0.0,0.0
+clahe,sample_571,There is no reference to the Mishnah here,There is no reference to the Kishuah here,0.0007442500209435821,0.03038345798267983,0.04878048780487805,0.125
+clahe,sample_573,by the Gemara in support of R. Joshua b.,by the Gemrara in support of R. toshma b .,0.0007439579931087792,0.01829829200869426,0.1,0.4444444444444444
+clahe,sample_574,Name and the Gemara here quotes the,Name and the gemara here guotes the,0.0004366670036688447,0.016896417015232146,0.05714285714285714,0.2857142857142857
+clahe,sample_576,need for the text of the angel are quoted,need for the text of the angel are goted,0.00038908299757167697,0.015331167000113055,0.04878048780487805,0.1111111111111111
+clahe,sample_587,accord but there was no approval of his action,accord but there was no approral of his action,0.00048091699136421084,0.01782262499909848,0.021739130434782608,0.1111111111111111
+clahe,sample_588,original question and answer and this is quoted,original question and answer and this is geoted,0.0005231660034041852,0.019277375016827136,0.0425531914893617,0.125
+clahe,sample_592,in the decision of the human court . ),in the decisionn of the bumrann court . ),0.00043145898962393403,0.015258125000400469,0.10526315789473684,0.2222222222222222
+clahe,sample_597,part of the verse .,part of the verse .,0.0002974579983856529,0.007461458997568116,0.0,0.0
+clahe,sample_598,is then quoted and the interpretation of the,is then guoted and the interpretation of the,0.0006524579948745668,0.019260708009824157,0.022727272727272728,0.125
+clahe,sample_599,latter part of the verse by Rami bar Rabh,latter part of the verse by Ram bar Rath,0.00039400000241585076,0.018209541973192245,0.04878048780487805,0.2222222222222222
+clahe,sample_600,"is added , not because this is at all relevant","is added , not becouse this is at all relevanf",0.0004826660151593387,0.02483379197656177,0.043478260869565216,0.2
+clahe,sample_601,become so well known that it was,become so well Lnoun that it was,0.0005126670002937317,0.02193049999186769,0.0625,0.14285714285714285
+clahe,sample_602,The proof text of bringing the tithe to the Temple,The proof tent of bringing the tithe tothe Temple,0.0003932500258088112,0.015464541007531807,0.04,0.3
+clahe,sample_605,deals with a similar theme .,deals with a similar thene .,0.0003549579996615648,0.016673542006174102,0.03571428571428571,0.16666666666666666
+clahe,sample_606,and the court of Solomon . ' The place of this,"and the court of Golonon "" The place of this",0.00038141600089147687,0.01512633400852792,0.10869565217391304,0.2727272727272727
+clahe,sample_611,"the court of Shem , the court of Samuel of Ramah ,","the court of shemn , the court of canmrel of famah ,",0.00037495800643227994,0.016953582991845906,0.12,0.25
+clahe,sample_614,One can remember with horror the pictures of the,One can remmber with horror the pictures of the,0.00034745800076052547,0.01612450001994148,0.020833333333333332,0.1111111111111111
+clahe,sample_615,"trends . Crochet today has a variety of uses , and","trends . Crochet today has a varity of wses , and",0.00039766597910784185,0.017117832991061732,0.04,0.18181818181818182
+clahe,sample_622,numerous other crocheted pieces . It was some years,muumeraus ofher crocheted pieces . It was some years,0.000471624982310459,0.017706707993056625,0.0784313725490196,0.2222222222222222
+clahe,sample_623,This could hardly happen without the,Pris could hardly happen witlout fhe,0.00038708298234269023,0.014798707998124883,0.1111111111111111,0.5
+clahe,sample_631,"helped and hindered by water flow ,","tufped and hindered by water fhn ,",0.00039083301089704037,0.014683957997476682,0.17142857142857143,0.2857142857142857
+clahe,sample_633,Thus we can see that herring,Thus we can see that teriing,0.0003589169937185943,0.010930417018244043,0.07142857142857142,0.16666666666666666
+clahe,sample_634,the herring spawn along the northern,tce tirring purn alang tke nhorthern,0.0004798330191988498,0.013974583998788148,0.25,1.0
+clahe,sample_639,are also closely related to the sea-bed,are alss cforely related tothe seanbed,0.0004477079783100635,0.01653358302428387,0.1282051282051282,0.7142857142857143
+clahe,sample_641,a deep-water channel to the Dogger where,a cleepmater chated to the Nogger where,0.000457874994026497,0.015906000015093014,0.2,0.42857142857142855
+clahe,sample_646,"they migrate easterly to the Norwegian side , or westerly , until","they mjrate eartoly to the Normegian slde , or wertorly , natil",0.0005220829916652292,0.018549583008280024,0.16923076923076924,0.5
+clahe,sample_651,The joint evidence of echo-sounders,The frct evidence of echo- saunders,0.0004725419858004898,0.016032999992603436,0.17142857142857143,0.6
+clahe,sample_656,spawn . Some will spawn at the,spown. tame Wiicl spuwn aut hk,0.0005445000133477151,0.018083666014717892,0.36666666666666664,1.0
+clahe,sample_659,The details are harder still to see .,The cetais are tmder stid tosce .,0.0005014170019421726,0.02132374999928288,0.24324324324324326,0.625
+clahe,sample_661,So the arrival of any particular shoal,to fae axsival of an particular sloal,0.00047362499753944576,0.018986500013852492,0.18421052631578946,0.7142857142857143
+clahe,sample_665,fish at a certain spawning ground may,tal at a eertain spamming proemod may,0.0004530829901341349,0.01935558402328752,0.2972972972972973,0.5714285714285714
+clahe,sample_678,longshore fishings . The surface,Longshore fishings . The suface,0.000439791998360306,0.012424707994796336,0.0625,0.4
+clahe,sample_680,with it the herring to the Norfolk,with it the harring to the Nostolke,0.00048216700088232756,0.013688625011127442,0.11764705882352941,0.2857142857142857
+clahe,sample_681,"course - one breeze will not do it ,","cou-one breeye tid hat a il ,",0.0004247079777996987,0.014808125008130446,0.3888888888888889,0.8888888888888888
+clahe,sample_682,but quite apart from this wind effect,but guite apurt from this wrind effet,0.0003239999932702631,0.015209042001515627,0.10810810810810811,0.5714285714285714
+clahe,sample_689,"to this rump of coastline , caused by","to this sunp of coastiine , cansed by",0.0003643750096671283,0.016088083997601643,0.10810810810810811,0.375
+clahe,sample_691,of winds is needed for this effect of,of winds is peeded for this efect of,0.0005272910057101399,0.019425167003646493,0.05405405405405406,0.25
+clahe,sample_694,"Herring fishermen call this "" the outset "" . It","Herring fgnermencall this""he ouoeditt",0.00034266599686816335,0.013626875006593764,0.3404255319148936,0.9
+clahe,sample_699,been the biggest factor through the ages,been thebiggest factarmouygh the ages,0.0003918329894077033,0.013748625002335757,0.175,0.5714285714285714
+clahe,sample_700,in the constancy of this great herring fishery .,in the cenlancyol this greatheringfisnery .,0.0004023750079795718,0.017009624978527427,0.1875,0.5555555555555556
+clahe,sample_703,"to overcome its effect , very few fish would be caught .",to orercome itos ofoot ray few fik uould be anughit .,0.0004600000102072954,0.016934625018620864,0.30357142857142855,0.6666666666666666
+clahe,sample_711,Let us consider first what would,tet us consider first what woula,0.0006024169852025807,0.016727209003875032,0.0625,0.3333333333333333
+clahe,sample_713,to the disturbance .,tothedistwbance . ',0.00039629198727197945,0.008929917006753385,0.3,1.0
+clahe,sample_716,it reaches them . They move away before,it reaches them . They move away before,0.0008682500047143549,0.016780000005383044,0.0,0.0
+clahe,sample_717,"for an unknown period of time , until","for an untnoun periad of time , until",0.0004344170156400651,0.021204166987445205,0.08108108108108109,0.25
+clahe,sample_719,indeed passing over some fish .,irho porinp onssoml fite .,0.000406832987209782,0.014965417009079829,0.5161290322580645,0.8333333333333334
+clahe,sample_725,"field of disturbance , or bow wave . This suggests","Milofciilirbona,orbewwa thismupt ",0.0005458339874166995,0.01813141698949039,0.58,1.0
+clahe,sample_726,Then they stop swimming and are caught . In,Tnthy tter wimig andanaoti !s,0.00041629199404269457,0.020281583012547344,0.5116279069767442,1.0
+clahe,sample_727,Cover in the fast-moving trawl is considered,Crerin the fatmaingtrauslis casisered,0.0004167500010225922,0.019209374993806705,0.3181818181818182,0.8571428571428571
+clahe,sample_729,would seem to be even more essential ;,"wolaseern to be evenmore esentionl ,",0.0004548330034594983,0.023650042014196515,0.2631578947368421,0.75
+clahe,sample_731,essential to catch round fish whose,exsential to catan roun fioh wnase,0.0004925419925712049,0.01950670898077078,0.2,0.8333333333333334
+clahe,sample_732,"fish like haddock , which would hardly",fin lhe nasaackiunion woubhasaly,0.0005078329995740205,0.015192124992609024,0.5263157894736842,1.0
+clahe,sample_735,"find safety on the bottom , this cover",fin sofeyy on thepattornmnigcover .,0.0006507500074803829,0.01798791700275615,0.42105263157894735,0.875
+clahe,sample_739,the victim and inspecting at Waterloo the carriage,the iictim ans i nspectiny at uatelo ane coriagh,0.0007256669923663139,0.0364547909994144,0.24,0.875
+clahe,sample_743,man had been seen fleeing from Vauxhall station on,man has been seen fleaingg from yau hall sration on,0.0005618750001303852,0.02667291698162444,0.12,0.5555555555555556
+clahe,sample_744,"me well meant , some mischievous , including one that a","mewell meant , some nis Chievous , inelusing one that a",0.0008393340103793889,0.02942062501097098,0.10909090909090909,0.45454545454545453
+clahe,sample_745,beyond the jury hearing a formal identification of,begens the jury hearing a formad i d entif i Cation of,0.0006668750138487667,0.033314375003101304,0.18,0.875
+clahe,sample_749,named Brown .,heamed feeown .,0.00041924999095499516,0.021046125009888783,0.38461538461538464,0.6666666666666666
+clahe,sample_750,trails . It was learned that Elizabeth Camp had been lending,trails. It was learned that Elizabeth Camp had been leansing,0.0006321249820757657,0.03184325000620447,0.05,0.2727272727272727
+clahe,sample_757,at Wandsworth . A passenger described this individual,at Wandsworh . A passenger deseribed this ingividval,0.0006200409843586385,0.028316040989011526,0.07547169811320754,0.375
+clahe,sample_762,"defective , and , despite his claim to infamy ,","defective , and , deseite his claim to infamy ,",0.0008640419982839376,0.02261712501058355,0.02127659574468085,0.1
+clahe,sample_769,had been nowhere near the 7.42 that evening .,had been nownere near the til2 that evening .,0.0005678329907823354,0.025966249988414347,0.08888888888888889,0.2222222222222222
+clahe,sample_777,sinister in the idea of tunnels . The building of,sinister in the iea of tunnels . The bailding of,0.0005720409972127527,0.020786125009180978,0.04081632653061224,0.2
+clahe,sample_778,solution emerged . There has always been something,sodution emerged . There has aways been sonelhing,0.00048491600318811834,0.020830416993703693,0.08,0.375
+clahe,sample_781,were many people who believed that to travel,were many people who beliered that to travel,0.0004330420051701367,0.02078312501544133,0.022727272727272728,0.125
+clahe,sample_784,a further seven years before even a ghost of a,a further seven years hefore even a ghost of a,0.0005301249912008643,0.021289124997565523,0.021739130434782608,0.1
+clahe,sample_788,"by it will be so heartily sick , what with the",by it will be So heactilf sick  what wien the,0.0004835000145249069,0.029295291984453797,0.15217391304347827,0.36363636363636365
+clahe,sample_795,"said , "" the deafening peal of thunder , the sudden","saih , "" the deafering peal of thunaee, the sugalen",0.0007706250180490315,0.026108082995051518,0.1568627450980392,0.45454545454545453
+clahe,sample_797,"immersion in gloom , and the clash of reverberated","immEssion in ploom , and the clash ef Eevecberated",0.0007755830010864884,0.033132416021544486,0.12,0.4444444444444444
+clahe,sample_798,darkness .,dactness .,0.00026520900428295135,0.006462749995989725,0.2,0.5
+clahe,sample_799,passengers would be robbed and assaulted in the,sassengeis wald be robbed and assaulkey in the,0.0007946660043671727,0.029946166003355756,0.1276595744680851,0.375
+clahe,sample_800,"of annihilation . "" It was also prophesied that",of anninilationlt was also peophesie that,0.0007186669972725213,0.027192375011509284,0.19148936170212766,0.5555555555555556
+clahe,sample_803,sounds in a confined space combine to produce a,soungs in a confine sface comline to peouce a,0.0007235829834826291,0.028366874990751967,0.1276595744680851,0.5555555555555556
+clahe,sample_807,"For all that , as far as England is concerned ,","for all that , as far ay Englad is concemned ,",0.00046812501386739314,0.02431508299196139,0.0851063829787234,0.36363636363636365
+clahe,sample_817,Though in the minds of most people there was,Thouyh in the minds of nost peqpbe theve wo,0.0005562500155065209,0.024398916983045638,0.1590909090909091,0.5555555555555556
+clahe,sample_818,"Brighton line , is approximately one mile long ,","Briguton line , is approrimatel y one mile long ,",0.0005851250025443733,0.024816125020151958,0.0625,0.3333333333333333
+clahe,sample_819,was not sufficient evidence to show whether,wat not sufficient eridence to slow whether,0.0006267499993555248,0.03799316700315103,0.06976744186046512,0.42857142857142855
+clahe,sample_820,and some time before midnight on September,and Sowe time before midnighy on september,0.0008979159756563604,0.028381832991726696,0.09523809523809523,0.42857142857142855
+clahe,sample_823,"Was it a case of suicide , where some unhappy soul","Wasit a case of suicide , Whee same unheppy soul",0.0004619169922079891,0.019691458001034334,0.1,0.45454545454545453
+clahe,sample_824,"doctor , the woman , young , small , and rather plump ,","doctor the woman , young  small andrather plumnp .",0.0005949589831288904,0.022890666004968807,0.16363636363636364,0.5384615384615384
+clahe,sample_829,thrust in her mouth like a gag .,thurst in her . Mouth like a gag,0.0009230419818777591,0.0290380000078585,0.21875,0.5
+clahe,sample_831,was found to have her own silk scarf drawn,Was found to have herown siln scarf otrawn,0.0004599579842761159,0.020252290996722877,0.11904761904761904,0.5555555555555556
+clahe,sample_834,"fication , no money , and no railway ticket . By then","ficationno money , andno railway ticnet . By then",0.0004895839956589043,0.017886374989757314,0.09433962264150944,0.5
+clahe,sample_835,occurred before her death was ensured by some,occurred before her death was ensured by some,0.00042937498074024916,0.020714375015813857,0.0,0.0
+clahe,sample_836,"this stretch of line , but no information was","this stretch of line , but ho intormation was",0.00047970798914320767,0.01789595899754204,0.044444444444444446,0.2222222222222222
+clahe,sample_839,which might relate .,Which might relate .,0.00026712502585723996,0.008569207973778248,0.05,0.25
+clahe,sample_841,and there were other injuries on her body which had,and there were other injuvies on her hody which had,0.0004926249966956675,0.02247970798634924,0.0392156862745098,0.2
+clahe,sample_843,no letters or papers found on her to assist identi,"no lettars or papers fouud on her to assist idont ,",0.0006308329757303,0.023714917013421655,0.1,0.4
+clahe,sample_846,"circulated , and a Mr Robert Money came forward to","cireulated , and a ur Robert noney cane forward to",0.0007579579832963645,0.03392212500330061,0.08,0.4
+clahe,sample_854,"jolly , "" had been unmarried , and lived at Lavender Hill ,","Jolly '  "" nad been unuarried , and lived at Lavender rill ,",0.0005545000021811575,0.029687207977985963,0.0847457627118644,0.38461538461538464
+clahe,sample_855,"evening at about seven o'clock , telling her room-mate , Emma","evaniny at about seven o"" clock , telling ner rook-Mate , Earka",0.000720290991012007,0.03807529201731086,0.16393442622950818,0.5454545454545454
+clahe,sample_856,purse .,aniiSR .,0.00038329101516865194,0.007329874992137775,0.8571428571428571,0.5
+clahe,sample_859,"carrying a handbag , but she believed she had had a small","carrying a hanbag , but sne belived she nad nad a small",0.0011577499972190708,0.035739459010073915,0.08771929824561403,0.4166666666666667
+clahe,sample_860,"gone for long . According to Miss Hone , she had not been","Bone for loup. According to Miss Houe , she nad not been",0.0006158750038594007,0.03221800000756048,0.10526315789473684,0.38461538461538464
+clahe,sample_861,rican would not say ; nothing an,"rican would not say , nothig an",0.0004316669947002083,0.01766808397951536,0.0625,0.2857142857142857
+clahe,sample_863,glishman would not do ; nothing an Ame-,gtishman would not do ; nothing an Ame,0.00036083298618905246,0.0162490000075195,0.05128205128205128,0.25
+clahe,sample_864,SOME years ago a contemporary philosopher,SOME yeard ago a contemporary philosophen,0.00043262497638352215,0.01723183400463313,0.04878048780487805,0.3333333333333333
+clahe,sample_867,told us that there was nothing an En-,fold u that there was nothing an lu-,0.0005122910079080611,0.021122959005879238,0.10810810810810811,0.375
+clahe,sample_869,not covet ; and nothing the Chinese,not covef ; and nothing the Cinete,0.0004462920187506825,0.018348999990848824,0.08571428571428572,0.2857142857142857
+clahe,sample_875,music to which the Frenchman would not dance ;,music te whiicd the Ftrenchiman woufinetdaineeis s,0.0004959589859936386,0.02552779100369662,0.32608695652173914,0.7777777777777778
+clahe,sample_878,hold forth from a spear the welcome gobbet of,Rold firth froin a syear the Welcome gotbef of,0.0003209999995306134,0.01652445798390545,0.17777777777777778,0.6666666666666666
+clahe,sample_882,borrowed straight from the prehistoric . How,borrowsed straigtt fromn thr prebistoria . Hfou,0.0005703749775420874,0.013312333001522347,0.18181818181818182,0.8571428571428571
+clahe,sample_884,Suffice to say that few of us stop to marvel at,Guffice to say thaet few of us stop to marvel at,0.00045216697617433965,0.016468875022837892,0.0425531914893617,0.18181818181818182
+clahe,sample_888,How many centuries later did the mercenary in,fow many centuries lates did the mercenary in,0.0003647909907158464,0.01850187499076128,0.044444444444444446,0.25
+clahe,sample_890,later still the young Victorian buck adventuring,later atill thr young Victorian buck adventuri,0.00044083400280214846,0.017282792017795146,0.08333333333333333,0.42857142857142855
+clahe,sample_894,"And , if certain dishes and modes of food have","tnd ,if certain diskes aund mods of food fars",0.0006061659951228648,0.015621875005308539,0.17391304347826086,0.7
+clahe,sample_897,always been strong in mankind . The sharing of,sliap teen stonp in manbind . The sharing of,0.0006958339945413172,0.018303457996807992,0.17391304347826086,0.4444444444444444
+clahe,sample_898,day ; the desire to share something more intimate,desissthdsine to shere som ting more intiiniate,0.0005975000094622374,0.019597875012550503,0.30612244897959184,0.8888888888888888
+clahe,sample_900,a meal in those earliest dangerous days was an,aemd  sthaeearlieit idangrour eayp Wrajiae,0.0005399590008892119,0.01953366701491177,0.45652173913043476,1.0
+clahe,sample_904,tation affords an opportunity of,tation affords anopportunity of,0.00042808399302884936,0.016636749991448596,0.03125,0.4
+clahe,sample_905,It is a far enough cry from the primitive,Aiscifanenoagheeafsnaprinitive,0.00035408299299888313,0.01808233401970938,0.5609756097560976,1.0
+clahe,sample_909,groaned under its load of complicated,gjrganed undar its load of compleicuteed,0.0003777919919230044,0.017495208012405783,0.16216216216216217,0.5
+clahe,sample_920,"those days , as ever , ate sparingly , but","those dnns , as ever , ate sparingl' , bu",0.00042183298501186073,0.01591629200265743,0.09523809523809523,0.3
+clahe,sample_923,by Catherine de Medici . The peasant in,bu Catherine do Jledici . The peasantin,0.0003766670124605298,0.016513332986505702,0.1282051282051282,0.625
+clahe,sample_926,"Epicures and gourmands , sated by the unending","Epicures an gourmands , sated by the unending",0.0004474999732337892,0.02329729200573638,0.021739130434782608,0.125
+clahe,sample_928,of the 18th century - that amazing epoch of,of the 18th century -thatt amaeing epach of,0.0004760000156238675,0.027468707994557917,0.09302325581395349,0.4444444444444444
+clahe,sample_929,"intelligent selection and comparative simplicity , though","intelligentf selection and comparative simplicify , thoogn",0.0006433330127038062,0.026683292002417147,0.07017543859649122,0.42857142857142855
+clahe,sample_931,nowadays their simplified meals would seem quite,nowadays their simplifield menils wauld seem avite,0.0007148750009946525,0.026415458996780217,0.125,0.5714285714285714
+clahe,sample_934,"of gorging the eye with magnitude ,",of genrgins the ee with amagenitude,0.000454624998383224,0.017707791994325817,0.22857142857142856,0.5714285714285714
+clahe,sample_935,"simplicity , though nowadays their",siiplieitiitthoush nnowaa aein,0.0004117499920539558,0.01720449997810647,0.4117647058823529,1.0
+clahe,sample_936,"the dishes of the country , and , instead",theadishesotthesatannenadiinsteil,0.00042058300459757447,0.02033570801722817,0.4878048780487805,1.0
+clahe,sample_940,simplified meals would seem quite,snmplified meals would seem Oruife,0.0005453749909065664,0.01950641701114364,0.12121212121212122,0.4
+clahe,sample_944,unending procession of dishes from those,unending procession ofUlishes from thase,0.0005034169880673289,0.018764957989333197,0.075,0.5
+clahe,sample_946,"water and food ? The ancient Britons , I believe , used to","mater and foadt he ancient Brtons , )believe , usegd to",0.0006765830039512366,0.03304958398803137,0.15517241379310345,0.6153846153846154
+clahe,sample_949,his birthright to him for a mess of pottage - and,his birthrignt to him for a mess of pottage - and,0.0009335000067949295,0.02608412501285784,0.02040816326530612,0.09090909090909091
+clahe,sample_950,which the Israelites sighed .,whichn the lsraelites sighed .,0.0006184579979162663,0.026493791985558346,0.06896551724137931,0.4
+clahe,sample_953,"Does one , however , know who first thought","fres one , houever lenow who first thousht",0.0008662079926580191,0.02371750000747852,0.16279069767441862,0.5555555555555556
+clahe,sample_959,"would , because Esau sold his birthright","Gould , becanse Esan sodd his toirthigbty",0.000497333996463567,0.021377541008405387,0.225,0.7142857142857143
+clahe,sample_963,When Achilles gave a royal feast the principal dish,When Achiilles gave a rayal feast the principal disgh,0.0006123329803813249,0.029432375013129786,0.058823529411764705,0.3333333333333333
+clahe,sample_970,"Anyhow , Homer does not seem to have known any","Anthou , ttomer does not seemn to have lnoun any",0.0008033750054892153,0.031171207985607907,0.15217391304347827,0.4
+clahe,sample_971,"how to do it , too : - When the languid flames at","how to do it , too :- When the languid flames at",0.0005517079844139516,0.02693395799724385,0.02040816326530612,0.15384615384615385
+clahe,sample_972,"Anyhow , Homer does not seem to have","AniVhow , Homa , dloes not seenm To ha v e",0.0007457089959643781,0.02135091699892655,0.2777777777777778,1.125
+clahe,sample_976,throws a bed of glowing embers wide ;,Arrows abed of flowing embes wide ;,0.0005256249860394746,0.021464999997988343,0.13513513513513514,0.625
+clahe,sample_980,"dish was a grill , which he cooked himself ,","dish wus a grill , whick he cockied himieef ,",0.0004753749817609787,0.02192575001390651,0.13636363636363635,0.4
+clahe,sample_981,Achilles gave a royal feast the principal,"Hchilles cave "" noval feast the principal",0.0006064999906811863,0.01743770798202604,0.12195121951219512,0.5714285714285714
+clahe,sample_982,known any way of cooking meat,lnown an way of cookirng meut,0.00039450000622309744,0.01773216700530611,0.13793103448275862,0.6666666666666666
+clahe,sample_983,and intellect . A remarkable peculiarity in the banquets,and intellect . A remarkable peculiarity in the banquets,0.0005122910079080611,0.020940457994583994,0.0,0.0
+clahe,sample_987,confine the resources of the table to the gratification,confine the resources of the table to the gratification,0.000553416000911966,0.023866667004767805,0.0,0.0
+clahe,sample_989,of one sense alone . Having exhausted their invention,of one senise alone ttaving exhausted their invention,0.0005777500045951456,0.028733583982102573,0.07547169811320754,0.3333333333333333
+clahe,sample_996,"perfumes , these refined voluptuaries aroused the",perfumnesthese refined waluptuaries acoused the,0.0009141250047832727,0.031130457995459437,0.14285714285714285,0.7142857142857143
+clahe,sample_999,of fruits .,of fruits .,0.0004196670197416097,0.00813233299413696,0.0,0.0
+clahe,sample_1000,fainting appetite and added a more exquisite and,fainting appetite and aded a more exqvisite and,0.0009527090005576611,0.026530707982601598,0.041666666666666664,0.25
+clahe,sample_1001,They considered flowers as forming a very essential,They consigered flowers as forming a very essential,0.0005366670084185898,0.02644424999016337,0.0196078431372549,0.125
+clahe,sample_1004,traveller occasionally encounters a certain,fraveller occatonally encontiens a cerfain,0.000464374985313043,0.024154666025424376,0.16279069767441862,0.8
+clahe,sample_1006,measure of novelty .,heasute of noveltyg .,0.00037895902642048895,0.01385299998219125,0.15,0.5
+clahe,sample_1012,piece of resistance .,piece of resvstance .,0.0003396660031285137,0.010616415995173156,0.047619047619047616,0.25
+clahe,sample_1013,a delicacy . The visitor is told that,a dehicacy . iefhe vinttor is t old tahat,0.0004778750007972121,0.01580387499416247,0.21621621621621623,0.75
+clahe,sample_1018,"alive , dipped in treacle and swallowed","alive , dupped in fireae and awaltowed",0.0003701670211739838,0.016968292009551078,0.1794871794871795,0.42857142857142855
+clahe,sample_1019,"from eating it fresh , squash it , press","from eating is fresh y sghrak it , prer",0.000598666985752061,0.015567458991426975,0.225,0.4444444444444444
+clahe,sample_1020,roasted on the point of a spear are,roased on the poit off a Bpear orre,0.0004969580040778965,0.0182867499825079,0.17142857142857143,0.625
+clahe,sample_1021,peoples have a high opinion of the octopus,peoples have a high opinnon of the oopu,0.00047087500570341945,0.02135220798663795,0.09523809523809523,0.25
+clahe,sample_1022,as an article of diet . So have the Japanese,"as an artice of diet ;, Do hawv e the Sapanere",0.00044387500383891165,0.021695375005947426,0.18181818181818182,0.6
+clahe,sample_1023,Among the natives of Northern Australia lizards,pmmong the netives of Gforthern ftralian linzandy,0.0005784169770777225,0.019193792017176747,0.2553191489361702,0.7142857142857143
+clahe,sample_1024,of it in almost any provision shop .,of it i almost any Rroviuon stop .,0.0005815000040456653,0.021698333002859727,0.1388888888888889,0.375
+clahe,sample_1026,"over with flour , you will find a stack","over with flour , you will find a sfock",0.0005077499954495579,0.02179450000403449,0.05128205128205128,0.1111111111111111
+clahe,sample_1027,"and the Chinese . The Celestials , apart","and the chinese . ffe celestials , apart",0.00042095797834917903,0.0183245420048479,0.1,0.375
+clahe,sample_1028,"it and dry it , in which form , dusted","Af and dury it , i which gorm , dusted",0.0004137920041102916,0.021244707982987165,0.13157894736842105,0.4
+clahe,sample_1031,provides many Magyar dishes with a vivid and brilliant,pjsries many Magyar dishes with a resid andpriaat,0.0005861250101588666,0.025574999977834523,0.24074074074074073,0.4444444444444444
+clahe,sample_1033,Hungary would have been deprived of the condiment which,Aisigseessnaeseenpngestsafithe skieehch,0.0006012090016156435,0.027360707987099886,0.7090909090909091,1.0
+clahe,sample_1039,"fire , aerian creams , ingenious pastries and a",fieraeiaseeasiningemousapastjeg eekee,0.0005704999784938991,0.025506915990263224,0.5106382978723404,1.0
+clahe,sample_1042,"cookery is reminiscent of bull-fights , of Spanish dancing","cGetseyisineniniscent of bullnfights , of gpoeish daeins",0.0005754159938078374,0.03150395801640116,0.27586206896551724,0.6666666666666666
+clahe,sample_1047,"streaks of poetry , meat disguised under heavy and vehement","straesifipsetry , meat diguised under heav andnnefenat",0.0006049579824320972,0.02605870901606977,0.23728813559322035,0.7
+clahe,sample_1051,the meats with their antithesis . The,the mneats with their antithesis . The,0.0006087500078137964,0.03104770800564438,0.02702702702702703,0.14285714285714285
+clahe,sample_1052,opulent varieties of Czechoslovak past-,opulent warieties of ceechasloal past-,0.0009296250063925982,0.03543491699383594,0.15384615384615385,0.4
+clahe,sample_1054,"essentially French , and , irrespective of","essentially Fiench , and , irrespeetive of",0.000491542014060542,0.024363417003769428,0.047619047619047616,0.2857142857142857
+clahe,sample_1060,"touch , the same unfailing sense of",touchithe same unfailing sense of,0.00042158400174230337,0.020785875007277355,0.08571428571428572,0.42857142857142855
+clahe,sample_1061,proportion as exists among her,proportion as exists among her,0.0005049580067861825,0.021930832997895777,0.0,0.0
+clahe,sample_1063,exponents of things that are,expenents of things that are,0.0003830839996226132,0.019241832982515916,0.03571428571428571,0.2
+clahe,sample_1075,the same unfailing sense of proportion as exists among,thesame untaihingsunsest prepetien as exists ameng,0.0004977920034434646,0.02186266699573025,0.24074074074074073,0.7777777777777778
+clahe,sample_1082,waxed enthusiastic about Bouilla-,waxed enthusiaistie about seouillas,0.0005643329932354391,0.030224041984183714,0.15151515151515152,0.5
+clahe,sample_1089,prepared at least once a week in every bourgeois,prepared at least once a wek in every bourgeois,0.0005124579765833914,0.020563957979902625,0.020833333333333332,0.1111111111111111
+clahe,sample_1091,A hotch-potch of all sorts of fishes That Greenwich,Aftteh-pech of all sorts of fishes That Breeneih,0.0006484579935204238,0.02390945900697261,0.17647058823529413,0.3333333333333333
+clahe,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,","neledishii"" A sort of soup , or Brothr er breci ,",0.000520166999194771,0.02156958301202394,0.24528301886792453,0.5333333333333333
+clahe,sample_1101,fast and supper consisted of a,fast and supper consisted of a,0.000554209022084251,0.02353416697587818,0.0,0.0
+clahe,sample_1106,intellectual faculties . Bunyan's break-,intelleetual faculties.xeunyanis break,0.0006299579981714487,0.02466241698130034,0.15,1.0
+clahe,sample_1110,breakfast and supper consisted of a piece of coarse bread,fiealff and snpper consinted ofa piece of conse bread,0.0004245000018272549,0.013009582995437086,0.19298245614035087,0.6
+clahe,sample_1113,"had a great contempt for animal food , believing that","lid a grent conkenpt for aimal frod , Geleving that",0.0005513329815585166,0.011900750017957762,0.16981132075471697,0.6
+clahe,sample_1114,A fascinating study also opens up in the dietary,o forcinating stdy alio gqes u in the cetugg,0.0003709580050781369,0.010270917002344504,0.2916666666666667,0.7777777777777778
+clahe,sample_1118,been blind to the charms of turbot and,been blind to the eharms of turbot and,0.0005411669844761491,0.032697125017875805,0.02631578947368421,0.125
+clahe,sample_1119,in the dish in which it was served . He,in the dlish in which it was seved-tte,0.0008770419808570296,0.02868683301494457,0.15384615384615385,0.4
+clahe,sample_1125,removed first .,remored fist .,0.0002731249842327088,0.004907334019662812,0.13333333333333333,0.6666666666666666
+clahe,sample_1126,dinner he is said to have been blind to the charms of,dimer be in aaid to have baen blind to the charmns of,0.0003966249933000654,0.01758337498176843,0.1320754716981132,0.5
+clahe,sample_1127,turbot and to have been much more interested in the,fbot and to have been mmch move intoeted in the,0.0005310409760568291,0.019619875005446374,0.1568627450980392,0.4
+clahe,sample_1133,"with Dickens says the menu was Whitstable oysters , a brown","will Dickons augs the menn was Wlittibll ogrkis , a brovs",0.0005236660072114319,0.015785083989612758,0.3050847457627119,0.6363636363636364
+clahe,sample_1135,placing his food in his mouth and gulping it down as,plaing hin food in his monbll and gulping it doun ans,0.0003938750014640391,0.01500537499669008,0.15384615384615385,0.45454545454545453
+clahe,sample_1142,"The same man went to see Carlyle , and , after mentioning","dle ame mnan west tos Curbgle and , efhe natioring",0.00035170899354852736,0.00973683298798278,0.3508771929824561,0.8333333333333334
+clahe,sample_1144,"him was the French Admiral , Jean de Vienne -","hi wa the French tdmial , ean de Uienae-",0.000840084016090259,0.03221312499954365,0.17777777777777778,0.6
+clahe,sample_1145,"leadership . But , at last , Gaunt sailed . Opposing","ieadership . But , at lat , Gout sailed . Opposing",0.0007647500024177134,0.021712499990826473,0.07692307692307693,0.2727272727272727
+clahe,sample_1146,who still believed that they had a monopoly of,who still believed that they had a monopaly of,0.0004470839921850711,0.023555457999464124,0.021739130434782608,0.1111111111111111
+clahe,sample_1151,"something to show , he foolishly attempted to besiege","something to show , he fodishly attempted to besiege",0.00043916699360124767,0.024524707987438887,0.03773584905660377,0.1111111111111111
+clahe,sample_1152,on land . Gaunt was compelled to give up his search for,on land . Gaunt was compelled to give up his search for,0.0005030829925090075,0.02221262501552701,0.0,0.0
+clahe,sample_1154,"an elusive foe , and , afraid to return home without","an elusive fie "" and , afraid to retuin home without",0.0005377499910537153,0.029405209003016353,0.057692307692307696,0.2727272727272727
+clahe,sample_1155,"which Gaunt , under the Black Prince , had shown","which Gaunt , under the Black Frince , had shoun",0.0005596249829977751,0.0257582500053104,0.041666666666666664,0.2
+clahe,sample_1157,trouble at sea as cleverly as Du Guesclin avoided it,Frauble at sea as cleverly as Dn Gvesclin avoided it,0.0005781250074505806,0.02528279199032113,0.07692307692307693,0.3
+clahe,sample_1160,comparing the failure of a subsidized duke,conparig the foilwre of a subidiges die,0.00046195898903533816,0.015183165989583358,0.21428571428571427,0.5714285714285714
+clahe,sample_1161,"When all seemed to be going well , a sortie surprised","Wheu oll ssemed to be going well , s oortie ourpriseo",0.0004697499971371144,0.016063749993918464,0.1320754716981132,0.5454545454545454
+clahe,sample_1162,fame and glory . Gaunt was compelled to return,foue and glary . Pout was compelle to retun,0.0005592499801423401,0.018367957993177697,0.17391304347826086,0.5555555555555556
+clahe,sample_1164,"even despised failure . The ' ribald ' Londoners , who","oven dspised feili . The ribald , Loudoner , who",0.0003441660082899034,0.01901941598043777,0.2037037037037037,0.5454545454545454
+clahe,sample_1165,the longbows of yeomen could pierce the,the lougbows of yeomen could pierce the,0.00043787501635961235,0.013931292021879926,0.02564102564102564,0.14285714285714285
+clahe,sample_1169,"and that , if archers had no target , campaigns","aud thatiif ardes had w togget , compegus",0.00042479101102799177,0.015154624998103827,0.3191489361702128,0.8
+clahe,sample_1170,"after the event . It seems obvious that , though","after the event . It seems obvious thot , thagh",0.00033145799534395337,0.014806666993536055,0.0625,0.2
+clahe,sample_1180,command of the Channel . It seems obvious,command of the Chsuvel . It wems oriovs,0.00041062498348765075,0.019115625007543713,0.1951219512195122,0.375
+clahe,sample_1183,the story of the prelude to the,the stort of the prelude to the,0.00047766699572093785,0.02252670901361853,0.03225806451612903,0.14285714285714285
+clahe,sample_1186,to which the Exchequer resorted is,to which the Exchequesir resorted is,0.0004964999970979989,0.02596487500704825,0.058823529411764705,0.16666666666666666
+clahe,sample_1187,hammering out nations on the anvils of,hammering out nations on the anvils of,0.0004921249928884208,0.03249287500511855,0.0,0.0
+clahe,sample_1191,"war , there was a constant stirring of","war , there was a constant stirring of",0.0005266660009510815,0.025453167007071897,0.0,0.0
+clahe,sample_1195,taxation not merely for defence and,taxation hot merely for defence and,0.000576916994759813,0.023162333003710955,0.02857142857142857,0.16666666666666666
+clahe,sample_1196,the private wealth of the monarchy,the Brirate wealth of the monarcky,0.0005037499940954149,0.030267875001300126,0.08823529411764706,0.3333333333333333
+clahe,sample_1198,ceptions of governmental duties must be,ceptions of governmental duties must be,0.0007887920073699206,0.02418174999183975,0.0,0.0
+clahe,sample_1202,social services . A mediaeval oligarchy,social services . A mediaeval oligarchy,0.0006242500094231218,0.02050404198234901,0.0,0.0
+clahe,sample_1204,Social service as a function of government,Sociol servise os a tunction of government,0.0005038749950472265,0.02692554099485278,0.09523809523809523,0.5714285714285714
+clahe,sample_1206,it was therefore always granted grudgingly,it nas theretore always gronted gruagingly,0.0004957919882144779,0.02620875000138767,0.09523809523809523,0.6666666666666666
+clahe,sample_1207,return was the uncertain bounty of booty,return was the uncertain bounty of booty,0.0006339169922284782,0.03492687499965541,0.0,0.0
+clahe,sample_1216,the unsuccessful . But the Commons were not,the unsuccesstul . But the commons were not,0.0006431669753510505,0.035284250014228746,0.046511627906976744,0.25
+clahe,sample_1219,"accounts , and even at times the impeachment of","accounts , and even at times the impeachment of",0.000595041987253353,0.03278487498755567,0.0,0.0
+clahe,sample_1222,When ' his ' war did not bring victory and,When his' wor did not bring victory and,0.0005738330073654652,0.026260375016136095,0.09523809523809523,0.4
+clahe,sample_1225,"successful farmers , the artisans , craftsmen ,","successtul tormers , the ortisans , cratismnen l",0.0005458749947138131,0.028041374986059964,0.1702127659574468,0.625
+clahe,sample_1226,"towns , and the retainers and men-at-arms","towns , and the retainers and men-at-arms",0.0005271669942885637,0.0318837080267258,0.0,0.0
+clahe,sample_1227,"had bought their release , free labourers","had bought their release , free lobourers",0.0005634579865727574,0.0264132920128759,0.024390243902439025,0.14285714285714285
+clahe,sample_1232,feudal obligations of work or villeins who,Feuol obligotions of work or villeins who,0.000512166996486485,0.02765474998159334,0.09523809523809523,0.2857142857142857
+clahe,sample_1233,"None of these classes , except the yeomen , paid or","nant of thete elares , ereapt the yeomen , paid or",0.00040962500497698784,0.018812458001775667,0.19607843137254902,0.36363636363636365
+clahe,sample_1235,financing the Exchequer had become stabilized .,"financi the Prechieguer had became Pabilised ,",0.0003845419851131737,0.01610558299580589,0.2553191489361702,0.7142857142857143
+clahe,sample_1236,expected to pay direct taxes . During the four-,spected to pay oireet tanees . Muiny the foin-,0.0003325830039102584,0.0140008750022389,0.23404255319148937,0.5555555555555556
+clahe,sample_1239,"prices , quality and tax could be efficiently su-","piaes , quality and oe coulol be efficienly p.",0.0003820830024778843,0.017147500009741634,0.22448979591836735,0.5555555555555556
+clahe,sample_1244,"the foreign merchants , with whom the King's","the forejn merchaiy , which whan the lirgy'ss",0.00039937501423992217,0.018200958002125844,0.29545454545454547,0.625
+clahe,sample_1245,sanction at a rate roughly fifty per cent in,sanctian at arakh roughly tity per centin,0.00047087500570341945,0.0173162920109462,0.1590909090909091,0.6666666666666666
+clahe,sample_1248,"at ' colloquies of merchants ' , and whose","af "" cllguies of iTerchanls ' ""  anl whate",0.0006983749917708337,0.01911833300255239,0.2857142857142857,0.7777777777777778
+clahe,sample_1250,There were two other sources of public revenue -,There nerltwo other souvees of public rerenne-,0.0005428330041468143,0.019647416978841648,0.16666666666666666,0.5555555555555556
+clahe,sample_1251,excess of the rate for native merchants .,weuen ofthe robfar native mrclanly .,0.0006345830042846501,0.021847958996659145,0.36585365853658536,0.75
+clahe,sample_1253,"In addition to these revenues , the King had the","In aditian to these revemus , the ling had the",0.00041133302147500217,0.013440124981570989,0.10416666666666667,0.3
+clahe,sample_1255,"and national war , and in which the comparati-","and national war , anl enwhiille the canpparati",0.0006623330118600279,0.022894374997122213,0.2391304347826087,0.4444444444444444
+clahe,sample_1256,"It was , therefore , a complicated and not very","It way , therefore , a camplicatad anet nat beny",0.0007336670241784304,0.02179075000458397,0.1702127659574468,0.5
+clahe,sample_1257,as ill-defined as the borders between private,ax iffolified as thl borlay hetreen prival,0.0007752919918857515,0.02297483300208114,0.35555555555555557,0.8571428571428571
+clahe,sample_1262,borders between private and public purse were,border betrreen privai and putlc plite wert,0.0007298749987967312,0.022519207996083423,0.24444444444444444,0.8571428571428571
+clahe,sample_1267,scale of payments was fixed for the,scale of payments was fixed for the,0.0014975840167608112,0.022072916995966807,0.0,0.0
+clahe,sample_1268,payments demanded . The definition of an,payments demanded . The detinition of an,0.0005424580012913793,0.025705084000946954,0.025,0.14285714285714285
+clahe,sample_1274,the results disappointing - a tax estimated,the resalts disappoitinng - a taxk e stimated,0.0006719169905409217,0.026809083006810397,0.11627906976744186,0.7142857142857143
+clahe,sample_1276,Again the resentment was widespread and,Again the resentmnent was widespreal and,0.0006492079992312938,0.023480292002204806,0.05128205128205128,0.3333333333333333
+clahe,sample_1279,with hostelries and lodgings .,with hostelries and lodgings .,0.0004542090173345059,0.02794229201390408,0.0,0.0
+clahe,sample_1282,There were dark reasons for a meeting so,Tnere were dark reasony for a meeting so,0.0005410830199252814,0.024092541978461668,0.05,0.25
+clahe,sample_1284,from the chronicles that this was a sordid,From the chroaicles that this was a sordid,0.0005745830130763352,0.03041620898875408,0.047619047619047616,0.25
+clahe,sample_1286,baronage with rarer luxuries than those,baronage with rarer lnxurics than those,0.00047512497985735536,0.02347466701758094,0.05128205128205128,0.16666666666666666
+clahe,sample_1287,quarrel between monopolists and interlopers .,auarrel between moaopolists and inferlopes .,0.0005992080259602517,0.0222490000014659,0.08888888888888889,0.5
+clahe,sample_1291,"chant from Genoa had been murdered , and","chaat Prom Geno"" had been murdered , and",0.0005219999875407666,0.026291500020306557,0.075,0.375
+clahe,sample_1293,the suggestion that the rich should help,the pugyestin Phat the nich ptouklhey,0.0006353750068228692,0.026324375008698553,0.3,0.7142857142857143
+clahe,sample_1298,"three times the rate would produce 66,000 .",prrefimstteniewouldjtotmebtoer .,0.000469459017040208,0.022448584000812843,0.6046511627906976,0.875
+clahe,sample_1300,The only concession made in view of the,The only conession qruteinNieof the,0.0005389169964473695,0.01931604099809192,0.2564102564102564,0.625
+clahe,sample_1301,because no machinery was provided for,Neneeqotochinng weo frvided for,0.00042670799302868545,0.015876124991336837,0.4594594594594595,0.8333333333333334
+clahe,sample_1304,ments alternate with rests and are seen best in cold animals,ments alternate with rests and are seen best in cold animals,0.0006187499966472387,0.04042245799791999,0.0,0.0
+clahe,sample_1307,In Chapter Two he gauged the nature of the heart's movements,In Chapter two he ganged the nature of the heast 's movements,0.000551957986317575,0.02082583401352167,0.06666666666666667,0.36363636363636365
+clahe,sample_1308,"such as serpents , frogs , and the like .","such as serpents , frogs , and the hihke .",0.0004412079870235175,0.012792458001058549,0.04878048780487805,0.1
+clahe,sample_1313,"of the apex , the thickening of the heart walls , and","of the apex , the thickening of the heart walls , and",0.0007498750055674464,0.018856584007153288,0.0,0.0
+clahe,sample_1314,"the dissections of living animals , Harvey noted that","the dissections of living animals , Harvey noted that",0.00041708300705067813,0.020068541984073818,0.0,0.0
+clahe,sample_1316,"systole , simultaneously with dilatation of the arteries","spstale,simaltanesusly with dilatation of the arteries",0.0005383329989854246,0.024619500007247552,0.10714285714285714,0.375
+clahe,sample_1325,ventricular contraction . During cutting or puncture of,ventricular contraction . Ouing cutting or pencture of,0.00045637498260475695,0.019420750002609566,0.05454545454545454,0.25
+clahe,sample_1326,"the ventricles , there is often forcible expulsion","the ventricles , there is often forcible expulsion",0.00045712501741945744,0.019289957999717444,0.0,0.0
+clahe,sample_1327,of blood from the wound . Arterial diastole is,of blood fron the wand . Arterial diastole is,0.0005425839917734265,0.020236290991306305,0.06521739130434782,0.2222222222222222
+clahe,sample_1328,"hindered by compression , infarction or inter-","hindered by canprension , infarction or inter-",0.0005103749863337725,0.02738558399141766,0.06521739130434782,0.14285714285714285
+clahe,sample_1330,"thus synchronous with cardiac systole but ,","thus synchronous with cardiac systole bit ,",0.0005987500189803541,0.027056457998696715,0.023255813953488372,0.14285714285714285
+clahe,sample_1331,one can sometimes see it - so to speak,one ran sometimes it - so to sppak,0.0007842920022085309,0.02667491600732319,0.15789473684210525,0.3333333333333333
+clahe,sample_1334,"three auricular beats , produce a single","three auviralar beats , produre a single",0.0009170839912258089,0.0239059159939643,0.1,0.2857142857142857
+clahe,sample_1336,ventricular one slowly and,ventriralar ovie slowly eort and,0.0005912920169066638,0.02564658402116038,0.34615384615384615,0.75
+clahe,sample_1339,business no good George would never conceal them .,Biipinets no pod feope would wever conceal tem .,0.0009242499945685267,0.025556833017617464,0.24,0.5555555555555556
+clahe,sample_1340,"would have nothing to do with him , others","would hade notain to do wite lin , oftiers",0.0007329579966608435,0.027742667007260025,0.19047619047619047,0.5555555555555556
+clahe,sample_1351,12 o'clock at night . At that time pastries and buns,Nra d dtOf ircightitt atgnjlme postries and un.,0.0005459170206449926,0.02232141699641943,0.5192307692307693,0.9090909090909091
+clahe,sample_1352,"mix 100 stone of bread in 12 hours , and Kate served in the","mix 1oo stone of bread in Riours , and Vate sclbed in the",0.0007427079835906625,0.027646667003864422,0.1694915254237288,0.35714285714285715
+clahe,sample_1353,Soon they were good enough to sing at meetings .,Soom they were good enough ho ting at meetings .,0.0006882080051582307,0.03175216601812281,0.0625,0.3
+clahe,sample_1355,"clothing , with which they wore a white tie","clothing , or with which fhey wore a white tie",0.0008673339907545596,0.03755750000709668,0.09302325581395349,0.2222222222222222
+clahe,sample_1357,they would be there to begin the meeting .,they would be there to legin the meeting .,0.0010121250234078616,0.029617374995723367,0.023809523809523808,0.1111111111111111
+clahe,sample_1359,they were able to obtain some respectable,ttey were able to oltain some rerpectable,0.0009337920055259019,0.025532083003781736,0.07317073170731707,0.42857142857142855
+clahe,sample_1361,"men's clubs , to Conisborough on cheap trips to","mners luby , to Conisborough on cheap trips to sing",0.00038662500446662307,0.013884291984140873,0.2127659574468085,0.3333333333333333
+clahe,sample_1363,school was held .,wchool was had .,0.0004731660010293126,0.008516000001691282,0.17647058823529413,0.5
+clahe,sample_1367,"day evenings to the Corner Pin Hotel , to rally",day eoerings to the corner in theteh to rallyy,0.0003935410059057176,0.015003500011516735,0.23404255319148937,0.6
+clahe,sample_1372,"George , and another the dark-haired","Geonge , and another the clar - hained",0.00045941700227558613,0.014998916012700647,0.16666666666666666,0.6666666666666666
+clahe,sample_1374,One of the students was young,The of the studenty wc young,0.00035416599712334573,0.026166416006162763,0.1724137931034483,0.5
+clahe,sample_1380,"the Church Socialist League , genuinely advocated","te Ciusee fociclist Cagae , gemcimeg adraatl",0.000629832997219637,0.01613904201076366,0.40816326530612246,0.8571428571428571
+clahe,sample_1386,to those of parsons he got on wonderfully well,to frose of passans be oll an vondnffeulbly carll,0.000566790986340493,0.015679750009439886,0.3695652173913043,0.7777777777777778
+clahe,sample_1388,Just as the Labour Party had fought the,Just as the labomr Ruty had fught the,0.00040091699338518083,0.014408832998014987,0.15384615384615385,0.375
+clahe,sample_1390,There was no abatement in political,Ther was ho abutemeut in politicoel,0.0005212920077610761,0.016178541991394013,0.17142857142857143,0.6666666666666666
+clahe,sample_1392,"Council , and to Parliament , being deter-","coamail , aud to Porliamont , being deter-",0.0005571249930653721,0.01553829200565815,0.16666666666666666,0.375
+clahe,sample_1393,"had said , ' Mr. Barton would go to the poll .","had said , Mr. Barton would opo to thepoll .",0.000475959008326754,0.014102457993431017,0.10869565217391304,0.3333333333333333
+clahe,sample_1397,their candidate must go forward in the,their caudidate must go fowand in the,0.00040891702519729733,0.01725829200586304,0.07894736842105263,0.2857142857142857
+clahe,sample_1398,elections . In the Sheffield Trades and Labour,ellctions . In the shetfield Tradas and Lobos,0.0006286250136326998,0.02018099999986589,0.15217391304347827,0.5
+clahe,sample_1399,and a gold purse in recognition of his,and a yold ppwn in reeogntin d h.l,0.0006018339772708714,0.01523079100297764,0.3157894736842105,0.625
+clahe,sample_1400,"Alf Barton , who in 1911 was presented","aly Btiton , Who in I9ll dm preted",0.000382583006285131,0.01561004199902527,0.3684210526315789,0.75
+clahe,sample_1402,he was a keen member of the B.S.P. .,he wm a peen weniw df th P. S. 1 .,0.00046187499538064003,0.022062625008402392,0.3888888888888889,0.8888888888888888
+clahe,sample_1403,"work for the movement , was later","work for the wovement , w ditrs",0.0004189159953966737,0.018149875017115846,0.21212121212121213,0.42857142857142855
+clahe,sample_1404,"with a book on the life of Marx ,",bith a jook on the dipe of Uan .,0.0004110409936401993,0.01811762500437908,0.24242424242424243,0.5555555555555556
+clahe,sample_1408,into it .,inte if .,0.0003020000003743917,0.003559792006853968,0.2222222222222222,0.6666666666666666
+clahe,sample_1410,Towards the end of my five and a half years',"Fowards the end of un five and a hlf years ,",0.0007074589957483113,0.022179624997079372,0.13636363636363635,0.5
+clahe,sample_1411,"This opened up a new interest , and we plunged","This opened yp 8 new interest , aud we penged",0.00045991697697900236,0.016952792007941753,0.10869565217391304,0.4
+clahe,sample_1413,a village choral society and conduct it .,a villbage chordl society and conduck it .,0.0005651249957736582,0.017353750008624047,0.07317073170731707,0.375
+clahe,sample_1414,"Germany for ten years , by which time in","Germany for to yeais , by which time in",0.0007055000169202685,0.019254750019172207,0.075,0.2222222222222222
+clahe,sample_1415,"co-operated , we made the little side chapel a place","co-operated , we made the little side chapel a place",0.0007747500203549862,0.03380554198520258,0.0,0.0
+clahe,sample_1416,of daily prayer .,of daily prayer .,0.0003461659944150597,0.011811250005848706,0.0,0.0
+clahe,sample_1420,"at Purley . One felt at Tatsfield that , small as the","at furpey . Dne feat at fafield that , smabd as the",0.0006163329817354679,0.02764549999847077,0.16981132075471697,0.4166666666666667
+clahe,sample_1421,"chilliness of the new church , beautiful as it was and is .","chillineas of the new churcn , beantiful as it was and is .",0.0005717499880120158,0.03556012501940131,0.05084745762711865,0.23076923076923078
+clahe,sample_1428,"warming up by constant prayer and worship , and we",warming up by constant prayer and worship s and we,0.0010422500199638307,0.030430749990046024,0.02,0.1
+clahe,sample_1431,stained-glass lancet windows - finally a new altar -,stained-glass dancet wmndows-finagly a new altar-,0.000633042014669627,0.0313712079951074,0.11538461538461539,0.6666666666666666
+clahe,sample_1437,to put beautiful things into a beautiful church,to put beautiful things into a beoutiful church,0.000625124986981973,0.0256775000016205,0.02127659574468085,0.125
+clahe,sample_1444,Meanwhile in Purley there was much activity and much,Meanwhile in furley there was much activity and much,0.0005350840219762176,0.028260499995667487,0.019230769230769232,0.1111111111111111
+clahe,sample_1445,co-operation especially with the other Christian communities .,conoperation egecially with the other Christian Commnitles .,0.0007822920160833746,0.025759332987945527,0.0967741935483871,0.375
+clahe,sample_1451,"the Committee . We had a splendid body of local residents ,",the Committee.lbe had a splendid bod y of bocal resients,0.00041037501068785787,0.019552624988136813,0.13559322033898305,0.6666666666666666
+clahe,sample_1457,included professional men from every walk of,included professinal men from every waulk of,0.0007874169968999922,0.021566250012256205,0.045454545454545456,0.2857142857142857
+clahe,sample_1460,throughout . He had no sooner heard from Count Gamba,Ahromnghont . Oe hd ss asoner hewrd from Gout Guntin,0.0006050410156603903,0.020082500006537884,0.34615384615384615,0.8
+clahe,sample_1469,"as the year of their wedding , 1815 , had",as the year of their wedding I 8i5? had,0.0006731250032316893,0.033202000020537525,0.12195121951219512,0.3
+clahe,sample_1476,and it came as an appalling surprise to,and if came a an appallingt Burprise to,0.0004539159999694675,0.02053404098842293,0.10256410256410256,0.5
+clahe,sample_1477,"hollow , and the news that Byron had left","hollas , ' and the' newt that Boyon had teff",0.00035770799149759114,0.017558166990056634,0.24390243902439024,0.6666666666666666
+clahe,sample_1478,Captain Byron that he had been left,Gaplain Byron Thest he had bemn let,0.00041933401371352375,0.01905579201411456,0.2,0.5714285714285714
+clahe,sample_1479,"made a will in Augusta's favour , she had",made a winl i Pugustass fovour s she had,0.00048279197653755546,0.01955766702303663,0.14634146341463414,0.5555555555555556
+clahe,sample_1481,became great sighs of ecstacy .,beccne aal nials ot ecroy,0.0005496249941643327,0.023071625008014962,0.5161290322580645,1.0
+clahe,sample_1482,"and came into the livingroom , where","and cane into te kvingicon , wlere",0.0004934169992338866,0.01937558301142417,0.2222222222222222,0.5714285714285714
+clahe,sample_1484,drawing-in great breaths that,drawing-in gred bealls 1lol,0.0004899160121567547,0.018238124990602955,0.3103448275862069,0.75
+clahe,sample_1485,and walked on the very tips of,and walked on We nery 1ips of,0.0005120419955346733,0.022364792006555945,0.13333333333333333,0.42857142857142855
+clahe,sample_1487,Heather and Steve stood aghast at,teatler and Heve Hood aglan an,0.000998582981992513,0.01934695799718611,0.30303030303030304,0.8333333333333334
+clahe,sample_1498,side to side .,sie to side .,0.0004353750264272094,0.010144792002392933,0.07142857142857142,0.25
+clahe,sample_1499,"forward . "" Isn't it a glorious thing ! Long awaited","forword . "" Bn't it a glorions thing ! I ong awaited",0.0007024160004220903,0.021623458014801145,0.11538461538461539,0.45454545454545453
+clahe,sample_1500,at an intersection for the light to change . At his,at an interseca for the lguet to chauge . At his,0.0003635419998317957,0.02225491698482074,0.1568627450980392,0.2727272727272727
+clahe,sample_1501,apartment he garaged his car and then stood,opartment he garaged his car and then stood,0.00039983299211598933,0.016309124999679625,0.023255813953488372,0.125
+clahe,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,cbroadjand no pedestrian to cros his path wor to wait,0.0004591250035446137,0.016503124992595986,0.10714285714285714,0.4166666666666667
+clahe,sample_1508,"shaving when it came on , with a flat",shaving when it came on ) with a Flat,0.00040537500171922147,0.019315457990160212,0.05405405405405406,0.2222222222222222
+clahe,sample_1510,"the radio , which he kept tuned to CBO.","the ralio , which he kept tuned to CB0 .",0.0005044580029789358,0.023136665986385196,0.07692307692307693,0.3333333333333333
+clahe,sample_1517,almost painful sharpness . He reversed and,almast painful shiarprers . Ke reversed and,0.0003604580124374479,0.015310582995880395,0.11904761904761904,0.42857142857142855
+clahe,sample_1518,"whirring sound , and a high-pitched hissing",whiing oound  and a high-pitched hining,0.0003402919974178076,0.013414041983196512,0.16279069767441862,0.5714285714285714
+clahe,sample_1520,the War Memorial . There was a deep,the war Memoial . There was a deep,0.00043637497583404183,0.01629887500894256,0.05714285714285714,0.25
+clahe,sample_1522,turned back on McKenzie Avenue .,turned back on tic hengie avenne .,0.0003757909871637821,0.012571583996759728,0.21875,0.5
+clahe,sample_1525,caped Thetan subjugation . This time . But we no,coped thetan subjngation . This time . But we hho,0.000495165993925184,0.012500166019890457,0.10416666666666667,0.4
+clahe,sample_1526,selves in their zeal to get their orders and to carry,selves in these geal to get theix andens and to cany,0.0003562909842003137,0.01373970799613744,0.16981132075471697,0.45454545454545453
+clahe,sample_1533,may be able to promote our own,mary te able to prounate our,0.0004164580022916198,0.018590916006360203,0.3,0.5714285714285714
+clahe,sample_1535,There can be little doubt that if the,Themn con be little donbl that i the,0.0006294580234680325,0.01762054199934937,0.16216216216216217,0.5
+clahe,sample_1536,"are , beyond personal security ,","are , beyond Peisond secmnrite ,",0.0006060419837012887,0.01853125001071021,0.21875,0.3333333333333333
+clahe,sample_1544,on her part ; but he thought it a good idea,on her part ; but he thought it a goad idea,0.00042912500794045627,0.014294124994194135,0.023255813953488372,0.09090909090909091
+clahe,sample_1546,that they use Dan as a specimen demonstra-,that they use Dan as a specimen demonskra-,0.00031608398421667516,0.016600542003288865,0.023809523809523808,0.125
+clahe,sample_1551,nevertheless .,neverthellss ,0.0004005839873570949,0.007068958017043769,0.21428571428571427,1.0
+clahe,sample_1560,ringing of a doorbell was to him,hinging of a doorbell war to hin,0.0006723330006934702,0.02012141700834036,0.09375,0.42857142857142855
+clahe,sample_1563,"of their presence . They just stared at him , turning","of their precence . They just stared at him , tuoning",0.00044095900375396013,0.018940624984679744,0.03773584905660377,0.18181818181818182
+clahe,sample_1565,Dan paced the floor . He seemed completely unaware,Ban paced the floor . He seimed completely uaware,0.002730917010921985,0.02618899999652058,0.06,0.3333333333333333
+clahe,sample_1571,and the purpose he was to serve .,and the porpose he was to serve .,0.00040695801726542413,0.02079166701878421,0.030303030303030304,0.125
+clahe,sample_1576,impatience pending an awaited,impatience . Pending an anaited,0.0004018339968752116,0.011685916018905118,0.13793103448275862,0.75
+clahe,sample_1577,"Finally , being so obviously on their own ,","Finally , being so abviauslyon their oun y",0.0005862500111106783,0.014156666991766542,0.11627906976744186,0.4444444444444444
+clahe,sample_1578,perplexity respecting his surroundings,perplexity respecting his sorroundings,0.0006146660016383976,0.0170710000093095,0.02631578947368421,0.25
+clahe,sample_1579,His whole attitude was a mixture of,His whole attitule vus a mixture of,0.0007757919956929982,0.017995959002291784,0.08571428571428572,0.2857142857142857
+clahe,sample_1582,a single all-exclusive purpose .,a single all-exclusive pupose .,0.0005222500185482204,0.015035374992294237,0.03125,0.2
+clahe,sample_1583,the Avenue from its many tributary streets . It might have,the Aveme frou tts many trlumary strets . It might have,0.0004626660083886236,0.018536874995334074,0.13793103448275862,0.45454545454545453
+clahe,sample_1584,"been a normal business-day bustle , except for two anomalies .","been a normal business-ay ustle , except for two anomalies .",0.0005109579942654818,0.023166541010141373,0.03225806451612903,0.18181818181818182
+clahe,sample_1587,he waited . The bus stop was a deserted island on an empty street .,ne waited . The lus stop was a desertediland on a ampty street .,0.0005101670103613287,0.021922042011283338,0.08955223880597014,0.4
+clahe,sample_1588,"But not for long , for soon pedestrians and cars flocked upon","But nol for long , for sooupedectrians and cas floched upou",0.00041649999911896884,0.020775124983629212,0.11475409836065574,0.5
+clahe,sample_1589,"as arranged , but he consoled himself by","as amanget , bat he conscled himsef by",0.00038408301770687103,0.02551083397702314,0.15,0.5
+clahe,sample_1591,January or early February . Angelina might be a,Jamnany or eanly Ffmary . Angelina might be a,0.0007447090174537152,0.022149708005599678,0.1702127659574468,0.3333333333333333
+clahe,sample_1593,"back on Moon again , and able to do","Back on feon again , and ahle to do",0.00041570799658074975,0.019149040977936238,0.11428571428571428,0.3333333333333333
+clahe,sample_1596,research at first hand into matters on which,rseach at fist hannd into matters on whichl,0.00047400000039488077,0.018202667008154094,0.11363636363636363,0.5
+clahe,sample_1597,Then he would go back to Plato for a final spell of,Then he would go hack to Pato for a fhal spell of,0.0003990420082118362,0.01915491698309779,0.0784313725490196,0.25
+clahe,sample_1603,"had contacts in political circles , a school-","had contacts in poeitical eircees , a school-",0.000686249986756593,0.023747874976834282,0.06666666666666667,0.25
+clahe,sample_1605,( literally ) all-powerful Rocket Release,Lliteralut all-powerfue Rodet Release,0.0006242080125957727,0.023287124990019947,0.21951219512195122,0.8333333333333334
+clahe,sample_1610,"know , I had to send back our bedroom","lhow , I hod to send bach or begroom",0.0005877499934285879,0.02641766599845141,0.16216216216216217,0.5555555555555556
+clahe,sample_1611,"All Sally's relations were 4makrodeb now , but Tom",AllSlfy's relitons were tmakodeb nom  but fom,0.0006020830187480897,0.01613224999164231,0.22,0.7777777777777778
+clahe,sample_1613,to 4sub-lil on the lower .,to tsub-fif on the fower .,0.0004070409922860563,0.008989124995423481,0.15384615384615385,0.3333333333333333
+clahe,sample_1615,"Sometimes she took Harry around with her , but",Sometimes the took Hlary around with her  but,0.0006168329855427146,0.013207250012783334,0.10869565217391304,0.3333333333333333
+clahe,sample_1617,"Sally made a mistake about me , "" he said one","saffy made a mistalle abatme , he said one",0.0005892089975532144,0.013780791981844231,0.2222222222222222,0.45454545454545453
+clahe,sample_1619,not submerged beneath a deep natural atmosphere .,not subregey bereatha deep rtural atroppkere .,0.0004218749818392098,0.016257707990007475,0.20408163265306123,0.625
+clahe,sample_1621,penetrate beyond the minds of astronomers was of general,perebranke begond the miids of astrenaners os of general,0.0006126669759396464,0.0166306660103146,0.19642857142857142,0.5555555555555556
+clahe,sample_1623,"interest to the Mos , doubtless because their habitat is","sstrest ikest 'to be boy , doubtless beouse their habite is",0.00037808300112374127,0.019468209007754922,0.30357142857142855,0.7
+clahe,sample_1628,allies being more inferior than formerly to W.C.U. in the,atles being more inferior than frmegy bs Wl ! Eil! in he,0.0003776660014409572,0.018435583013342693,0.2807017543859649,0.7
+clahe,sample_1629,One wondered if this greater awareness of the physical cosmos might,She wonddered if thigetis anwrener of the prgyical comas mighl,0.0004043330263812095,0.021015417005401105,0.2835820895522388,0.7272727272727273
+clahe,sample_1632,"used in the last few wars , but it seemed very probable",wed in the bat tfr few wais . but is veemed nry prolle,0.0004756659909617156,0.01941054200869985,0.2909090909090909,0.75
+clahe,sample_1633,"wives , romanced about him in his absence . "" Lester was a","wivbs , romanced obout hinein his ahsence . "" ester wasa",0.0005540839920286089,0.023381167004117742,0.1206896551724138,0.6153846153846154
+clahe,sample_1635,"country lawyer , and we were very small 4microdebs , weren't we ,","county tuyer . and we were veyy smoll ( micradebs werentwe ,",0.0004025000089313835,0.02300062499125488,0.2153846153846154,0.6923076923076923
+clahe,sample_1636,"duties and his wife , in the manner of middle-brow","daties and his wife , in the moner of nildle-brow",0.00048333301674574614,0.01954700000351295,0.1,0.3
+clahe,sample_1638,Lester was not home yet from his formidable,Cesterwas not home yet from his formidalle,0.0007063749944791198,0.019277375016827136,0.06976744186046512,0.375
+clahe,sample_1644,we came through to 4makrodeb status and,we came ttough to Umakrodeb status and,0.0005646250210702419,0.02422916700015776,0.07692307692307693,0.2857142857142857
+clahe,sample_1646,has come for him to be taken seriously,has come for him to be taken seriously,0.0003897499991580844,0.019823042006464675,0.0,0.0
+clahe,sample_1649,"That 's how he got the votes , that 's how","Thats how he got the votes , thats how",0.0006875410035718232,0.020001166994916275,0.09523809523809523,0.36363636363636365
+clahe,sample_1651,But privately he turned out to be as friendly as,bit privately he turd out to be as frrenhly as,0.0004135000053793192,0.026619333017151803,0.125,0.3
+clahe,sample_1662,"guise which , far from attracting the allegiance","quiie nhic , far fron altractinng the ollegjonce",0.0006682499952148646,0.026499792002141476,0.20833333333333334,0.625
+clahe,sample_1664,The political life of Aristotle looked more and more,Thre political life of arintolle Gooped more and more,0.0008681670005898923,0.02830075001111254,0.11538461538461539,0.3333333333333333
+clahe,sample_1665,like a masquerade of business interests in dis-,lihre a mosquerae of Guien inererh in di-,0.0005003330006729811,0.025450584013015032,0.2978723404255319,0.625
+clahe,sample_1666,haps nurture a genuinely civilizing impulse,traps nurtire a ggnninelyy civieinginng imnpulie,0.0005017910152673721,0.02045854099560529,0.27906976744186046,0.8333333333333334
+clahe,sample_1671,"to be diverted , however , with the single exception of one","to be athesteo toneres , witl he ingte exepption of one",0.0004360410093795508,0.015389874984975904,0.288135593220339,0.5833333333333334
+clahe,sample_1672,neurosis and not in some eruption from those,searosis and not in some ermption from these,0.0004221250128466636,0.01933287500287406,0.09090909090909091,0.375
+clahe,sample_1673,GO ; but the reason probably lay in elementary,abat the reason probaby byinelonmtagy,0.0004292499797884375,0.016887250007130206,0.34782608695652173,0.7777777777777778
+clahe,sample_1674,deeper layers in the human psyche which are,algrr iogers in the human pgyede whicd one,0.0004389170208014548,0.019320292019983754,0.32558139534883723,0.625
+clahe,sample_1675,minions could do to him would ever make him,misions cn Co ab to tim maalateuar mra bien Aim,0.0006430420035030693,0.033938624983420596,0.4883720930232558,1.0
+clahe,sample_1676,"Stepping out in their white shorts , they looked glad enough",Perg out in their mhite shorte hey CoohoNd een,0.0004862910136580467,0.01742145899333991,0.4,0.7272727272727273
+clahe,sample_1677,putting their best foot forward .,putting their bast foot forwarl .,0.00040637500933371484,0.017646457999944687,0.06060606060606061,0.3333333333333333
+clahe,sample_1685,about ? ' It was most certainly an eerie,"about ? "" It was mast certainly an eerie",0.0006301249959506094,0.020074875006685033,0.05,0.2222222222222222
+clahe,sample_1688,carefully casual . ' The servants are all on,"crrefully casual . "" The servants are ill on",0.00047995802015066147,0.023776707996148616,0.06818181818181818,0.3333333333333333
+clahe,sample_1689,"' Something 's up , ' said Lord Undertone ,",""" SSomething's upor ""isaid Lord Undertone ,",0.0004587909788824618,0.018526666011894122,0.16279069767441862,0.7
+clahe,sample_1690,"night , exceptionally brilliant and strange ,","night, excaptionally brilliant and strange ,",0.0003209589922334999,0.019046375004108995,0.044444444444444446,0.42857142857142855
+clahe,sample_1695,sensational 's going to happen . There 's things lurking,sensaienal's gping to happen . There's things lurking,0.0005373329913709313,0.01883454102789983,0.08928571428571429,0.5
+clahe,sample_1697,"feeling , like I always get when something","feeling , lke ( afways gef when something",0.000355790980393067,0.0170229590148665,0.09523809523809523,0.5
+clahe,sample_1698,head-shrinkers .,head- shrinkers .,0.0002947080065496266,0.00636724999640137,0.0625,1.0
+clahe,sample_1705,"no matter how bad it felt , the fire you know , or a","ho mattes how bad it fet , the fire you knourior a",0.0006043750036042184,0.020317291986430064,0.1346153846153846,0.42857142857142855
+clahe,sample_1707,of a bottle . If your lordship will excuse me,of a boattle . If yaur larelslig will exense me,0.00043708301382139325,0.016652374994009733,0.2,0.4
+clahe,sample_1711,"afraid , with a hoof shaped like the heel","afsaid , with a froof shaped like the heel",0.0004617910017259419,0.018081040994729847,0.07317073170731707,0.2222222222222222
+clahe,sample_1713,may have thought I had become unbalanced,may have thanght I had become unbalaneed,0.00044620901462621987,0.015649541979655623,0.075,0.2857142857142857
+clahe,sample_1716,Caine too and Mr Gilberto who would ...,Caine too and Mr gillesrdo who would . ...,0.00040445898775942624,0.01622841600328684,0.15384615384615385,0.25
+clahe,sample_1726,we were all invaded by a most tranquil,we were all inladed by a most tranguil,0.00029237501439638436,0.013897333003114909,0.05263157894736842,0.25
+clahe,sample_1734,But after what Mrs Caine had said it was never,Pntafter what Mrs Conke bad coid it wes never,0.0007612500048708171,0.03352225001435727,0.21739130434782608,0.6
+clahe,sample_1735,to receive a summons . I could see that Mr Septimus,to receie a pumans. t coned bee that fie Sepfuhng,0.0007534169999416918,0.03690562499104999,0.3333333333333333,0.7272727272727273
+clahe,sample_1736,far from our minds that at any moment we were,far Brom ou mninds taat at ary maent wre were,0.000646792002953589,0.029954750003525987,0.17777777777777778,0.7
+clahe,sample_1737,"a promontory , a mass of clean rock crowned with","a pramanbary , a mas of ceeai toad croed naith",0.000606624991632998,0.03272379201371223,0.2916666666666667,0.6
+clahe,sample_1738,"was impatient for it . This afternoon , then , we climbed","was impatient far it . Teis affernaon , taa, nechinbed",0.0006170839769765735,0.030036625015782192,0.21052631578947367,0.5833333333333334
+clahe,sample_1739,"trees and bushes , that stood well out over the lake .","freess and busaes , that pted weeeant aer fhe babe -",0.0006892920064274222,0.04095762499491684,0.3148148148148148,0.75
+clahe,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",""" ygea-gg ,ilegl ."" ge sout te sfol tor sin fin arms po hhinen toodate .",0.0005647919897455722,0.018646958022145554,0.47619047619047616,0.8571428571428571
+clahe,sample_1744,"She was already up the bus steps , and the bus was away . And Morfydd Owen","gtr nes dsaby wp ths en taps , mit tha tun rens arey . ti Mafl onein",0.0003728340088855475,0.021347999980207533,0.527027027027027,0.8823529411764706
+clahe,sample_1747,"on those fifteen miles of mountain roads , it disappeared from the earthly",on toafffuen indas of mvena ads it dimppeend tromte esply,0.000428917002864182,0.016180665988940746,0.43243243243243246,0.7692307692307693
+clahe,sample_1750,"So the bus set out for Llangrwl . But it never reached there ! Somewhere ,","sx pe pur nst on forppangri . Tt .i ssver rabel tler ! Soneatex ,",0.0006047910137567669,0.017782332986826077,0.43243243243243246,0.8125
+clahe,sample_1754,"supposed to leave at two-twenty . "" "" Who says so ? "" "" Your timetable . ""","mppead te pens of tev-trerdty . "" Ntulto ray roii n you tumatela !",0.0003843330196104944,0.016660166991641745,0.5405405405405406,0.8888888888888888
+clahe,sample_1755,""" Left here all right , "" said Ifor . "" Two-thirty-five , on the dot . "" "" It 's",""" efpte aift "" rad for ,"" bro- Nudy- fria , ontfbd .in st'""",0.00043149999692104757,0.016032540996093303,0.5375,0.9047619047619048
+clahe,sample_1757,"of humour , that Isaiah . He banged down the receiver . Very uncivil . Dropped",of Aman itolst Sroihn . pe fangd Laun poe peein Yry meni dropgpel,0.0004197919915895909,0.017395957984263077,0.5512820512820513,0.875
+clahe,sample_1758,and scour the countryside between here and The Traveller's Joy .,ant ranr po votirpido titwenn for ent fr Sravebin goy .,0.0004465829988475889,0.01661600000807084,0.53125,0.9090909090909091
+clahe,sample_1759,""" What do you want me to do ? Send out a sheriff's posse , is it ? "" No sense",""" Nat Bp yn naint ris fio do? Banh ont a Dariff s pepse ,rst ! ' No amse",0.0006602909998036921,0.01978495900402777,0.42857142857142855,0.8571428571428571
+clahe,sample_1765,"robbers , or being whisked off to Emergency",robbers or being whisked of to Emegency,0.0003992500132881105,0.018555958988144994,0.09302325581395349,0.375
+clahe,sample_1766,"was , as he feared , departed out of his life ,","was , as he feared , depated out of hio lfe ",0.0003808750188909471,0.016484249994391575,0.10638297872340426,0.3333333333333333
+clahe,sample_1769,"complete her mission . "" Paled , did Dai . For the","Complete her mission . "" Palal , cid Dar . Tor the",0.0004745839978568256,0.019130792003124952,0.12,0.4166666666666667
+clahe,sample_1772,"the title of "" First Woman to Enter Space . ""","the title of ""Frrst Coman to Euter Sacl . "" ",0.0004218340036459267,0.01727625000057742,0.13333333333333333,0.45454545454545453
+clahe,sample_1782,Where indeed ? Megan Thomas spoke sharply,Where indced ! Megan Thomas spoke shaply,0.0002855420170817524,0.01644166701589711,0.07317073170731707,0.42857142857142855
+clahe,sample_1784,"But nonplussed , the conductor was . A","But noplussed , the conductor was . A",0.0004103330138605088,0.016814625007100403,0.02631578947368421,0.125
+clahe,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",""" Where are we goingg ? "" he echoed Codwallades .",0.0004143750120420009,0.016771666007116437,0.0625,0.18181818181818182
+clahe,sample_1789,""" But something very untoward has",""" BDut eomethig very untoward has",0.0004317499988246709,0.014304584008641541,0.09090909090909091,0.3333333333333333
+clahe,sample_1790,"good man , mind ; knew his job . But out of","good man , mind ; bnew his got . But out of",0.00034970801789313555,0.016663082991726696,0.06976744186046512,0.16666666666666666
+clahe,sample_1791,running into Llangrwl bus station .,running into Langoul bus sfatorn. .,0.00043479198939166963,0.014473999995971099,0.2,0.3333333333333333
+clahe,sample_1794,"he cried . "" Never mind your immortal","hecried . "" Never mint your immortal",0.0003814169904217124,0.01677674998063594,0.05405405405405406,0.375
+clahe,sample_1796,"window . Looked again , eyes starting from","wiindow . Looked ogain , eyes stanrting fronn",0.00038566600414924324,0.016308040998410434,0.11904761904761904,0.5
+clahe,sample_1797,"folded it , and glanced idly out of the","folded it , and glanced idly cut of the",0.000395957991713658,0.018183708016294986,0.02564102564102564,0.1111111111111111
+clahe,sample_1799,""" Here we are traversing the heavens at the",""" Here we are travesing the leavmns at the",0.00048479100223630667,0.019601707987021655,0.06976744186046512,0.2222222222222222
+clahe,sample_1803,Mr. Hayball from the back seat .,Mr. Hayball frrom the backseat .,0.0004989169829059392,0.020233541989000514,0.0625,0.42857142857142855
+clahe,sample_1804,"expect me to do ? "" he inquired , bitter .","expect me to do ? "" ho inguined , Gitfer .",0.0003877079871017486,0.014586875011445954,0.11904761904761904,0.2727272727272727
+clahe,sample_1806,"us nowhere , "" boomed the Rev. Edwards .","us howhare , "" boomed the Dow. Etuards .",0.00044958299258723855,0.022475125006167218,0.175,0.3333333333333333
+clahe,sample_1808,""" Radio Flying Control at London Airport ,",""" Radio Frigg Coutrd at London Risporrt ,",0.00046645800466649234,0.014613666979130358,0.21428571428571427,0.375
+clahe,sample_1810,"at the Youth Hostel before dark . ""","at the jouth Fstel before dark . """,0.00038462498923763633,0.01464891599607654,0.08571428571428572,0.25
+clahe,sample_1812,would never see her Dai again . And,wvould never nee her Baiagain . And,0.0003664590185508132,0.01498029101639986,0.11428571428571428,0.5
+clahe,sample_1814,dismay . Quietly she began to,dismay . Ouietly the bigan to,0.0003463329921942204,0.013153000007150695,0.10344827586206896,0.5
+clahe,sample_1815,weep ...,WeeYLs. .,0.0003190409915987402,0.005421708017820492,0.625,1.0
+clahe,sample_1817,"fortitude , it now filled her with","fortitude , it mow filled her wvith",0.0003617919865064323,0.01607625000178814,0.058823529411764705,0.2857142857142857
+clahe,sample_1821,""" Afternoon , Mr. Roberts , "" he called , polite ,",""" Afternson , Mir. Poberls , "" he cabled , polite ,",0.00039629198727197945,0.018767875008052215,0.1,0.3333333333333333
+clahe,sample_1824,He had seen no sign of an accident .,Fehad reen no ningn of an accident .,0.0004042089858558029,0.015956291026668623,0.1388888888888889,0.4444444444444444
+clahe,sample_1828,the bus . He passed The Traveller's,the bus . Te paned The Traveller'is,0.0004101659869775176,0.01886754101724364,0.11428571428571428,0.42857142857142855
+clahe,sample_1838,waiting to be transported to Dinas . And,waiting to be transported to Binas . And,0.00038112499169074,0.016573500004597008,0.025,0.125
+clahe,sample_1839,brooding in her shroud of mist .,boodinginher shroud of mist .,0.00036466700839810073,0.015466458979062736,0.09375,0.42857142857142855
+clahe,sample_1841,The conductor switched on the lights .,The conductor nvitched onthe lighits .,0.00038462498923763633,0.022275208990322426,0.10526315789473684,0.5714285714285714
+clahe,sample_1847,"Rev. Edwards , standing at the front ,","Rei. Edwards , ntanding at the front ,",0.0004887089889962226,0.018442000000504777,0.05263157894736842,0.25
+clahe,sample_1849,On the back seat Stan Hayball embraced,On the bach reat Ptan Feapball embraced,0.0003961249894928187,0.019712042005266994,0.15789473684210525,0.5714285714285714
+clahe,sample_1853,"too desperate for singing , then the","too denperatefornringing , then the",0.00039104200550355017,0.02130100000067614,0.1111111111111111,0.42857142857142855
+clahe,sample_1854,"situation , he realised , must be desperate","nituation , he realined , munttbe desperate",0.0004335000121500343,0.02574458299204707,0.09302325581395349,0.5
+clahe,sample_1855,"approaching , faster , faster , a tearing","approaching , fanter , farter , a tearing",0.0006368340109474957,0.018412999983411282,0.04878048780487805,0.25
+clahe,sample_1856,sank . If the Welsh found the situation,sank . If the Welsh found the rituatign,0.0004154170164838433,0.02110233300481923,0.05128205128205128,0.125
+clahe,sample_1857,"They looked at him , sullen . His heart","Phey looked athim , nullem . Tis heartt",0.0003960839821957052,0.017953750008018687,0.15384615384615385,0.6666666666666666
+clahe,sample_1858,hurrying blur that was past and gone,hurrging bher that avas pat and gone,0.00046379200648516417,0.021604583016596735,0.16666666666666666,0.5714285714285714
+clahe,sample_1859,indeed . But suddenly they were roused,indeed . But rddenly they were roued,0.0004899170016869903,0.020093625003937632,0.07894736842105263,0.2857142857142857
+clahe,sample_1860,rush of sound . They waved frantically .,runkof round . They waved frantically .,0.00041904099634848535,0.021025583002483472,0.1,0.375
+clahe,sample_1866,a great basket .,a great basket .,0.00043595899478532374,0.00722070800838992,0.0,0.0
+clahe,sample_1867,"He looked at Price the Provisions , who was nursing","Helooked at price the Prouisiop , who was muning",0.0008621249871794134,0.020752042008098215,0.1568627450980392,0.5
+clahe,sample_1873,said the Rev. Edwards . Price shook his head .,sad the Rerr.Edwards . Price shoot hs head .,0.000495458982186392,0.02727516699815169,0.13043478260869565,0.5
+clahe,sample_1874,"Mutinous dog , thought the Rev. Edwards , who hadn't","Mutinons doy , Phonght te per . Eduards , who had't",0.0004665409796871245,0.018913042003987357,0.19230769230769232,0.8
+clahe,sample_1879,"two pounds marge , one tin pineapple , one York ham . ""","twro founds mnarge , one tin pineapph , ene forf han.""",0.0004771249950863421,0.020295082998927683,0.2,0.6923076923076923
+clahe,sample_1880,enjoyed himself so much since reading Treasure,enjoged fimelf so nml sin ce tading FTreasme,0.00044291699305176735,0.016891625011339784,0.2826086956521739,1.0
+clahe,sample_1882,"' But we - ' ' Stop your stupid talk , woman ! ' ' We are - '","iBut we - ' ' &op your etupid tallke , woman ! ' ' We are . ,",0.0004664579755626619,0.022808667010394856,0.14754098360655737,0.3684210526315789
+clahe,sample_1884,and grow wings . Between the worlds are many strong,and grow wings . Between the worlds are nany strong,0.00047050000284798443,0.021642458013957366,0.0196078431372549,0.1
+clahe,sample_1885,"rays , not seen or felt , which change our bodies .","rays , not seen or felt , which change our bodies",0.0004273329977877438,0.020954999985406175,0.0392156862745098,0.08333333333333333
+clahe,sample_1891,"World , you become a true human . The grub of the","World , you becere a trhe hunan . The ginb of the",0.0004532499879132956,0.019711249973624945,0.12244897959183673,0.3333333333333333
+clahe,sample_1893,"change . ' ' I cannot know what he says , ' Haris said","change . ' ' l cannot know what he says , ' Maris said",0.00048179199802689254,0.023317124985624105,0.037037037037037035,0.14285714285714285
+clahe,sample_1903,babies may be born with wings . ' The Captive with,"babies nay be bonn with wings . "" The Captive with",0.00044341699685901403,0.019684124999912456,0.06,0.2727272727272727
+clahe,sample_1909,is good and knows these things .,is good and knows these things .,0.0007259589910972863,0.016675040998961776,0.0,0.0
+clahe,sample_1913,well we can - think . This tribe of the True World,well we can - thinkt . this tribe of the True wonld,0.0005607920174952596,0.030701290990691632,0.08,0.25
+clahe,sample_1918,muttered together . ' Do you say that you poor,nuttered together . ' Do you say that you poor,0.0004638749815057963,0.021164292003959417,0.021739130434782608,0.1
+clahe,sample_1920,"The flyman with ear lobes and thumbs connected ,","The flynan with ear lobes and thumbs connected ,",0.0004240830021444708,0.0245749170135241,0.020833333333333332,0.1111111111111111
+clahe,sample_1921,"making his perpetual little gesture of protest ,","making his perpetual little gesture of protest ,",0.00040424999315291643,0.019237875007092953,0.0,0.0
+clahe,sample_1923,command the knives of others . ' ' No hurt will,"command the knives of others . "" ' No hurt will",0.0005082919960841537,0.025931291980668902,0.02127659574468085,0.09090909090909091
+clahe,sample_1927,from harm . ',Bron harn . ',0.0004650000191759318,0.008510750019922853,0.23076923076923078,0.5
+clahe,sample_1929,"come to you , Lily-yo , ' Band Appa Bondi added .","come to you , Lily-yo , ' Band Appa Bond i added .",0.0007648750033695251,0.02531962501234375,0.02040816326530612,0.16666666666666666
+clahe,sample_1931,here at a good time . Memories of the Heavy World,here at good time . Memories of the Heavy world,0.0005327500111889094,0.02639454198651947,0.061224489795918366,0.18181818181818182
+clahe,sample_1933,"' Before she can enjoy , Lily-yo and her companion","' before she can enjey , Lily-yo and her corpanion",0.0007119159854482859,0.022061458003008738,0.06,0.3
+clahe,sample_1934,' No ! ' the Chief Captive said with both mouths .,' Wo! the Cuief captive said with bath nouths .,0.0005548750050365925,0.020187249989248812,0.16,0.5833333333333334
+clahe,sample_1935,must help our great plan . ' ' The invasion ? ' Bondi,"must help our great plan . "" The invasion ? "" Bond'",0.0004657499957829714,0.02144958300050348,0.09433962264150944,0.3076923076923077
+clahe,sample_1938,World . You must help to lead our force . ' The long,"World . tou must help to lead our force . "" The lang",0.0004439589974936098,0.027883708011358976,0.057692307692307696,0.23076923076923078
+clahe,sample_1939,We need such memories . So we ask you to go,We need such merories . So we ask you to go,0.0005449579912237823,0.02111929201055318,0.023255813953488372,0.09090909090909091
+clahe,sample_1940,"afternoon of eternity wore on , that long golden road","afternoon of eternity wane on , that long golden road",0.0004532500170171261,0.02970608399482444,0.03773584905660377,0.1
+clahe,sample_1944,new flesh and tendon strengthened . To sail up in the,hew flesh and tendon strengthened . To sail up in the,0.0006634170131292194,0.02729341699159704,0.018867924528301886,0.09090909090909091
+clahe,sample_1946,and Haris there were many events . Chief of these was,and Haris there were many events . Chief of these was,0.0005624170007649809,0.026355499983765185,0.0,0.0
+clahe,sample_1952,"the creatures participating in them . For Lily-yo , Flor","the creatures participating in them . For Lily-yo , Flor",0.0005573330272454768,0.023765958001604304,0.0,0.0
+clahe,sample_1955,"his own life , but Geoffrey's as well , to a strange girl","his own inife , bud Geffjey 'sos wele , to a shouge Gul",0.000386583007639274,0.018140708009013906,0.2807017543859649,0.5384615384615384
+clahe,sample_1956,than a couple of telephone calls he was,than a rouple of klphone alls ne was,0.0004595420032273978,0.01706870799534954,0.15384615384615385,0.5
+clahe,sample_1958,career . Now he realised that he was entrusting not only,career . NOn he resited thal ne nas entrusrting nos only,0.0005977500113658607,0.015285083005437627,0.17857142857142858,0.6363636363636364
+clahe,sample_1964,faith which he was placing in her and,fatther waith be war Mlecby an ber ed,0.0005471659824252129,0.012876958004198968,0.43243243243243246,1.0
+clahe,sample_1965,It was a novel experience . Alastair was,Io was a novel exrentnce . Alartar was,0.0006240840011741966,0.020804041996598244,0.175,0.375
+clahe,sample_1977,Alastair admitted that never in a not altogether,Prastair admited thak uuer in a not altogutner,0.00036545901093631983,0.01994533301331103,0.1875,0.625
+clahe,sample_1982,no permanent image .,ns pernmnent inage,0.0004055419994983822,0.011156125023262575,0.3,1.0
+clahe,sample_1985,"flickered across its surface , but there was","flickered wcro its onface , bnt ere wher",0.0008379579812753946,0.021570167009485886,0.2727272727272727,0.625
+clahe,sample_2000,on the clearest night limited angular vision . He glanced,on the clearest night imited angular wision . He glanced,0.0004309579962864518,0.018664416013052687,0.03508771929824561,0.2
+clahe,sample_2015,"Parade to Boscombe Down , slept for six blessed","pajale to poscombe Doin , slept for six, blenl ,",0.0004655419907066971,0.022396708984160796,0.2127659574468085,0.6666666666666666
+clahe,sample_2029,movements of the Bentley . It had passed,mrovemants of ' the Pentey . I had rasped,0.00033462498686276376,0.015213875012705103,0.225,0.625
+clahe,sample_2032,through Florence and Rome and then,froaye Goremce and poue and fhen,0.00038458299241028726,0.016973082994809374,0.3235294117647059,0.6666666666666666
+clahe,sample_2033,miles .,hulep .,0.00036791598540730774,0.005100500013213605,0.42857142857142855,0.5
+clahe,sample_2036,reproaches - and here he was bland and smiling .,reprsaches-und here he was bland and smiling .,0.0007613750058226287,0.026707416982389987,0.08333333333333333,0.3
+clahe,sample_2042,But it did not take her long to realise that his mood,Pout it did not tahe her I my to realise that hismood,0.0005351250001695007,0.025575582985766232,0.1509433962264151,0.5
+clahe,sample_2046,"too . They 're both here . "" "" I didn't know she was","teo . The'te both here "" "" Ididit lrow she was",0.0007891250133980066,0.032249582989607006,0.21153846153846154,0.5
+clahe,sample_2049,said the first thing that came into her head .,said the first thing that came into her head .,0.0006575419974979013,0.0221967080142349,0.0,0.0
+clahe,sample_2053,"poured cold water on the project . Everyone , he declared ,","powvelold wafranthepied ! trerpare , h edared .",0.0003324999997857958,0.013193874998250976,0.4576271186440678,0.9166666666666666
+clahe,sample_2056,express their disgust at Sir John's abominable treatment,"ype tiav dagp . s jr "" thu dordley tedmy",0.0003946250071749091,0.009022457990795374,0.6785714285714286,1.25
+clahe,sample_2058,"suggested having a second party , the following week , he","cnggejtef , having a sveond putyi the floving weeer he",0.0004621670232154429,0.011210957978619263,0.3157894736842105,0.7272727272727273
+clahe,sample_2062,"with injustice and contempt , ignoring","with injustiee and contempt , rqhanigy",0.0007711670186836272,0.02198091702302918,0.21052631578947367,0.3333333333333333
+clahe,sample_2063,It was all over and done with .,It was aly aer any aone with .,0.0004362500039860606,0.017468584002926946,0.16129032258064516,0.5
+clahe,sample_2065,ignorant child .,"""ghorart ehvild .",0.00030358301592059433,0.00816412499989383,0.3125,0.6666666666666666
+clahe,sample_2067,For the time being Beryl was content to let,Tor the time beiny Beul vas content to let,0.00044525001430884004,0.01546124997548759,0.11627906976744186,0.4444444444444444
+clahe,sample_2071,"a schoolmaster and she a small ,",a sheslinaster and She a smialfs,0.0005777920014224946,0.024791665986413136,0.3125,0.5714285714285714
+clahe,sample_2072,her great disappointment at being,her Great disappointmt af beny,0.00045362499076873064,0.014872333005769178,0.18181818181818182,0.8
+clahe,sample_2077,"conversation that evening , for when","coversato thet evey , for when",0.00034208298893645406,0.015935041999910027,0.2222222222222222,0.5
+clahe,sample_2079,"Blanche and Jack left , he went with","Blancde and faat left , ho wrht wigph",0.0004090000002179295,0.017452958010835573,0.25,0.625
+clahe,sample_2087,"like an ineffective imbecile . ""","libe an iefective imbecile . """,0.0005390410078689456,0.017980999982682988,0.09375,0.3333333333333333
+clahe,sample_2091,""" And I 'm heartily sick of being constantly called",""" And I ' m heartily sick of being constantly called",0.00034254201455041766,0.017962290992727503,0.0196078431372549,0.2
+clahe,sample_2093,you the best way I can by getting hold of Jack,you the best way I can by seting bold of Jack,0.0004910419811494648,0.018256915995152667,0.06521739130434782,0.18181818181818182
+clahe,sample_2095,""" What have I done wrong now ? I cover up for",""" What have I done wrong nou'? I cover up for",0.00038683300954289734,0.018226999993203208,0.044444444444444446,0.16666666666666666
+clahe,sample_2098,""" It 's your superior attitude that riles me . "" Beryl was",""" fs pur supeior afttude thit iles med beny war",0.00034708299790509045,0.013464832998579368,0.3275862068965517,0.9230769230769231
+clahe,sample_2101,"scarlet with annoyance . "" How I happened to be marooned","ccatlet with annsyance "" fos ( hnppened to be mnasoned",0.0003592089924495667,0.013240208005299792,0.21428571428571427,0.6363636363636364
+clahe,sample_2103,"look as though it was only what you expected of me ,",lok ar thagy it wr only ohd yor ayetd of ne,0.00035591699997894466,0.009267832996556535,0.36538461538461536,0.75
+clahe,sample_2112,"Be yourself , "" she exclaimed , with","Be yourself , "" she exdaimed , with",0.0005009580054320395,0.01538720799726434,0.05555555555555555,0.125
+clahe,sample_2117,equally indignant rejoinder .,agually indiguent rejoider .,0.0003356669913046062,0.011204624985111877,0.1724137931034483,0.75
+clahe,sample_2119,"idyllic surroundings . "" "" How dare you say","idyllic surroundigs .  "" How dare yon say",0.0004591250035446137,0.016651292011374608,0.09302325581395349,0.3333333333333333
+clahe,sample_2122,"from him to fondle Judy , who , sensing something","from fim to fondle Grcly , cifo . sensing sameting",0.00039008300518617034,0.015221417008433491,0.22448979591836735,0.5
+clahe,sample_2123,"amiss , was nudging her in the endeavour to","amiss , usaes nugging fir in fh enleavour to",0.0003796250093728304,0.016195250005694106,0.20930232558139536,0.5555555555555556
+clahe,sample_2126,if I had absolutely insisted on sailing at the,if lGaed alsolukly insiskeal on saeiling af fir,0.00035620800917968154,0.01739758299663663,0.32608695652173914,0.7777777777777778
+clahe,sample_2127,"gain her attention . "" The truth is that","gaein for allenlian . "" The Fffrutf is fraf",0.00036475001252256334,0.020601665979484096,0.35,0.5555555555555556
+clahe,sample_2129,"time originally arranged , Sir John would","time origimnally ancengel , Sir Gon Goull",0.0004738749994430691,0.0162052079977002,0.21951219512195122,0.5714285714285714
+clahe,sample_2133,"dares to stand up to him . ""","dares to stand ap to jim . """,0.000449541985290125,0.010620874993037432,0.07142857142857142,0.25
+clahe,sample_2134,""" What harm could possibly have come to Forrest",ihafet arm could pessibly jav come to Fesrst,0.0006266669952310622,0.0209726250031963,0.2553191489361702,0.6666666666666666
+clahe,sample_2135,"flamingoes our first morning on the island . """,flemingaes our foisl mosmingg an f*e isliend .,0.0005167500057723373,0.01694112500990741,0.32608695652173914,0.7777777777777778
+clahe,sample_2136,"through Sir John's nonsense ? "" Piers could","Arroug8 Sir goin's nonsunse 8 "" Gens coull",0.00029287501820363104,0.015145791985560209,0.2558139534883721,0.75
+clahe,sample_2139,precisely the remark she had made to Guy .,precisely fre remate she Sed maack to buy .,0.0005013330082874745,0.019694332993822172,0.23809523809523808,0.5555555555555556
+clahe,sample_2145,Beryl tried to suppress the thought that this was,Werpl tisil to suqpss Re NorgSl Bref fis coes,0.0004433340218383819,0.016485415981151164,0.5102040816326531,0.8888888888888888
+clahe,sample_2148,""" What they can bring off ! I 'll admit that .",""" cSal ter can iring offi I eycedail Bol .",0.0007017080206423998,0.016304332995787263,0.41304347826086957,0.6666666666666666
+clahe,sample_2153,"able destination . "" "" There 's a difference","ashe claslinalion . "" "" Frese i's a dliflrince",0.0005689579993486404,0.015653832990210503,0.3409090909090909,0.5555555555555556
+clahe,sample_2156,"with Sir John ? "" she enquired cuttingly .","wilf Sir fSn 8 "" sha enqinep cullingty .",0.0011020830133929849,0.014725083980010822,0.30952380952380953,0.6666666666666666
+clahe,sample_2157,I doubt it . He 's about as easy to push around,( Goufl if . Mes aaoul as easy to pus f aenoud,0.0006447909981943667,0.01917495802626945,0.3191489361702128,0.75
+clahe,sample_2159,"at that , but went on airily , "" I 'd have made","aftat , but wenl on ciniby , "" f W0 Jeo mnaede",0.0005045840225648135,0.0195546250033658,0.3404255319148936,0.6153846153846154
+clahe,sample_2161,put her interests before my own .,pat ba intersts Sefore iy ocan .,0.0004751250089611858,0.014368667005328462,0.2727272727272727,0.8571428571428571
+clahe,sample_2165,"man was , she thought impatiently ,","man was , she thought upatintly ,",0.0005312499997671694,0.017083249986171722,0.08571428571428572,0.14285714285714285
+clahe,sample_2167,to have been guests at yesterday's,tohave been quests at yerterdays,0.0003867920022457838,0.012841957999626175,0.11764705882352941,0.6666666666666666
+clahe,sample_2172,Their air of smiling somnolence showed them,Their air of smiling somnolence showed then,0.00047149998135864735,0.01580233298591338,0.023255813953488372,0.14285714285714285
+clahe,sample_2175,"toothless mouth stretched in a wide grin , told her","toolaless maul stretoed in a mide grin , old ter",0.000409042026149109,0.016896166984224692,0.19607843137254902,0.6
+clahe,sample_2180,"in halting 6patois that "" 3Mistah Piers "" had","in halting Gpatois khat "" 3Mistak Picrs "" Lad",0.0004047500260639936,0.016150749986991286,0.1111111111111111,0.5555555555555556
+clahe,sample_2184,We all know how Balicou Island dangerous,We all know how Balicon bland dangerous,0.00038124999264255166,0.014700833999086171,0.075,0.2857142857142857
+clahe,sample_2188,"she was a lady who , like her Uncle Charles ,","she was a lady nho , hike hes lncle cnatle ,",0.000410084001487121,0.015860999992582947,0.17777777777777778,0.45454545454545453
+clahe,sample_2190,rocks in an' out o' de water .,wes in anl out ol de water .,0.0004199999966658652,0.019401208992348984,0.2,0.375
+clahe,sample_2191,habit .,sitil .,0.00032379099866375327,0.0056769580114632845,0.5714285714285714,0.5
+clahe,sample_2192,"day . Though he did not refuse wine , which the","G6y. Bough he at wt reflcse wime , nhiek  the",0.0004777080030180514,0.022645290999207646,0.3404255319148936,0.7272727272727273
+clahe,sample_2194,except in moderate compliance with his father's,excgat in mondeste comptince witis istathers,0.0004489590064622462,0.02041795800323598,0.2765957446808511,0.8571428571428571
+clahe,sample_2200,Around that rounded rocky promontory where the,Promnd tthit sounchel roly prstuontrg where the,0.00045112500083632767,0.01549383401288651,0.32608695652173914,0.7142857142857143
+clahe,sample_2202,close to the rocks that it would be dashed,close . to the rocks thnt it would be dashed,0.000778207991970703,0.021908208000240847,0.07142857142857142,0.2222222222222222
+clahe,sample_2205,What does time mean when weighed against the life of,Whed der time mean when weished oapainst the life of,0.0008510000188834965,0.028267833025893196,0.1346153846153846,0.4
+clahe,sample_2207,"two human beings ? "" Not until he was certain that the","ywo hnnan beeins ? "" Not unll he war cerdain thas the",0.00042699999175965786,0.019699917000252753,0.18518518518518517,0.5833333333333334
+clahe,sample_2208,"by trying to come home now , even if he did promise ?","by lrying to come homn now , even if he ad promise ?",0.0004241249989718199,0.02128158399136737,0.07547169811320754,0.23076923076923078
+clahe,sample_2222,It seemed to the frightened judge,ot seemed to the frightened jndge,0.0003884590114466846,0.012814042012905702,0.06060606060606061,0.3333333333333333
+clahe,sample_2224,"of wet canvas , Bill cleared the","of wet cauvas , bill cleared te",0.0003924999909941107,0.014904750016285107,0.09375,0.42857142857142855
+clahe,sample_2225,"with the tiller still hard over , brought","with the tiller still had oves , brouget",0.00042975001269951463,0.013987292011734098,0.07317073170731707,0.375
+clahe,sample_2226,the tiller hard over and at the,mhe tilles hod oues and at the,0.00045566700282506645,0.016265832993667573,0.1935483870967742,0.5714285714285714
+clahe,sample_2232,"that were a little unsteady , they","that nere a littke urvteady , twrey",0.00042258400935679674,0.017024500004481524,0.17647058823529413,0.5714285714285714
+clahe,sample_2235,hip as I ever saw . That boy of,bip ax jever vaw . That hey of,0.00041149999015033245,0.01647324999794364,0.22580645161290322,0.6666666666666666
+clahe,sample_2236,""" that was as pretty a piece of seamans-",""" thaat has as ptethy a picce of Veahmauer-",0.000646083994070068,0.021129875007318333,0.25,0.5555555555555556
+clahe,sample_2244,water in her . I wouldn't be,iate in ler. Jwoueldn I te,0.0004347079957369715,0.017060791986295953,0.35714285714285715,0.7142857142857143
+clahe,sample_2245,drag the boat ashore and turn,drey the boat avhore and turn,0.0003928749938495457,0.011310208006761968,0.10344827586206896,0.3333333333333333
+clahe,sample_2246,speed records on the way in .,speed recorde on the woy in .,0.00067758301156573,0.02229208400240168,0.06896551724137931,0.2857142857142857
+clahe,sample_2250,"had more clothes on . ""","tad moe clotien ou . """,0.0008033750054892153,0.019457499991403893,0.21739130434782608,0.6666666666666666
+clahe,sample_2254,"man at catch 'em than Injun , Judge .",man at catch eem than bjunfuage. .,0.0003901250020135194,0.01573133299825713,0.24324324324324326,0.4444444444444444
+clahe,sample_2255,dragged out but before it was turned,dragged out but before it was turned,0.0003768750175368041,0.015561832988169044,0.0,0.0
+clahe,sample_2257,over Bueno Buck reached into the foot,over Bueno Bucke reached infto the foot,0.0005621250020340085,0.024380499991821125,0.05405405405405406,0.2857142857142857
+clahe,sample_2260,"of water , tossed out a string of silvery","of water , tossed out a string of srbery",0.0004013339930679649,0.02045337500749156,0.07317073170731707,0.1111111111111111
+clahe,sample_2261,With four doing the job and the waves,With four coing the jols and the waves,0.0005132080113980919,0.01941220901790075,0.08108108108108109,0.25
+clahe,sample_2263,few moments later the yawl was upside,few mamants tter the yaul was ypsise,0.00044308300130069256,0.015764124982524663,0.1891891891891892,0.5714285714285714
+clahe,sample_2264,"exclaimed the judge . "" Toss them on the grass","exdaimmes the jnogge . "" Toss them an the gram",0.00040695801726542413,0.015302624989999458,0.21739130434782608,0.4
+clahe,sample_2265,"down , exposing its shallow keel .","clown , expoving is shallan teet ,",0.0003463749890215695,0.016619790985714644,0.2647058823529412,0.8571428571428571
+clahe,sample_2269,"Bertram's face was grim . "" You think it was the Snort ,","Bertram's frce was gri . "" 4 on think it wap tee Snort ,",0.00039741600630804896,0.023876666993601248,0.125,0.46153846153846156
+clahe,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he","don't yon ? "" Johu gave a short langf . "" I aid , "" he",0.0005448750162031502,0.020074000000022352,0.09259259259259259,0.25
+clahe,sample_2271,"said ; "" but I 'd better stop thinking that now .","said ! "" lut ) ' better ntop feinking fhat nour .",0.0005447090079542249,0.01967891599633731,0.20408163265306123,0.6666666666666666
+clahe,sample_2272,"Pericles is fitted with an identically similar one . ""","Pericls in fitting with an identically sinifar ons """,0.00040895797428674996,0.020245709019945934,0.18518518518518517,0.6
+clahe,sample_2273,""" So there you are , my dear . "" Peggy 's eyes filled",""" To tare yo are , my dear . "" Peggy's eyes filled",0.00044124998385086656,0.02034187500248663,0.09433962264150944,0.35714285714285715
+clahe,sample_2275,sick . Just because he 's an Honourable he can do,siek . Juustbecanse he's an tonourable he can do,0.0006193339941091835,0.020455999998375773,0.12244897959183673,0.5454545454545454
+clahe,sample_2281,bombs during the last war . Having deposited his,lomlis during the last war . Having deopasibed lis,0.000646417000098154,0.02168566599721089,0.14583333333333334,0.3333333333333333
+clahe,sample_2284,"interest to The George , unhappily destroyed by German","""nterest to Te George , wnhappilydestryed by German",0.000690249988110736,0.019459792005363852,0.09259259259259259,0.4444444444444444
+clahe,sample_2288,man who was staring moodily into a gin,man who was storing moodily into a gin,0.00043433401151560247,0.018215624993899837,0.02631578947368421,0.125
+clahe,sample_2289,"*?2s as ' Seaweed ' , and a youngish , sharp-eyed","I iks as ""Seawveed ; anda youngish , shanp-eyed",0.000528125005075708,0.018069458019454032,0.24489795918367346,0.8181818181818182
+clahe,sample_2290,and tonic .,and tanic .,0.00033512499067001045,0.006611083983443677,0.09090909090909091,0.3333333333333333
+clahe,sample_2294,of the bar was not 6persona grata . If her,of the bar wvas not epersana grata . f ber,0.00043654200271703303,0.018166249996284023,0.11904761904761904,0.4
+clahe,sample_2295,Seaweed's memory was prodigious ; her manner,Feaneed's memory wvas prodigious ; her manner,0.0004216659872327,0.018981582979904488,0.06818181818181818,0.2857142857142857
+clahe,sample_2298,glance at him . Evidently the other occupant,Glance at him . Evidently the ather cccupant,0.00043045898200944066,0.019433458015555516,0.06818181818181818,0.375
+clahe,sample_2301,what ! ' - as the Guards officer said on his return,what. !- as thre Cuartds officer said on-biis nebttir,0.0004929169954266399,0.0195826250128448,0.29411764705882354,0.75
+clahe,sample_2303,bomb . Should have been a V.C.,bomb . Slould hare been a jiC,0.0004404170031193644,0.01521225000033155,0.16666666666666666,0.42857142857142855
+clahe,sample_2305,""" Make it a large one , darling . I know the naval","inflake ita large are , darling . I bnc the naval",0.0005772080039605498,0.01865008400636725,0.2,0.46153846153846156
+clahe,sample_2307,inherited desire to snub the man . If he did he,inlerited desine to snub the man . of lre did be,0.0003688749857246876,0.018884916993556544,0.1276595744680851,0.45454545454545453
+clahe,sample_2310,the lounge or return to his bedroom .,te lomge ar netin to hi bedrora .,0.00045733299339190125,0.017612958006793633,0.2702702702702703,0.75
+clahe,sample_2314,"yourself , "" she said with mock severity .","yourself . "" she said withy mode severityg .",0.0004236249951645732,0.015340915997512639,0.11904761904761904,0.4444444444444444
+clahe,sample_2316,"fault entirely , "" said the stranger . "" It 's my conceited","fanltentriely , "" caid the stranger . itin myconceited",0.0004652499919757247,0.016926042007980868,0.2033898305084746,0.6153846153846154
+clahe,sample_2317,in the Daily Courier .,inthe faily Couries .,0.00039420800749212503,0.010574166022706777,0.13636363636363635,0.8
+clahe,sample_2318,"to you ? "" It did . Ian Bawley's name was","toyan? "" Itdid . Jan Pawley's name nas",0.0004460419877432287,0.016101042012451217,0.1951219512195122,0.7272727272727273
+clahe,sample_2322,nature - I assumed that you both knew who I,sature- Tasumed that you bath hrener who (,0.0004257500113453716,0.01713529200060293,0.2558139534883721,0.7
+clahe,sample_2325,"drink ? "" John nodded - he could afford to buy",drink ? is Yokn noddeed - he could afford to buy,0.0003904589975718409,0.01659216600819491,0.10869565217391304,0.2727272727272727
+clahe,sample_2333,all else . We pride ourselves about accuracy on,all else . We pride ourselvs about accracy on,0.00036466598976403475,0.016447417001472786,0.0425531914893617,0.2222222222222222
+clahe,sample_2338,the Courier .,the Courier .,0.0003482920001260936,0.007739708002191037,0.0,0.0
+clahe,sample_2339,Ever known us bowl a wide about your Service ?,Ever fenown ns boul a wicde about your Bervice?,0.0006713340117130429,0.018156916019506752,0.15217391304347827,0.6
+clahe,sample_2341,"gin with relish . It was his favourite brand ,","gin with ralish . D6 was his favourite trand ,",0.00047066700062714517,0.02031150000402704,0.08695652173913043,0.3
+clahe,sample_2344,"truth be embarrassing ? "" John sipped his double","eruth be embarrassing "" otin sipped his double",0.0005318750045262277,0.01904658300918527,0.125,0.3333333333333333
+clahe,sample_2347,Life at home and in Bath had been a,Jipe at horne anel in Bath had been a,0.0004617079976014793,0.021070375019917265,0.17142857142857143,0.3333333333333333
+clahe,sample_2350,"found him curiously stimulating . "" You 're a","Found him euriously stimnlating . "" Joure a",0.0006903329922351986,0.024584250000771135,0.13333333333333333,0.5555555555555556
+clahe,sample_2354,"bit of a humorist , aren't you ? "" said","bit of a humorist , arerik you'? "" said",0.0006300410022959113,0.021438083989778534,0.10256410256410256,0.3
+clahe,sample_2356,""" It 's my business . I 'll tell you more . You 're",Tleis my busmess . Jiel tell you more . jouire,0.00038733301335014403,0.017530332988826558,0.29411764705882354,0.5714285714285714
+clahe,sample_2358,going to take over command of Pericles . Am I,going to takke over command ofy Pericles . Am M,0.0005205410125199705,0.02673024998512119,0.06666666666666667,0.3
+clahe,sample_2360,"'em up , darling ! ""","iem rp , darling !n",0.0003284580016043037,0.009906708000926301,0.2,0.6666666666666666
+clahe,sample_2361,"shook his head . "" All paid for by His Lordship , ""","shooke his hend .  ' Ael paied for by His Lordship """,0.0008239999879151583,0.02231170900631696,0.13725490196078433,0.46153846153846156
+clahe,sample_2369,refilled glass and looked over the rim at his,refilled fass and loohud wver the vin at hes,0.00038733298424631357,0.011198499996680766,0.17777777777777778,0.5555555555555556
+clahe,sample_2372,"of course . "" "" On one condition , "" said John .","of conrse . "" On one condition ,"" said Dohn .",0.0004552080063149333,0.010946958005661145,0.10416666666666667,0.38461538461538464
+clahe,sample_2374,""" Tell me who the little bird was . "" "" Can't","""tell me who the litthe biird was . "" "" Canint",0.000629082991508767,0.01647695800056681,0.13333333333333333,0.4166666666666667
+clahe,sample_2375,"have dinner with me ? On His Lordship ,","haveuiner with me . Ouths Lordshuip ,",0.00041599999531172216,0.015838708000956103,0.23076923076923078,0.6666666666666666
+clahe,sample_2376,"again , no doubt , and then you will have .",sawn wiacndst naellwmm the nnleanve,0.00035070799640379846,0.007842125021852553,0.7209302325581395,1.0
+clahe,sample_2379,you guess ? Whose portrait appears regularly,"puguss? Whase portrai appears , ryulaly ,",0.0004093750030733645,0.010763999976916239,0.3181818181818182,1.0
+clahe,sample_2383,"contact , is our Robbie ; he gives us the gen and",centactr is onr Pobbi ; he gries us the gen and,0.0005825420084875077,0.014308040990727022,0.16326530612244897,0.4166666666666667
+clahe,sample_2386,"sort of thing . "" "" You 'll get nothing out of me , ""","sot of ching . "" Youill get nothing ant dme ",0.0005919579998590052,0.010297542001353577,0.2830188679245283,0.6666666666666666
+clahe,sample_2389,disposed towards each other .,Jisposed tawvards one anther .,0.00048629200318828225,0.01101366599323228,0.3103448275862069,0.8
+clahe,sample_2390,"tell George to bring in the 6carte du jour . """,toll George to bring in the bcaste bu jar . ',0.0005576669936999679,0.011809624993475154,0.15217391304347827,0.45454545454545453
+clahe,sample_2391,Bawley was a man of his word . He kept,Fwsley wasta mangy his werd . He hepet ,0.00048512499779462814,0.00957458300399594,0.2631578947368421,0.7
+clahe,sample_2392,passed all too quickly . As they parted in,passed all too quichly to they pasted in,0.00045416600187309086,0.012372041994240135,0.14285714285714285,0.4444444444444444
+clahe,sample_2394,the vestibule the two men were well,thevestbule  the twomen were well,0.00047920900397002697,0.01787308297934942,0.08571428571428572,0.5714285714285714
+clahe,sample_2397,John took it and put it in his pocket .,Tchn took it and put it i his pochet .,0.00033762500970624387,0.01251800000318326,0.10256410256410256,0.3
+clahe,sample_2398,"of the work is done . "" He held out a card .","of the warh is done "" He held ant a card .",0.0003682499809656292,0.013961916003609076,0.13636363636363635,0.23076923076923078
+clahe,sample_2399,give me a ring at this number and I 'll,"give ne a ving at this nunber and I "" Ml",0.0004175830108579248,0.011714207998011261,0.15384615384615385,0.5
+clahe,sample_2400,""" You should . Next time you 're in Town",i you shanld pferet time yore in town,0.0003187079855706543,0.00891941599547863,0.325,0.8
+clahe,sample_2403,up on that .,np aur that .,0.00040912500116974115,0.004326333000790328,0.3333333333333333,0.5
+clahe,sample_2404,""" Ever been to Fleet Street ? "" asked Bawley .",i Ever been to Flut strect ? ashed Bawly .,0.0004650420160032809,0.012345790979452431,0.1956521739130435,0.5454545454545454
+clahe,sample_2405,""" I shall be busy for a while , cleaning up after",""" 8 shall be busy for awhile , cleaming up after",0.0004646250163204968,0.01818820901098661,0.061224489795918366,0.3333333333333333
+clahe,sample_2406,lying in pairs alongside the jetty at Fort Blockhouse .,ling in paivs alomgside the jelly at Ford Blocthouse .,0.0004500000213738531,0.023953458003234118,0.12727272727272726,0.6
+clahe,sample_2407,""" I don't know when that will be , "" said John .",""" I don't los when that will be , "" said goln .",0.0005018749798182398,0.02003258399781771,0.10416666666666667,0.15384615384615385
+clahe,sample_2409,Glad I met you . Don't forget to give me a ring -,blad I met gou . Bon't fonget to give me a ring-,0.00040983298094943166,0.017724208999425173,0.10204081632653061,0.46153846153846156
+clahe,sample_2410,"Master bloody Munyard . "" THERE were six submarines ,","Master boody Munyard . "" FHRRE weve six submarines ,",0.0004489590064622462,0.017508291988633573,0.07547169811320754,0.3
+clahe,sample_2412,"sounded , for all of them were rumbling as they","sounded , for all of them weve nembling as they",0.0004778750007972121,0.016919333982514217,0.06382978723404255,0.2
+clahe,sample_2418,A light wind wafted the smoke of diesel exhaust in,A light wind sofled the smoke of diesel eshaust in,0.0004186670121271163,0.017713624984025955,0.08,0.2
+clahe,sample_2423,There had been many such breakfasts lately since the,Theve had been many such braltasts lakely since the,0.0004396660078782588,0.01682637500925921,0.09615384615384616,0.3333333333333333
+clahe,sample_2424,but she could see that it no longer came naturally .,but she could soe that it no lonpger came naturally .,0.0003624579985626042,0.016909458994632587,0.038461538461538464,0.18181818181818182
+clahe,sample_2427,"His normal placid and steady-going manner remained ,","Htis narmal placid and sreahy-going masrer resained ,",0.0004020000051241368,0.016495374991791323,0.1346153846153846,0.625
+clahe,sample_2429,though in peace time these happenings are few and,though !in peace time these happenings are fees and,0.0004918329941574484,0.016288084007101133,0.061224489795918366,0.2222222222222222
+clahe,sample_2432,must present an unruffled appearance and carry on as,must present an unmffled appearance and carry on as,0.0005196249985601753,0.021208207996096462,0.038461538461538464,0.1111111111111111
+clahe,sample_2434,"locality , had been interviewed by the Press , had driven","lacality , had been intrviered by the grss , had driven",0.00041099998634308577,0.017437417001929134,0.08771929824561403,0.2727272727272727
+clahe,sample_2435,must continue as before . During this period the Captain,must cosstinue as before . During this periad the Captain,0.0005083330033812672,0.01901491600438021,0.05357142857142857,0.2
+clahe,sample_2440,"Jeannie 'll be on that coach , Dan . ""","Jeannie'll be on that couch , Dan . '",0.00046624999959021807,0.016202625003643334,0.07894736842105263,0.4
+clahe,sample_2446,"morrow as likely as not . "" I paused . "" Miss","morra as lilely as not . "" I paued . "" Mns",0.0003827920008916408,0.017715791997034103,0.13333333333333333,0.3333333333333333
+clahe,sample_2451,"to her , Dan . "" "" She 'll be all right . It 's the","to her , Dan . "" "" Jhelll he all sfut . Is the",0.00042312502046115696,0.017784415977075696,0.21568627450980393,0.375
+clahe,sample_2459,"working for , as well as the townsfolk and","wecng for , as well as The tounslolk and",0.0006735420029144734,0.02137479101656936,0.16666666666666666,0.3333333333333333
+clahe,sample_2460,"of responsible for her . "" "" Of course , "" he said ,","of respourtle fwr her . "" "" Of cowse , "" he said ,",0.0004252079816069454,0.01752970801317133,0.1346153846153846,0.21428571428571427
+clahe,sample_2461,"that girl all the time , Dan . I feel kind","that Surl all the tive , pan . I fael kind",0.0008587079937569797,0.01931758300634101,0.11904761904761904,0.36363636363636365
+clahe,sample_2462,"the agency detective . """,the agenng delechve . .,0.0003258329816162586,0.00854370801243931,0.25,0.6
+clahe,sample_2463,After all it 's them we 're supposed to be,Ater all it's them webe suppared to be,0.0005860830133315176,0.021394874987890944,0.16666666666666666,0.6
+clahe,sample_2465,Dead . Shuffled out of the deck . Blasted,dead . Sunllled ont of the chk . siased,0.00048633298138156533,0.02406379100284539,0.2926829268292683,0.5555555555555556
+clahe,sample_2466,"last night . """,lart nigut .',0.0003967910015489906,0.006415249983547255,0.2857142857142857,1.0
+clahe,sample_2467,With something of a start I remembered the,With sometilng of a s9orx I remanhered the,0.0006577089952770621,0.022641749994363636,0.19047619047619047,0.375
+clahe,sample_2470,"tried to surprise him . "" Dead ? "" he said . "" Yes .","tied to suprise hein . "" Pead ? "" he said . "" yes .",0.0005344159726519138,0.022584249993087724,0.11538461538461539,0.3333333333333333
+clahe,sample_2473,fascinated by the way he looked when you,fascinated by the wany he looked when yon,0.0005257499869912863,0.01865704101510346,0.05,0.25
+clahe,sample_2479,"unreadable as a rock . "" Let 's get over to the","unceadable as a roke . "" let gut over to the",0.00040204200195148587,0.01865254100994207,0.1702127659574468,0.4166666666666667
+clahe,sample_2483,The air was fresh and clear and you,The air was lresh and cecs and yun,0.00045645798672921956,0.02208212501136586,0.17142857142857143,0.375
+clahe,sample_2484,could see far over west and north for many,conld see for wesd and north for many,0.00047045800602063537,0.01749341600225307,0.16666666666666666,0.4444444444444444
+clahe,sample_2485,"a vast stretch of hills , canyons , buttes and","a vant gvelh of hills ,canoms , bulles and",0.0004040829953737557,0.016703125002095476,0.2391304347826087,0.5
+clahe,sample_2488,colour drawing . Between us and that lay,Colour draning . Betwcer us and that lay,0.0004579999949783087,0.016718291997676715,0.1,0.375
+clahe,sample_2490,the horses and drank enough to cure our,the harses and danl gfough to che ow .,0.00044100001105107367,0.017178749985760078,0.2564102564102564,0.75
+clahe,sample_2493,""" The mine-workings lie north of the town , ""","The mine-werning hi north of the toun  """,0.000416958995629102,0.017120999982580543,0.2222222222222222,0.5
+clahe,sample_2494,"So we swung west , making slow going over","so me swur west , malng slow going ove",0.0003848750202450901,0.016074542014393955,0.17073170731707318,0.5555555555555556
+clahe,sample_2498,"four or five mile valley , sandy-floored . It","fow ar live ninle vallry , sandy-floured . It",0.0003857910051010549,0.017312959011178464,0.17777777777777778,0.6666666666666666
+clahe,sample_2506,Here in a dried-up creek-bed we found,Itere in a died-up creelk-bed he loimel,0.0006731670000590384,0.023312375007662922,0.2702702702702703,0.7142857142857143
+clahe,sample_2512,"your whiskers off . "" "" Take it easy , mister , "" I sang","yow nhialers of ."" "" Tale il lery , mie ! "" Wsang",0.00044062500819563866,0.021309749979991466,0.32142857142857145,0.8
+clahe,sample_2513,got no whiskers so as you can see . Just you,gut no nhiolus so asgan cin see . Ju yon,0.000611333001870662,0.024909166008001193,0.3181818181818182,0.6363636363636364
+clahe,sample_2516,"out . "" We don't aim to come any closer and we 've","out . "" We don't oi to cone any closs and neive",0.0004646659945137799,0.021273040998494253,0.16,0.38461538461538464
+clahe,sample_2521,peeking out through a hole in the shack never,peeking ont trough a hole in the shack never,0.000473457999760285,0.02083891601068899,0.044444444444444446,0.2222222222222222
+clahe,sample_2522,"though they 're expecting trouble , "" I said . "" Where","though thenlre expecting trouble ,n"" I said . "" Whe",0.0005004169943276793,0.020753624994540587,0.1111111111111111,0.4166666666666667
+clahe,sample_2525,""" Oh , "" said the unseen guard . He blew a","in ,n tid the unseen suard . He beew a",0.00038045799010433257,0.020415999984834343,0.23809523809523808,0.5833333333333334
+clahe,sample_2527,kind of sequence .,hind of reqence .,0.00033895799424499273,0.012957500002812594,0.16666666666666666,0.5
+clahe,sample_2531,life came up before him in some cinematic,life came up before hitn in pome cinemetice,0.0005947079916950315,0.02656079101143405,0.12195121951219512,0.375
+clahe,sample_2534,"be open . It was . He entered , and seated himself","be spen . At was . He entered , and reated himselt",0.0006715829949826002,0.026293208997230977,0.08,0.3333333333333333
+clahe,sample_2539,"boy , then a young youth . He saw himself refusing","boay , then a yaug youthe . He san himself refusigp",0.0004199999966658652,0.019967833010014147,0.14,0.45454545454545453
+clahe,sample_2541,dly decadence and absorption in debase-,oly decadence and absorition in dabuse-,0.0006610839918721467,0.0206109159917105,0.10256410256410256,0.5
+clahe,sample_2544,"canery and corruption , the growth of the dea-","canery and cryptisn , the prouth of the dlea-",0.00045399999362416565,0.022440583008574322,0.15217391304347827,0.3333333333333333
+clahe,sample_2547,"saw himself as a sulky , ugly , malformed , repressed","sa himself as a sulky , uply , mabforrmned , repressead",0.0005829589790664613,0.01895387499826029,0.11320754716981132,0.36363636363636365
+clahe,sample_2551,"in London . Very strange his eyes looked . Mad ,","in Loudon . Very strange his eyes Looked . Mad ,",0.00046633300371468067,0.017097459000069648,0.041666666666666664,0.18181818181818182
+clahe,sample_2559,never been inside . Very remiss of,cnever -beese-nisle : Len renof,0.0011388749990146607,0.02425116699305363,0.5,1.0
+clahe,sample_2560,the thought came to me I 'd like,the thanglut came te ine sel lene,0.00037537497701123357,0.017363417020533234,0.40625,0.75
+clahe,sample_2564,"led the way in . "" The stained glass","led the rayg in . "" Tce stnae gless",0.00040270801400765777,0.019280374981462955,0.2222222222222222,0.4444444444444444
+clahe,sample_2574,of despair Gay knew that of course,of cespair f gay knew theet ofcoerse,0.00039070798084139824,0.017985292011871934,0.23529411764705882,0.8571428571428571
+clahe,sample_2575,Gavin she had left her sun-,Gavin sbe leed left her sk-,0.0005532500217668712,0.016682457993738353,0.2222222222222222,0.5
+clahe,sample_2576,off the plane with him were talking .,off the plae witl kim were tallng,0.0005583750025834888,0.017928334011230618,0.1891891891891892,0.625
+clahe,sample_2579,Gavin and the girl who had got,Gavin anothe sirl who kaosgoxt,0.000539708009455353,0.015465459000552073,0.23333333333333334,0.7142857142857143
+clahe,sample_2585,laid his hand on hers . Gay smiled at him,Cd his wand on har . Gay piled at wie,0.00037279201205819845,0.01635008299490437,0.24390243902439024,0.5
+clahe,sample_2588,now Gavin was in love with her and her,naws favin uas in eove withher & her,0.00045616700663231313,0.014744042011443526,0.23684210526315788,0.7777777777777778
+clahe,sample_2591,"moon was just rising over the rocks , then","woon was fuet feing ovar the rode , then",0.00034920801408588886,0.015677582996431738,0.23809523809523808,0.5555555555555556
+clahe,sample_2595,"All that was part of the past , she would put it behind her . She","Oll that was part of the paat , she would put it belind Rer . Bhe",0.0004407920059747994,0.026031791989225894,0.07692307692307693,0.3125
+clahe,sample_2597,"Lilyan remonstrated . "" They want to be",filya remorstiated . They wan tobe,0.0007624169811606407,0.028812292002839968,0.20512820512820512,0.75
+clahe,sample_2598,"can't find a table for two . """,coit find a table tee lup . A,0.00048129199421964586,0.02081887499662116,0.3333333333333333,0.5
+clahe,sample_2602,"boy friend , "" Doc called . "" No , Doc ! ""","boy feiend . "" Do0 caled . ""Nh , Lc.ll",0.00044220799463801086,0.02428366700769402,0.2857142857142857,0.6923076923076923
+clahe,sample_2606,""" Come and join us and bring your",i Eome and jin us and being youe,0.0003841669822577387,0.019632209005067125,0.15151515151515152,0.625
+clahe,sample_2608,As Gay watched he offered the girl a,as Ga wasoked kl Offered the gixl a,0.00043366599129512906,0.02221337499213405,0.25,0.75
+clahe,sample_2609,"She looked round scanning the tables ,","Rhl Rookced round scomning thetabkes ,",0.0006401250138878822,0.020169249997707084,0.21052631578947367,0.7142857142857143
+clahe,sample_2612,seated at a small table in a shadowy,slated at a sluall tabsk in a sladokyy,0.0004905829846393317,0.022971457976382226,0.2222222222222222,0.5
+clahe,sample_2615,"cigarette and lit it , his hands cupping","digaxefte ad lit it , RIs Rauck apoping",0.0004599160165525973,0.02207479198114015,0.325,0.625
+clahe,sample_2621,"run upstairs to her room , knowing that","sunnpstaixs toler rooi , taoing that",0.0004522090021055192,0.02508937500533648,0.2564102564102564,0.75
+clahe,sample_2623,"loved her , was already flirting with a girl","eowedher, was olteadg feirting witea gixl",0.0004404580104164779,0.026923166995402426,0.25,0.8888888888888888
+clahe,sample_2624,decided to go back and join Lilyan and,decided to go bak and j oin lilyon and,0.000663500017253682,0.030966332997195423,0.10526315789473684,0.5
+clahe,sample_2626,Gavin although he had told her that he,Gouin oethough he had teld eu thot he,0.0008685000066179782,0.031370250013424084,0.21052631578947367,0.625
+clahe,sample_2628,as Gay drew out a chair and sat,as faay cew outt a chiaie and sa .,0.0004222499846946448,0.019071916991379112,0.2903225806451613,0.75
+clahe,sample_2633,trying to understand Gavin's point of,Syimg to enderstand Gein point of,0.0005497499951161444,0.020232084003509954,0.21621621621621623,0.5
+clahe,sample_2635,felt wretched beyond words .,fell wcetckied egoud moeds .,0.00038862499059177935,0.02026325001497753,0.32142857142857145,0.8
+clahe,sample_2638,with the cigarette packet which lay on the table,with the cigarete facket which lay on the table,0.00044624999281950295,0.01737575000151992,0.041666666666666664,0.2222222222222222
+clahe,sample_2639,ging a smile .,ging a rnisly .,0.0003907499776687473,0.0054025840072426945,0.2857142857142857,0.25
+clahe,sample_2641,"lifeline and Gay got up quickly , mana-","litiline and Gry get up puickly , mana-",0.000391291017876938,0.012598707980941981,0.1282051282051282,0.5
+clahe,sample_2642,His behaviour was not only boorish and in the worst of,Mis bchavionr was not only boorish and the worst of,0.00047758399159647524,0.01577975001418963,0.1111111111111111,0.2727272727272727
+clahe,sample_2643,"dance , "" Doc's cheery voice came as a","dance "" Boc's cheary voice came as a",0.00040787499165162444,0.014151792012853548,0.10526315789473684,0.3333333333333333
+clahe,sample_2645,and no doubt he would come back soon and,andns donbt he mould cac back soon and,0.0005007080035284162,0.020195749995764345,0.175,0.5555555555555556
+clahe,sample_2647,kisses on the way back to the hotel .,irsses on the way bacl to the tratel !,0.0003600000054575503,0.014710832998389378,0.1891891891891892,0.4444444444444444
+clahe,sample_2649,and Simone go through the doorway that led,and simane go through the dorrmay that ted,0.0003987079835496843,0.01592674999847077,0.11904761904761904,0.375
+clahe,sample_2652,moment in disgust . She was fully aware that Gavin,moment in oisqust . She was falf aware that lavin,0.0004231669881846756,0.017394291993696243,0.12,0.3
+clahe,sample_2655,"weakly , "" you don't know Gavin . "" "" I 've only met him","weakly , "" you dor't haow Gavin . "" "" I 've only nef hin",0.00044791700202040374,0.014269582985434681,0.10714285714285714,0.26666666666666666
+clahe,sample_2657,"heart out over ? "" Doc nodded towards the door . "" You","heart out over ? "" Doe nodded towards the door . "" You",0.00032645801547914743,0.014233625028282404,0.018518518518518517,0.07692307692307693
+clahe,sample_2660,"him a great deal better than you do . ""","hin a great deal befer than you do. """,0.0003287500003352761,0.01695262498105876,0.10256410256410256,0.4
+clahe,sample_2664,If he behaves like this now what is your,I he behaves like this now what is your,0.0004253750084899366,0.01972370798466727,0.025,0.1111111111111111
+clahe,sample_2667,yourself away on a chap like that . You 're a,yourself away on a chap like that . Yu've a,0.0006111669936217368,0.019406332983635366,0.06666666666666667,0.18181818181818182
+clahe,sample_2669,"Doc gave her hand a shake . "" Wake up","Te gave her hand a shake . "" Wake up",0.0004190410254523158,0.016931666992604733,0.08108108108108109,0.1
+clahe,sample_2671,glad to be able to occupy herself .,#lad to be abl ts occury hesely .,0.00034287499147467315,0.013334874995052814,0.17142857142857143,0.625
+clahe,sample_2672,dining together . She opened her bag,slining Psgelkes . She spened her bay,0.00038145898724906147,0.014184500003466383,0.25,0.5714285714285714
+clahe,sample_2681,""" So glad that you are having such a lovely time , dearie , """,""" So gfad 1hat you ane having such a fovely time , dearie """,0.00039804200059734285,0.0149950839986559,0.09836065573770492,0.3333333333333333
+clahe,sample_2685,broken arm .,bngken anm .,0.0003890839871019125,0.005306875013047829,0.25,0.6666666666666666
+clahe,sample_2686,No other news except that Elaine is engaged,to other news except Caine is engaged,0.0003957499866373837,0.014153416006593034,0.18604651162790697,0.375
+clahe,sample_2689,Gay read the rest of the letter then put,Gay read the rest of the lelter put,0.0003214169992133975,0.012535291985841468,0.15,0.2222222222222222
+clahe,sample_2693,"and going to marry a foreigner ... ""","and going to marry a foreigper ... """,0.00030508398776873946,0.010289583005942404,0.027777777777777776,0.125
+clahe,sample_2695,"it back in her bag . Elaine was engaged ,",if back in ter bag . CCaine was' engaged ,0.00034358398988842964,0.01353354100137949,0.17073170731707318,0.5
+clahe,sample_2698,for Gavin at the way he was behaving as she,Por gawn at the way he was Behaving asshe,0.0005090420017950237,0.01715862497803755,0.13953488372093023,0.5
+clahe,sample_2703,"Gay's distress and in a way that Doc , as a man , could not","GaijS disties and ina wat that Doc ras a ren , Could not",0.0005419579974841326,0.024042500008363277,0.2033898305084746,0.6
+clahe,sample_2704,"she felt happier . Gay loved them for their warm sympathy ,","Poit happier . Bay baved them for their warn sxmpaty ,",0.0005154999962542206,0.021207749989116564,0.22033898305084745,0.5
+clahe,sample_2710,"be a doctor , and I already know","be a doctor , and I alreadyylrow",0.00037820800207555294,0.01670429200748913,0.09375,0.25
+clahe,sample_2719,"that lark , I can tell you ! ""","tar lark , I can teu uu ! """,0.00034916598815470934,0.01049483401584439,0.2,0.3333333333333333
+clahe,sample_2724,Little Phelpham .,little Prelphan .,0.00028720797854475677,0.005364875018130988,0.17647058823529413,0.6666666666666666
+clahe,sample_2727,"which ' lark ' she would have to stop , only that significant tiny","mch s bk . she waned lave o rep , anly har qpiprant tny",0.0006998330063652247,0.011262542015174404,0.4090909090909091,0.8571428571428571
+clahe,sample_2730,seen in Farlingham on an occasion he had sworn he had,rem in Ferlngham on an onasion he had suw he had,0.0007484170200768858,0.017095957999117672,0.20754716981132076,0.36363636363636365
+clahe,sample_2732,when she was not free ; this much they had,when she was not free ; this much they had,0.000592500000493601,0.021241334005026147,0.0,0.0
+clahe,sample_2733,about their relationship . So when Nigel,adout their relatiouship . Bo when Migel,0.0005440409877337515,0.01835870899958536,0.1,0.5714285714285714
+clahe,sample_2739,"found they were off duty together , and","found they were off duty togethes , and",0.0004567909927573055,0.01644204100011848,0.02564102564102564,0.125
+clahe,sample_2740,"evening surgery she had said ,","evening surgery she had said ,",0.000760082999477163,0.01477304199943319,0.0,0.0
+clahe,sample_2744,"suppose , to meet me for supper somewhere ? "" she had","sapeasE , p meT me or suppere domenre ? "" srE tha",0.0005968339974060655,0.03696837500319816,0.33962264150943394,0.6666666666666666
+clahe,sample_2749,"I 'll give you a ring , O.K. ? "" O.K. , "" she had","fll jve yon aving.0.k . i "" D.K ."""" she had",0.0005879160016775131,0.014710583025589585,0.3877551020408163,0.8
+clahe,sample_2756,"face , Di , but it certainly looked like","face , D. but it certainly loaked litee",0.000504166993778199,0.02003750001313165,0.15,0.4444444444444444
+clahe,sample_2758,""" No , "" she told Phil Gubbins , a junior",""" M6 , "" she sold Phil Gubilins , a junian",0.0004308749921619892,0.02087666600709781,0.17073170731707318,0.36363636363636365
+clahe,sample_2763,Of course such as I couldn't afford,Gf couxse suck as I roulda'it affend,0.000463333009975031,0.0209152500028722,0.22857142857142856,0.7142857142857143
+clahe,sample_2764,"houseman , "" it wasn't Nigel you saw ,","houseman , "" it wasn't Migel you sau ,",0.000516500003868714,0.02101729199057445,0.05263157894736842,0.2222222222222222
+clahe,sample_2768,"suddenly in an upsurging of relief , "" that stupid","suddenly in an upsurginng of relley , "" that stupid",0.0006740420067217201,0.021668208995833993,0.06,0.2
+clahe,sample_2770,""" 5Ye-es ? "" he lowered his eyes and kissed her on the",""" 5ye-es 2 "" he lowered his eyes asnd trissed her on the",0.00040491699473932385,0.01707533301669173,0.09259259259259259,0.3076923076923077
+clahe,sample_2773,looked distinguished when he frowned ; boyishly,Loobed distingshed when he frowmed ; boyishly,0.00044033300946466625,0.016989958996418864,0.10638297872340426,0.42857142857142855
+clahe,sample_2774,""" Gubbins ? Gubbins ? "" he fretted . "" Who 's he ? """,""" Cinbbins ? Gubbins ? "" he fretet . "" Who 's he ? .",0.0004870830161962658,0.023809459002222866,0.11538461538461539,0.2
+clahe,sample_2776,"member of the staff , distinguished or not ,","enemnben of the stof , oiitinguistee on maty",0.0006268750003073364,0.028831709001678973,0.3409090909090909,0.6666666666666666
+clahe,sample_2780,Though Diana knew the name of every,Thongh Biane kaen the nare of ened,0.0004882079956587404,0.02251912502106279,0.2571428571428571,0.7142857142857143
+clahe,sample_2782,to have an open quarrel,to bave oin oppu qvarvel any,0.0004065830144099891,0.013778333988739178,0.4782608695652174,1.0
+clahe,sample_2783,"joking , Nigel . "" "" You shouldn't joke","potin, lint "" "" Yon shondnt. jotu",0.0004083749954588711,0.016479625017382205,0.4358974358974359,0.7777777777777778
+clahe,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,""" Pnt , want it aeh perotened . u's wy ring. !",0.0004023329820483923,0.015169958991464227,0.36363636363636365,0.7647058823529411
+clahe,sample_2787,"any minute , and she knew it .","pinte , and she Vnmr it .",0.00038483302341774106,0.015481917012948543,0.3,0.375
+clahe,sample_2793,"me up for tea , of course . I just thought . "" "" I 'll see , ""","me up for tea , of course . I just thovghl "" "" Till ser !l",0.0004061669751536101,0.017450332990847528,0.1774193548387097,0.3684210526315789
+clahe,sample_2799,"out of his sight . "" Mine , "" Nigel Lester had","out of his sight . "" Mine , "" Nigel lestor hod",0.0003541249898262322,0.014800166012719274,0.06521739130434782,0.16666666666666666
+clahe,sample_2800,"decided with a sigh of satisfaction , and",decidedwith a sigh of sofisfactiomarnd,0.0004344159970059991,0.017659165983786806,0.1951219512195122,0.625
+clahe,sample_2803,with some bitterness .,"with, some bitterness .",0.0004149999876972288,0.015795124985743314,0.045454545454545456,0.25
+clahe,sample_2811,Sentence Database P03-189,ientence catahaae PO3-18s,0.0005583750025834888,0.06888674999936484,0.24,1.0
+clahe,sample_2817,you are satisfied . ',yo are satisfied .,0.0005228750233072788,0.008467917010420933,0.14285714285714285,0.4
+clahe,sample_2819,him to my care . ' ' Nicholas - ',"hin to my care . ."" ' Wicbdas - ,",0.0005887919978704304,0.019973834016127512,0.24242424242424243,0.4
+clahe,sample_2823,"mantle , and said with such","mantle , and said witn suck",0.000533874990651384,0.020778500009328127,0.07407407407407407,0.3333333333333333
+clahe,sample_2829,"Even in that , his hands were","Euen in that , hislands were",0.0003953340055886656,0.0183815409836825,0.10344827586206896,0.42857142857142855
+clahe,sample_2830,of Philip lying in the other,of Prillp eyin g in the ofher,0.000525541981915012,0.014727000001585111,0.17857142857142858,0.6666666666666666
+clahe,sample_2835,"# scribble on it . Then ,","#eet seribble an it . Then ,",0.00047329202061519027,0.02190387502196245,0.2,0.42857142857142855
+clahe,sample_2836,' I will leave you the necessary pre-,I I will leave yonthenecessary pre-,0.0005272080015856773,0.017236332991160452,0.10810810810810811,0.5
+clahe,sample_2838,he tore off the leaflet and,be tone ofy the leaflet and,0.00040400002035312355,0.016506834013853222,0.1111111111111111,0.5
+clahe,sample_2839,"with a gesture she knew so well ,","with agesture she ken so wull ,",0.00042829199810512364,0.01634420800837688,0.12121212121212122,0.5
+clahe,sample_2840,scription for the sedatives . You,GEriptrng for the sedatrde teyon,0.0004755000118166208,0.012024875002680346,0.36363636363636365,0.6666666666666666
+clahe,sample_2841,when you reach your parents',wheneyorrieach your parents I,0.0005677500157617033,0.016308458987623453,0.21428571428571427,1.0
+clahe,sample_2848,with a deadly finality . Watching,wvith a deadly finality . Natcking,0.0003873750101774931,0.016128582996316254,0.09090909090909091,0.3333333333333333
+clahe,sample_2850,If only he would have con-,of only he would have con-,0.00042895899969153106,0.015008874994236976,0.038461538461538464,0.16666666666666666
+clahe,sample_2853,a hand and grasped hers .,a hand andgrarped hess .,0.0004548339929897338,0.014576499990653247,0.12,0.5
+clahe,sample_2857,He needed her . She would find,Hfeneecal heste would fid,0.0004958330246154219,0.016143790999194607,0.4,0.8571428571428571
+clahe,sample_2858,Love . She revolted against,dove . She revolted agert ,0.00038112499169074,0.0127376249874942,0.18518518518518517,0.4
+clahe,sample_2862,know that well enough . ',bnow that well- enoughs ',0.0003743330016732216,0.014194541989127174,0.16,0.6666666666666666
+clahe,sample_2868,I knew he was responsible for,Tkmens hes was repounsatlefor,0.00035641700378619134,0.017494292027549818,0.3793103448275862,0.8333333333333334
+clahe,sample_2873,Beryl's death . ',Beruye's death',0.0003370409831404686,0.008451708010397851,0.29411764705882354,1.0
+clahe,sample_2876,disbelieve the facts . ' Elation,dis believe thefacts. Elation,0.0008906250004656613,0.017099083022912964,0.15625,0.8333333333333334
+clahe,sample_2878,Her eyes darkened in torment . ' Are,Hereyes darkened in torment . Are,0.0005358750058803707,0.01414887499413453,0.08333333333333333,0.375
+clahe,sample_2883,"her word . There was enough evidence ,","terward . There was enggh eridnce ,",0.0008109579794108868,0.018887374986661598,0.18421052631578946,0.5
+clahe,sample_2886,"will be truthful , but what he leaves out",will be trutufuly but what he leavesout,0.0008282499911729246,0.018546874984167516,0.0975609756097561,0.4444444444444444
+clahe,sample_2888,Sandra too deeply to ruin her,Sanalra too wo deeply to ruin her,0.0004562090034596622,0.016621208022115752,0.1724137931034483,0.3333333333333333
+clahe,sample_2891,he 'll confine himself to the nervous,hell contine humsely to the hervons,0.0006327909941319376,0.014307000004919246,0.1891891891891892,0.7142857142857143
+clahe,sample_2893,Philip's spirits soared .,Philip's ppiritsoared  I d .,0.0003984159848187119,0.013328834000276402,0.28,0.75
+clahe,sample_2894,What his story will be . I reckon,Nhat his story will be . Erechon,0.0003850409993901849,0.014546208985848352,0.12121212121212122,0.375
+clahe,sample_2899,miraculous recovery and Sandra would,mrraculous recovey and bndra would,0.0003593339934013784,0.017068124987417832,0.1111111111111111,0.6
+clahe,sample_2900,' You can't forgive him for this -,G G ou cant forgive kinfor this-,0.0003909579827450216,0.010603542003082111,0.23529411764705882,1.0
+clahe,sample_2901,"patronizing word , ' she replied . ' I despise","patromiging word "" shereplied . Edupite",0.0003429999924264848,0.01343016600003466,0.2826086956521739,0.8
+clahe,sample_2906,purpose than the throwing of dust in his,puepose lfan te Aroeumg of clesst in Ss,0.0003868750063702464,0.01594562499667518,0.375,0.75
+clahe,sample_2908,"His digressions too , seemed to have no other","fis degressions foo , secmcd to savr no olier",0.0005010410095565021,0.023367874993709847,0.2,0.6666666666666666
+clahe,sample_2910,"just dusty-grey but muddy , slimy even .","Suesf duisliy-gres but mceddy , Elauy lvan .",0.0004324160108808428,0.016173290990991518,0.35,0.625

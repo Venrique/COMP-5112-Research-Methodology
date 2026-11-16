@@ -1,0 +1,1001 @@
+configuration,sample_id,ground_truth,prediction,preprocessing_seconds,inference_seconds,cer,wer
+intensity_normalization,sample_0,"assuredness "" Bella Bella Marie "" ( Parlophone ) , a lively song that changes tempo mid-way .","assuredness "" Bella bella Marie  ( Parlophone ) , a lively song thal change s bempo mid-way .",0.0015304579865187407,0.021535958017921075,0.06451612903225806,0.3333333333333333
+intensity_normalization,sample_6,He is also a director of a couple of garages . And he finds time as well to be a lyric,the is also a director of a couple of garages . And he finds time as well to be a lyric,0.001003416022285819,0.027413625008193776,0.023255813953488372,0.047619047619047616
+intensity_normalization,sample_8,"The numbers include "" Scotland the Brave , "" "" Men of Harlech , ""","The yumbers inelude Scotland the Brave 's a Men of Harlech , '",0.0006923750042915344,0.018334624997805804,0.13846153846153847,0.4666666666666667
+intensity_normalization,sample_9,"Fay Compton stars in "" No Hiding Place "" (I T V , 9.35 p.m. ) .","Pay Compton sfars in "" No tiding plave n  97 V , 2i35 p in.?. .",0.0005835829942952842,0.0161214160034433,0.2698412698412698,0.5882352941176471
+intensity_normalization,sample_10,She plays the possessive mother of a man whose hobby revolves,she plays the possessive mathier o a mran whose habiby remlvs,0.0006181669887155294,0.01825141700101085,0.16393442622950818,0.5454545454545454
+intensity_normalization,sample_12,"THREE people will be hypnotised in tonight's "" Lifeline ""","THaFE puople wild be hyyyotised in tonightis "" Liteline "" """,0.0006679170182906091,0.021997999981977046,0.17543859649122806,0.7
+intensity_normalization,sample_13,"( B B C , 10.15 ) .","CPPe ,10.1s ) .",0.00044995799544267356,0.00668049999512732,0.47368421052631576,0.75
+intensity_normalization,sample_15,of Rhodesia and Nyasaland ( 10.30 p.m. ) .,"if phodes,a and pyasalond CiOizDpin.g .",0.0008041249820962548,0.016460792016005144,0.40476190476190477,0.7777777777777778
+intensity_normalization,sample_17,"playwright Arnold Wesker . "" Instead , Muggeridge's appointment","playuright Arnokd wesker . "" "" Instead , Mhuygeridge's ayppaintment",0.0007376249996013939,0.020330166997155175,0.14285714285714285,0.6666666666666666
+intensity_normalization,sample_19,will be with Sir Roy Welensky the Premier of the Federation,will be with Sir Boy welessky the Premsier of the fe er ation,0.0007900419877842069,0.0224241669930052,0.11864406779661017,0.5454545454545454
+intensity_normalization,sample_26,essay on soldiering which stated that a fighting,cesay on soldiering which shated thet a fighting,0.000842957990244031,0.016713916993467137,0.08333333333333333,0.375
+intensity_normalization,sample_27,"Say Granada T V , the producers : "" We decided to make","Say GnanakaipV , the pralucers : "" We decided to make",0.0007872909773141146,0.02242700001806952,0.12962962962962962,0.3076923076923077
+intensity_normalization,sample_28,first big T V part . The play was a brilliantly-written,fivt big TV paut rthe play was a billantly-witta,0.0007630829932168126,0.020506500004557893,0.21818181818181817,0.6363636363636364
+intensity_normalization,sample_29,affairs . The Wesker interview will be seen at a later,orffairs . Te yesker Iutenicw will be seen at a later,0.001047458004904911,0.031729791982797906,0.16666666666666666,0.36363636363636365
+intensity_normalization,sample_35,"what he was - Potter , a frightened boy who had a","what he was . Rter , a frigitered bay who had a",0.0006949169910512865,0.02280662499833852,0.14285714285714285,0.3333333333333333
+intensity_normalization,sample_45,"of an American T V reporter , Eric Sevareid , and","of an Rmerican II reporler , (ric Serareid , and",0.0007424999785143882,0.027375750010833144,0.14285714285714285,0.5454545454545454
+intensity_normalization,sample_46,strike . It showed Britain today through the eyes,strine . It showed Britain today through the eyes,0.001311083004111424,0.025626290997024626,0.02040816326530612,0.1111111111111111
+intensity_normalization,sample_47,Britain was slipping behind ... .,Britain was slepping beind .. .,0.0005838329961989075,0.018094875005772337,0.09090909090909091,0.5
+intensity_normalization,sample_49,Shelagh Delaney and Alan Sillitoe attacked,Shelagh Delaney and lhan Sillitoe attacked,0.0006875410035718232,0.022924500022782013,0.047619047619047616,0.16666666666666666
+intensity_normalization,sample_53,offering to drop by for a chat .,ofenng to orap bry for a chat .,0.000865792011609301,0.031384624977363274,0.1875,0.375
+intensity_normalization,sample_54,arrived two hours earlier by appointment,arrived two hann earlier br appeinturent,0.0014639160071965307,0.03843629200127907,0.2,0.5
+intensity_normalization,sample_58,"has rung a couple of times , calls from","ha pung a conple of timres , calls frous",0.0010187079897150397,0.029279250011313707,0.15384615384615385,0.5555555555555556
+intensity_normalization,sample_65,Fourth Gospel by explanations based on assumed textual dislocations . The,Fourtl bospel by explomntions bosed on ossamed festual Miskocations . Te,0.001955582993105054,0.03432920901104808,0.1780821917808219,0.7272727272727273
+intensity_normalization,sample_67,"could of the chaos by placing the fragments , or sheets , or pages , in order .","coull af le ahoa by ploaing Mr fragmente , or sheete , or peges jin ord. .",0.0010507089900784194,0.03213525001774542,0.24050632911392406,0.6666666666666666
+intensity_normalization,sample_68,present state of the Gospel is the result of an accident-prone history . The,prosent staal of he Coopel is hhe rosull of on orccident - prone histor . Me,0.001133584009949118,0.025167542014969513,0.2236842105263158,0.8571428571428571
+intensity_normalization,sample_74,this is possible it is necessary to examine the,this is possible it is necessary to examine the,0.000841541972476989,0.024868832988431677,0.0,0.0
+intensity_normalization,sample_77,"case is that , in common with all his colleagues ,","case is that , in common with alt his cdkeaghes ,",0.0012115410063415766,0.023924625013023615,0.1,0.18181818181818182
+intensity_normalization,sample_79,simple and coherent plan . To understand how,simple and coherent plan . To undersland how,0.0011486670118756592,0.024221083003794774,0.022727272727272728,0.125
+intensity_normalization,sample_86,text with absolute precision .,text with absolute precision .,0.0006706670101266354,0.01349370801472105,0.0,0.0
+intensity_normalization,sample_89,"The bar was the commonest marking , but others","Thebar wad tre comncnest morleing , lut Others .",0.0010270839848089963,0.024871833011275157,0.2608695652173913,1.0
+intensity_normalization,sample_92,were also used . Dots sometimes served in place of the,were olo used . fots sometimas Served in place ofthe,0.0011775000020861626,0.037375957996118814,0.1111111111111111,0.5454545454545454
+intensity_normalization,sample_96,the original of the Gospel would be unmarked . The,the Orignal ofthe Gagpel wOuld be unmoreed. The,0.001031874999171123,0.02487287498661317,0.18,0.7
+intensity_normalization,sample_98,about one third of a page of Souter's print .,aba ane third At a page of Sortaris prink .,0.0011796669859904796,0.023968666995642707,0.2222222222222222,0.5
+intensity_normalization,sample_102,"original of the Gospel , whether written on a roll or codex ,","orgnal ofthe Aaspel , whether uitten on a roll Or cadex ,",0.001312124979449436,0.03729199999361299,0.14754098360655737,0.5384615384615384
+intensity_normalization,sample_109,which have survived the centuries is ample evidence of,which have survived the centuries is ample evidence of,0.0012656250037252903,0.05330829101148993,0.0,0.0
+intensity_normalization,sample_110,"was generally a single-sided form of book , and it was not","was generally a singple-sided form of book , and it was hot",0.0009779160027392209,0.029439374979119748,0.034482758620689655,0.16666666666666666
+intensity_normalization,sample_111,"overwhelmed Herculaneum and Pompeii in A.D. 79 , his","overwhelmed tercnlanenm and Pompei"" in A.D.78 ,his",0.0015329169982578605,0.029825667006662115,0.1346153846153846,0.6666666666666666
+intensity_normalization,sample_113,The other form of book was the codex . In this the,The other form of book was the cocder . In this the,0.0010888749966397882,0.031954624981153756,0.04,0.08333333333333333
+intensity_normalization,sample_115,sheets were bound together down one edge much as,sheets were boud together doin on edbe much as,0.0009412920044269413,0.025462082994636148,0.08333333333333333,0.4444444444444444
+intensity_normalization,sample_116,information is contemporaneous with the New Testament .,information is cortemporanlons with the New Testamet .,0.0015180000045802444,0.023969165980815887,0.07272727272727272,0.25
+intensity_normalization,sample_120,"the roll , a sheet could easily be glued on .","the roll , a shut could easily be glned on .",0.0008398340141866356,0.016725707973819226,0.06666666666666667,0.18181818181818182
+intensity_normalization,sample_121,whether or not a particular text was written on,whether or not a particular text was written on,0.0006613330042455345,0.020878832991002128,0.0,0.0
+intensity_normalization,sample_122,might be bulky . It is sometimes possible to tell,might be bulky . It is sometimes possible to tell,0.0006317499792203307,0.018909000005805865,0.0,0.0
+intensity_normalization,sample_131,"in the case of the single-sheet quire , an extra","in the case of the single-sheet quire , an extra",0.0006455830007325858,0.019083499995758757,0.0,0.0
+intensity_normalization,sample_132,"sending out his Gospel lacking the ending ,","sending out his Gospel lacking the ending ,",0.0007127500139176846,0.0169541249924805,0.0,0.0
+intensity_normalization,sample_133,"cannot think of an author , Mark for example ,","camot think of an author , Nark for example ,",0.0006947499932721257,0.0199869999778457,0.06521739130434782,0.2
+intensity_normalization,sample_134,sheet glued on might have to be gummed on,shut glud on might have to be gummed on,0.0008999579877126962,0.01974708298803307,0.07317073170731707,0.2222222222222222
+intensity_normalization,sample_135,in it the reservoir ... and I made both the,"inIfshae Verarvail. . "" an ale hsh tire",0.0007897089817561209,0.024105582997435704,0.5581395348837209,1.0
+intensity_normalization,sample_136,"construction in lines 9 , 23-25 of the Moabite Stone ,","cmostyhltion in Anos ? a-is of ther Mosdite Pane ,",0.0009504159970674664,0.0151081669901032,0.3888888888888889,0.7272727272727273
+intensity_normalization,sample_138,A natural transition from gardens and,Anabunal transitlen fren ganden and,0.0007393330160994083,0.013860749982995912,0.24324324324324326,0.8333333333333334
+intensity_normalization,sample_141,supply . The pools are probably natural springs,gupply . Tha pots cna prctaboly nalldrad porings,0.000597208010731265,0.015077374991960824,0.3404255319148936,0.875
+intensity_normalization,sample_147,"all his heart , and with all his soul and",a ll his heart and with all his soul . and,0.0007523329986725003,0.022422167006880045,0.12195121951219512,0.4
+intensity_normalization,sample_150,with all his might and studies the,sith al hs rnight ond stdis the,0.0004620830004569143,0.008763457997702062,0.23529411764705882,0.8571428571428571
+intensity_normalization,sample_151,"regards himself as insignificant , as the","regards himself , os insigrificant , as the",0.0006303749978542328,0.01299108300008811,0.0975609756097561,0.42857142857142855
+intensity_normalization,sample_152,word of God .,word of hGod,0.0004577089857775718,0.008059042011154816,0.23076923076923078,0.5
+intensity_normalization,sample_155,us earthly creatures to build an Altar,us earthly creatures to build an Altar,0.000680458004353568,0.018912083003669977,0.0,0.0
+intensity_normalization,sample_156,"This man is the worm , the creature that",This man is the worm the creature thay,0.0008927090093493462,0.027088584000011906,0.075,0.2222222222222222
+intensity_normalization,sample_158,Such a Shamir possesses the real acid,Such a shomir possesses the real acid,0.0006677079945802689,0.019272334000561386,0.05405405405405406,0.14285714285714285
+intensity_normalization,sample_160,for God to come nearer to God .,for God to come nearer to God .,0.0007027089886832982,0.020469750015763566,0.0,0.0
+intensity_normalization,sample_162,cuts and polishes Altar-Stones . Such,cits and polishes MUur-stores . Such y,0.0005204159824643284,0.010250457999063656,0.24324324324324326,0.5
+intensity_normalization,sample_163,heart of stone . This Shamir helps,neart of stone . This shamir helpe,0.00048345798859372735,0.010395457997219637,0.08823529411764706,0.42857142857142855
+intensity_normalization,sample_167,tell !,tepe l,0.0003784170257858932,0.0030386669968720526,0.5,1.0
+intensity_normalization,sample_170,books are readable . This Shamir is indeed a rare,baoks are readable This shamir in indeed a rate,0.0011386249971110374,0.031270000006770715,0.12244897959183673,0.5
+intensity_normalization,sample_171,"refused , but it is to become the head-stone","retused , but it is to become the head-stone",0.000983416015515104,0.03053224997711368,0.022727272727272728,0.1111111111111111
+intensity_normalization,sample_173,"Lord , as the waters cover the sea . "" ( Hab. 2 , 14 . )","hord , as the waters cover the seais (tab . & , 1)",0.0010692910000216216,0.021716457995353267,0.23214285714285715,0.5882352941176471
+intensity_normalization,sample_174,""" For the stone shall cry out of the wall "" , like","a for the stome shall cry out of the wallss , lite",0.0007126250129658729,0.01993833397864364,0.12,0.46153846153846156
+intensity_normalization,sample_179,the Light which can be read in every,the Lgnt which cany be read in every,0.0005580410070251673,0.01370158398640342,0.08333333333333333,0.25
+intensity_normalization,sample_180,They make us the Altar for God to emit,"Shay wake ""s the uetar for God to eu!t",0.0006134590075816959,0.01537074998486787,0.21052631578947367,0.5555555555555556
+intensity_normalization,sample_181,a deep impression on our feelings and senses .,a daeg rppresslay oy air foelings ayd sapses .,0.0007980829977896065,0.015978624986018986,0.30434782608695654,0.7777777777777778
+intensity_normalization,sample_182,"of life , and all facts are "" one "" . We have all","of lifo , ayd all facts are oye "" We have all",0.0012826670135837048,0.020027291000587866,0.14285714285714285,0.35714285714285715
+intensity_normalization,sample_185,"language . The Shamir is the "" seventh "" and","Layghage . The shanir is the sevefh"" and",0.0005673340056091547,0.01612237500376068,0.22727272727272727,0.5
+intensity_normalization,sample_187,"the eve of the Sabbath , to bring the","the eve of the Sabbath , to brig the",0.0007117500063031912,0.018184500018833205,0.02702702702702703,0.1111111111111111
+intensity_normalization,sample_191,"shall come to pass , if 1ye shall 1hearken",shall cone to pass if tye stall Lheartey,0.0006074589909985662,0.018010333995334804,0.19047619047619047,0.5555555555555556
+intensity_normalization,sample_193,is something deficient .,is souethinng deficiept .,0.0005933750071562827,0.008390583010623232,0.125,0.5
+intensity_normalization,sample_195,"you this day , to love the Lord your God , and to","fo this day , Is love the Lord your God , anyd to",0.0006704590050503612,0.018165415996918455,0.10204081632653061,0.23076923076923078
+intensity_normalization,sample_197,"Lord God with all their visionary power ,","Lord God with all their visionary power ,",0.00101966701913625,0.030141125025693327,0.0,0.0
+intensity_normalization,sample_199,the work will have to be done by each,the work wilt have to be elore by each,0.0008227910147979856,0.029746082989731804,0.10810810810810811,0.2222222222222222
+intensity_normalization,sample_200,mind together we cannot solve the further,mind together we cannot solve the further,0.0009065830090548843,0.031126499990932643,0.0,0.0
+intensity_normalization,sample_201,"Jochai ( Tanis 6a ) "" if Israel does not fulfil",Sochail Tanis ea)I'if lsrael does net fitfirl,0.0013842910120729357,0.034615332988323644,0.2765957446808511,0.8181818181818182
+intensity_normalization,sample_202,"the wish of the Lord , failing to serve the","The wish of the Lord , fating to serve the",0.001053957996191457,0.031716541008790955,0.06976744186046512,0.2
+intensity_normalization,sample_206,"gratify selfish aims , then each man will gather-in","girafity selfish aims , then each man will gathel -in",0.0007290829962585121,0.02488070901017636,0.09803921568627451,0.3333333333333333
+intensity_normalization,sample_207,"for himself only , instead of all to help to gather your","Foc hinself only , intead of all to help to gathet youk",0.0008360830252058804,0.024606249993667006,0.10714285714285714,0.4166666666666667
+intensity_normalization,sample_212,our duty ) . Of course the individual will,"our duty ) , Of course the indiidual will",0.0009744999988470227,0.030294165975647047,0.047619047619047616,0.2222222222222222
+intensity_normalization,sample_215,seeking self .,seeting self .,0.0004978750075679272,0.013038250006502494,0.07142857142857142,0.3333333333333333
+intensity_normalization,sample_216,Freedom from want cannot be fulfilled nor,frieedom from want cannot fulfiilled nor,0.0014035420026630163,0.04380229199887253,0.14634146341463414,0.42857142857142855
+intensity_normalization,sample_227,"yourself , under such conditions the goods are your gods .","Joutself , under such conditions the goods ae yout gods .",0.0008375420002266765,0.023964332998730242,0.06896551724137931,0.2727272727272727
+intensity_normalization,sample_231,For without the vision to serve the Lord your God with all,Fot without the ysion to serve the tord yauk God with all,0.0009105830104090273,0.02719720799359493,0.10344827586206896,0.3333333333333333
+intensity_normalization,sample_235,"in the first part of the Shmah , we have first "" and","in the first part of the shmah , we have first i anch",0.0008504579891450703,0.021257333020912483,0.07692307692307693,0.23076923076923078
+intensity_normalization,sample_239,them without visionary power .,them without visionary power .,0.0007384580094367266,0.01501583299250342,0.0,0.0
+intensity_normalization,sample_242,children will grasp now what will befall,children will grasp mow what will betall,0.0007745420152787119,0.015236749983159825,0.05,0.2857142857142857
+intensity_normalization,sample_245,And they are ( 1 ) Matzo ; ( 2 ) Bitter Herbs ; ( 3 ) Salt-water and,And they are (s ) Matao ; (a ) Bitter Herbsfs ) Salt-water and,0.000863958994159475,0.031208791013341397,0.16176470588235295,0.47368421052631576
+intensity_normalization,sample_247,back .,back .,0.0008203329925891012,0.0053453750151675195,0.0,0.0
+intensity_normalization,sample_251,"are used on Passover , to depict the "" time of our freedom "" .","are used on Passover , to depict the itime of our Freedo"".",0.001036708999890834,0.03720366599736735,0.0967741935483871,0.3333333333333333
+intensity_normalization,sample_255,"We eat it . We accept it , to show we have self-control",be eat it . We accept it . to show we nave self-contpl,0.0011120410053990781,0.0358950000081677,0.09090909090909091,0.3076923076923077
+intensity_normalization,sample_259,cure our mental incapacity we should be willing,cure our mental incapacity we should be willing,0.0012648749980144203,0.030502375011565164,0.0,0.0
+intensity_normalization,sample_261,the salt-water at the Seder-Table represents the Covenant of the Torah,the soll -water at the Geder-iaale reenents the Govenan gf the Torah,0.0010625419963616878,0.02855029099737294,0.17142857142857143,0.5454545454545454
+intensity_normalization,sample_266,Tradition .,Frasittion .,0.0005015420028939843,0.005415583000285551,0.2727272727272727,0.5
+intensity_normalization,sample_269,"meek : "" But the meek shall inherit the earth ; and shall","meex : "" "" But the meex slaall ,innerit the eorth ; and Shall",0.0019200410170014948,0.027283457980956882,0.17543859649122806,0.5384615384615384
+intensity_normalization,sample_272,"We dip into both , at the Seder . And we want to understand","Ne dipinto bain , ot the seder . And we woust to underednd",0.0009035419789142907,0.027002375019947067,0.22033898305084745,0.5714285714285714
+intensity_normalization,sample_273,"more of the Torah and the Oral Tradition , our inheritance .","more gy the fprah anf the prat f radtinn , our inheritace .",0.0007950419967528433,0.023038166982587427,0.2,0.5833333333333334
+intensity_normalization,sample_274,( This is the PARDUS . ) Matzo represents,cthis is the phapuslNlafo rerresauks,0.0010346249910071492,0.023908833012683317,0.5121951219512195,0.7777777777777778
+intensity_normalization,sample_275,Derush ; ( 4 ) Leaning-back represents Saud .,Berush ; cu) Leaning-back reeresentr sand .,0.0009382920106872916,0.021728457999415696,0.2,0.6666666666666666
+intensity_normalization,sample_277,and the sweet Mortar in which we dip-in represents,and tne sweet dlortar in wniln we die-in rerreseuts,0.0013002500054426491,0.03491387501708232,0.18,0.5555555555555556
+intensity_normalization,sample_278,is called : The Feast of Matzos . The,is ralled .the feast of Mateos. The,0.0009669580031186342,0.028504291985882446,0.1891891891891892,0.6666666666666666
+intensity_normalization,sample_279,"principle and this gives us "" a wink "" ( Remez )","princiele . and this gives us ia mink """" Chener )",0.0008898340165615082,0.026141167007153854,0.25,0.6666666666666666
+intensity_normalization,sample_282,the literal meaning of Pesach which,the literae meaning of Pesach which,0.0010127919958904386,0.024268040986498818,0.02857142857142857,0.16666666666666666
+intensity_normalization,sample_283,( 1 ) Matzo represents Peshat ; ( 2 ) Moraur,A)Matzo represeutr Peshat ; (a ) Moraur,0.0009744999988470227,0.02202925001620315,0.20454545454545456,0.6363636363636364
+intensity_normalization,sample_284,Bitter-Herbs represent the spiritual,Bifeer-cterbs reeresent the spirifual,0.0009048750216607004,0.027566000004298985,0.16666666666666666,0.75
+intensity_normalization,sample_287,burdens of Egypt . ( 2 ) I will rid you of their bondage .,burden's of Eass . Ial 1 wil rid yo of their kondage .,0.0008062499982770532,0.019810041994787753,0.2413793103448276,0.6
+intensity_normalization,sample_295,( 3 ) I will redeem you . ( 4 ) I will take you to me for a,Is) I will redeen ya.fl I will take yoo to me for a,0.0007607080042362213,0.020527041982859373,0.2542372881355932,0.5263157894736842
+intensity_normalization,sample_298,"eating Matzos in Egypt and the "" Feast of Matzos ""","eating Matzos in Egiyft and the i feait of Matlos""",0.0006422500009648502,0.021033541997894645,0.14,0.45454545454545453
+intensity_normalization,sample_300,"James had grown up in Presbyterian Scotland ,","fames had grown up in Presbyterian Scotland ,",0.0007995000050868839,0.021542459027841687,0.022222222222222223,0.125
+intensity_normalization,sample_302,Book was issued in 1604 but the Puritans,Busk was issued in 1roy but the puritans,0.0007803750049788505,0.025089333998039365,0.15,0.375
+intensity_normalization,sample_304,"spoiled that . The Puritans had high hopes , for","spoiled that . The Puritans had high hopes , for",0.001351583021460101,0.02170474999002181,0.0,0.0
+intensity_normalization,sample_307,remained . Other changes in the Book were equally,remaines . Olhe . Llonges in the Bosk were equably,0.0005925839941482991,0.01546950000920333,0.1836734693877551,0.6666666666666666
+intensity_normalization,sample_308,They objected to the word Confirmation . So the phrase,tmy dicis b hhe wond lonfimation . So the furose,0.0006494169938378036,0.01431337499525398,0.35185185185185186,0.7
+intensity_normalization,sample_310,They objected to the word Absolution . So the phrase ' or,They dijeded to the word Absohhian . So hre phvare ' ar,0.0008940830011852086,0.02167387498775497,0.22807017543859648,0.4166666666666667
+intensity_normalization,sample_312,added to the Catechism .,ajdr bo the Cchicin. .,0.0004958330246154219,0.011140207992866635,0.4166666666666667,0.6
+intensity_normalization,sample_313,minor except for the new section on the Sacraments,minore excey for the rew seehim an the Scrament s,0.0011543339933268726,0.024828249996062368,0.22,0.7777777777777778
+intensity_normalization,sample_315,able to render an account of their faith according,ahe to rendes an accounnt of thir filh aceerding,0.0007639999967068434,0.018507583008613437,0.18,0.6666666666666666
+intensity_normalization,sample_316,This indicated how ephemeral in the Church had,This inadicated how ephemeral in the Church had,0.000937834003707394,0.030449000012595206,0.021739130434782608,0.125
+intensity_normalization,sample_318,( which was never actually authorized ! ) .,which was never actuaby #d antarrised ! ) .,0.0006981669866945595,0.021654915995895863,0.2558139534883721,0.4444444444444444
+intensity_normalization,sample_324,"definite . It was at this time , too , that King James made","definite . It was at this time , too, that King James made",0.0011480000102892518,0.021671334019629285,0.01694915254237288,0.14285714285714285
+intensity_normalization,sample_326,In that year Shakespeare had just turned,In that year Shakespeare had just turned,0.0007264580053742975,0.01995895800064318,0.0,0.0
+intensity_normalization,sample_328,before . Bacon was at work and Milton was,before . Bacon was at worte and ilton war,0.0007258749974425882,0.0186254580039531,0.0975609756097561,0.3333333333333333
+intensity_normalization,sample_329,important Prayer Books in the Anglican,important Prayer Bookes in the tnglican,0.0006396249809768051,0.01677512502647005,0.05263157894736842,0.3333333333333333
+intensity_normalization,sample_335,first public acts was a hard-hitting battle with,first public acts was a hard-hitting batble with,0.0005886250000912696,0.020368375000543892,0.020833333333333332,0.125
+intensity_normalization,sample_337,"the Jesuit , Fisher . But anyone who was friendly","the Jernit , Fisher . But angone who was friendly",0.000629415997536853,0.018440790998283774,0.061224489795918366,0.2
+intensity_normalization,sample_341,"with James and Charles , the Puritans argued ,","with James and Charles , the Puritans argned ,",0.0006372499919962138,0.01910866700927727,0.021739130434782608,0.1111111111111111
+intensity_normalization,sample_345,and so was the office of a bishop . Altars should be,and so wras thn affice of a bishop . Altars should be,0.0008558330009691417,0.018909000005805865,0.057692307692307696,0.25
+intensity_normalization,sample_347,"altars and not any broken down , transportable","allars and nof amy frols down , Eranspartabll",0.0006705000123474747,0.01788520801346749,0.21739130434782608,0.625
+intensity_normalization,sample_348,a sense of reverence . The Prayer Book was to be respected,a rnse of reverence . The Prayes Bool was frbe respacted,0.0006848750053904951,0.020131792000029236,0.13793103448275862,0.5
+intensity_normalization,sample_350,"to face their fears , to see through them and come out on the",to face their feos  to vee thraugh them and cone ont on the,0.0007548749854322523,0.01715566701022908,0.13114754098360656,0.42857142857142855
+intensity_normalization,sample_351,"by laughing at what are very real fears . As adults , we know",by lnyhing ot what ave wy real frars . Ar wdaltr we bamw,0.0005914159992244095,0.014345290983328596,0.29508196721311475,0.6428571428571429
+intensity_normalization,sample_352,but to a child they are very real . Not that I am suggesting,bat to a dhild they are rery real . Mit that I an nyerting,0.0005935840017627925,0.016763291001552716,0.18333333333333332,0.42857142857142855
+intensity_normalization,sample_353,that children should be molly-coddled - they must be made,that diltren shonld be moly-cddled - they manst &e made,0.0006120420002844185,0.016145958012202755,0.15789473684210525,0.5
+intensity_normalization,sample_359,unnecessary its fears were .,mnuecenvany its fears rrere .,0.0005140829889569432,0.020800458994926885,0.25,0.4
+intensity_normalization,sample_360,To ridicule them only pushes them farther,To riadicule tham only pushes them farther,0.0006735829811077565,0.03074720801669173,0.04878048780487805,0.2857142857142857
+intensity_normalization,sample_361,reaped at forty or fifty . Far better to,reaped at forty or fity . Far beker to,0.0007327499915845692,0.023240125010488555,0.075,0.2222222222222222
+intensity_normalization,sample_363,the harvest of which may still be being,the hanvent of whicch wan wtill ke bing,0.0015037079865578562,0.02373020799132064,0.20512820512820512,0.75
+intensity_normalization,sample_368,of twelve or thirteen under the,of hwebve axt thirten unoder the,0.000721791002433747,0.019110458000795916,0.22580645161290322,0.6666666666666666
+intensity_normalization,sample_370,it is a good idea to condition a child,it is a good icdea to conditian a ctied,0.0005344170203898102,0.013487832999089733,0.10526315789473684,0.3333333333333333
+intensity_normalization,sample_376,"happens is not merely dishonest , it","tapysens is nat mericy dirhonest , it",0.0005782910156995058,0.015814250014955178,0.19444444444444445,0.5714285714285714
+intensity_normalization,sample_377,frightening possibilities and yet by facing,Grisghtening paribilities and yet byfacing,0.0006525420176330954,0.018412582983728498,0.13953488372093023,0.6666666666666666
+intensity_normalization,sample_382,the way to face life . To see all the latent,the way to face lfe . To see all the latent,0.0007492089935112745,0.019646125001600012,0.022727272727272728,0.09090909090909091
+intensity_normalization,sample_385,has something important to do with our,ha souething ienpertant to ao wnth onr,0.0011545419984031469,0.02627145900623873,0.21052631578947367,0.8571428571428571
+intensity_normalization,sample_391,"dwells in my hand , Knows this","dwells in my hand , Knous this",0.0009967499936465174,0.018952749989693984,0.03333333333333333,0.14285714285714285
+intensity_normalization,sample_392,Was this : That a secret plan Is hid in,was thie : That a secrerplar Ts kid is,0.0011002499959431589,0.020034374989336357,0.20512820512820512,0.7
+intensity_normalization,sample_396,"seen to be allies and not enemies and that ,",seen to be alkies and not exemmies amor let,0.001213582989294082,0.02593583401176147,0.25,0.5
+intensity_normalization,sample_398,we are with Thee .,we are with Phee .,0.0005130409845151007,0.012195290997624397,0.05555555555555555,0.2
+intensity_normalization,sample_399,"come what may , we are never alone when","come what may , we are never alaene wban",0.0008342500077560544,0.018910208978923038,0.10256410256410256,0.2222222222222222
+intensity_normalization,sample_400,"be really afraid , help us to know that when","be realy cfhaid , betpy ls to tnow teat wlan",0.0008030000026337802,0.02454245902481489,0.25,0.7
+intensity_normalization,sample_410,realize that tiredness itself is largely in,reallice thnar tirednessttselt is lasrgelyin,0.000673250004183501,0.017983833997277543,0.20930232558139536,0.8571428571428571
+intensity_normalization,sample_413,a mother has news late at night that her,a moths ter nuuur latt at mihl the thrs,0.0005945419834461063,0.01622579200193286,0.45,0.7777777777777778
+intensity_normalization,sample_415,of tiredness to the body . This can be proved by,op livw te the begj. This can be prord bh,0.0009854579984676093,0.01982400001725182,0.3541666666666667,0.6363636363636364
+intensity_normalization,sample_418,noting the effect of a new stimulus on some-,soting the eypet of o nu slinctir on semd-,0.0006989589892327785,0.018206500011729077,0.3409090909090909,0.6666666666666666
+intensity_normalization,sample_423,"refer to something you like doing , bring a","refer to something yon like doing , bnbg a",0.0007501250074710697,0.021494915999937803,0.09302325581395349,0.2222222222222222
+intensity_normalization,sample_424,up with no apparent tiredness at all when,up nith ho opparent Arehemns at a ehen,0.0007197080121841282,0.022583834012039006,0.2926829268292683,0.75
+intensity_normalization,sample_428,to different situations . There are some which,to dilferent situatianns . Thare ar voure which,0.0007512080192100257,0.022427374991821125,0.17391304347826086,0.625
+intensity_normalization,sample_429,"if the cause of our pain is too deep seated ,","if tha case of buer pain is too deags sealoc ,",0.000525208015460521,0.013101208984153345,0.2222222222222222,0.45454545454545453
+intensity_normalization,sample_430,Any mental confusion can cause this and,Ceny mental contirtin can caue fhis and,0.0007912500004749745,0.019044792017666623,0.23076923076923078,0.5714285714285714
+intensity_normalization,sample_435,As we are unable to cure our own bodies,Tes we are unabile to cure beer bun bockises,0.000713459012331441,0.019795665983110666,0.28205128205128205,0.5555555555555556
+intensity_normalization,sample_437,if the trouble is a complicated one,if the f franhle i a complicaled ane,0.0008205839840229601,0.016243541991570964,0.2571428571428571,0.7142857142857143
+intensity_normalization,sample_438,"inability to deal with life , especially under",inatilily tele witlt lte uricictly anotr,0.0005805830005556345,0.015190834004897624,0.4782608695652174,1.0
+intensity_normalization,sample_445,century .,culesjs ,0.0003676659835036844,0.0040600829815957695,0.8888888888888888,1.0
+intensity_normalization,sample_446,"physical illness . There is , nevertheless , a",phyticol iltmps . Ttu is nerthili a,0.0006039580039214343,0.013599124999018386,0.43478260869565216,0.6666666666666666
+intensity_normalization,sample_450,"be happening at the other end of England ,",b hamrnino at the ofter enet eesond,0.0012427500041667372,0.04084491700632498,0.42857142857142855,0.7777777777777778
+intensity_normalization,sample_455,"When news from the Continent took days ,","When newss from the Contitent tot days ,",0.0007453330035787076,0.023474167013773695,0.1,0.375
+intensity_normalization,sample_457,to live a day at a time . Even those who,to live a dal at a tiure . Gan the who,0.000884667009813711,0.026670040999306366,0.2,0.36363636363636365
+intensity_normalization,sample_460,thirty even sixty miles from his,thirty even sixty miles from his,0.000542916008271277,0.014314041996840388,0.0,0.0
+intensity_normalization,sample_463,work . The only connexion is the,work . The orly connerion is the,0.0007374160049948841,0.01632383299875073,0.0625,0.2857142857142857
+intensity_normalization,sample_466,travel day by day .,travel day by day .,0.0005860840028617531,0.008783957979176193,0.0,0.0
+intensity_normalization,sample_467,"in one place , their lives were of one","in oneplace , their lives were of one",0.0013419589959084988,0.014223292004317045,0.02631578947368421,0.2222222222222222
+intensity_normalization,sample_468,pipeline of the railway on which they,pipeline of the raslway on which they,0.0009182500070892274,0.01671854199958034,0.02702702702702703,0.14285714285714285
+intensity_normalization,sample_473,of what is going on . It is easier to live life in,ofunt is gaing on Mliseagielouvelfein,0.0007943750242702663,0.018156000005546957,0.42,0.8461538461538461
+intensity_normalization,sample_474,"compartments but over the years it builds up ,","compastmerls hutarer theyearsitbuils wp ,",0.000702916004229337,0.02168979198904708,0.2608695652173913,0.8888888888888888
+intensity_normalization,sample_475,"homes . It is easy , desperately easy , to lead","harnes. t icasy , desperatelyyeosytoleacd",0.0007475840102415532,0.02046833300846629,0.3191489361702128,0.9090909090909091
+intensity_normalization,sample_477,and to do so inevitably builds up tensions which,andto oineitably buildg yp tensiongunicn,0.0006516659923363477,0.017113750014686957,0.2916666666666667,1.0
+intensity_normalization,sample_479,planning to do so or in fact being conscious,planningtodosoorin factbeingcancows,0.0005999169952701777,0.019701083016116172,0.25,1.0
+intensity_normalization,sample_483,Can we then frame some ' rules ' which may enable us to live life,Gan we then frame some rules ' wich may enable us to lire Wfe,0.0005944170115981251,0.018796791991917416,0.1076923076923077,0.3333333333333333
+intensity_normalization,sample_486,write out all the necessary jobs waiting to,writ out otithe nuinary jitraiiiingto,0.0006704170082230121,0.01819095798418857,0.4186046511627907,0.875
+intensity_normalization,sample_488,rather than getting from one thing to the next .,sottir ton gltti jrom on thii te teasit,0.0006647499976679683,0.018585000012535602,0.4375,1.0
+intensity_normalization,sample_490,thing else . If we would only sit down and,tirp tee Ga wbtionly it bunond,0.0006575830047950149,0.019191707979189232,0.5714285714285714,1.0
+intensity_normalization,sample_493,"if she made a list , followed a routine of work",ijstrmoolo hirl jotev a routine ojvst,0.0006476659909822047,0.019045791996177286,0.574468085106383,0.8181818181818182
+intensity_normalization,sample_498,out for forty years I find difficult to understand .,sut fas forty years I find difficicief to ndersfand .,0.0008307919779326767,0.021134583017555997,0.19230769230769232,0.4
+intensity_normalization,sample_501,it becomes possible to work out a system,it becomnes possible to wort gut a pafe,0.001012833003187552,0.019720500014955178,0.2,0.5
+intensity_normalization,sample_503,the pressure on over-crowded trains .,the pressure on over-crowded treins .,0.0007527919951826334,0.016833917004987597,0.02702702702702703,0.16666666666666666
+intensity_normalization,sample_504,can go through the same routine day in and day,can go thsugh the saane rutine day in aind daey,0.0006634999881498516,0.01753650000318885,0.15217391304347827,0.5
+intensity_normalization,sample_513,"As it is , with so much of our life already","19 if ig , wieh somon of ouslfe adreosiy",0.0005922089912928641,0.01631629199255258,0.37209302325581395,0.8181818181818182
+intensity_normalization,sample_516,started day one again and so on .,started day one again and so on .,0.0005158330022823066,0.011188541015144438,0.0,0.0
+intensity_normalization,sample_521,week being the same with a pupil,week being the same with a pupir,0.0005150409997440875,0.011391916021239012,0.03125,0.14285714285714285
+intensity_normalization,sample_522,Monday to Friday were days one,"""Onday to. Friday were dags one",0.0004895000020042062,0.011521250009536743,0.13333333333333333,0.5
+intensity_normalization,sample_524,would be on Friday afternoon at,woul be on Friday Afternoon at,0.0004990000161342323,0.011242582986596972,0.06451612903225806,0.3333333333333333
+intensity_normalization,sample_527,To have order does not mean getting,To have oreder ctoes nat thean getting,0.0005152079975232482,0.012807374994736165,0.17142857142857143,0.5714285714285714
+intensity_normalization,sample_528,"It was a little complicated to work ,",it was a little complicated t wart,0.0005764160014223307,0.01574587498907931,0.16216216216216217,0.5
+intensity_normalization,sample_534,into a dull routine . I have great,into adull toutine . I abe great,0.0004891249991487712,0.010842166986549273,0.11764705882352941,0.5
+intensity_normalization,sample_540,sit down quietly and make a list of everything she has got to,sit down paatly and mabe a hist of ererthing ohe har got h,0.0005328749830368906,0.01580462499987334,0.19672131147540983,0.5384615384615384
+intensity_normalization,sample_542,"the day without becoming exhausted , she will be well advised to",the dy withont beaming exhansted she will be ndrised to,0.0006241670052986592,0.015509916993323714,0.21875,0.5833333333333334
+intensity_normalization,sample_546,put all our energies into the particular,put ol or mnpi into tporticstar,0.0005672500119544566,0.014942624984541908,0.375,0.7142857142857143
+intensity_normalization,sample_547,"She will , in fact , be surprised at what peace",Ihe witt in foul  besrpitdadwtasod,0.0005592080124188215,0.015323500003432855,0.5531914893617021,0.9090909090909091
+intensity_normalization,sample_551,"( Actually , the Mishnah quotes two further proof","ikctually , the Kishaah guotes two further prot",0.0005694999999832362,0.014290708000771701,0.16326530612244897,0.5555555555555556
+intensity_normalization,sample_553,not quoted here because they are not,not guoted here because they are not,0.000534249993506819,0.01810349998413585,0.027777777777777776,0.14285714285714285
+intensity_normalization,sample_554,"texts and the Gemara explains why these ,","texts and the Gemara explains why these ,",0.0006064589833840728,0.013989333994686604,0.0,0.0
+intensity_normalization,sample_555,necessary to prove the point made by,necessary to prove the point made by,0.0005795830220449716,0.014765500003704801,0.0,0.0
+intensity_normalization,sample_556,"R. Joshua b. Levi . ) Finally , we note that","R. toshua b. Leiri ) Finally , we note that",0.0006437080155592412,0.015572624979540706,0.09090909090909091,0.2727272727272727
+intensity_normalization,sample_564,"From the above it follows that here , once again ,","From the above it follous that here , once again",0.0006307919975370169,0.014618792018154636,0.06,0.18181818181818182
+intensity_normalization,sample_569,actual practice of greeting by the divine,actual practice of greeting by the divine,0.0004927080008201301,0.011590582987992093,0.0,0.0
+intensity_normalization,sample_571,There is no reference to the Mishnah here,There is no reference to the Kishuah here,0.0006890409858897328,0.019875625002896413,0.04878048780487805,0.125
+intensity_normalization,sample_573,by the Gemara in support of R. Joshua b.,by the Gemrara in support of R. toshma b .,0.0005413749895524234,0.013460250018397346,0.1,0.4444444444444444
+intensity_normalization,sample_574,Name and the Gemara here quotes the,Name and the gemara here guotes the,0.0006063329929020256,0.014196083007846028,0.05714285714285714,0.2857142857142857
+intensity_normalization,sample_576,need for the text of the angel are quoted,need for the text of the angel are goted,0.000495915999636054,0.013654041977133602,0.04878048780487805,0.1111111111111111
+intensity_normalization,sample_587,accord but there was no approval of his action,accord but there was no approral of his action,0.0005866660212632269,0.01577495801029727,0.021739130434782608,0.1111111111111111
+intensity_normalization,sample_588,original question and answer and this is quoted,original question and answer and this is geoted,0.0006597090105060488,0.015910124988295138,0.0425531914893617,0.125
+intensity_normalization,sample_592,in the decision of the human court . ),in the decisionn of the bumrann court . ),0.0005462910048663616,0.014048707991605625,0.10526315789473684,0.2222222222222222
+intensity_normalization,sample_597,part of the verse .,part of the verse .,0.00044833298306912184,0.007308833999559283,0.0,0.0
+intensity_normalization,sample_598,is then quoted and the interpretation of the,is then guoted and the interpretation of the,0.0006870829965919256,0.01656912500038743,0.022727272727272728,0.125
+intensity_normalization,sample_599,latter part of the verse by Rami bar Rabh,latter part of the verse by Ram bar Rath,0.00055233298917301,0.015349334018537775,0.04878048780487805,0.2222222222222222
+intensity_normalization,sample_600,"is added , not because this is at all relevant","is added , not because this is at all relevanf",0.0006690830050501972,0.019392167014302686,0.021739130434782608,0.1
+intensity_normalization,sample_601,become so well known that it was,become so well Lnoun that it was,0.0006974580173846334,0.019912166986614466,0.0625,0.14285714285714285
+intensity_normalization,sample_602,The proof text of bringing the tithe to the Temple,The proof tent of bringing the tithe tothe Temple,0.0005767500260844827,0.014852958003757522,0.04,0.3
+intensity_normalization,sample_605,deals with a similar theme .,deals with a similar thene .,0.0007101669907569885,0.02323583301040344,0.03571428571428571,0.16666666666666666
+intensity_normalization,sample_606,and the court of Solomon . ' The place of this,"and the court of Golonon "" The place of this",0.0008728340035304427,0.018572500004665926,0.10869565217391304,0.2727272727272727
+intensity_normalization,sample_611,"the court of Shem , the court of Samuel of Ramah ,","the court of shemn , the court of canmrel of famah ,",0.001054749998729676,0.021512457984499633,0.12,0.25
+intensity_normalization,sample_614,One can remember with horror the pictures of the,One can remember with horor the pictures of the,0.0006433749804273248,0.020563333004247397,0.020833333333333332,0.1111111111111111
+intensity_normalization,sample_615,"trends . Crochet today has a variety of uses , and","trends . Crochet today has a varity of wses , and",0.0007449590193573385,0.018788999994285405,0.04,0.18181818181818182
+intensity_normalization,sample_622,numerous other crocheted pieces . It was some years,muumeraus other crocheted pieces . It was some yans,0.0006683749961666763,0.021403999999165535,0.09803921568627451,0.2222222222222222
+intensity_normalization,sample_623,This could hardly happen without the,Pris could hardly happen witlout fe,0.0005882919940631837,0.018411041994113475,0.1388888888888889,0.5
+intensity_normalization,sample_631,"helped and hindered by water flow ,","tufped and hintered by water fhn ,",0.0005929580074734986,0.01630408299388364,0.2,0.42857142857142855
+intensity_normalization,sample_633,Thus we can see that herring,Thus we can see that teriing,0.0006784159922972322,0.013177583983633667,0.07142857142857142,0.16666666666666666
+intensity_normalization,sample_634,the herring spawn along the northern,tce tirring prn alang tke northern,0.0028321669960860163,0.015792958001838997,0.2222222222222222,0.8333333333333334
+intensity_normalization,sample_639,are also closely related to the sea-bed,are alss cforely related tothe seanbed,0.0007037089962977916,0.017049916001269594,0.1282051282051282,0.7142857142857143
+intensity_normalization,sample_641,a deep-water channel to the Dogger where,a cleepmater chated to the Nogger where,0.0006770000036340207,0.01733595901168883,0.2,0.42857142857142855
+intensity_normalization,sample_646,"they migrate easterly to the Norwegian side , or westerly , until","they mjrate eartoly to the Normeyian slde , or wertorly , natil",0.0007699169800616801,0.017878125014249235,0.18461538461538463,0.5
+intensity_normalization,sample_651,The joint evidence of echo-sounders,The firct evidence of echo- saunders,0.0007097919879015535,0.015594833996146917,0.17142857142857143,0.6
+intensity_normalization,sample_656,spawn . Some will spawn at the,spawn . tame tiicl spuwn aut hk,0.0009020830038934946,0.01842025000951253,0.3,0.7142857142857143
+intensity_normalization,sample_659,The details are harder still to see .,The cetais are tmder stid tosce .,0.0010105000110343099,0.022120082983747125,0.24324324324324326,0.625
+intensity_normalization,sample_661,So the arrival of any particular shoal,to fae axsival of an particular sloal,0.0006885839975439012,0.020729083014884964,0.18421052631578946,0.7142857142857143
+intensity_normalization,sample_665,fish at a certain spawning ground may,tal at a eertain spamming proemod may,0.000628332985797897,0.0202432090009097,0.2972972972972973,0.5714285714285714
+intensity_normalization,sample_678,longshore fishings . The surface,Longshore fishings . The suyace,0.0006685420230496675,0.01412829098990187,0.09375,0.4
+intensity_normalization,sample_680,with it the herring to the Norfolk,with it the harring to the Nostolke,0.0005497079982887954,0.013179542002035305,0.11764705882352941,0.2857142857142857
+intensity_normalization,sample_681,"course - one breeze will not do it ,","cou-one breeye tit hat a il ,",0.0006124999781604856,0.013925167004344985,0.3888888888888889,0.8888888888888888
+intensity_normalization,sample_682,but quite apart from this wind effect,brunt guite apurt from tiis wrind effet,0.0006390409835148603,0.013183333998313174,0.1891891891891892,0.8571428571428571
+intensity_normalization,sample_689,"to this rump of coastline , caused by","to this runp of coastiine , cansed by",0.0005730830016545951,0.013741125003434718,0.08108108108108109,0.375
+intensity_normalization,sample_691,of winds is needed for this effect of,of wuinds is peeded for this efect of,0.0005651669926010072,0.015314542019041255,0.08108108108108109,0.375
+intensity_normalization,sample_694,"Herring fishermen call this "" the outset "" . It","Herring fsnermencall thi""ihe ouoediitt",0.0005708750104531646,0.013200666988268495,0.3404255319148936,0.9
+intensity_normalization,sample_699,been the biggest factor through the ages,been the biggest factarimough the ages,0.0005228749942034483,0.012855875014793128,0.125,0.2857142857142857
+intensity_normalization,sample_700,in the constancy of this great herring fishery .,in the cenalancyof this greatherringfisnery .,0.0006990000256337225,0.01551791702513583,0.14583333333333334,0.5555555555555556
+intensity_normalization,sample_703,"to overcome its effect , very few fish would be caught .",to erercome itos ofoot ray few fik uould be aught .,0.0005688329983968288,0.014044291980098933,0.2857142857142857,0.6666666666666666
+intensity_normalization,sample_711,Let us consider first what would,tet us consider first what woula,0.000562834000447765,0.01724220800679177,0.0625,0.3333333333333333
+intensity_normalization,sample_713,to the disturbance .,tothedistwbance . ',0.0005813750030938536,0.008234542008722201,0.3,1.0
+intensity_normalization,sample_716,it reaches them . They move away before,it reaches them . They move away before,0.0011280000035185367,0.013478458015015349,0.0,0.0
+intensity_normalization,sample_717,"for an unknown period of time , until","for an untnoun periad of time , untit",0.0006617089966312051,0.018488707981305197,0.10810810810810811,0.375
+intensity_normalization,sample_719,indeed passing over some fish .,irohe porinp onssoml fite .,0.0005068329919595271,0.012298042012844235,0.4838709677419355,0.8333333333333334
+intensity_normalization,sample_725,"field of disturbance , or bow wave . This suggests","Milofciilirbona,orbewwa thismrpt ",0.0005585000035353005,0.016407374991104007,0.6,1.0
+intensity_normalization,sample_726,Then they stop swimming and are caught . In,Tnthyy tter wimig andanaoti !s,0.0005946670135017484,0.015964958001859486,0.5116279069767442,1.0
+intensity_normalization,sample_727,Cover in the fast-moving trawl is considered,Cverin the fastmaingtrauslis casiered,0.0006032500241417438,0.01617508300114423,0.2727272727272727,0.8571428571428571
+intensity_normalization,sample_729,would seem to be even more essential ;,"wolal seern to be even more esentionl ,",0.0009748750017024577,0.020657499990193173,0.23684210526315788,0.5
+intensity_normalization,sample_731,essential to catch round fish whose,exgential to coatn roun fih wnase,0.0007348330109380186,0.016813833004562184,0.2571428571428571,0.8333333333333334
+intensity_normalization,sample_732,"fish like haddock , which would hardly",fin lhe nasaackiunion wowubhasaly,0.0005413749895524234,0.01289070799248293,0.5526315789473685,1.0
+intensity_normalization,sample_735,"find safety on the bottom , this cover",finsofety on the pattorninigcover .,0.0005660000024363399,0.015803374990355223,0.39473684210526316,0.75
+intensity_normalization,sample_739,the victim and inspecting at Waterloo the carriage,the iictim ans i nspectiny at wateloo ane coriagh,0.0010943340021185577,0.03467316599562764,0.22,0.875
+intensity_normalization,sample_743,man had been seen fleeing from Vauxhall station on,man has been seen fleaingg from yau thall sration on,0.0008696249860804528,0.03137533299741335,0.14,0.5555555555555556
+intensity_normalization,sample_744,"me well meant , some mischievous , including one that a","mewell meant , some nis Chievous , inelusing one that a",0.0011871249880641699,0.03533462499035522,0.10909090909090909,0.45454545454545453
+intensity_normalization,sample_745,beyond the jury hearing a formal identification of,beyens the jury hearing a formad i d entif i Cation of,0.0010466249950695783,0.028966665995540097,0.16,0.875
+intensity_normalization,sample_749,named Brown .,heamed Geown .,0.00048154100659303367,0.013312458002474159,0.3076923076923077,0.6666666666666666
+intensity_normalization,sample_750,trails . It was learned that Elizabeth Camp had been lending,trails. It was learned that Elizabeth Camp had been leansing,0.0011772919970098883,0.031213790993206203,0.05,0.2727272727272727
+intensity_normalization,sample_757,at Wandsworth . A passenger described this individual,at Wandsworh . A passenger deseribed this ingividval,0.0008665419882163405,0.02924241599976085,0.07547169811320754,0.375
+intensity_normalization,sample_762,"defective , and , despite his claim to infamy ,","Jefective , and , eseite his claim to infamy ,",0.0006074580014683306,0.019611041992902756,0.06382978723404255,0.2
+intensity_normalization,sample_769,had been nowhere near the 7.42 that evening .,had been nownere near the til2 that evening .,0.001045291021000594,0.021845791983650997,0.08888888888888889,0.2222222222222222
+intensity_normalization,sample_777,sinister in the idea of tunnels . The building of,sinisler in the iea of tunnels . The bailding of,0.0007113330066204071,0.021162332996027544,0.061224489795918366,0.3
+intensity_normalization,sample_778,solution emerged . There has always been something,sodution emerged . There has aways been sonelhing,0.0007147500000428408,0.017895209020935,0.08,0.375
+intensity_normalization,sample_781,were many people who believed that to travel,were many people who beliered that to travel,0.0007725000032223761,0.01791629201034084,0.022727272727272728,0.125
+intensity_normalization,sample_784,a further seven years before even a ghost of a,a further seven years helore even a ghost of a,0.0006510000093840063,0.04561854197527282,0.043478260869565216,0.1
+intensity_normalization,sample_788,"by it will be so heartily sick , what with the",by it will be So heactilf sick what wien the,0.001018833980197087,0.029099709005095065,0.15217391304347827,0.36363636363636365
+intensity_normalization,sample_795,"said , "" the deafening peal of thunder , the sudden","saih , "" the deafeting peal op thunaees the sugalen",0.000775291002355516,0.024934208020567894,0.19607843137254902,0.5454545454545454
+intensity_normalization,sample_797,"immersion in gloom , and the clash of reverberated","immlssion in ploom , and the clash of Eevecberated",0.0010930830030702055,0.028894458984723315,0.1,0.3333333333333333
+intensity_normalization,sample_798,darkness .,dactness .,0.00043229100992903113,0.005752333003329113,0.2,0.5
+intensity_normalization,sample_799,passengers would be robbed and assaulted in the,sassengeis wald be robbed and assaulkey in the,0.0010277499968651682,0.023602165980264544,0.1276595744680851,0.375
+intensity_normalization,sample_800,"of annihilation . "" It was also prophesied that",of anninilationlt was also peophesie that,0.0009970419923774898,0.027362666005501524,0.19148936170212766,0.5555555555555556
+intensity_normalization,sample_803,sounds in a confined space combine to produce a,soungs in a confiney sface comline to peouuce a,0.0009225420071743429,0.029644375026691705,0.1276595744680851,0.5555555555555556
+intensity_normalization,sample_807,"For all that , as far as England is concerned ,","for all that , as far ay Englad is concemned ,",0.000891875009983778,0.025563875009538606,0.0851063829787234,0.36363636363636365
+intensity_normalization,sample_817,Though in the minds of most people there was,Thouyh in the minds of nost peqphe theve wo,0.0008411659800913185,0.027967499976512045,0.1590909090909091,0.5555555555555556
+intensity_normalization,sample_818,"Brighton line , is approximately one mile long ,","Briguton line , is approrimatel y one mile long ,",0.0011196249979548156,0.024900415999582037,0.0625,0.3333333333333333
+intensity_normalization,sample_819,was not sufficient evidence to show whether,was not sufficient eridence to slow whether,0.0013940829958301038,0.045635374990524724,0.046511627906976744,0.2857142857142857
+intensity_normalization,sample_820,and some time before midnight on September,and sowe time before midnighy on september,0.0015826669987291098,0.03078345800167881,0.07142857142857142,0.42857142857142855
+intensity_normalization,sample_823,"Was it a case of suicide , where some unhappy soul","Wasit a case of suicide , Whee same unheppy soul",0.000663875020109117,0.020248374989023432,0.1,0.45454545454545453
+intensity_normalization,sample_824,"doctor , the woman , young , small , and rather plump ,","doctor , the woman , young  small andrather plumnp .",0.000647917011519894,0.01762879197485745,0.12727272727272726,0.46153846153846156
+intensity_normalization,sample_829,thrust in her mouth like a gag .,thurst in her . Mouth like a gag,0.0007477090111933649,0.021595832979073748,0.21875,0.5
+intensity_normalization,sample_831,was found to have her own silk scarf drawn,Was found to have herown silk scarf otrawn,0.0007472909928765148,0.022550666006281972,0.09523809523809523,0.4444444444444444
+intensity_normalization,sample_834,"fication , no money , and no railway ticket . By then","ficationno money , andno railway ticnet . By then",0.0008104160078801215,0.01890991599066183,0.09433962264150944,0.5
+intensity_normalization,sample_835,occurred before her death was ensured by some,occurred before her death was ensured by some,0.0008623329922556877,0.022468125011073425,0.0,0.0
+intensity_normalization,sample_836,"this stretch of line , but no information was","this stretch of line , but ho intormation was",0.0006450829969253391,0.021219791990006343,0.044444444444444446,0.2222222222222222
+intensity_normalization,sample_839,which might relate .,Which might relate .,0.000583500019274652,0.010034667007857934,0.05,0.25
+intensity_normalization,sample_841,and there were other injuries on her body which had,and there were other injuvies on her hody which had,0.001047083002049476,0.0207026670104824,0.0392156862745098,0.2
+intensity_normalization,sample_843,no letters or papers found on her to assist identi,"no lettars or papers foud on her to assist idont ,",0.0007119580113794655,0.01971379099995829,0.1,0.4
+intensity_normalization,sample_846,"circulated , and a Mr Robert Money came forward to","cireulated , and a ur Robert noney cake forwarg to",0.001141916000051424,0.030597165983635932,0.1,0.5
+intensity_normalization,sample_854,"jolly , "" had been unmarried , and lived at Lavender Hill ,","Jolly ' ' nad been unuarried , and lived at Lavender Mill ,",0.000894750002771616,0.027172917005373165,0.1016949152542373,0.46153846153846156
+intensity_normalization,sample_855,"evening at about seven o'clock , telling her room-mate , Emma","evaniny al about sevell o "" clock , Jelling ner look-Mate , Carka",0.0010442079801578075,0.03577950000180863,0.2786885245901639,0.9090909090909091
+intensity_normalization,sample_856,purse .,auiiSR .,0.0004978750075679272,0.0068247079907450825,0.7142857142857143,0.5
+intensity_normalization,sample_859,"carrying a handbag , but she believed she had had a small","carrying a hanbag , but she belived she nad nad a small",0.0012580000038724393,0.03292683299514465,0.07017543859649122,0.3333333333333333
+intensity_normalization,sample_860,"gone for long . According to Miss Hone , she had not been","Bone for loup . According to Miss Houe , she nad not been",0.0011210830125492066,0.031832208012929186,0.08771929824561403,0.3076923076923077
+intensity_normalization,sample_861,rican would not say ; nothing an,"rican would nof say , nothig an",0.0006848750053904951,0.018077458982588723,0.09375,0.42857142857142855
+intensity_normalization,sample_863,glishman would not do ; nothing an Ame-,gishman would not do ; nothing an Ame,0.0007200830150395632,0.0162264579848852,0.05128205128205128,0.25
+intensity_normalization,sample_864,SOME years ago a contemporary philosopher,SOME yeard ago a contemporary philosophen,0.0006022909947205335,0.016985875001410022,0.04878048780487805,0.3333333333333333
+intensity_normalization,sample_867,told us that there was nothing an En-,fold us that there was nothing an lu-,0.0006789169856347144,0.02084233399364166,0.08108108108108109,0.25
+intensity_normalization,sample_869,not covet ; and nothing the Chinese,not covef ; and nothing the Clnete,0.001679541019257158,0.015564666973659769,0.11428571428571428,0.2857142857142857
+intensity_normalization,sample_875,music to which the Frenchman would not dance ;,music to whicd th Frenchman would not dancer .,0.0007662080170121044,0.022283166996203363,0.08695652173913043,0.4444444444444444
+intensity_normalization,sample_878,hold forth from a spear the welcome gobbet of,Rrld firth froin a syear the Welcome gotbet of,0.0005710000114049762,0.013962750002974644,0.17777777777777778,0.6666666666666666
+intensity_normalization,sample_882,borrowed straight from the prehistoric . How,boirowsed straigtt fromn thre prebistorra . Hfow,0.0006640419887844473,0.013516417006030679,0.20454545454545456,0.8571428571428571
+intensity_normalization,sample_884,Suffice to say that few of us stop to marvel at,Juffice to say that few of us stop to marvel at,0.000734790985006839,0.015741500013973564,0.02127659574468085,0.09090909090909091
+intensity_normalization,sample_888,How many centuries later did the mercenary in,fow many centuries later did the mercenary in,0.0006967909866943955,0.017719625000609085,0.022222222222222223,0.125
+intensity_normalization,sample_890,later still the young Victorian buck adventuring,later atill th young Victorian buck adventuric,0.0005842499958816916,0.01712454200605862,0.08333333333333333,0.42857142857142855
+intensity_normalization,sample_894,"And , if certain dishes and modes of food have","And ,if certain diskes aund mods of food havs",0.0006684589898213744,0.015836500009754673,0.10869565217391304,0.6
+intensity_normalization,sample_897,always been strong in mankind . The sharing of,allrays teen stonp in manbind . The sharing of,0.0008580409921705723,0.017679834010777995,0.13043478260869565,0.4444444444444444
+intensity_normalization,sample_898,day ; the desire to share something more intimate,day ; the desire to shere som thing more intimate,0.0007401249895337969,0.019515249994583428,0.04081632653061224,0.3333333333333333
+intensity_normalization,sample_900,a meal in those earliest dangerous days was an,a meal in thnse earlieit dangrous dlays wras an,0.0007125410193111748,0.018956208979943767,0.10869565217391304,0.5555555555555556
+intensity_normalization,sample_904,tation affords an opportunity of,tation affords anopportunity of,0.0008118329860735685,0.017065208026906475,0.03125,0.4
+intensity_normalization,sample_905,It is a far enough cry from the primitive,A is a faw enough crk from primitive,0.0006450829969253391,0.01744825000059791,0.1951219512195122,0.4444444444444444
+intensity_normalization,sample_909,groaned under its load of complicated,groaned undar its Cad of complicutel,0.0006429160130210221,0.0180762920062989,0.13513513513513514,0.5
+intensity_normalization,sample_920,"those days , as ever , ate sparingly , but","those dnns , as ever , ate sparringl' , bu t",0.0005971670034341514,0.01622029099962674,0.11904761904761904,0.4
+intensity_normalization,sample_923,by Catherine de Medici . The peasant in,bu Catherine do Jledici . The peasant in,0.0006314589991234243,0.0163442499761004,0.10256410256410256,0.375
+intensity_normalization,sample_926,"Epicures and gourmands , sated by the unending","Epicures and gourmands , saed by the unending",0.0007459170010406524,0.023843959002988413,0.021739130434782608,0.125
+intensity_normalization,sample_928,of the 18th century - that amazing epoch of,of the 18th century - thatt amaeing epach of,0.0008735830197110772,0.023661249986616895,0.06976744186046512,0.3333333333333333
+intensity_normalization,sample_929,"intelligent selection and comparative simplicity , though","intelligent selection and comparative simplicity , thoogn",0.0007942909724079072,0.02697929201531224,0.03508771929824561,0.14285714285714285
+intensity_normalization,sample_931,nowadays their simplified meals would seem quite,nowadays their simplifield menls wauld seem avite,0.0007989579753484577,0.024745500006247312,0.10416666666666667,0.5714285714285714
+intensity_normalization,sample_934,"of gorging the eye with magnitude ,",of genrging the ee nith magnitud,0.0006152499991003424,0.017310750001342967,0.2,0.7142857142857143
+intensity_normalization,sample_935,"simplicity , though nowadays their","simplicitl , Though mowadans their",0.0006819589762017131,0.017137042013928294,0.11764705882352941,0.6
+intensity_normalization,sample_936,"the dishes of the country , and , instead","the dishes of the countwy , and , instend",0.0007104160031303763,0.019941541977459565,0.04878048780487805,0.2222222222222222
+intensity_normalization,sample_940,simplified meals would seem quite,snmuplified meals would seem cuite,0.0007499999774154276,0.019813125021755695,0.09090909090909091,0.4
+intensity_normalization,sample_944,unending procession of dishes from those,unending prucession ofUlishes from thasa,0.000655165989883244,0.020181250001769513,0.125,0.6666666666666666
+intensity_normalization,sample_946,"water and food ? The ancient Britons , I believe , used to","mater and foadt The ancient Britons , ) believe , usegd to",0.000870542018674314,0.03282558298087679,0.10344827586206896,0.38461538461538464
+intensity_normalization,sample_949,his birthright to him for a mess of pottage - and,his birthrignt to him for a mess of pottage - and,0.0010333749814890325,0.02507599999080412,0.02040816326530612,0.09090909090909091
+intensity_normalization,sample_950,which the Israelites sighed .,whichn the lsraelites sighed .,0.0006181669887155294,0.01840595802059397,0.06896551724137931,0.4
+intensity_normalization,sample_953,"Does one , however , know who first thought","fres one , houever linow who first Thought",0.0011002089886460453,0.02020691698999144,0.16279069767441862,0.5555555555555556
+intensity_normalization,sample_959,"would , because Esau sold his birthright","would , becauss Esan sodd his toirthrght",0.0007733750098850578,0.020857291005086154,0.15,0.5714285714285714
+intensity_normalization,sample_963,When Achilles gave a royal feast the principal dish,When Achiilles gave a royal feast the principal digh,0.0008122079889290035,0.03038758400361985,0.0392156862745098,0.2222222222222222
+intensity_normalization,sample_970,"Anyhow , Homer does not seem to have known any","Anyhou , ttomer does not seemn to have lnoun any",0.0013973749883007258,0.030652624991489574,0.13043478260869565,0.4
+intensity_normalization,sample_971,"how to do it , too : - When the languid flames at","how to do it , too : - When the languid flames at",0.0009573749848641455,0.026480833010282367,0.0,0.0
+intensity_normalization,sample_972,"Anyhow , Homer does not seem to have","AiVhow , Homa , Cloes not seem -o ha v t",0.0006929170049261302,0.020734541001729667,0.3055555555555556,1.0
+intensity_normalization,sample_976,throws a bed of glowing embers wide ;,Hrorows abed of fowig erfes wide ;,0.0009750419994816184,0.019660749996546656,0.2702702702702703,0.625
+intensity_normalization,sample_980,"dish was a grill , which he cooked himself ,","dish wus a grrill , which he cockied himself ,",0.0006895409896969795,0.02363166701979935,0.09090909090909091,0.3
+intensity_normalization,sample_981,Achilles gave a royal feast the principal,"Hchilles jave "" oval feast the principal",0.0008821249939501286,0.020448750001378357,0.12195121951219512,0.5714285714285714
+intensity_normalization,sample_982,known any way of cooking meat,lnown an way of cookirng meut,0.0007499170023947954,0.01845950001734309,0.13793103448275862,0.6666666666666666
+intensity_normalization,sample_983,and intellect . A remarkable peculiarity in the banquets,and intellect . A remarkable peculiarity in the banquets,0.00104825000744313,0.02686762501252815,0.0,0.0
+intensity_normalization,sample_987,confine the resources of the table to the gratification,confine the resources of the table to the gratification,0.0011994589876849204,0.0278895839874167,0.0,0.0
+intensity_normalization,sample_989,of one sense alone . Having exhausted their invention,"of one senise alone, ltaving exhausted their invention",0.0012224579986650497,0.029344292008318007,0.09433962264150944,0.4444444444444444
+intensity_normalization,sample_996,"perfumes , these refined voluptuaries aroused the",perfumesthese refined waluptuaries acoused the,0.0008723330101929605,0.02870829199673608,0.12244897959183673,0.7142857142857143
+intensity_normalization,sample_999,of fruits .,of firuits .,0.0004895410093013197,0.01028487499570474,0.09090909090909091,0.3333333333333333
+intensity_normalization,sample_1000,fainting appetite and added a more exquisite and,fainting appetite and aded a more exquisite and,0.0007893750153016299,0.02630470899748616,0.020833333333333332,0.125
+intensity_normalization,sample_1001,They considered flowers as forming a very essential,They consigered flwers as forming a very essential,0.000941083999350667,0.027730625006370246,0.0392156862745098,0.25
+intensity_normalization,sample_1004,traveller occasionally encounters a certain,fraveller occatonally encontiens a certain,0.0008707499946467578,0.02624795798328705,0.13953488372093023,0.6
+intensity_normalization,sample_1006,measure of novelty .,measure of novelty .,0.0006121660117059946,0.013826542010065168,0.0,0.0
+intensity_normalization,sample_1012,piece of resistance .,piece of resvstance .,0.0009097919974010438,0.0131103330058977,0.047619047619047616,0.25
+intensity_normalization,sample_1013,a delicacy . The visitor is told that,a dehicacy . refhe vinttor is t old tahat,0.0007095829932950437,0.019155082991346717,0.21621621621621623,0.75
+intensity_normalization,sample_1018,"alive , dipped in treacle and swallowed","alive , dupped in fireae and awaltowed",0.0007222919957712293,0.018110333010554314,0.1794871794871795,0.42857142857142855
+intensity_normalization,sample_1019,"from eating it fresh , squash it , press","from eating is fresh y sghrak it , pren",0.0009120829927269369,0.020761749998200685,0.225,0.4444444444444444
+intensity_normalization,sample_1020,roasted on the point of a spear are,roased on the poit off a Bpear ore,0.0007233329815790057,0.02207062501111068,0.14285714285714285,0.625
+intensity_normalization,sample_1021,peoples have a high opinion of the octopus,peoples have a high opinnon of the otopu,0.0021769999875687063,0.024006166000617668,0.07142857142857142,0.25
+intensity_normalization,sample_1022,as an article of diet . So have the Japanese,"as an artice of diet ;, Do hawv e the Sapanere",0.000662000005831942,0.020134167018113658,0.18181818181818182,0.6
+intensity_normalization,sample_1023,Among the natives of Northern Australia lizards,pmmong the netives of Gforthern ftralion linzandy,0.0009568750101607293,0.021326374990167096,0.2765957446808511,0.7142857142857143
+intensity_normalization,sample_1024,of it in almost any provision shop .,of it in amost any provvon stop .,0.0007055420137476176,0.022748459014110267,0.1388888888888889,0.375
+intensity_normalization,sample_1026,"over with flour , you will find a stack","over with flour , you will find a stock",0.0006617910112254322,0.022062000003643334,0.02564102564102564,0.1111111111111111
+intensity_normalization,sample_1027,"and the Chinese . The Celestials , apart","and the chinese . ffe celestials , apart",0.0006977499870117754,0.01841108300141059,0.1,0.375
+intensity_normalization,sample_1028,"it and dry it , in which form , dusted","Af and dury it , i which gorm , dusted",0.0007772499811835587,0.023361708008451387,0.13157894736842105,0.4
+intensity_normalization,sample_1031,provides many Magyar dishes with a vivid and brilliant,provides may Magyar dishes with a virid and Brilliant,0.001186500012408942,0.02820766600780189,0.05555555555555555,0.3333333333333333
+intensity_normalization,sample_1033,Hungary would have been deprived of the condiment which,Htunsaeiigwould nave been eprired of the sondicment which,0.0021163330238778144,0.031196125026326627,0.2,0.5555555555555556
+intensity_normalization,sample_1039,"fire , aerian creams , ingenious pastries and a","firer aerian creams , ingenious pastries and a",0.0013112500018905848,0.025814207998337224,0.0425531914893617,0.2222222222222222
+intensity_normalization,sample_1042,"cookery is reminiscent of bull-fights , of Spanish dancing","coskery is reminiscent of bull-fights , of foanish dancins",0.0012397920072544366,0.03195366699947044,0.06896551724137931,0.3333333333333333
+intensity_normalization,sample_1047,"streaks of poetry , meat disguised under heavy and vehement","streates of poetry , meat diguised under heavy and rehenmt",0.0011642499885056168,0.026749208016553894,0.11864406779661017,0.3
+intensity_normalization,sample_1051,the meats with their antithesis . The,the mneats with their antithesis . The,0.0017520000110380352,0.03463487498811446,0.02702702702702703,0.14285714285714285
+intensity_normalization,sample_1052,opulent varieties of Czechoslovak past-,opulent varieties of ceechaslovak past-,0.0008996669785119593,0.03132387500954792,0.07692307692307693,0.2
+intensity_normalization,sample_1054,"essentially French , and , irrespective of","essentially Fionch , and , irrespective of",0.0013302910083439201,0.029727083019679412,0.047619047619047616,0.14285714285714285
+intensity_normalization,sample_1060,"touch , the same unfailing sense of","touch ,the same unfailing sense of",0.0008701250189915299,0.026270333008142188,0.02857142857142857,0.2857142857142857
+intensity_normalization,sample_1061,proportion as exists among her,proportion as exists among her,0.0008126249886117876,0.027868916018633172,0.0,0.0
+intensity_normalization,sample_1063,exponents of things that are,exponents of things that are,0.0009106250072363764,0.028970041981665418,0.0,0.0
+intensity_normalization,sample_1075,the same unfailing sense of proportion as exists among,thesame unfailing sunse of preportion as exists among,0.0011203750036656857,0.0271490829763934,0.05555555555555555,0.4444444444444444
+intensity_normalization,sample_1082,waxed enthusiastic about Bouilla-,waxed enthusiaistic about Bouilla-,0.001607042009709403,0.04250416700961068,0.030303030303030304,0.25
+intensity_normalization,sample_1089,prepared at least once a week in every bourgeois,prepared at least once a wek in every bourgeois,0.0008250419923570007,0.025545832992065698,0.020833333333333332,0.1111111111111111
+intensity_normalization,sample_1091,A hotch-potch of all sorts of fishes That Greenwich,A hokch-petch of all sorts of fishes That Greenwich,0.0008164579921867698,0.03026729100383818,0.0392156862745098,0.1111111111111111
+intensity_normalization,sample_1095,"noble dish is , A sort of soup , or broth , or brew ,","noble dih is , A sort of soup , or brofh , or brew ,",0.0010350829979870468,0.027339958993252367,0.03773584905660377,0.13333333333333333
+intensity_normalization,sample_1101,fast and supper consisted of a,fast and supper consisted of a,0.0007868749962653965,0.028239167004358023,0.0,0.0
+intensity_normalization,sample_1106,intellectual faculties . Bunyan's break-,intellectual faculties.Bsunyanis break,0.0009730420133564621,0.03850270897964947,0.125,0.8
+intensity_normalization,sample_1110,breakfast and supper consisted of a piece of coarse bread,Brealfut and snpper coninked ofa piece of coase bread,0.0006093330157455057,0.013733208004850894,0.17543859649122806,0.6
+intensity_normalization,sample_1113,"had a great contempt for animal food , believing that",lid a grent conkenpt for aimal frod Geleving that,0.0007016250165179372,0.012429499998688698,0.20754716981132076,0.7
+intensity_normalization,sample_1114,A fascinating study also opens up in the dietary,o focinaing stdy alio gqens u in the cetung,0.0005514590011443943,0.011331707995850593,0.2916666666666667,0.7777777777777778
+intensity_normalization,sample_1118,been blind to the charms of turbot and,been blind to the enarms op turbot and,0.0014205840125214309,0.032054249983048066,0.07894736842105263,0.25
+intensity_normalization,sample_1119,in the dish in which it was served . He,in the dlish in which it was seved-.te,0.0016694169898983091,0.030130083992844447,0.1282051282051282,0.4
+intensity_normalization,sample_1125,removed first .,remored fist .,0.00040749998879618943,0.0051589579961728305,0.13333333333333333,0.6666666666666666
+intensity_normalization,sample_1126,dinner he is said to have been blind to the charms of,dimer be in aaid to have baen blind to the charmns of,0.0007548329886049032,0.01824920900980942,0.1320754716981132,0.5
+intensity_normalization,sample_1127,turbot and to have been much more interested in the,fbot and to have been mmh move intoeted in the,0.0007498330087400973,0.022451041004387662,0.17647058823529413,0.4
+intensity_normalization,sample_1133,"with Dickens says the menu was Whitstable oysters , a brown","will Dickos augs the menn was Wlittibll ogrkis , a brovs",0.0006408749904949218,0.017209417012054473,0.3220338983050847,0.6363636363636364
+intensity_normalization,sample_1135,placing his food in his mouth and gulping it down as,plaing hin food in his monlll and gulping it doun ans,0.0006097079894971102,0.016044082993175834,0.15384615384615385,0.45454545454545453
+intensity_normalization,sample_1142,"The same man went to see Carlyle , and , after mentioning","dle ame mnan west tos Curbgle and , efhe ntioring",0.0006411250215023756,0.011303540988592431,0.3333333333333333,0.8333333333333334
+intensity_normalization,sample_1144,"him was the French Admiral , Jean de Vienne -","hi was the French tmiral , ean de Uienae-",0.0017505840223748237,0.034138458024244756,0.15555555555555556,0.5
+intensity_normalization,sample_1145,"leadership . But , at last , Gaunt sailed . Opposing","ieadership . But , at lat , Gout sailed . Opposing",0.0008964170119725168,0.023350832983851433,0.07692307692307693,0.2727272727272727
+intensity_normalization,sample_1146,who still believed that they had a monopoly of,who still believed that they had a monopaly of,0.0007132089813239872,0.021774583001388237,0.021739130434782608,0.1111111111111111
+intensity_normalization,sample_1151,"something to show , he foolishly attempted to besiege","something to show , he fodishly attempted to besiege",0.0009872500086203218,0.023024875001283363,0.03773584905660377,0.1111111111111111
+intensity_normalization,sample_1152,on land . Gaunt was compelled to give up his search for,on land . Gaunt was compelled to give up his search fos,0.0007847920060157776,0.023717459000181407,0.01818181818181818,0.08333333333333333
+intensity_normalization,sample_1154,"an elusive foe , and , afraid to return home without","an elusive foe , and , afraid to return home without",0.0009013749950099736,0.029053375008516014,0.0,0.0
+intensity_normalization,sample_1155,"which Gaunt , under the Black Prince , had shown","which Gount , under the Black Frince , had shoun",0.0007682080031372607,0.025422792008612305,0.0625,0.3
+intensity_normalization,sample_1157,trouble at sea as cleverly as Du Guesclin avoided it,trouble at sea as cleverly as Dn Gvesclin avoided it,0.0009554170246701688,0.024655999994138256,0.038461538461538464,0.2
+intensity_normalization,sample_1160,comparing the failure of a subsidized duke,conparing the foilure of a subidiges dill',0.0005836249911226332,0.013422832998912781,0.21428571428571427,0.5714285714285714
+intensity_normalization,sample_1161,"When all seemed to be going well , a sortie surprised","wheu oll soemed to be going well , s oortie ourpriseo",0.0005945829907432199,0.01401395897846669,0.1509433962264151,0.5454545454545454
+intensity_normalization,sample_1162,fame and glory . Gaunt was compelled to return,fome and glary . Pout wa3 compelle to retun,0.000556665996555239,0.014641040994320065,0.17391304347826086,0.6666666666666666
+intensity_normalization,sample_1164,"even despised failure . The ' ribald ' Londoners , who","oven dspised feili . The ribald , Loudoner , who",0.0006635829922743142,0.016044249990954995,0.2037037037037037,0.5454545454545454
+intensity_normalization,sample_1165,the longbows of yeomen could pierce the,the lougbows of yeomen could pierce the,0.0005644999910145998,0.013687166996533051,0.02564102564102564,0.14285714285714285
+intensity_normalization,sample_1169,"and that , if archers had no target , campaigns","and thatiif ardes lad w togget , compegus",0.0012040000001434237,0.014327624987345189,0.3191489361702128,0.8
+intensity_normalization,sample_1170,"after the event . It seems obvious that , though","after the event . It seems obvious thot , thagh",0.000556667015189305,0.013222958019468933,0.0625,0.2
+intensity_normalization,sample_1180,command of the Channel . It seems obvious,command of tho Chsuvel . It wems oviovs,0.0006128750101197511,0.015575500001432374,0.1951219512195122,0.5
+intensity_normalization,sample_1183,the story of the prelude to the,the story of the prelude to the,0.0006595840095542371,0.017510333011159673,0.0,0.0
+intensity_normalization,sample_1186,to which the Exchequer resorted is,to which the Exchequesir resorted is,0.0007759579748380929,0.02118458299082704,0.058823529411764705,0.16666666666666666
+intensity_normalization,sample_1187,hammering out nations on the anvils of,h a mmeriny out nations on the anvils of,0.0007882920035626739,0.018844792008167133,0.07894736842105263,0.42857142857142855
+intensity_normalization,sample_1191,"war , there was a constant stirring of","war , there was a constant stirring of",0.0007339160074479878,0.0207592919759918,0.0,0.0
+intensity_normalization,sample_1195,taxation not merely for defence and,taxation not merely for defence and,0.0006949579983484,0.020563666010275483,0.0,0.0
+intensity_normalization,sample_1196,the private wealth of the monarchy,the private wealth of the monarcny,0.0007353749824687839,0.022906291007529944,0.029411764705882353,0.16666666666666666
+intensity_normalization,sample_1198,ceptions of governmental duties must be,ceptions of governmental duties must be,0.001176042016595602,0.02045949999592267,0.0,0.0
+intensity_normalization,sample_1202,social services . A mediaeval oligarchy,social services . A mediaeval oligarchy,0.0007752079982310534,0.0238918749964796,0.0,0.0
+intensity_normalization,sample_1204,Social service as a function of government,Sociol service os o tunction of government,0.0008489589963573962,0.03037816600408405,0.09523809523809523,0.5714285714285714
+intensity_normalization,sample_1206,it was therefore always granted grudgingly,it was theretore alwoys gronted qruadgingly,0.0009489579824730754,0.02726150001399219,0.11904761904761904,0.6666666666666666
+intensity_normalization,sample_1207,return was the uncertain bounty of booty,return was the uncertoin bounty of booty,0.0013101660006213933,0.03511537500889972,0.025,0.14285714285714285
+intensity_normalization,sample_1216,the unsuccessful . But the Commons were not,the unsuccesstul . But the commons were not,0.0011107499885838479,0.03934024999034591,0.046511627906976744,0.25
+intensity_normalization,sample_1219,"accounts , and even at times the impeachment of","accounts , and even at times the impeachment of",0.0009962919866666198,0.034687417006352916,0.0,0.0
+intensity_normalization,sample_1222,When ' his ' war did not bring victory and,"When his , war did not bring victory and",0.0008061670232564211,0.02852624998195097,0.07142857142857142,0.2
+intensity_normalization,sample_1225,"successful farmers , the artisans , craftsmen ,","successtul tarmers , the ortisans , crafilsmen ,",0.001318292022915557,0.029774374997941777,0.10638297872340426,0.5
+intensity_normalization,sample_1226,"towns , and the retainers and men-at-arms","towns , and the retainers and men-at-arms",0.0008700410253368318,0.03384045898565091,0.0,0.0
+intensity_normalization,sample_1227,"had bought their release , free labourers","had bought their release , free lobourers",0.0012675840116571635,0.02780925002298318,0.024390243902439025,0.14285714285714285
+intensity_normalization,sample_1232,feudal obligations of work or villeins who,Feuol obligotions of work or villeins who,0.0009622910001780838,0.028454707993660122,0.09523809523809523,0.2857142857142857
+intensity_normalization,sample_1233,"None of these classes , except the yeomen , paid or","nant of thete clanes , ereapt the yeomen , paid or",0.0006296670180745423,0.01882241602288559,0.17647058823529413,0.36363636363636365
+intensity_normalization,sample_1235,financing the Exchequer had become stabilized .,financi the Precheguer had became Pabilised .,0.0006114160059951246,0.016274416993837804,0.2127659574468085,0.5714285714285714
+intensity_normalization,sample_1236,expected to pay direct taxes . During the four-,spectecd to pay dlireet tanees . Muinily the foin-,0.000567167007829994,0.012290666985791177,0.2978723404255319,0.5555555555555556
+intensity_normalization,sample_1239,"prices , quality and tax could be efficiently su-","pias , quality and tore coulol be efficienly p.",0.0005782499792985618,0.016905208001844585,0.24489795918367346,0.5555555555555556
+intensity_normalization,sample_1244,"the foreign merchants , with whom the King's","the forejpn merchaiy , which wham the lirgy'ss",0.0006134579889476299,0.01456837501609698,0.2727272727272727,0.625
+intensity_normalization,sample_1245,sanction at a rate roughly fifty per cent in,sanctian at a rath roughly tity per centin,0.0006248329882510006,0.016422166023403406,0.11363636363636363,0.5555555555555556
+intensity_normalization,sample_1248,"at ' colloquies of merchants ' , and whose","af "" clloguies of iTerchanls "" , anl whale",0.0006775840010959655,0.01665908397990279,0.2619047619047619,0.7777777777777778
+intensity_normalization,sample_1250,There were two other sources of public revenue -,There nerltwo other souvees of pubflic rerenne-,0.0006087090005166829,0.01707458298187703,0.1875,0.6666666666666666
+intensity_normalization,sample_1251,excess of the rate for native merchants .,weuen of the robfar native murclanly .,0.0006802910065744072,0.018583166995085776,0.34146341463414637,0.5
+intensity_normalization,sample_1253,"In addition to these revenues , the King had the","In additian to these revemmus , the ling had the",0.0005119170236866921,0.011392291024094447,0.10416666666666667,0.3
+intensity_normalization,sample_1255,"and national war , and in which the comparati-","and national war , and in whiille the canpparati-",0.0006731660105288029,0.019586875016102567,0.15217391304347827,0.2222222222222222
+intensity_normalization,sample_1256,"It was , therefore , a complicated and not very","It way , therefore , a camplicatad anet nat beny",0.0007263339939527214,0.017354332987451926,0.1702127659574468,0.5
+intensity_normalization,sample_1257,as ill-defined as the borders between private,ar i/folifild as the borlay hetreen privalt,0.0006510840030387044,0.017577416001586244,0.35555555555555557,0.7142857142857143
+intensity_normalization,sample_1262,borders between private and public purse were,borders betrreen privai and putlc plrtl were,0.0008124169835355133,0.018481834005797282,0.2,0.5714285714285714
+intensity_normalization,sample_1267,scale of payments was fixed for the,scale of payments was fixenl for the,0.0007306670013349503,0.017104583006585017,0.05714285714285714,0.14285714285714285
+intensity_normalization,sample_1268,payments demanded . The definition of an,payments demanded . The detinition of an,0.0007781670137774199,0.01804687498952262,0.025,0.14285714285714285
+intensity_normalization,sample_1274,the results disappointing - a tax estimated,the resalts disappointinng - a tak e stimated,0.000685208011418581,0.01959241699660197,0.09302325581395349,0.7142857142857143
+intensity_normalization,sample_1276,Again the resentment was widespread and,Again the resentmnent was widespreal and,0.0006461250013671815,0.017502208007499576,0.05128205128205128,0.3333333333333333
+intensity_normalization,sample_1279,with hostelries and lodgings .,with hostelries and lodgings .,0.0008877080108504742,0.01379183298558928,0.0,0.0
+intensity_normalization,sample_1282,There were dark reasons for a meeting so,Tnere were dark reasony for a meeting so,0.0015399580006487668,0.021788750018458813,0.05,0.25
+intensity_normalization,sample_1284,from the chronicles that this was a sordid,from the chroaicles that this was a sordid,0.0012087079812772572,0.029359833017224446,0.023809523809523808,0.125
+intensity_normalization,sample_1286,baronage with rarer luxuries than those,baronage with rarer lnxurics than those,0.0010642500128597021,0.020177333004539832,0.05128205128205128,0.16666666666666666
+intensity_normalization,sample_1287,quarrel between monopolists and interlopers .,quarrel between moaopolists and inferloper .,0.0008479589887429029,0.022926417004782706,0.06666666666666667,0.3333333333333333
+intensity_normalization,sample_1291,"chant from Genoa had been murdered , and","chaat Prom Geno"" had been murdered , and",0.00082637500599958,0.023934333003126085,0.075,0.375
+intensity_normalization,sample_1293,the suggestion that the rich should help,the pugyestinn Phat the sich phouklheyy,0.0006708340079057962,0.017422709002858028,0.275,0.7142857142857143
+intensity_normalization,sample_1298,"three times the rate would produce 66,000 .",prrefimes tteniewouldtstotmebtoer .,0.0007036669994704425,0.017129792016930878,0.5581395348837209,0.875
+intensity_normalization,sample_1300,The only concession made in view of the,The only conussion qruteinNiuf the,0.0005841250240337104,0.015500958019401878,0.3333333333333333,0.625
+intensity_normalization,sample_1301,because no machinery was provided for,Nemmen motochinng woo frvided for,0.0005387499986682087,0.013894166011596099,0.4594594594594595,0.8333333333333334
+intensity_normalization,sample_1304,ments alternate with rests and are seen best in cold animals,ments alternate with rests and are seen best in cold animals,0.0009788329771254212,0.04369020901503973,0.0,0.0
+intensity_normalization,sample_1307,In Chapter Two he gauged the nature of the heart's movements,In Chapter two he ganged the nature of the heast 's movements,0.0011149580241180956,0.04015091698965989,0.06666666666666667,0.36363636363636365
+intensity_normalization,sample_1308,"such as serpents , frogs , and the like .","such as serpents , frogs , and the hihke .",0.0009281670209020376,0.0652593330014497,0.04878048780487805,0.1
+intensity_normalization,sample_1313,"of the apex , the thickening of the heart walls , and","of the apex , the thickening of the heart walls , and",0.003906958008883521,0.081964833982056,0.0,0.0
+intensity_normalization,sample_1314,"the dissections of living animals , Harvey noted that","the dissections of living animals , Harvey noted that",0.001422500004991889,0.036305082991020754,0.0,0.0
+intensity_normalization,sample_1316,"systole , simultaneously with dilatation of the arteries","systole , simultaneously with dilatation of the arteries",0.0009407920006196946,0.03706025000428781,0.0,0.0
+intensity_normalization,sample_1325,ventricular contraction . During cutting or puncture of,ventricular contraction . Ouring cutting or pencture of,0.0007951669977046549,0.06617266600369476,0.03636363636363636,0.25
+intensity_normalization,sample_1326,"the ventricles , there is often forcible expulsion","the ventricles , there is often forcible expulsion",0.0006361670093610883,0.0325095419830177,0.0,0.0
+intensity_normalization,sample_1327,of blood from the wound . Arterial diastole is,of blood fron the wand . Arterial diastole is,0.0018769589951261878,0.06841808298486285,0.06521739130434782,0.2222222222222222
+intensity_normalization,sample_1328,"hindered by compression , infarction or inter-","hindered by canprension , infarction or inter-",0.001309833984123543,0.036462125019170344,0.06521739130434782,0.14285714285714285
+intensity_normalization,sample_1330,"thus synchronous with cardiac systole but ,","thus synchronous with cardiac systole bit ,",0.0016836669819895178,0.03546549999737181,0.023255813953488372,0.14285714285714285
+intensity_normalization,sample_1331,one can sometimes see it - so to speak,one ran sometimes it - so to sppak,0.001197375007905066,0.09634641700540669,0.15789473684210525,0.3333333333333333
+intensity_normalization,sample_1334,"three auricular beats , produce a single","three auviralar beats , produre a single",0.001127875002566725,0.049350582994520664,0.1,0.2857142857142857
+intensity_normalization,sample_1336,ventricular one slowly and,ventriralar ovie slowly eort and,0.004012541001429781,0.03027108300011605,0.34615384615384615,0.75
+intensity_normalization,sample_1339,business no good George would never conceal them .,biipinets no pod feope would wever conceat tem .,0.0009849999914877117,0.02668112501851283,0.24,0.6666666666666666
+intensity_normalization,sample_1340,"would have nothing to do with him , others","woull hade notaing to do witle li , otiers",0.0013516659964807332,0.027832457999465987,0.19047619047619047,0.6666666666666666
+intensity_normalization,sample_1351,12 o'clock at night . At that time pastries and buns,Nra d dtOf pirecightitt hatgtlme podtries and un.,0.0013842089974787086,0.02460258299834095,0.5,0.9090909090909091
+intensity_normalization,sample_1352,"mix 100 stone of bread in 12 hours , and Kate served in the","mix 10o stone of bread in Riours , and Vate selbed in the",0.0012374999932944775,0.032389458996476606,0.13559322033898305,0.35714285714285715
+intensity_normalization,sample_1353,Soon they were good enough to sing at meetings .,Seom they were good enough ho ting at meetings .,0.0014342499780468643,0.0343206670077052,0.08333333333333333,0.3
+intensity_normalization,sample_1355,"clothing , with which they wore a white tie","clothing , o with which fhey wore a wfite tie",0.0013527080009225756,0.04804941700422205,0.09302325581395349,0.3333333333333333
+intensity_normalization,sample_1357,they would be there to begin the meeting .,they would be there to legin the meeting .,0.0019671669870149344,0.06895924999844283,0.023809523809523808,0.1111111111111111
+intensity_normalization,sample_1359,they were able to obtain some respectable,they were able to oltain some rerpectable,0.0011692080006469041,0.0321503340092022,0.04878048780487805,0.2857142857142857
+intensity_normalization,sample_1361,"men's clubs , to Conisborough on cheap trips to","mners luby , to Conisborough on cheap trips to sing",0.001402916997903958,0.019629416026873514,0.2127659574468085,0.3333333333333333
+intensity_normalization,sample_1363,school was held .,wchool was had .,0.0007367499929387122,0.012597124994499609,0.17647058823529413,0.5
+intensity_normalization,sample_1367,"day evenings to the Corner Pin Hotel , to rally",day eoerings to the corner in thotel to rallyy,0.0015543749905191362,0.0202385000011418,0.19148936170212766,0.6
+intensity_normalization,sample_1372,"George , and another the dark-haired","Geonge , and another the clar- tained",0.0008660000166855752,0.020704333001049235,0.19444444444444445,0.5
+intensity_normalization,sample_1374,One of the students was young,The of the studenty wo young,0.0009855839889496565,0.01814879200537689,0.1724137931034483,0.5
+intensity_normalization,sample_1380,"the Church Socialist League , genuinely advocated","te Ciusee fociclist Cagae , gemciel adraatl",0.0012909579963888973,0.028121042007114738,0.3877551020408163,0.8571428571428571
+intensity_normalization,sample_1386,to those of parsons he got on wonderfully well,to frose of passans be oll an vondnffeully carll,0.0009109170059673488,0.02023016699240543,0.34782608695652173,0.7777777777777778
+intensity_normalization,sample_1388,Just as the Labour Party had fought the,Just as the labomr Ruty had fught the,0.0005694999999832362,0.015398874995298684,0.15384615384615385,0.375
+intensity_normalization,sample_1390,There was no abatement in political,There was ho abutemeut in politicoel,0.000598000013269484,0.018398125015664846,0.14285714285714285,0.5
+intensity_normalization,sample_1392,"Council , and to Parliament , being deter-","camcil , aud to Porliamont , beinyg deter-",0.0006232919986359775,0.01739341701613739,0.19047619047619047,0.5
+intensity_normalization,sample_1393,"had said , ' Mr. Barton would go to the poll .","had said , Mr. Barton would opo to thepoll .",0.0005413749895524234,0.016218834003666416,0.10869565217391304,0.3333333333333333
+intensity_normalization,sample_1397,their candidate must go forward in the,their caudidate must go fawand in the,0.0006863750168122351,0.01938487499137409,0.10526315789473684,0.2857142857142857
+intensity_normalization,sample_1398,elections . In the Sheffield Trades and Labour,elkctions . In the shetfield Tradas and Lobos,0.0006899170111864805,0.022003999998560175,0.15217391304347827,0.5
+intensity_normalization,sample_1399,and a gold purse in recognition of his,and a yold ppwn in reeogntin d h.l,0.0006889170035719872,0.017141374992206693,0.3157894736842105,0.625
+intensity_normalization,sample_1400,"Alf Barton , who in 1911 was presented","aly Btiton , Who in I9ll Am preted",0.00060450000455603,0.01529137502075173,0.3684210526315789,0.75
+intensity_normalization,sample_1402,he was a keen member of the B.S.P. .,he wm a peen weniw df th P. S. 1 .,0.0007029169937595725,0.019625875022029504,0.3888888888888889,0.8888888888888888
+intensity_normalization,sample_1403,"work for the movement , was later","work for the wavement , w ditrs",0.0005881670222152025,0.015231584024149925,0.24242424242424243,0.42857142857142855
+intensity_normalization,sample_1404,"with a book on the life of Marx ,",bith a jook on the dipe of Uan .,0.0005735410086344928,0.015629292000085115,0.24242424242424243,0.5555555555555556
+intensity_normalization,sample_1408,into it .,inte if .,0.0003776660014409572,0.0034266249858774245,0.2222222222222222,0.6666666666666666
+intensity_normalization,sample_1410,Towards the end of my five and a half years',Fowards the end of un five and a half years !,0.0006263340183068067,0.01530049997381866,0.11363636363636363,0.4
+intensity_normalization,sample_1411,"This opened up a new interest , and we plunged","This opened y a new interest , aud we pengped",0.00065516700851731,0.01443433400709182,0.13043478260869565,0.3
+intensity_normalization,sample_1413,a village choral society and conduct it .,a villbage chordl society and conduck it .,0.0005270410038065165,0.015198083012364805,0.07317073170731707,0.375
+intensity_normalization,sample_1414,"Germany for ten years , by which time in","Germany for ton yeais , by which time in",0.0006477079878095537,0.016297082998789847,0.05,0.2222222222222222
+intensity_normalization,sample_1415,"co-operated , we made the little side chapel a place","co-operated , we made the little side chapel a place",0.0008827080018818378,0.024742541019804776,0.0,0.0
+intensity_normalization,sample_1416,of daily prayer .,of daily prayer .,0.0005021670076530427,0.007981292001204565,0.0,0.0
+intensity_normalization,sample_1420,"at Purley . One felt at Tatsfield that , small as the","ax furpey . Dne feat at Tatield that , smad as the",0.000925208005355671,0.02134491698234342,0.16981132075471697,0.5
+intensity_normalization,sample_1421,"chilliness of the new church , beautiful as it was and is .","chillineas of the new churcn , beantiful as it was and is .",0.0010124999971594661,0.026521332998527214,0.05084745762711865,0.23076923076923078
+intensity_normalization,sample_1428,"warming up by constant prayer and worship , and we",warming up by constant prayer and worships and we,0.0008430420130025595,0.02380437499959953,0.04,0.2
+intensity_normalization,sample_1431,stained-glass lancet windows - finally a new altar -,stained-glass dancet wmndows-finagdy a new altar-,0.0008376249752473086,0.024676040979102254,0.1346153846153846,0.6666666666666666
+intensity_normalization,sample_1437,to put beautiful things into a beautiful church,to put beautiful things into a beoutiful church,0.0007060419884510338,0.01909983399673365,0.02127659574468085,0.125
+intensity_normalization,sample_1444,Meanwhile in Purley there was much activity and much,Meanwhile in furley there was much activity and much,0.0007450830016750842,0.02162533299997449,0.019230769230769232,0.1111111111111111
+intensity_normalization,sample_1445,co-operation especially with the other Christian communities .,conoperation egecially with the other Christian Commnities .,0.0007687090255785733,0.01947099997778423,0.08064516129032258,0.375
+intensity_normalization,sample_1451,"the Committee . We had a splendid body of local residents ,",the Committee.lbe had a splendid bod y of bocal resients,0.0006631249852944165,0.014969375013606623,0.13559322033898305,0.6666666666666666
+intensity_normalization,sample_1457,included professional men from every walk of,included professinal men from every waulk of,0.0006352500058710575,0.016156124998815358,0.045454545454545456,0.2857142857142857
+intensity_normalization,sample_1460,throughout . He had no sooner heard from Count Gamba,Ahromnghont . Oe hd ss asoner hewrd from Gout Guntin,0.0006387500034179538,0.015576959005557,0.34615384615384615,0.8
+intensity_normalization,sample_1469,"as the year of their wedding , 1815 , had",as the year of their wedding s I 8i5? had,0.0007181249966379255,0.023467666003853083,0.14634146341463414,0.3
+intensity_normalization,sample_1476,and it came as an appalling surprise to,and it came a an appallingt Burprise to,0.0008560830028727651,0.023346208996372297,0.07692307692307693,0.375
+intensity_normalization,sample_1477,"hollow , and the news that Byron had left","hollas , ' and the ' newt that Boyon had teft",0.0006792919884901494,0.020570458000293,0.24390243902439024,0.6666666666666666
+intensity_normalization,sample_1478,Captain Byron that he had been left,Caplain B3yron Thast he had bemn left,0.0007413749990519136,0.023560583009384573,0.14285714285714285,0.5714285714285714
+intensity_normalization,sample_1479,"made a will in Augusta's favour , she had","made a winl i Pugusta's fovour , the hacd",0.0007069999992381781,0.021982208010740578,0.14634146341463414,0.6666666666666666
+intensity_normalization,sample_1481,became great sighs of ecstacy .,beccne aal nials ot ecroy,0.0019319580169394612,0.026138875022297725,0.5161290322580645,1.0
+intensity_normalization,sample_1482,"and came into the livingroom , where","and came into the kvingicon , wlere",0.0008154590032063425,0.018299541989108548,0.16666666666666666,0.2857142857142857
+intensity_normalization,sample_1484,drawing-in great breaths that,diawing-in gred bealls 1lol,0.0005336670146789402,0.017780208989279345,0.3448275862068966,1.0
+intensity_normalization,sample_1485,and walked on the very tips of,anl walked on 1e wery 1ips of,0.0013660420081578195,0.019744708988582715,0.16666666666666666,0.5714285714285714
+intensity_normalization,sample_1487,Heather and Steve stood aghast at,teatler and heve Hood aglan al,0.0006658750062342733,0.019508375000441447,0.30303030303030304,0.8333333333333334
+intensity_normalization,sample_1498,side to side .,sie to side .,0.0008112499781418592,0.010623917012708262,0.07142857142857142,0.25
+intensity_normalization,sample_1499,"forward . "" Isn't it a glorious thing ! Long awaited","forword . "" Bn't it a glorions thing ! I ong awaited",0.0009170830016955733,0.02235333400312811,0.11538461538461539,0.45454545454545453
+intensity_normalization,sample_1500,at an intersection for the light to change . At his,at an intersecta for the lglet to chauge . At his,0.0005343749944586307,0.013036124990321696,0.13725490196078433,0.2727272727272727
+intensity_normalization,sample_1501,apartment he garaged his car and then stood,opartment he garaged his car and then stood,0.0007151250028982759,0.014308084006188437,0.023255813953488372,0.125
+intensity_normalization,sample_1504,abroad ; and no pedestrian to cross his path nor to wait,obroad jand no pedestrian to cros his path wor to wait,0.0007119160145521164,0.01751170799252577,0.08928571428571429,0.4166666666666667
+intensity_normalization,sample_1508,"shaving when it came on , with a flat",shaving when it came on ) with a Flat,0.0009538750164210796,0.019734583009267226,0.05405405405405406,0.2222222222222222
+intensity_normalization,sample_1510,"the radio , which he kept tuned to CBO.","the ralio , which he kept tuned to CB0 .",0.0008847080171108246,0.02490529097849503,0.07692307692307693,0.3333333333333333
+intensity_normalization,sample_1517,almost painful sharpness . He reversed and,almast painful shiarprers . Ke reversed and,0.0007421250047627836,0.019743665994610637,0.11904761904761904,0.42857142857142855
+intensity_normalization,sample_1518,"whirring sound , and a high-pitched hissing",whiing oound ) and a high-pitched hining,0.0005865830171387643,0.01729583300766535,0.13953488372093023,0.5714285714285714
+intensity_normalization,sample_1520,the War Memorial . There was a deep,the war Memoial . There was a deep,0.0006698750075884163,0.020165916997939348,0.05714285714285714,0.25
+intensity_normalization,sample_1522,turned back on McKenzie Avenue .,turned back on tic hengie avenne .,0.0007457500032614917,0.01664462499320507,0.21875,0.5
+intensity_normalization,sample_1525,caped Thetan subjugation . This time . But we no,coped thetan subjngation . This time . But we hho,0.0006663749809376895,0.016701499989721924,0.10416666666666667,0.4
+intensity_normalization,sample_1526,selves in their zeal to get their orders and to carry,selves in these geal to get theix andens and to cany,0.0007875000010244548,0.01776658301241696,0.16981132075471697,0.45454545454545453
+intensity_normalization,sample_1533,may be able to promote our own,mary te able to prounate our,0.0008895419887267053,0.022576832998311147,0.3,0.5714285714285714
+intensity_normalization,sample_1535,There can be little doubt that if the,Themn con be little donbl that i the,0.0006324580172076821,0.021008207986596972,0.16216216216216217,0.5
+intensity_normalization,sample_1536,"are , beyond personal security ,","are , beyond Peisonl secmnrity ,",0.0015826250019017607,0.02058404200943187,0.15625,0.3333333333333333
+intensity_normalization,sample_1544,on her part ; but he thought it a good idea,on her part ; but he thought it a goad idea,0.0006447090127039701,0.012533500004792586,0.023255813953488372,0.09090909090909091
+intensity_normalization,sample_1546,that they use Dan as a specimen demonstra-,that they use Dan as a specimen demonskra-,0.000567167007829994,0.01566216698847711,0.023809523809523808,0.125
+intensity_normalization,sample_1551,nevertheless .,neverthellss ,0.00045241598854772747,0.005571500019868836,0.21428571428571427,1.0
+intensity_normalization,sample_1560,ringing of a doorbell was to him,hinging of a doorbell war to hin,0.0007510840077884495,0.017205750016728416,0.09375,0.42857142857142855
+intensity_normalization,sample_1563,"of their presence . They just stared at him , turning","of their precence . They just stared at him , tuoning",0.0005514170043170452,0.014798290998442098,0.03773584905660377,0.18181818181818182
+intensity_normalization,sample_1565,Dan paced the floor . He seemed completely unaware,Ban paced the floor . He seemed completely uaware,0.000762624986236915,0.019675749994348735,0.04,0.2222222222222222
+intensity_normalization,sample_1571,and the purpose he was to serve .,and the purpose he ias to serve .,0.0008950000046752393,0.018502375023672357,0.030303030303030304,0.125
+intensity_normalization,sample_1576,impatience pending an awaited,impatience . Pending an anaited,0.0005247910157777369,0.011256916011916474,0.13793103448275862,0.75
+intensity_normalization,sample_1577,"Finally , being so obviously on their own ,","Finally , being so abvauslyon their oun y",0.0008818749920465052,0.0160241250123363,0.13953488372093023,0.4444444444444444
+intensity_normalization,sample_1578,perplexity respecting his surroundings,perplexity respecting his surrounding,0.0009452500089537352,0.02088075000210665,0.02631578947368421,0.25
+intensity_normalization,sample_1579,His whole attitude was a mixture of,His whole attitule vus a mixture of,0.0008428329892922193,0.021186541009228677,0.08571428571428572,0.2857142857142857
+intensity_normalization,sample_1582,a single all-exclusive purpose .,a single all-exclusive pupose .,0.0005222499894443899,0.013139541988493875,0.03125,0.2
+intensity_normalization,sample_1583,the Avenue from its many tributary streets . It might have,the Aveme frou ts many trlumary strets . It might have,0.001262791978660971,0.017949583008885384,0.13793103448275862,0.45454545454545453
+intensity_normalization,sample_1584,"been a normal business-day bustle , except for two anomalies .","been a normal business-ay hstle , except for two anomalies .",0.0008117919787764549,0.03268237499287352,0.04838709677419355,0.18181818181818182
+intensity_normalization,sample_1587,he waited . The bus stop was a deserted island on an empty street .,ne waited . The lus stop was a desertediland on a ampty strect .,0.0007925000099930912,0.02899637501104735,0.1044776119402985,0.4666666666666667
+intensity_normalization,sample_1588,"But not for long , for soon pedestrians and cars flocked upon","But nol for long , for sooupedectrians and cas floched upou",0.000708332983776927,0.01935254200361669,0.11475409836065574,0.5
+intensity_normalization,sample_1589,"as arranged , but he consoled himself by","as amanget , bat he conscled himsef by",0.0005717500171158463,0.016967417002888396,0.15,0.5
+intensity_normalization,sample_1591,January or early February . Angelina might be a,Jamnany or eanly Ffmary . Angelina might be a,0.0008258750021923333,0.016443375003291294,0.1702127659574468,0.3333333333333333
+intensity_normalization,sample_1593,"back on Moon again , and able to do","Back on Meon again , and ahle to do",0.0008909589960239828,0.016139040992129594,0.08571428571428572,0.3333333333333333
+intensity_normalization,sample_1596,research at first hand into matters on which,rseanch at fist hannd into matters on which,0.0007208749884739518,0.01574587498907931,0.09090909090909091,0.375
+intensity_normalization,sample_1597,Then he would go back to Plato for a final spell of,Then he would go hack to Pato for a fhal spell of,0.000777834007749334,0.01621766699827276,0.0784313725490196,0.25
+intensity_normalization,sample_1603,"had contacts in political circles , a school-","had contacts in poeitical eircees , a school-",0.0007436249870806932,0.01867474999744445,0.06666666666666667,0.25
+intensity_normalization,sample_1605,( literally ) all-powerful Rocket Release,Lliteralit all-powerfue kodet Release,0.0006900829903315753,0.018481874983990565,0.24390243902439024,0.8333333333333334
+intensity_normalization,sample_1610,"know , I had to send back our bedroom","lhow , I hod to send bach or begroom",0.0009741660032887012,0.020661459013354033,0.16216216216216217,0.5555555555555556
+intensity_normalization,sample_1611,"All Sally's relations were 4makrodeb now , but Tom",AllSlfy's relitons were tmakodeb nom  but fom,0.0005591660155914724,0.01360179198672995,0.22,0.7777777777777778
+intensity_normalization,sample_1613,to 4sub-lil on the lower .,to tsub-fif on the fower .,0.0004617090162355453,0.007932999986223876,0.15384615384615385,0.3333333333333333
+intensity_normalization,sample_1615,"Sometimes she took Harry around with her , but",Sometimes the took Hlarry around with her  but,0.0008794580062385648,0.013728124991757795,0.08695652173913043,0.3333333333333333
+intensity_normalization,sample_1617,"Sally made a mistake about me , "" he said one","saffy made a mistalle abatme , he said one",0.0013003339990973473,0.014847667014691979,0.2222222222222222,0.45454545454545453
+intensity_normalization,sample_1619,not submerged beneath a deep natural atmosphere .,nt subrmeged bereatha deep stural atrroppkere .,0.0005660410097334534,0.014899083005730063,0.22448979591836735,0.75
+intensity_normalization,sample_1621,penetrate beyond the minds of astronomers was of general,peretranke beyand the miails of astrenaners nos of general,0.000609124981565401,0.014842000004136935,0.21428571428571427,0.5555555555555556
+intensity_normalization,sample_1623,"interest to the Mos , doubtless because their habitat is","""strest ikest 'to be boy , doubtless beuse their habite is",0.0008703750208951533,0.01635379099752754,0.30357142857142855,0.7
+intensity_normalization,sample_1628,allies being more inferior than formerly to W.C.U. in the,atler being more inferior than frmegy bs Wl ! Eil  in he,0.0006335829966701567,0.015414583991514519,0.2807017543859649,0.7
+intensity_normalization,sample_1629,One wondered if this greater awareness of the physical cosmos might,The wonddered if thirgetis anwrener of the pregyical comas mighl,0.0005908750172238797,0.016740082995966077,0.29850746268656714,0.7272727272727273
+intensity_normalization,sample_1632,"used in the last few wars , but it seemed very probable",wed in the bat tfs few wais . but is vemed nry prolle,0.0007317499839700758,0.016349250014172867,0.3090909090909091,0.75
+intensity_normalization,sample_1633,"wives , romanced about him in his absence . "" Lester was a","wivbs , romanced obout hinein his ahsence . "" ester wasa",0.0007770830125082284,0.017986791004659608,0.1206896551724138,0.6153846153846154
+intensity_normalization,sample_1635,"country lawyer , and we were very small 4microdebs , weren't we ,","county tuyer . and we were veyy smoll f micradebs werentwe ,",0.0006705000123474747,0.01752779199159704,0.2153846153846154,0.6923076923076923
+intensity_normalization,sample_1636,"duties and his wife , in the manner of middle-brow","daties and his wife , in the moner of nildle-brow",0.0005803749954793602,0.01588762499159202,0.1,0.3
+intensity_normalization,sample_1638,Lester was not home yet from his formidable,Cesterwas not home yet from his formidkalle,0.000575915997615084,0.015467791992705315,0.09302325581395349,0.375
+intensity_normalization,sample_1644,we came through to 4makrodeb status and,we came ttrough to Umakrodeb status and,0.0006550420075654984,0.017779334011720493,0.05128205128205128,0.2857142857142857
+intensity_normalization,sample_1646,has come for him to be taken seriously,has come for him to be taken seriously,0.0006617920007556677,0.016453875025035813,0.0,0.0
+intensity_normalization,sample_1649,"That 's how he got the votes , that 's how","Thats how he got the votes , that's how",0.0006981670157983899,0.023745624988805503,0.07142857142857142,0.36363636363636365
+intensity_normalization,sample_1651,But privately he turned out to be as friendly as,bit privately he turd out to be as frvenohly as,0.0015469579957425594,0.0313970829884056,0.14583333333333334,0.3
+intensity_normalization,sample_1662,"guise which , far from attracting the allegiance","qiie rhic , far fron altractinng the ollegjonce",0.0010528330167289823,0.02556466599344276,0.22916666666666666,0.625
+intensity_normalization,sample_1664,The political life of Aristotle looked more and more,Thre political life of arintolle Gooped more and more,0.0010994580225087702,0.029613416001666337,0.11538461538461539,0.3333333333333333
+intensity_normalization,sample_1665,like a masquerade of business interests in dis-,lihre a moquerae of Guien inererh in di-,0.0009748339944053441,0.02823483300744556,0.3191489361702128,0.625
+intensity_normalization,sample_1666,haps nurture a genuinely civilizing impulse,fraps nurtre a gqgnninelyy civieinginng imnpuhie,0.0008019169908948243,0.024532041978091,0.32558139534883723,0.8333333333333334
+intensity_normalization,sample_1671,"to be diverted , however , with the single exception of one","to be athesteo toneres , witl he singte exepption of one",0.001130332995671779,0.02118549999431707,0.2711864406779661,0.5833333333333334
+intensity_normalization,sample_1672,neurosis and not in some eruption from those,searosis and not in some ermption from these,0.0012797499948646873,0.02814991699415259,0.09090909090909091,0.375
+intensity_normalization,sample_1673,GO ; but the reason probably lay in elementary,a but the reason probaby byineltonntagy,0.0006870420183986425,0.01615158299682662,0.2826086956521739,0.6666666666666666
+intensity_normalization,sample_1674,deeper layers in the human psyche which are,alogrr iogers in the human pgyede which oe,0.0006686669948976487,0.015004499990027398,0.3023255813953488,0.5
+intensity_normalization,sample_1675,minions could do to him would ever make him,minions con Co al to tim maalateyar mra bie Aim,0.0009746669966261834,0.02659666698309593,0.4418604651162791,0.8888888888888888
+intensity_normalization,sample_1676,"Stepping out in their white shorts , they looked glad enough",Perg out in their mhite shorte they CoohoNd eeu,0.0005677079898305237,0.01427562499884516,0.36666666666666664,0.6363636363636364
+intensity_normalization,sample_1677,putting their best foot forward .,putting their best foot forwarl .,0.0006151669949758798,0.014144791988655925,0.030303030303030304,0.16666666666666666
+intensity_normalization,sample_1685,about ? ' It was most certainly an eerie,"about ? "" It was mast certainly an eerie",0.0007049590058159083,0.016071083984570578,0.05,0.2222222222222222
+intensity_normalization,sample_1688,carefully casual . ' The servants are all on,"crrefully casual . "" The servants are ill On",0.0007022499921731651,0.01900437500444241,0.09090909090909091,0.4444444444444444
+intensity_normalization,sample_1689,"' Something 's up , ' said Lord Undertone ,",""" SSomething's upor ""isaid tord Undertone ,",0.0005951670173089951,0.015768625016789883,0.18604651162790697,0.8
+intensity_normalization,sample_1690,"night , exceptionally brilliant and strange ,","night , excaptionally brilliant and strange ,",0.0006246249831747264,0.01667024998459965,0.022222222222222223,0.14285714285714285
+intensity_normalization,sample_1695,sensational 's going to happen . There 's things lurking,sensaional's ging to happen . There's things lurking,0.0006529169913846999,0.01847758298390545,0.07142857142857142,0.5
+intensity_normalization,sample_1697,"feeling , like I always get when something","feeling , lke ( afways gef when something",0.0006382089923135936,0.016756583005189896,0.09523809523809523,0.5
+intensity_normalization,sample_1698,head-shrinkers .,heat- shrinkers .,0.0004147500148974359,0.0060782500077039,0.125,1.0
+intensity_normalization,sample_1705,"no matter how bad it felt , the fire you know , or a","ho mattes how bad it fet , the fire you knourior a",0.0011083749996032566,0.020868125022388995,0.1346153846153846,0.42857142857142855
+intensity_normalization,sample_1707,of a bottle . If your lordship will excuse me,of a boattle . If yaur larelslig will exense me,0.0006456249975599349,0.01587579198530875,0.2,0.4
+intensity_normalization,sample_1711,"afraid , with a hoof shaped like the heel","afsand , with a froof shaped like the heel",0.0006626250105910003,0.017108166008256376,0.0975609756097561,0.2222222222222222
+intensity_normalization,sample_1713,may have thought I had become unbalanced,may have thanght I had become unbalaneed,0.0005827499844599515,0.015306165994843468,0.075,0.2857142857142857
+intensity_normalization,sample_1716,Caine too and Mr Gilberto who would ...,Caine too and Mr gillesrdo who would . ...,0.0006483329925686121,0.01595658401492983,0.15384615384615385,0.25
+intensity_normalization,sample_1726,we were all invaded by a most tranquil,we were all inladed by a most tranguil,0.0005787090049125254,0.012935792008647695,0.05263157894736842,0.25
+intensity_normalization,sample_1734,But after what Mrs Caine had said it was never,Pntafter what Mrs Coke bad coid it wes never,0.001031874999171123,0.030469249992165715,0.21739130434782608,0.6
+intensity_normalization,sample_1735,to receive a summons . I could see that Mr Septimus,to receie a pumans. t conld pee that tie Sepfuhng,0.0012471659865695983,0.036906665976857767,0.3137254901960784,0.7272727272727273
+intensity_normalization,sample_1736,far from our minds that at any moment we were,far from ou mninds taat at ary maent we were,0.0011362909863237292,0.029622375004692003,0.13333333333333333,0.5
+intensity_normalization,sample_1737,"a promontory , a mass of clean rock crowned with","a promanbary , a mas of ceean toc croed nith",0.001138332998380065,0.0322160409996286,0.20833333333333334,0.6
+intensity_normalization,sample_1738,"was impatient for it . This afternoon , then , we climbed","was impatient far it . Teis affernaon , taa, nechinbed",0.0010774580005090684,0.028960333991562948,0.21052631578947367,0.5833333333333334
+intensity_normalization,sample_1739,"trees and bushes , that stood well out over the lake .","trees and busaes , that pted weeeant aer fhe babe -",0.0016213749768212438,0.037751041003502905,0.2777777777777778,0.6666666666666666
+intensity_normalization,sample_1740,""" Good-bye , Morfydd . "" He sought to enfold her in his arms . But he was too late .",""" ygoa-gg ,ilepl ."" ge snt tie sfol tor sin fin arms pot Mhi nen troodate .",0.0006014590035192668,0.01613358300528489,0.5,0.8571428571428571
+intensity_normalization,sample_1744,"She was already up the bus steps , and the bus was away . And Morfydd Owen","ghr nes dsaby np ths pen taps , mit the tn rens arey . ti Mabl onein",0.0006379580008797348,0.015837625018320978,0.527027027027027,0.8235294117647058
+intensity_normalization,sample_1747,"on those fifteen miles of mountain roads , it disappeared from the earthly",on toafffuen indas of mven a ads it timppeend tromte esply,0.0005376249901019037,0.013026125001488253,0.44594594594594594,0.7692307692307693
+intensity_normalization,sample_1750,"So the bus set out for Llangrwl . But it never reached there ! Somewhere ,","sx pe pur nst ont forppangri . Tt .i ssver rabel teler ! Soneatex ,",0.0005720419867429882,0.014318375004222617,0.43243243243243246,0.8125
+intensity_normalization,sample_1754,"supposed to leave at two-twenty . "" "" Who says so ? "" "" Your timetable . ""","mppeal te pens of tev-trerdty ."" "" Ntultio ray roii n you tumatels !",0.0005358330090530217,0.013486666983226314,0.581081081081081,0.9444444444444444
+intensity_normalization,sample_1755,""" Left here all right , "" said Ifor . "" Two-thirty-five , on the dot . "" "" It 's",""" efgte aift "" rad for ,"" bro- tuly- fria , ontfpbd .in st'""",0.0005191660020500422,0.012547082995297387,0.5375,0.9047619047619048
+intensity_normalization,sample_1757,"of humour , that Isaiah . He banged down the receiver . Very uncivil . Dropped",of Aman itost Sroihn . pe farggd Laun poe peein . Vry ueni dhropgpel,0.0005334580200724304,0.014129707997199148,0.5,0.8125
+intensity_normalization,sample_1758,and scour the countryside between here and The Traveller's Joy .,ant ranr po vetirpido titwenn for ent fr Sravebsin goy .,0.0004961249942425638,0.012724165979307145,0.546875,0.9090909090909091
+intensity_normalization,sample_1759,""" What do you want me to do ? Send out a sheriff's posse , is it ? "" No sense",""" Nat Bp yn naint ris fio do! Banh ont a Darif s pepse ,rst !. "" No smse",0.0006266670243348926,0.01614429202163592,0.44155844155844154,0.8095238095238095
+intensity_normalization,sample_1765,"robbers , or being whisked off to Emergency",robbers or being whisked of to Emegency,0.0006032909732311964,0.016558041999815032,0.09302325581395349,0.375
+intensity_normalization,sample_1766,"was , as he feared , departed out of his life ,","was , as he feared , depated out of hio lfe ",0.0005661250033881515,0.015724124998087063,0.10638297872340426,0.3333333333333333
+intensity_normalization,sample_1769,"complete her mission . "" Paled , did Dai . For the","Complete her mission . "" Falal , cid Dar . Tor the",0.0006723339902237058,0.018273166002472863,0.14,0.4166666666666667
+intensity_normalization,sample_1772,"the title of "" First Woman to Enter Space . ""","the title of ""frrst Coman to Euter Sacl . """,0.0006270000012591481,0.016781417012680322,0.15555555555555556,0.45454545454545453
+intensity_normalization,sample_1782,Where indeed ? Megan Thomas spoke sharply,Where indced ! Megan Thomas spoke shaptry,0.0005754999874625355,0.01540554201346822,0.12195121951219512,0.42857142857142855
+intensity_normalization,sample_1784,"But nonplussed , the conductor was . A","But norplussed , the conductor was . A",0.000611333001870662,0.01637795800343156,0.02631578947368421,0.125
+intensity_normalization,sample_1787,""" Where are we going ? "" he echoed Cadwallader .",""" Where are we goingg ? "" he echoed Codwallades .",0.000554166006622836,0.014704375003930181,0.0625,0.18181818181818182
+intensity_normalization,sample_1789,""" But something very untoward has",""" Dut eomethig very untoward has",0.0005222920153755695,0.013152125000488013,0.09090909090909091,0.3333333333333333
+intensity_normalization,sample_1790,"good man , mind ; knew his job . But out of","good man , mind ; bnew his got . But out of",0.0005600420117843896,0.015136874979361892,0.06976744186046512,0.16666666666666666
+intensity_normalization,sample_1791,running into Llangrwl bus station .,running into Langoul bus sfaternn. .,0.0005393339961301535,0.013889333000406623,0.22857142857142856,0.3333333333333333
+intensity_normalization,sample_1794,"he cried . "" Never mind your immortal","hecried . "" Never mint your immortal",0.000621457991655916,0.015926375024719164,0.05405405405405406,0.375
+intensity_normalization,sample_1796,"window . Looked again , eyes starting from","wiindow . Looked ogain , eyes stanting fronn",0.0005839999939780682,0.015793667000252753,0.11904761904761904,0.5
+intensity_normalization,sample_1797,"folded it , and glanced idly out of the","folded it , and glanced idly cut of the",0.0005481250118464231,0.013816416991176084,0.02564102564102564,0.1111111111111111
+intensity_normalization,sample_1799,""" Here we are traversing the heavens at the",""" Here we are travesing the leavmns at the",0.0006627920083701611,0.015985459001967683,0.06976744186046512,0.2222222222222222
+intensity_normalization,sample_1803,Mr. Hayball from the back seat .,Mr. Hayball from the backseat .,0.0006014999817125499,0.015986792015610263,0.03125,0.2857142857142857
+intensity_normalization,sample_1804,"expect me to do ? "" he inquired , bitter .","expect me to do ? "" ho inguined , Gitfer .",0.00051833302131854,0.012411458999849856,0.11904761904761904,0.2727272727272727
+intensity_normalization,sample_1806,"us nowhere , "" boomed the Rev. Edwards .","us howhare , "" boomed the Dow. Etuards .",0.0007502500084228814,0.020382082992000505,0.175,0.3333333333333333
+intensity_normalization,sample_1808,""" Radio Flying Control at London Airport ,",""" Radio Frigg Coutrd at London Disporrt ,",0.0005222499894443899,0.013526791997719556,0.21428571428571427,0.375
+intensity_normalization,sample_1810,"at the Youth Hostel before dark . ""","at the jouth Fstel before dark . """,0.0005393750034272671,0.014201583981048316,0.08571428571428572,0.25
+intensity_normalization,sample_1812,would never see her Dai again . And,wvould never nee hor Baicgain . And,0.0005645420169457793,0.014390457974513993,0.17142857142857143,0.625
+intensity_normalization,sample_1814,dismay . Quietly she began to,dismay . Ouietly rhe bigan to,0.000529874989297241,0.013116832997184247,0.10344827586206896,0.5
+intensity_normalization,sample_1815,weep ...,Weere s. .,0.0003950420068576932,0.005155499995453283,0.625,1.5
+intensity_normalization,sample_1817,"fortitude , it now filled her with","fortitude , it mnow filled her wvith",0.0007887500105425715,0.015459875023225322,0.058823529411764705,0.2857142857142857
+intensity_normalization,sample_1821,""" Afternoon , Mr. Roberts , "" he called , polite ,",""" Afternoon , Mir. Poberls , "" he cabled , polite ,",0.0006914580008015037,0.01857716598897241,0.08,0.25
+intensity_normalization,sample_1824,He had seen no sign of an accident .,Fehad reen no ningn of an accident .,0.0005926250014454126,0.015582249994622543,0.1388888888888889,0.4444444444444444
+intensity_normalization,sample_1828,the bus . He passed The Traveller's,the bus . Te paned The Traveller is,0.0005513750074896961,0.01654112502001226,0.14285714285714285,0.5714285714285714
+intensity_normalization,sample_1838,waiting to be transported to Dinas . And,wvaiting to be transported to Binas . And,0.0006008329801261425,0.01626504200976342,0.05,0.25
+intensity_normalization,sample_1839,brooding in her shroud of mist .,boodinginher shroud of mist .,0.0005524590087588876,0.014893207990098745,0.09375,0.42857142857142855
+intensity_normalization,sample_1841,The conductor switched on the lights .,The conductor nvitched onthe lighits .,0.0006227499980013818,0.01635174997500144,0.10526315789473684,0.5714285714285714
+intensity_normalization,sample_1847,"Rev. Edwards , standing at the front ,","Rei . Edwards , ntanding at the front ,",0.0005626670026686043,0.015878417005296797,0.07894736842105263,0.375
+intensity_normalization,sample_1849,On the back seat Stan Hayball embraced,On the bach reat Ptan Feapball embraced,0.0007287920161616057,0.019373957999050617,0.15789473684210525,0.5714285714285714
+intensity_normalization,sample_1853,"too desperate for singing , then the","too denperatefornrirging , then the",0.0005759580235462636,0.016301666997605935,0.1388888888888889,0.42857142857142855
+intensity_normalization,sample_1854,"situation , he realised , must be desperate","nituation , he realined , munttbe desperate",0.0007200829859357327,0.02250191700295545,0.09302325581395349,0.5
+intensity_normalization,sample_1855,"approaching , faster , faster , a tearing","approaching , fanter , farter , a tearin",0.000606249988777563,0.01642216701293364,0.07317073170731707,0.375
+intensity_normalization,sample_1856,sank . If the Welsh found the situation,sank . If the Welsh found the rituatign,0.0007064579986035824,0.019515458989189938,0.05128205128205128,0.125
+intensity_normalization,sample_1857,"They looked at him , sullen . His heart","Phey looked athim , nullem . Tis heartt",0.0005877499934285879,0.015522792004048824,0.15384615384615385,0.6666666666666666
+intensity_normalization,sample_1858,hurrying blur that was past and gone,hurrging bher that avas pat and gone,0.0006484999903477728,0.016775416996097192,0.16666666666666666,0.5714285714285714
+intensity_normalization,sample_1859,indeed . But suddenly they were roused,indeed . But ruddenly they were roued,0.0006570830009877682,0.017065957974409685,0.05263157894736842,0.2857142857142857
+intensity_normalization,sample_1860,rush of sound . They waved frantically .,runhof round . They waved frantically .,0.0006461669981945306,0.01697229201090522,0.075,0.375
+intensity_normalization,sample_1866,a great basket .,a great basket .,0.00041079099173657596,0.006109334004577249,0.0,0.0
+intensity_normalization,sample_1867,"He looked at Price the Provisions , who was nursing","Helooked at price the Prouisionp , who was muring",0.0007362080214079469,0.01737079198937863,0.11764705882352941,0.5
+intensity_normalization,sample_1873,said the Rev. Edwards . Price shook his head .,sad the Rerr.Edwards . Price shoot hs head .,0.0007861669873818755,0.024133875005645677,0.13043478260869565,0.5
+intensity_normalization,sample_1874,"Mutinous dog , thought the Rev. Edwards , who hadn't","Mutinons doy , Phonght te per . Eduards , who had't",0.0006365420122165233,0.019232749997172505,0.19230769230769232,0.8
+intensity_normalization,sample_1879,"two pounds marge , one tin pineapple , one York ham . ""","twro founds mnarge , one tin pineapph , ene forf han.""",0.0006759999960195273,0.017764666001312435,0.2,0.6923076923076923
+intensity_normalization,sample_1880,enjoyed himself so much since reading Treasure,enjoyed fimelf so nml sin ce tading FTreasme,0.000572583987377584,0.015434333006851375,0.2608695652173913,0.8571428571428571
+intensity_normalization,sample_1882,"' But we - ' ' Stop your stupid talk , woman ! ' ' We are - '","iBut we - ' ' &op your etupid tallke , woman ! ' ' We are . ,",0.0006558330205734819,0.019454917026450858,0.14754098360655737,0.3684210526315789
+intensity_normalization,sample_1884,and grow wings . Between the worlds are many strong,and grow wings . Between the worlds are nany strong,0.0007055829919409007,0.01940437499433756,0.0196078431372549,0.1
+intensity_normalization,sample_1885,"rays , not seen or felt , which change our bodies .","rays , not seen or felt , which change our bodies",0.0006632920121774077,0.017668875021627173,0.0392156862745098,0.08333333333333333
+intensity_normalization,sample_1891,"World , you become a true human . The grub of the","World , you becere a trhe huan . The ginb of the",0.0006646660040132701,0.0178008749790024,0.12244897959183673,0.3333333333333333
+intensity_normalization,sample_1893,"change . ' ' I cannot know what he says , ' Haris said","change . ' ' l cannot know what he says , ' Maris said",0.00072900002123788,0.020582666009431705,0.037037037037037035,0.14285714285714285
+intensity_normalization,sample_1903,babies may be born with wings . ' The Captive with,"babies nay be bonn with wings . "" The Captive with",0.0006372079951688647,0.017792999977245927,0.06,0.2727272727272727
+intensity_normalization,sample_1909,is good and knows these things .,is good and knows these things .,0.0006006250041536987,0.014880041999276727,0.0,0.0
+intensity_normalization,sample_1913,well we can - think . This tribe of the True World,well we can - think . this tribe of the True wonld,0.0008608750067651272,0.025188708008499816,0.06,0.16666666666666666
+intensity_normalization,sample_1918,muttered together . ' Do you say that you poor,nuttered together . ' Do you say that you poor,0.001076417014701292,0.01814954198198393,0.021739130434782608,0.1
+intensity_normalization,sample_1920,"The flyman with ear lobes and thumbs connected ,","The flynan with ear lobes and thumbs connected ,",0.0009225000103469938,0.021823457995196804,0.020833333333333332,0.1111111111111111
+intensity_normalization,sample_1921,"making his perpetual little gesture of protest ,","making his perpetual little gesture of protest ,",0.0006889579817652702,0.016783708008006215,0.0,0.0
+intensity_normalization,sample_1923,command the knives of others . ' ' No hurt will,"command the knives of others . "" ' No hurt will",0.0007273749797604978,0.020986166025977582,0.02127659574468085,0.09090909090909091
+intensity_normalization,sample_1927,from harm . ',Bron harn . ',0.0004198749957140535,0.006247332989005372,0.23076923076923078,0.5
+intensity_normalization,sample_1929,"come to you , Lily-yo , ' Band Appa Bondi added .","come to you , Lily-yo , ' Band Appa Bond i added .",0.0009051249944604933,0.01933366700541228,0.02040816326530612,0.16666666666666666
+intensity_normalization,sample_1931,here at a good time . Memories of the Heavy World,here at good time . Memories of the Heavy world,0.0007005420047789812,0.02056062498013489,0.061224489795918366,0.18181818181818182
+intensity_normalization,sample_1933,"' Before she can enjoy , Lily-yo and her companion","' before she can enjey , Lily-yo and her corpanion",0.0006480829906649888,0.017309082992142066,0.06,0.3
+intensity_normalization,sample_1934,' No ! ' the Chief Captive said with both mouths .,' Wo! the Cief captive said with bath nouths .,0.0005930000043008476,0.016039125010138378,0.16,0.5833333333333334
+intensity_normalization,sample_1935,must help our great plan . ' ' The invasion ? ' Bondi,"must help our great plan . "" The invasion ? "" Bond'",0.0006237910129129887,0.016834957990795374,0.09433962264150944,0.3076923076923077
+intensity_normalization,sample_1938,World . You must help to lead our force . ' The long,"World . tou must help to lead our force . "" The lang",0.0006704159895889461,0.018490708025638014,0.057692307692307696,0.23076923076923078
+intensity_normalization,sample_1939,We need such memories . So we ask you to go,We need such merories . So we ask you to go,0.0006832079961895943,0.018891874991822988,0.023255813953488372,0.09090909090909091
+intensity_normalization,sample_1940,"afternoon of eternity wore on , that long golden road","afternoon of eternity wane on , that long golden road",0.000658375007333234,0.017693666013656184,0.03773584905660377,0.1
+intensity_normalization,sample_1944,new flesh and tendon strengthened . To sail up in the,new flesh and tendon strengthened . To sail up in the,0.0007274580129887909,0.02151762499124743,0.0,0.0
+intensity_normalization,sample_1946,and Haris there were many events . Chief of these was,and Haris there were many events . Chief of these was,0.0009191659919451922,0.022385874995961785,0.0,0.0
+intensity_normalization,sample_1952,"the creatures participating in them . For Lily-yo , Flor","the creatures participating in them . For Lily-yo , Flor",0.0007287920161616057,0.020373167004436255,0.0,0.0
+intensity_normalization,sample_1955,"his own life , but Geoffrey's as well , to a strange girl","his oun inife , but Geffey 'sos wele , to a shouge Gul",0.0005365830147638917,0.01405599998543039,0.2807017543859649,0.5384615384615384
+intensity_normalization,sample_1956,than a couple of telephone calls he was,than a rouple of klphone ralls he was,0.0005336249887477607,0.01323949999641627,0.1282051282051282,0.375
+intensity_normalization,sample_1958,career . Now he realised that he was entrusting not only,career . NOn he rasited thal ne nas entrusrting nos only,0.0004918339836876839,0.012463708000723273,0.17857142857142858,0.6363636363636364
+intensity_normalization,sample_1964,faith which he was placing in her and,fatther waith bhe war Mlecby in ber aed,0.000529499986441806,0.009733792016049847,0.3783783783783784,0.875
+intensity_normalization,sample_1965,It was a novel experience . Alastair was,Io was a novel exrenence . Alartar was,0.0006387079774867743,0.01693350001005456,0.15,0.375
+intensity_normalization,sample_1977,Alastair admitted that never in a not altogether,Prastair admitted thak uurer in a not altogutner,0.0006162499776110053,0.01482199999736622,0.16666666666666666,0.5
+intensity_normalization,sample_1982,no permanent image .,ns pernanent inage,0.00044275002437643707,0.007769082993036136,0.25,1.0
+intensity_normalization,sample_1985,"flickered across its surface , but there was","flickened wcros its onface , but ere wher",0.0006785000150557607,0.016753042000345886,0.25,0.625
+intensity_normalization,sample_2000,on the clearest night limited angular vision . He glanced,on the clearest night imited angular wision . He glanced,0.0005974580126348883,0.016436750011052936,0.03508771929824561,0.2
+intensity_normalization,sample_2015,"Parade to Boscombe Down , slept for six blessed","pajagle to poscombe Doin , elept for six, blen) ,",0.0008127500186674297,0.01819470798363909,0.2553191489361702,0.7777777777777778
+intensity_normalization,sample_2029,movements of the Bentley . It had passed,mrovemants of ' the Pentey . I had pasped,0.0004889999981969595,0.0111449160031043,0.2,0.625
+intensity_normalization,sample_2032,through Florence and Rome and then,troay Goremce and poue and fhen,0.0005430420278571546,0.013128874998074025,0.29411764705882354,0.6666666666666666
+intensity_normalization,sample_2033,miles .,hulep .,0.00035695801489055157,0.00361354200867936,0.42857142857142855,0.5
+intensity_normalization,sample_2036,reproaches - and here he was bland and smiling .,reprsaches-und here he was bland and smiling .,0.0007895419839769602,0.020630499988328665,0.08333333333333333,0.3
+intensity_normalization,sample_2042,But it did not take her long to realise that his mood,Pout it did not tahe her I my to realise that hismood,0.0007537500059697777,0.019351459020981565,0.1509433962264151,0.5
+intensity_normalization,sample_2046,"too . They 're both here . "" "" I didn't know she was","to . They'te both here "" "" Iedidit lrow she was",0.0008637909777462482,0.02479075000155717,0.19230769230769232,0.5
+intensity_normalization,sample_2049,said the first thing that came into her head .,said the first thing that came into her head .,0.0007247920148074627,0.01886474998900667,0.0,0.0
+intensity_normalization,sample_2053,"poured cold water on the project . Everyone , he declared ,","powvel old wafronthepied ! trerpere , h edrared .",0.0005535000236704946,0.008709374989848584,0.423728813559322,0.9166666666666666
+intensity_normalization,sample_2056,express their disgust at Sir John's abominable treatment,"ypes trav dager s jr "" thu dordley tedmey",0.0004410829860717058,0.007003292004810646,0.6428571428571429,1.125
+intensity_normalization,sample_2058,"suggested having a second party , the following week , he","cnggejtef , having a sheond putyr the floving weer he",0.0006158749747555703,0.0085648329986725,0.3157894736842105,0.7272727272727273
+intensity_normalization,sample_2062,"with injustice and contempt , ignoring","with injustiee and contempt , jqhoigy",0.0009204160014633089,0.016942665999522433,0.18421052631578946,0.3333333333333333
+intensity_normalization,sample_2063,It was all over and done with .,It was aly oer any aone with .,0.0005873749905731529,0.015509249991737306,0.12903225806451613,0.5
+intensity_normalization,sample_2065,ignorant child .,iguorart ehild .,0.00040324998553842306,0.006982791994232684,0.1875,0.6666666666666666
+intensity_normalization,sample_2067,For the time being Beryl was content to let,Tor the time beiny Berul vas content to let,0.0006677079945802689,0.013571124989539385,0.09302325581395349,0.4444444444444444
+intensity_normalization,sample_2071,"a schoolmaster and she a small ,","a cholmaster and she a small ,",0.0007988330035004765,0.02207154201460071,0.0625,0.14285714285714285
+intensity_normalization,sample_2072,her great disappointment at being,her Gereat disappointuuent at beny,0.0005449579912237823,0.01333224997506477,0.18181818181818182,0.6
+intensity_normalization,sample_2077,"conversation that evening , for when","conversaton thot every , for when",0.0005497499951161444,0.01383358400198631,0.16666666666666666,0.5
+intensity_normalization,sample_2079,"Blanche and Jack left , he went with","Flancde and faak left , ho wrbt wigh",0.0005867090076208115,0.015174875006778166,0.2222222222222222,0.625
+intensity_normalization,sample_2087,"like an ineffective imbecile . ""","libe an inefective imbecile . """,0.0005952499923296273,0.015554040990537032,0.0625,0.3333333333333333
+intensity_normalization,sample_2091,""" And I 'm heartily sick of being constantly called",""" And I ' m heartily sick of being constantly called",0.0005917499947827309,0.016060875001130626,0.0196078431372549,0.2
+intensity_normalization,sample_2093,you the best way I can by getting hold of Jack,you the bert way I can by seting bold of Jack,0.0006157500029075891,0.016189207992283627,0.08695652173913043,0.2727272727272727
+intensity_normalization,sample_2095,""" What have I done wrong now ? I cover up for",""" What have I done wrong nou'? I cover up for",0.0006097499863244593,0.0163229999889154,0.044444444444444446,0.16666666666666666
+intensity_normalization,sample_2098,""" It 's your superior attitude that riles me . "" Beryl was",""" fs pur superior atttude thit iles med beny war",0.0004938750062137842,0.011539250001078472,0.29310344827586204,0.8461538461538461
+intensity_normalization,sample_2101,"scarlet with annoyance . "" How I happened to be marooned","ccadlet with annsyance "" foas ( hnppened to be mnasaned",0.0004764589830301702,0.010768875014036894,0.25,0.6363636363636364
+intensity_normalization,sample_2103,"look as though it was only what you expected of me ,",lok ar thagy it wr only ohd yor ayetd of ne,0.0004592080076690763,0.008255791995907202,0.36538461538461536,0.75
+intensity_normalization,sample_2112,"Be yourself , "" she exclaimed , with","Be yourself , "" she exdaimed , with",0.0005833339819218963,0.013899832993047312,0.05555555555555555,0.125
+intensity_normalization,sample_2117,equally indignant rejoinder .,agually indiguent rejoider .,0.0004487500118557364,0.009626124985516071,0.1724137931034483,0.75
+intensity_normalization,sample_2119,"idyllic surroundings . "" "" How dare you say","idyllic surroundigs .  "" How dare youn say",0.0005922499985899776,0.01498050001100637,0.09302325581395349,0.3333333333333333
+intensity_normalization,sample_2122,"from him to fondle Judy , who , sensing something","from fim to fondle Grcly , cifo . sensing sameting",0.0005516250093933195,0.013723417010623962,0.22448979591836735,0.5
+intensity_normalization,sample_2123,"amiss , was nudging her in the endeavour to","amiss , usaes nugging lir in fh enleavour to",0.0006424169987440109,0.014745624997885898,0.20930232558139536,0.5555555555555556
+intensity_normalization,sample_2126,if I had absolutely insisted on sailing at the,if l Gaed alsolekly insiskeal on saeiling af fir,0.0005872080218978226,0.015321999992011115,0.32608695652173914,0.7777777777777778
+intensity_normalization,sample_2127,"gain her attention . "" The truth is that","gaein bor allenlian . "" The FEffrutf is fraf",0.0006391660135705024,0.0164980829868,0.375,0.5555555555555556
+intensity_normalization,sample_2129,"time originally arranged , Sir John would","time origimnally ancengel , Sir Gon Goull",0.00053720801952295,0.013302374980412424,0.21951219512195122,0.5714285714285714
+intensity_normalization,sample_2133,"dares to stand up to him . ""","dares to stand ag to jim . """,0.0004393330018501729,0.008405333006521687,0.10714285714285714,0.25
+intensity_normalization,sample_2134,""" What harm could possibly have come to Forrest",ih9fet arm could pessibly jav came to resrst,0.0006358330138027668,0.016535000002477318,0.2978723404255319,0.7777777777777778
+intensity_normalization,sample_2135,"flamingoes our first morning on the island . ""","flemingaes our foisl mosmingg an f*e isliends """,0.0005650829989463091,0.014031083992449567,0.32608695652173914,0.7777777777777778
+intensity_normalization,sample_2136,"through Sir John's nonsense ? "" Piers could","Arroug? Sir foin's nonsunse 8 "" Giens coull",0.0004820000031031668,0.012475916999392211,0.23255813953488372,0.75
+intensity_normalization,sample_2139,precisely the remark she had made to Guy .,precisely fre remte she Sed maack to buy .,0.0006081669998820871,0.016347541008144617,0.2619047619047619,0.5555555555555556
+intensity_normalization,sample_2145,Beryl tried to suppress the thought that this was,Werl tisil to suqpess Re NorgSl Bref Pis coes,0.0005153339880052954,0.014404749992536381,0.4897959183673469,0.8888888888888888
+intensity_normalization,sample_2148,""" What they can bring off ! I 'll admit that .",""" crSal trer cam iring offi I eycedail Bol .",0.0005321250064298511,0.012261209019925445,0.45652173913043476,0.75
+intensity_normalization,sample_2153,"able destination . "" "" There 's a difference","asle claslinalion . "" "" Fres i's a dliflsince",0.0005035829963162541,0.0124630419886671,0.36363636363636365,0.5555555555555556
+intensity_normalization,sample_2156,"with Sir John ? "" she enquired cuttingly .","cilf SirfSn 8 "" sha emqinep cullingty .",0.0004813339910469949,0.011648832994978875,0.38095238095238093,0.7777777777777778
+intensity_normalization,sample_2157,I doubt it . He 's about as easy to push around,( Goufl if . Me's aaoul as easy to pus f aenoud,0.0005947499885223806,0.014831875014351681,0.2978723404255319,0.75
+intensity_normalization,sample_2159,"at that , but went on airily , "" I 'd have made","aftat , but wenl on ciniby , "" T i0 Jeo mnaede",0.0006302499969024211,0.016239584016148,0.3404255319148936,0.6153846153846154
+intensity_normalization,sample_2161,put her interests before my own .,put bar interists Sefore iny occan .,0.00046037501306273043,0.010665374982636422,0.2727272727272727,0.7142857142857143
+intensity_normalization,sample_2165,"man was , she thought impatiently ,","man was , she thought upatintly ,",0.0005711660196539015,0.013567916001193225,0.08571428571428572,0.14285714285714285
+intensity_normalization,sample_2167,to have been guests at yesterday's,tohave been quests at yesrterdays,0.00047137500951066613,0.010573207982815802,0.11764705882352941,0.6666666666666666
+intensity_normalization,sample_2172,Their air of smiling somnolence showed them,Their air of smiling somnolence showed then,0.0005651660030707717,0.014980833017034456,0.023255813953488372,0.14285714285714285
+intensity_normalization,sample_2175,"toothless mouth stretched in a wide grin , told her","tcokaless maul skretoed in a mide grin , lold ter",0.0006253340106923133,0.01604912499897182,0.23529411764705882,0.6
+intensity_normalization,sample_2180,"in halting 6patois that "" 3Mistah Piers "" had","in halting Gpatois khat "" 3 Mistak Picrs "" Lad",0.0005840840167365968,0.01543862500693649,0.13333333333333333,0.6666666666666666
+intensity_normalization,sample_2184,We all know how Balicou Island dangerous,We all know how Balicon bland dangerous,0.0005366250115912408,0.012954750010976568,0.075,0.2857142857142857
+intensity_normalization,sample_2188,"she was a lady who , like her Uncle Charles ,","she was a lady nho , hike hes lncte cnatle ,",0.000596500001847744,0.013603416009573266,0.2,0.45454545454545453
+intensity_normalization,sample_2190,rocks in an' out o' de water .,webes in anl out ol de water .,0.000564292015042156,0.01473170900135301,0.2,0.375
+intensity_normalization,sample_2191,habit .,sibil .,0.0003644170064944774,0.003919916984159499,0.42857142857142855,0.5
+intensity_normalization,sample_2192,"day . Though he did not refuse wine , which the","b6y. Bougt he ait wt reflcse wime , nhiek  the",0.0007113330066204071,0.016171625000424683,0.3404255319148936,0.7272727272727273
+intensity_normalization,sample_2194,except in moderate compliance with his father's,excgat in mondeste comptince witis istathers,0.0006769580068066716,0.015596042008837685,0.2765957446808511,0.8571428571428571
+intensity_normalization,sample_2200,Around that rounded rocky promontory where the,Promnd tthit ounchel roly prstuontrg where the,0.0006191249995026737,0.011330540990456939,0.32608695652173914,0.7142857142857143
+intensity_normalization,sample_2202,close to the rocks that it would be dashed,"close , to the rocks thnt it would be dashed",0.0006090419774409384,0.03884558400022797,0.07142857142857142,0.2222222222222222
+intensity_normalization,sample_2205,What does time mean when weighed against the life of,Whad der time mean when weished apainst the life of,0.0008177499985322356,0.02361641699098982,0.09615384615384616,0.4
+intensity_normalization,sample_2207,"two human beings ? "" Not until he was certain that the","ywo hnnan beeins ? "" Not unll he war cerdain thas the",0.0006776670052204281,0.016409083997132257,0.18518518518518517,0.5833333333333334
+intensity_normalization,sample_2208,"by trying to come home now , even if he did promise ?","by lrying to come homn now , even if he ad promise ?",0.0006733750051353127,0.019125541992252693,0.07547169811320754,0.23076923076923078
+intensity_normalization,sample_2222,It seemed to the frightened judge,ot seemed to the frightened jndge,0.0005184579931665212,0.01260829099919647,0.06060606060606061,0.3333333333333333
+intensity_normalization,sample_2224,"of wet canvas , Bill cleared the","of wet cauvas , Bill cleared te",0.000556332990527153,0.014907457982189953,0.0625,0.2857142857142857
+intensity_normalization,sample_2225,"with the tiller still hard over , brought","with the tiller still had oves , biouget",0.0005517920071724802,0.014104582980507985,0.0975609756097561,0.375
+intensity_normalization,sample_2226,the tiller hard over and at the,mhe tilles hod oue and at hhe,0.0006024170143064111,0.015694834000896662,0.22580645161290322,0.7142857142857143
+intensity_normalization,sample_2232,"that were a little unsteady , they","that nere a littke urvteady , twrey",0.0006319580134004354,0.016553499997826293,0.17647058823529413,0.5714285714285714
+intensity_normalization,sample_2235,hip as I ever saw . That boy of,bip ax jever saw . That hey of,0.0006454169924836606,0.01582125001004897,0.1935483870967742,0.5555555555555556
+intensity_normalization,sample_2236,""" that was as pretty a piece of seamans-",""" thaat has as ptethy a picce of Veahuauer-",0.0007273750088643283,0.01913829200202599,0.275,0.5555555555555556
+intensity_normalization,sample_2244,water in her . I wouldn't be,iate in ler. Jwoueldn If te,0.0006546659860759974,0.016496083000674844,0.39285714285714285,0.8571428571428571
+intensity_normalization,sample_2245,drag the boat ashore and turn,drey the boat avtose and turn,0.000473084015538916,0.0108372499817051,0.1724137931034483,0.3333333333333333
+intensity_normalization,sample_2246,speed records on the way in .,speed recorde on the woy in .,0.0005545000021811575,0.013473833008902147,0.06896551724137931,0.2857142857142857
+intensity_normalization,sample_2250,"had more clothes on . ""","tad moe clotien ou. """,0.0006321249820757657,0.01650933301425539,0.2608695652173913,0.8333333333333334
+intensity_normalization,sample_2254,"man at catch 'em than Injun , Judge .",man at catch eem than bjunpuage. .,0.0006021249864716083,0.014831417007371783,0.24324324324324326,0.4444444444444444
+intensity_normalization,sample_2255,dragged out but before it was turned,dragged out but before it was turned,0.0005768749979324639,0.01494608397479169,0.0,0.0
+intensity_normalization,sample_2257,over Bueno Buck reached into the foot,over Bueno Bucke reached infto the foot,0.0007954160100780427,0.02450699999462813,0.05405405405405406,0.2857142857142857
+intensity_normalization,sample_2260,"of water , tossed out a string of silvery","of water , tossed out a string of sbery",0.0006057499849703163,0.01578787501784973,0.07317073170731707,0.1111111111111111
+intensity_normalization,sample_2261,With four doing the job and the waves,With four coing the jols and the waves,0.0005702089983969927,0.015527957992162555,0.08108108108108109,0.25
+intensity_normalization,sample_2263,few moments later the yawl was upside,few mamants tter the yaul was psice,0.0005143749876879156,0.012646291987039149,0.1891891891891892,0.5714285714285714
+intensity_normalization,sample_2264,"exclaimed the judge . "" Toss them on the grass","exdaimes thejnolge . "" Toss them an the gram",0.0005475000070873648,0.01307799998903647,0.21739130434782608,0.5
+intensity_normalization,sample_2265,"down , exposing its shallow keel .","clown , expouing is statlan teet ,",0.0005436670035123825,0.012586750002810732,0.3235294117647059,0.8571428571428571
+intensity_normalization,sample_2269,"Bertram's face was grim . "" You think it was the Snort ,","Bertram's frce was gri . "" 4 on think it wap tee Snort ,",0.0006163750076666474,0.01646929100388661,0.125,0.46153846153846156
+intensity_normalization,sample_2270,"don't you ? "" John gave a short laugh . "" I did , "" he","don't yon ? "" Johu gave a short langf . "" I aid , "" he",0.0006148339889477938,0.016928500001085922,0.09259259259259259,0.25
+intensity_normalization,sample_2271,"said ; "" but I 'd better stop thinking that now .","said ! "" lut ) ' better rtop feinking fhat nour .",0.0006045830086804926,0.016132374992594123,0.20408163265306123,0.6666666666666666
+intensity_normalization,sample_2272,"Pericles is fitted with an identically similar one . ""","Pericls in fitting with an identically sinifar ons .""",0.0006871250225231051,0.01655637499061413,0.16666666666666666,0.7
+intensity_normalization,sample_2273,""" So there you are , my dear . "" Peggy 's eyes filled",""" To tare yo are , my dear . "" Peggy's eyes filled",0.000584166991757229,0.015059708006447181,0.09433962264150944,0.35714285714285715
+intensity_normalization,sample_2275,sick . Just because he 's an Honourable he can do,siek . Juustbecanse he's an tonourable he can do,0.0006752920162398368,0.016632958984700963,0.12244897959183673,0.5454545454545454
+intensity_normalization,sample_2281,bombs during the last war . Having deposited his,lomlis during the last war . Having deopasibed lis,0.0006042089953552932,0.016599458002019674,0.14583333333333334,0.3333333333333333
+intensity_normalization,sample_2284,"interest to The George , unhappily destroyed by German","""nterest to Te Ceorege , wnhappily destryed by German",0.0006735839997418225,0.01651870901696384,0.1111111111111111,0.5555555555555556
+intensity_normalization,sample_2288,man who was staring moodily into a gin,man who wvas storing moodily into a gin,0.0006240420043468475,0.015274000004865229,0.05263157894736842,0.25
+intensity_normalization,sample_2289,"*?2s as ' Seaweed ' , and a youngish , sharp-eyed","I iks as ""Seaveed ; anda youngish , shapp-eyed",0.0006083750049583614,0.015400625008624047,0.24489795918367346,0.8181818181818182
+intensity_normalization,sample_2290,and tonic .,and tanic .,0.0004285000031813979,0.0053645830194000155,0.09090909090909091,0.3333333333333333
+intensity_normalization,sample_2294,of the bar was not 6persona grata . If her,of the bar was not epersana grata . if ber,0.0008504169818479568,0.014584457996534184,0.09523809523809523,0.3
+intensity_normalization,sample_2295,Seaweed's memory was prodigious ; her manner,Fcaneed's memory wvas prodigious ; her manner,0.0005884999991394579,0.01588095902116038,0.09090909090909091,0.2857142857142857
+intensity_normalization,sample_2298,glance at him . Evidently the other occupant,Glance at him . Evidently the ather cccupant,0.0006162079807836562,0.01654241600772366,0.06818181818181818,0.375
+intensity_normalization,sample_2301,what ! ' - as the Guards officer said on his return,what. !- as thre Cuartds officer said on-biis nebttir,0.0006365840090438724,0.016121874999953434,0.29411764705882354,0.75
+intensity_normalization,sample_2303,bomb . Should have been a V.C.,Somb . Slould larx been a jiC,0.0006702499813400209,0.013728167017688975,0.26666666666666666,0.5714285714285714
+intensity_normalization,sample_2305,""" Make it a large one , darling . I know the naval","intlake ita large are , darling . I bncu te naval",0.0005837499920744449,0.01563329200143926,0.22,0.5384615384615384
+intensity_normalization,sample_2307,inherited desire to snub the man . If he did he,inlerited desine to snul the man . If lre did le,0.0006293750193435699,0.01650933298515156,0.1276595744680851,0.45454545454545453
+intensity_normalization,sample_2310,the lounge or return to his bedroom .,the lomoe ar netirn to hi bedrora .,0.0006137499876786023,0.015517041989369318,0.24324324324324326,0.625
+intensity_normalization,sample_2314,"yourself , "" she said with mock severity .","yourself . "" she said withy mode severity .",0.0005359579809010029,0.013014207972446457,0.09523809523809523,0.3333333333333333
+intensity_normalization,sample_2316,"fault entirely , "" said the stranger . "" It 's my conceited","fanltentriely , "" caid the stranger . iItin myconceited",0.0005700420006178319,0.014835042005870491,0.1864406779661017,0.6153846153846154
+intensity_normalization,sample_2317,in the Daily Courier .,inthe faily Couries .,0.00046187499538064003,0.007685249991482124,0.13636363636363635,0.8
+intensity_normalization,sample_2318,"to you ? "" It did . Ian Bawley's name was","toyan? "" Ifdid . Jan Pawley's name nas",0.0005798329948447645,0.015529791999142617,0.21951219512195122,0.7272727272727273
+intensity_normalization,sample_2322,nature - I assumed that you both knew who I,sature- Tasumed that you hath hrener who (,0.0006067079957574606,0.016568791994359344,0.27906976744186046,0.7
+intensity_normalization,sample_2325,"drink ? "" John nodded - he could afford to buy",drink ? .s okn noddeed - he could afford to bry,0.0006071249954402447,0.016162167012225837,0.13043478260869565,0.36363636363636365
+intensity_normalization,sample_2333,all else . We pride ourselves about accuracy on,all else . We pride ourselvs about accracy on,0.0006222499941941351,0.016276333015412092,0.0425531914893617,0.2222222222222222
+intensity_normalization,sample_2338,the Courier .,the Courier .,0.0004285830073058605,0.007324624981265515,0.0,0.0
+intensity_normalization,sample_2339,Ever known us bowl a wide about your Service ?,Ever fenoun ns boul a wicle about your Bervice?,0.0007657920068595558,0.01735995800117962,0.1956521739130435,0.6
+intensity_normalization,sample_2341,"gin with relish . It was his favourite brand ,","gin wiith ralish . D6 was his favourite trand ,",0.0006493749970104545,0.016603208001470193,0.10869565217391304,0.4
+intensity_normalization,sample_2344,"truth be embarrassing ? "" John sipped his double","truth be embarrassing "" Fotin sipped his double",0.0005759580235462636,0.01551787499920465,0.10416666666666667,0.2222222222222222
+intensity_normalization,sample_2347,Life at home and in Bath had been a,Jipe at horne anel in Bath had been a,0.0006350410112645477,0.017066125001292676,0.17142857142857143,0.3333333333333333
+intensity_normalization,sample_2350,"found him curiously stimulating . "" You 're a","Found him euriously stimnlating . """" Joure a",0.0006216249894350767,0.014369707991136238,0.15555555555555556,0.6666666666666666
+intensity_normalization,sample_2354,"bit of a humorist , aren't you ? "" said","bit of a humorist , arerik you'? "" said",0.0006322500121314079,0.01621737499954179,0.10256410256410256,0.3
+intensity_normalization,sample_2356,""" It 's my business . I 'll tell you more . You 're",Tlei's my busmess . Yiel tell you more . jouire,0.0005696250009350479,0.014975874975789338,0.27450980392156865,0.5714285714285714
+intensity_normalization,sample_2358,going to take over command of Pericles . Am I,going to takke over command ofy Pericles . Am i,0.0006914999976288527,0.016906541015487164,0.06666666666666667,0.3
+intensity_normalization,sample_2360,"'em up , darling ! ""","iem rp , darling !n",0.00041370801045559347,0.006824500014772639,0.2,0.6666666666666666
+intensity_normalization,sample_2361,"shook his head . "" All paid for by His Lordship , ""","shooke his hend .  ' Ael paied for by His Lordship """,0.00084374999278225,0.01876541698584333,0.13725490196078433,0.46153846153846156
+intensity_normalization,sample_2369,refilled glass and looked over the rim at his,refilled fass and loohd wver the vin at hes,0.00047716699191369116,0.009493749996181577,0.17777777777777778,0.5555555555555556
+intensity_normalization,sample_2372,"of course . "" "" On one condition , "" said John .","of conrse . "" On one condition ,"" said Sohn .",0.0005160000000614673,0.009656042006099597,0.10416666666666667,0.38461538461538464
+intensity_normalization,sample_2374,""" Tell me who the little bird was . "" "" Can't","itell m who the litthe biird was . "" "" Canint",0.0006406669854186475,0.014431999996304512,0.17777777777777778,0.5
+intensity_normalization,sample_2375,"have dinner with me ? On His Lordship ,","haveuiner with me . Ouths Lordshuip ,",0.0005993750237394124,0.014229708001948893,0.23076923076923078,0.6666666666666666
+intensity_normalization,sample_2376,"again , no doubt , and then you will have .",sawn wiacndst nnelhwmm the nnleanve,0.00043604199890978634,0.007001666002906859,0.7209302325581395,1.0
+intensity_normalization,sample_2379,you guess ? Whose portrait appears regularly,"pugusss Whase portrai appears , ryulay ,",0.0005165410111658275,0.009606500010704622,0.3409090909090909,1.0
+intensity_normalization,sample_2383,"contact , is our Robbie ; he gives us the gen and",centactr is onr Pobbi ; he gries us the gen and,0.0005945839802734554,0.01233762499759905,0.16326530612244897,0.4166666666666667
+intensity_normalization,sample_2386,"sort of thing . "" "" You 'll get nothing out of me , ""","sot of Mhing . "" Youill get nothing ant drme ",0.0004617079976014793,0.009542000014334917,0.2830188679245283,0.6666666666666666
+intensity_normalization,sample_2389,disposed towards each other .,Jisposed towards one anther .,0.00046295899664983153,0.009199708001688123,0.2413793103448276,0.6
+intensity_normalization,sample_2390,"tell George to bring in the 6carte du jour . """,till George to bring in the bcaste bu jar . ',0.0005117499968037009,0.0104665829858277,0.15217391304347827,0.45454545454545453
+intensity_normalization,sample_2391,Bawley was a man of his word . He kept,Fwsley wasta mangy his werd . He hepet ,0.0004691669892054051,0.008587249991251156,0.2631578947368421,0.7
+intensity_normalization,sample_2392,passed all too quickly . As they parted in,passed all too quichly to thny pasted in,0.0005209579830989242,0.01112491701496765,0.16666666666666666,0.5555555555555556
+intensity_normalization,sample_2394,the vestibule the two men were well,"theveshbule , the two men were well",0.0006314589991234243,0.016711417003534734,0.14285714285714285,0.2857142857142857
+intensity_normalization,sample_2397,John took it and put it in his pocket .,Tchn took it and put it i his pochet .,0.0005097500106785446,0.012702832987997681,0.10256410256410256,0.3
+intensity_normalization,sample_2398,"of the work is done . "" He held out a card .","of the warh is done "" He held ant a card .",0.0006295829953160137,0.014218917000107467,0.13636363636363635,0.23076923076923078
+intensity_normalization,sample_2399,give me a ring at this number and I 'll,"give ne a ving at this nunber and I "" M I",0.0005272499984130263,0.011126416007755324,0.20512820512820512,0.6
+intensity_normalization,sample_2400,""" You should . Next time you 're in Town",i you shanld pferet time yore in town,0.0003974169958382845,0.008088250004220754,0.325,0.8
+intensity_normalization,sample_2403,up on that .,up aur that .,0.0005718340107705444,0.003931874991394579,0.25,0.25
+intensity_normalization,sample_2404,""" Ever been to Fleet Street ? "" asked Bawley .",i Ever been to Flut strect ? ashed Bawly .,0.000590666983043775,0.011839875020086765,0.1956521739130435,0.5454545454545454
+intensity_normalization,sample_2405,""" I shall be busy for a while , cleaning up after",""" I shall be busy for awhile , cleaming up after",0.0007373330008704215,0.01717358300811611,0.04081632653061224,0.25
+intensity_normalization,sample_2406,lying in pairs alongside the jetty at Fort Blockhouse .,ling in paivrs alomgside the jelly at Ford Blocthouse .,0.000872709002578631,0.01740162499481812,0.12727272727272726,0.6
+intensity_normalization,sample_2407,""" I don't know when that will be , "" said John .",""" I don't los when that will be , "" said goln .",0.0007071660074871033,0.020289790991228074,0.10416666666666667,0.15384615384615385
+intensity_normalization,sample_2409,Glad I met you . Don't forget to give me a ring -,blad I met gou . Bon't fonget to give me a ring-,0.0006763330020476133,0.02283837500726804,0.10204081632653061,0.46153846153846156
+intensity_normalization,sample_2410,"Master bloody Munyard . "" THERE were six submarines ,","Master bloody Munyard . "" FHRRE weve six submarines ,",0.000860707979882136,0.01746641701902263,0.05660377358490566,0.2
+intensity_normalization,sample_2412,"sounded , for all of them were rumbling as they","sounded , for all of them weve nembling as they",0.0006436250114347786,0.016518459015060216,0.06382978723404255,0.2
+intensity_normalization,sample_2418,A light wind wafted the smoke of diesel exhaust in,A light wind cofled the smoke of diesel erhaust in,0.0008475829963572323,0.0178417089919094,0.08,0.2
+intensity_normalization,sample_2423,There had been many such breakfasts lately since the,Theve had been many such braltasts lakely since the,0.0006056659913156182,0.01695079100318253,0.09615384615384616,0.3333333333333333
+intensity_normalization,sample_2424,but she could see that it no longer came naturally .,but she could sae that it no lonpger came naturally .,0.0006254169857129455,0.016727750014979392,0.038461538461538464,0.18181818181818182
+intensity_normalization,sample_2427,"His normal placid and steady-going manner remained ,","Htis normal placid and sreahy-going maser rersained ,",0.0006480829906649888,0.016245875012828037,0.1346153846153846,0.5
+intensity_normalization,sample_2429,though in peace time these happenings are few and,though !in peace time these happenings are feus and,0.0006337079976219684,0.016741415980504826,0.061224489795918366,0.2222222222222222
+intensity_normalization,sample_2432,must present an unruffled appearance and carry on as,must present an unmffled appearance and carry on as,0.0007459159824065864,0.02075579098891467,0.038461538461538464,0.1111111111111111
+intensity_normalization,sample_2434,"locality , had been interviewed by the Press , had driven","lacality , had been intrviered by the grss , had driven",0.000695999973686412,0.017803790979087353,0.08771929824561403,0.2727272727272727
+intensity_normalization,sample_2435,must continue as before . During this period the Captain,must cosstine as before . During this periad the Captain,0.0006859159911982715,0.01860524999210611,0.07142857142857142,0.2
+intensity_normalization,sample_2440,"Jeannie 'll be on that coach , Dan . ""","Jeannie'll be on that couch , Dan . '",0.000604125001700595,0.015855416015256196,0.07894736842105263,0.4
+intensity_normalization,sample_2446,"morrow as likely as not . "" I paused . "" Miss","morrow as lilely as not . "" I paued . "" Mins",0.000596124998992309,0.0160249579930678,0.06666666666666667,0.25
+intensity_normalization,sample_2451,"to her , Dan . "" "" She 'll be all right . It 's the","to her , Dan . "" "" Jhelll he all sfut . Is the",0.0008862079994287342,0.01606570798321627,0.21568627450980393,0.375
+intensity_normalization,sample_2459,"working for , as well as the townsfolk and","wecng for , as well as The touuslolk and",0.0007519169885199517,0.018485416017938405,0.19047619047619047,0.3333333333333333
+intensity_normalization,sample_2460,"of responsible for her . "" "" Of course , "" he said ,","of respourtle fwr her . "" "" Of cowse , "" he said ,",0.0006051250093150884,0.016060166992247105,0.1346153846153846,0.21428571428571427
+intensity_normalization,sample_2461,"that girl all the time , Dan . I feel kind","that Surl all the tive , pan . I feel kind",0.0006245839758776128,0.01677295900299214,0.09523809523809523,0.2727272727272727
+intensity_normalization,sample_2462,"the agency detective . ""","the agenng delechve . """,0.0004380420141387731,0.0072539999964646995,0.20833333333333334,0.4
+intensity_normalization,sample_2463,After all it 's them we 're supposed to be,Ater all it's them wele suppared to be,0.0007115000043995678,0.017480332986451685,0.16666666666666666,0.6
+intensity_normalization,sample_2465,Dead . Shuffled out of the deck . Blasted,dead . Junllled ont of the chk . siased,0.000702584016835317,0.01936450001085177,0.3170731707317073,0.5555555555555556
+intensity_normalization,sample_2466,"last night . ""","lartt nigut .""",0.000384374987334013,0.004489125014515594,0.2857142857142857,1.0
+intensity_normalization,sample_2467,With something of a start I remembered the,With sometiln of a s9orx I remanhered the,0.0007319579890463501,0.017125707992818207,0.21428571428571427,0.375
+intensity_normalization,sample_2470,"tried to surprise him . "" Dead ? "" he said . "" Yes .","tied to suprise hein . "" Pead ? "" he said . "" yes .",0.0007157079817261547,0.01847166699008085,0.11538461538461539,0.3333333333333333
+intensity_normalization,sample_2473,fascinated by the way he looked when you,fascinated by the wany he looked when yon,0.0005902920092921704,0.01629366699489765,0.05,0.25
+intensity_normalization,sample_2479,"unreadable as a rock . "" Let 's get over to the","unceadable as a roke . "" let gut over to the",0.000633834017207846,0.015357625001342967,0.1702127659574468,0.4166666666666667
+intensity_normalization,sample_2483,The air was fresh and clear and you,The air was lresh and cecs and yun,0.0006582080095540732,0.01732975000049919,0.17142857142857143,0.375
+intensity_normalization,sample_2484,could see far over west and north for many,conld see fo wesd and north for may,0.0005988339835312217,0.016668833006406203,0.21428571428571427,0.5555555555555556
+intensity_normalization,sample_2485,"a vast stretch of hills , canyons , buttes and","a vant gvekh of hills ,canoms , bulles and",0.0006292090110946447,0.016249041014816612,0.2391304347826087,0.5
+intensity_normalization,sample_2488,colour drawing . Between us and that lay,Colour draning . Betwcer us and that lay,0.0006039580039214343,0.015975582995451987,0.1,0.375
+intensity_normalization,sample_2490,the horses and drank enough to cure our,the harses and danl gfrough to cne ow .,0.0007043750083539635,0.016477416997076944,0.28205128205128205,0.75
+intensity_normalization,sample_2493,""" The mine-workings lie north of the town , ""","The mine-werning hi norh of the toun  """,0.0007223749998956919,0.016569041996262968,0.24444444444444444,0.6
+intensity_normalization,sample_2494,"So we swung west , making slow going over","so me swurg west , malnng slow yoing ove",0.0008072500058915466,0.015618916979292408,0.17073170731707318,0.6666666666666666
+intensity_normalization,sample_2498,"four or five mile valley , sandy-floored . It","fow ar live ninle vallry , santy-floured . It",0.0006019170104991645,0.016261707991361618,0.2,0.6666666666666666
+intensity_normalization,sample_2506,Here in a dried-up creek-bed we found,itere in a died-up creelk-bed he loimel,0.0008579159912187606,0.019036750018130988,0.2702702702702703,0.7142857142857143
+intensity_normalization,sample_2512,"your whiskers off . "" "" Take it easy , mister , "" I sang","yow nhialers of ."" "" Tale il lery , mie ! "" Wsang",0.0006448329950217158,0.016312167019350454,0.32142857142857145,0.8
+intensity_normalization,sample_2513,got no whiskers so as you can see . Just you,gut no uhiolus so asgan cin see . Ju yon,0.0007411659753415734,0.019851542019750923,0.3181818181818182,0.6363636363636364
+intensity_normalization,sample_2516,"out . "" We don't aim to come any closer and we 've","ont . "" We don't oi to cone any closs and neive",0.0006120000034570694,0.01615004098857753,0.18,0.46153846153846156
+intensity_normalization,sample_2521,peeking out through a hole in the shack never,peeking ont trough a hole in the shack never,0.0006285409908741713,0.017272249999223277,0.044444444444444446,0.2222222222222222
+intensity_normalization,sample_2522,"though they 're expecting trouble , "" I said . "" Where","though thenlre expectin trouble ,n  said . "" Whe",0.0006491249951068312,0.016428500006441027,0.18518518518518517,0.5833333333333334
+intensity_normalization,sample_2525,""" Oh , "" said the unseen guard . He blew a","in ,n tid the unseen suard . He beew a",0.000599749997491017,0.01615554199088365,0.23809523809523808,0.5833333333333334
+intensity_normalization,sample_2527,kind of sequence .,hind of reqence .,0.0004827080119866878,0.009791708987904713,0.16666666666666666,0.5
+intensity_normalization,sample_2531,life came up before him in some cinematic,life came up before hin in pome cnemetic,0.0007615410140715539,0.021024832996772602,0.0975609756097561,0.375
+intensity_normalization,sample_2534,"be open . It was . He entered , and seated himself","be open . At was . He entered , and reated himselt",0.0007884170045144856,0.022377667017281055,0.06,0.25
+intensity_normalization,sample_2539,"boy , then a young youth . He saw himself refusing","boay , then a yaug youthe . He san hirnself refusigp",0.0006430840003304183,0.016243500023847446,0.18,0.5454545454545454
+intensity_normalization,sample_2541,dly decadence and absorption in debase-,oly decadence and absoriticon in dabuse-,0.0006497499998658895,0.016043915995396674,0.1282051282051282,0.5
+intensity_normalization,sample_2544,"canery and corruption , the growth of the dea-","canery and carsptisn , the gprouth of the dea-",0.0006557499873451889,0.01692895800806582,0.13043478260869565,0.2222222222222222
+intensity_normalization,sample_2547,"saw himself as a sulky , ugly , malformed , repressed","sa himself as a sully , uply , mabforrmned , repressead",0.0006317920051515102,0.01591399998869747,0.1320754716981132,0.45454545454545453
+intensity_normalization,sample_2551,"in London . Very strange his eyes looked . Mad ,","in Loudon . Very strange his eyes Looked . Mad ,",0.0005728339892812073,0.015042917017126456,0.041666666666666664,0.18181818181818182
+intensity_normalization,sample_2559,never been inside . Very remiss of,mever -beese-nsisle . Ten semiof,0.0007001250050961971,0.018873791996156797,0.4117647058823529,0.8571428571428571
+intensity_normalization,sample_2560,the thought came to me I 'd like,the thonglut came ta ine sel lene,0.0005892089975532144,0.015330124995671213,0.375,0.75
+intensity_normalization,sample_2564,"led the way in . "" The stained glass","led the ny in . "" Tce stae gleas",0.0006100830214563757,0.01608254198799841,0.2222222222222222,0.4444444444444444
+intensity_normalization,sample_2574,of despair Gay knew that of course,of cespair f gay knew theed ofcorse,0.0005696669977623969,0.015243917005136609,0.2647058823529412,0.8571428571428571
+intensity_normalization,sample_2575,Gavin she had left her sun-,Goevin sbe lcd left her skm-,0.0005564590101130307,0.014178542012814432,0.25925925925925924,0.6666666666666666
+intensity_normalization,sample_2576,off the plane with him were talking .,off the plae witl kim were talhlng,0.000599749997491017,0.01592458298546262,0.1891891891891892,0.625
+intensity_normalization,sample_2579,Gavin and the girl who had got,Gavin anothe sine who kaosgoxt,0.0005372090090531856,0.013637791998917237,0.3,0.7142857142857143
+intensity_normalization,sample_2585,laid his hand on hers . Gay smiled at him,Cad his wand on har . Gay piled at hie,0.0005059579852968454,0.012930833006976172,0.1951219512195122,0.5
+intensity_normalization,sample_2588,now Gavin was in love with her and her,nas favin uas in love withher & her,0.0005144169845152646,0.01313987499452196,0.21052631578947367,0.6666666666666666
+intensity_normalization,sample_2591,"moon was just rising over the rocks , then","moon was fuet reing ovar the rode , then",0.0005318750045262277,0.013868292007828131,0.19047619047619047,0.4444444444444444
+intensity_normalization,sample_2595,"All that was part of the past , she would put it behind her . She","Oll that was part of the paat , she would put it belind Rer . Bhe",0.0007147500000428408,0.01964979199692607,0.07692307692307693,0.3125
+intensity_normalization,sample_2597,"Lilyan remonstrated . "" They want to be",filya remonstiated . They wan tobe,0.0006869580247439444,0.018513542017899454,0.1794871794871795,0.75
+intensity_normalization,sample_2598,"can't find a table for two . """,cont find a table tee lw0 . ',0.0008002499816939235,0.018210374983027577,0.26666666666666666,0.5
+intensity_normalization,sample_2602,"boy friend , "" Doc called . "" No , Doc ! ""","boy feiend . "" Do0 caled . ""Nh , Lc.ll",0.0006318340019788593,0.017764582997187972,0.2857142857142857,0.6923076923076923
+intensity_normalization,sample_2606,""" Come and join us and bring your",i Eome and join us and being youe,0.0006169170083012432,0.016177082987269387,0.12121212121212122,0.5
+intensity_normalization,sample_2608,As Gay watched he offered the girl a,as Ga wasoked kl Offered the gixl a,0.0006805830053053796,0.018327083002077416,0.25,0.75
+intensity_normalization,sample_2609,"She looked round scanning the tables ,","Rhl Rookced round scomning thetabkes ,",0.0006647909758612514,0.017990000022109598,0.21052631578947367,0.7142857142857143
+intensity_normalization,sample_2612,seated at a small table in a shadowy,slated ot a sluall tabk in a sladokyy,0.0007062499935273081,0.020144165988313034,0.25,0.625
+intensity_normalization,sample_2615,"cigarette and lit it , his hands cupping","ciaxefte aud lit it , kIs Raucks apoping",0.0007044999802019447,0.019487750018015504,0.325,0.625
+intensity_normalization,sample_2621,"run upstairs to her room , knowing that","punnpstaixs toler rooi , taowing thal",0.0007723750022705644,0.021955665986752138,0.2564102564102564,0.875
+intensity_normalization,sample_2623,"loved her , was already flirting with a girl","eOwedhex, was olteadg feirting witea gixl",0.0007410840189550072,0.021416167001007125,0.29545454545454547,0.8888888888888888
+intensity_normalization,sample_2624,decided to go back and join Lilyan and,decided to go back and j oin lilon and,0.0007036669994704425,0.01955270901089534,0.10526315789473684,0.375
+intensity_normalization,sample_2626,Gavin although he had told her that he,Gouin oethough he had teld fu thot he,0.0008944580040406436,0.02405933299451135,0.23684210526315788,0.625
+intensity_normalization,sample_2628,as Gay drew out a chair and sat,as faay cew outt a cfiaie and sat .,0.0006895829865243286,0.01682841600268148,0.3225806451612903,0.625
+intensity_normalization,sample_2633,trying to understand Gavin's point of,byimg to enderstand Geiin point of,0.0006348750030156225,0.016786041000159457,0.21621621621621623,0.5
+intensity_normalization,sample_2635,felt wretched beyond words .,fell wceckied leyoud moes .,0.0006520829920191318,0.017674791015451774,0.35714285714285715,0.8
+intensity_normalization,sample_2638,with the cigarette packet which lay on the table,with the cigarete facket which lay on the table,0.0006222089868970215,0.01567704201443121,0.041666666666666664,0.2222222222222222
+intensity_normalization,sample_2639,ging a smile .,ging a rnily .,0.0003732919867616147,0.004963749990565702,0.21428571428571427,0.25
+intensity_normalization,sample_2641,"lifeline and Gay got up quickly , mana-","litiline and Gry get ups puickly , mana-",0.0005203329783398658,0.011775958992075175,0.15384615384615385,0.625
+intensity_normalization,sample_2642,His behaviour was not only boorish and in the worst of,Mis bchavionr was not only boorish and the worst of,0.0006507500074803829,0.014947791991289705,0.1111111111111111,0.2727272727272727
+intensity_normalization,sample_2643,"dance , "" Doc's cheery voice came as a","dance "" Boc's cheary uoice came as a",0.000515749998157844,0.013016208977205679,0.13157894736842105,0.4444444444444444
+intensity_normalization,sample_2645,and no doubt he would come back soon and,andno donbt he mould cac back saon and,0.0006784999859519303,0.020150374999502674,0.175,0.6666666666666666
+intensity_normalization,sample_2647,kisses on the way back to the hotel .,irsses on the way bacl to the tratel !,0.0007501250074710697,0.014442167012020946,0.1891891891891892,0.4444444444444444
+intensity_normalization,sample_2649,and Simone go through the doorway that led,and simane go through the dorrmay that ted,0.0006284580158535391,0.015390958986245096,0.11904761904761904,0.375
+intensity_normalization,sample_2652,moment in disgust . She was fully aware that Gavin,moment in oisqust . She was falf aware that lavin,0.0006901669839862734,0.017965500010177493,0.12,0.3
+intensity_normalization,sample_2655,"weakly , "" you don't know Gavin . "" "" I 've only met him","weakly , "" you don't haow Gavin . "" "" I 've only nef hin",0.0005439159867819399,0.013914208015194163,0.08928571428571429,0.2
+intensity_normalization,sample_2657,"heart out over ? "" Doc nodded towards the door . "" You","heart out over ? "" Doe nodded towards the door . "" You",0.0006896660197526217,0.01349166699219495,0.018518518518518517,0.07692307692307693
+intensity_normalization,sample_2660,"him a great deal better than you do . ""","hin a great deal befer than you do. """,0.0005173329846002162,0.012050416000420228,0.10256410256410256,0.4
+intensity_normalization,sample_2664,If he behaves like this now what is your,I he behaves like this now what is your,0.0007757499988656491,0.01874400000087917,0.025,0.1111111111111111
+intensity_normalization,sample_2667,yourself away on a chap like that . You 're a,yourself away on a chap like that . Yu've a,0.0006868749915156513,0.01964133299770765,0.06666666666666667,0.18181818181818182
+intensity_normalization,sample_2669,"Doc gave her hand a shake . "" Wake up","Te gave her hand a shake . "" Wake up",0.0008211669919546694,0.016767000022809952,0.08108108108108109,0.1
+intensity_normalization,sample_2671,glad to be able to occupy herself .,#lad to be abl ts occury hesely .,0.0005357920017559081,0.01321145799010992,0.17142857142857143,0.625
+intensity_normalization,sample_2672,dining together . She opened her bag,slining hogelkes . She spened her bay,0.0005219579907134175,0.014036625012522563,0.2222222222222222,0.5714285714285714
+intensity_normalization,sample_2681,""" So glad that you are having such a lovely time , dearie , """,""" So gfad 1hat you ane having such a fovely time , dearie """,0.0005894170026294887,0.015132000000448897,0.09836065573770492,0.3333333333333333
+intensity_normalization,sample_2685,broken arm .,bngken anm .,0.0003995420120190829,0.005493292002938688,0.25,0.6666666666666666
+intensity_normalization,sample_2686,No other news except that Elaine is engaged,to other news except Caine is engaged,0.0008685840002726763,0.014233249996323138,0.18604651162790697,0.375
+intensity_normalization,sample_2689,Gay read the rest of the letter then put,Gay read the rest of the lelter put,0.0005097920075058937,0.012407124973833561,0.15,0.2222222222222222
+intensity_normalization,sample_2693,"and going to marry a foreigner ... ""","and going to marry a foreigmer ... """,0.0004974170005880296,0.010671208001440391,0.027777777777777776,0.125
+intensity_normalization,sample_2695,"it back in her bag . Elaine was engaged ,",if back in ter bag . CCaine was' engaged ,0.0006007499760016799,0.013507666997611523,0.17073170731707318,0.5
+intensity_normalization,sample_2698,for Gavin at the way he was behaving as she,For gaun at the way he was Behaving asshe,0.0006259170186240226,0.017271874996367842,0.13953488372093023,0.5
+intensity_normalization,sample_2703,"Gay's distress and in a way that Doc , as a man , could not","Gajs distres and ina wat that Doc jas a ren , Could nol",0.0008187920029740781,0.023588459007441998,0.1864406779661017,0.6666666666666666
+intensity_normalization,sample_2704,"she felt happier . Gay loved them for their warm sympathy ,","Poit happie . Bay baved them for their war sxmpaty ,",0.0010325829789508134,0.021134042006451637,0.23728813559322035,0.5833333333333334
+intensity_normalization,sample_2710,"be a doctor , and I already know","be a doctor , and I alreayylrow",0.0006495830020867288,0.016366583004128188,0.125,0.25
+intensity_normalization,sample_2719,"that lark , I can tell you ! ""","tar lark , I can teu uu ! """,0.0004708339984063059,0.009984917007386684,0.2,0.3333333333333333
+intensity_normalization,sample_2724,Little Phelpham .,little Prelphan .,0.0003777919919230044,0.004566584015265107,0.17647058823529413,0.6666666666666666
+intensity_normalization,sample_2727,"which ' lark ' she would have to stop , only that significant tiny","mch s bk . she waned lave o rep , anly har qpiprant tiny",0.0005416249914560467,0.009385500015923753,0.3939393939393939,0.7857142857142857
+intensity_normalization,sample_2730,seen in Farlingham on an occasion he had sworn he had,rem in Ferlngham on an onasion he had suw he had,0.0009295410127379,0.0129692500049714,0.20754716981132076,0.36363636363636365
+intensity_normalization,sample_2732,when she was not free ; this much they had,when she was not free ; this much they had,0.0006945409986656159,0.01502108300337568,0.0,0.0
+intensity_normalization,sample_2733,about their relationship . So when Nigel,aout their relatiouship . Bo when Migel,0.0005166670016478747,0.013267916976474226,0.1,0.5714285714285714
+intensity_normalization,sample_2739,"found they were off duty together , and","found they were off durty togethes , and",0.0005219170125201344,0.012725999986287206,0.05128205128205128,0.25
+intensity_normalization,sample_2740,"evening surgery she had said ,","evening surgery she had said ,",0.0004800420138053596,0.01038004198926501,0.0,0.0
+intensity_normalization,sample_2744,"suppose , to meet me for supper somewhere ? "" she had","supeasE , p meT me tor suppere domewere ? "" srE tha",0.0009359999967273325,0.027684041997417808,0.2830188679245283,0.6666666666666666
+intensity_normalization,sample_2749,"I 'll give you a ring , O.K. ? "" O.K. , "" she had","fll jve yon aving. 0.k . i "" D.K ."""" she had",0.0004902920045424253,0.011222791974432766,0.3673469387755102,0.8
+intensity_normalization,sample_2756,"face , Di , but it certainly looked like","face , D. but it certainly loaked hitee",0.0007020000193733722,0.015575375000480562,0.175,0.4444444444444444
+intensity_normalization,sample_2758,""" No , "" she told Phil Gubbins , a junior",""" M6 , "" she sold Phil Gubilins , a junian",0.0006449579959735274,0.01598962501157075,0.17073170731707318,0.36363636363636365
+intensity_normalization,sample_2763,Of course such as I couldn't afford,Gf couxse suck as y roulda'it affend,0.0005912919878028333,0.016378041997086257,0.2571428571428571,0.8571428571428571
+intensity_normalization,sample_2764,"houseman , "" it wasn't Nigel you saw ,","housesan , "" it wasn't Migel you sau ,",0.0006339160026982427,0.0167479999945499,0.07894736842105263,0.3333333333333333
+intensity_normalization,sample_2768,"suddenly in an upsurging of relief , "" that stupid","suddenly in an upsurginng of relley , "" that stupid",0.0007041250064503402,0.018666666990611702,0.06,0.2
+intensity_normalization,sample_2770,""" 5Ye-es ? "" he lowered his eyes and kissed her on the",""" 5 ye-Es 2 "" he lowered his eyes asnd trissed her on the",0.0006395420059561729,0.015964458987582475,0.12962962962962962,0.38461538461538464
+intensity_normalization,sample_2773,looked distinguished when he frowned ; boyishly,loobed distingshed when he frowmed ; boyishly,0.0006129999819677323,0.016427458001999184,0.0851063829787234,0.42857142857142855
+intensity_normalization,sample_2774,""" Gubbins ? Gubbins ? "" he fretted . "" Who 's he ? """,""" Cinbbins ? Gubbins ? "" he fretet . "" Who 's he ? .",0.0007736250117886811,0.022629750019405037,0.11538461538461539,0.2
+intensity_normalization,sample_2776,"member of the staff , distinguished or not ,","enemnben of the staofh, oiitinguistee on waty",0.0010175829811487347,0.028228749986737967,0.3409090909090909,0.7777777777777778
+intensity_normalization,sample_2780,Though Diana knew the name of every,Thongh Biame kaen the nare of ened,0.0007894580194260925,0.022141833003843203,0.2857142857142857,0.7142857142857143
+intensity_normalization,sample_2782,to have an open quarrel,to bave oin oppu qwarvel any,0.0005827080167364329,0.013407583988737315,0.4782608695652174,1.0
+intensity_normalization,sample_2783,"joking , Nigel . "" "" You shouldn't joke","potin, lint "" "" Yon shondnit . jotu",0.0006128750101197511,0.016120500018587336,0.46153846153846156,0.8888888888888888
+intensity_normalization,sample_2784,""" But I want it ! "" she protested . "" It 's my ring . """,""" Pnt , want it aeh perotened . 's wy ring. !",0.0005877499934285879,0.014890416990965605,0.36363636363636365,0.7058823529411765
+intensity_normalization,sample_2787,"any minute , and she knew it .","pinte , and she Vmmr it .",0.0005762919900007546,0.015510083001572639,0.3333333333333333,0.375
+intensity_normalization,sample_2793,"me up for tea , of course . I just thought . "" "" I 'll see , ""","me up for tea , of course . I just thovghli"" "" Till ser !l",0.0006193750014062971,0.01703233298030682,0.1935483870967742,0.42105263157894735
+intensity_normalization,sample_2799,"out of his sight . "" Mine , "" Nigel Lester had","out of his sight . "" Mine , "" Nigel lestor hod",0.0005799999926239252,0.01433975002146326,0.06521739130434782,0.16666666666666666
+intensity_normalization,sample_2800,"decided with a sigh of satisfaction , and",decidedwith a sigh of sofisfactiomrarnd,0.0006226669938769192,0.0157508330012206,0.1951219512195122,0.625
+intensity_normalization,sample_2803,with some bitterness .,"with, some bitterness .",0.0005047080048825592,0.012383207998936996,0.045454545454545456,0.25
+intensity_normalization,sample_2811,Sentence Database P03-189,ientence catahaae PO3-15s,0.000702958001056686,0.020391375001054257,0.28,1.0
+intensity_normalization,sample_2817,you are satisfied . ',yo are satisfied .,0.00040904199704527855,0.0064269169815815985,0.14285714285714285,0.4
+intensity_normalization,sample_2819,him to my care . ' ' Nicholas - ',"hin to my care . ."" ' Wicbdas - '",0.00047491700388491154,0.010481332981726155,0.21212121212121213,0.3
+intensity_normalization,sample_2823,"mantle , and said with such","mantle , and said witn suchk",0.0006343749992083758,0.01556854200316593,0.07407407407407407,0.3333333333333333
+intensity_normalization,sample_2829,"Even in that , his hands were","Euen in that , histands were",0.0005689579993486404,0.013825957983499393,0.10344827586206896,0.42857142857142855
+intensity_normalization,sample_2830,of Philip lying in the other,of Prillp eying in the ofher,0.00047529200674034655,0.010131541988812387,0.14285714285714285,0.5
+intensity_normalization,sample_2835,"# scribble on it . Then ,","#eeet seribble an it . Then ,",0.0006441669829655439,0.016369165998185053,0.24,0.42857142857142855
+intensity_normalization,sample_2836,' I will leave you the necessary pre-,I I will leave yonthenecessay pre-,0.0004990409943275154,0.011732333019608632,0.13513513513513514,0.5
+intensity_normalization,sample_2838,he tore off the leaflet and,be tone ofy the leaflet and,0.0005015000060666353,0.012229207990458235,0.1111111111111111,0.5
+intensity_normalization,sample_2839,"with a gesture she knew so well ,","with a gestue she ken so wull ,",0.0005093749787192792,0.012053375015966594,0.12121212121212122,0.375
+intensity_normalization,sample_2840,scription for the sedatives . You,GEriptrmg for the sedatrde teyon,0.0004527079872786999,0.008144790976075456,0.36363636363636365,0.6666666666666666
+intensity_normalization,sample_2841,when you reach your parents',wheneyyor rieach your parents I,0.0005757499893661588,0.01230495801428333,0.21428571428571427,1.0
+intensity_normalization,sample_2848,with a deadly finality . Watching,wvith a deadly finality . Natcking,0.0004983329854439944,0.012375458987662569,0.09090909090909091,0.3333333333333333
+intensity_normalization,sample_2850,If only he would have con-,of only he would have con-,0.0005064579891040921,0.011194084014277905,0.038461538461538464,0.16666666666666666
+intensity_normalization,sample_2853,a hand and grasped hers .,"a hand andgrarped , hess .",0.0005080000264570117,0.011293083021882921,0.2,0.5
+intensity_normalization,sample_2857,He needed her . She would find,Hfeneeacal heste iould fid,0.0004941669758409262,0.011622749996604398,0.4666666666666667,1.0
+intensity_normalization,sample_2858,Love . She revolted against,dove . She revolted aganrt ,0.0004660419945139438,0.009494041005382314,0.1111111111111111,0.4
+intensity_normalization,sample_2862,know that well enough . ',bnow that well- enoughs ',0.0005298339820001274,0.009905333019560203,0.16,0.6666666666666666
+intensity_normalization,sample_2868,I knew he was responsible for,TLmens hes was responsatlefor,0.0006589159893337637,0.013275542005430907,0.3448275862068966,0.8333333333333334
+intensity_normalization,sample_2873,Beryl's death . ',Beruye's death',0.001039583992678672,0.006163375015603378,0.29411764705882354,1.0
+intensity_normalization,sample_2876,disbelieve the facts . ' Elation,dis believe thefacts. Elation,0.0007070830033626407,0.013220916007412598,0.15625,0.8333333333333334
+intensity_normalization,sample_2878,Her eyes darkened in torment . ' Are,Hereyes darkered in torment . Are,0.0004889160045422614,0.010768165986519307,0.1111111111111111,0.5
+intensity_normalization,sample_2883,"her word . There was enough evidence ,","terward . There was enggh eridnce ,",0.0005525829910766333,0.014292042003944516,0.18421052631578946,0.5
+intensity_normalization,sample_2886,"will be truthful , but what he leaves out",will be trutufuly but what he leavesout,0.0005472920020110905,0.014379583008121699,0.0975609756097561,0.4444444444444444
+intensity_normalization,sample_2888,Sandra too deeply to ruin her,Sanalra toowor aeeply to ruin her,0.0005259999888949096,0.014507457992294803,0.20689655172413793,0.5
+intensity_normalization,sample_2891,he 'll confine himself to the nervous,he ll contine humsely to the hervons,0.0004974589974153787,0.011108375008916482,0.16216216216216217,0.5714285714285714
+intensity_normalization,sample_2893,Philip's spirits soared .,Philip's ppiritsoared . I d .,0.0004906250105705112,0.011514707992319018,0.36,1.0
+intensity_normalization,sample_2894,What his story will be . I reckon,Nhat his story will be . Erechon,0.0005140840075910091,0.012422624975442886,0.12121212121212122,0.375
+intensity_normalization,sample_2899,miraculous recovery and Sandra would,mrraculous recovey and lndra would,0.0005267920205369592,0.013418208982329816,0.1111111111111111,0.6
+intensity_normalization,sample_2900,' You can't forgive him for this -,Y G ou cant forgive kinfor this-,0.000491584010887891,0.009817082987865433,0.23529411764705882,1.0
+intensity_normalization,sample_2901,"patronizing word , ' she replied . ' I despise","patromiaing word "" shereplied . Edupite",0.0005259590107016265,0.013060583005426452,0.2826086956521739,0.8
+intensity_normalization,sample_2906,purpose than the throwing of dust in his,puerpose ljan te Aroeimng of clesst in js,0.0005566249892581254,0.013919209013693035,0.35,0.75
+intensity_normalization,sample_2908,"His digressions too , seemed to have no other","fis degressions foo , secmcd to savr no olier",0.0006701670063193887,0.01323112499085255,0.2,0.6666666666666666
+intensity_normalization,sample_2910,"just dusty-grey but muddy , slimy even .","Suesf duisli-gres but mceddy , Elauy lvan .",0.0005834579933434725,0.015049917012220249,0.35,0.625
