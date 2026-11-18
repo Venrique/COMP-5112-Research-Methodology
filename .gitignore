@@ -1,15 +1,4 @@
-
-# =========================
-# Jupyter Notebook
-# =========================
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
-.profile_default/
-.ipython/
-
-# =========================
-# Python
-# =========================
+# Python and Jupyter caches
 __pycache__/
 *.py[cod]
 *.pyo
@@ -17,80 +6,56 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+.pytest_cache/
+.mypy_cache/
 
-# =========================
-# Virtual Environments
-# =========================
+# Local environments and settings
 .venv/
 venv/
 env/
 ENV/
 .python-version
-
-# =========================
-# Environment Variables
-# =========================
 .env
 .env.*
 !.env.example
+.vscode/
+.idea/
+/AGENTS.md
+/.agents/
+/.codex/
 
-# =========================
-# Datasets
-# =========================
-#data/
+# Downloaded data and model weights
 /data/bentham/
 datasets/
 *.csv
 !templates/local_images.csv
 *.parquet
-
-# =========================
-# Machine Learning Models
-# =========================
 checkpoints/
 models/
-# Keep reusable model source; ignore downloaded weights above.
 !src/models/
 !src/models/*.py
-# Preserve recorded experiment tables.
 !results/**/*.csv
 *.pt
 *.pth
 *.ckpt
 *.onnx
-# Share the selected IAM epoch 14 checkpoint for teammate inference.
+# Selected checkpoint required by the app
 !/results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt
 
-# =========================
-# Training Logs
-# =========================
+# Logs and temporary files
 logs/
 runs/
 lightning_logs/
 wandb/
 tensorboard/
 events.out.tfevents.*
-
-# =========================
-# Temporary Files
-# =========================
 *.log
 *.tmp
 *.temp
 .cache/
-.pytest_cache/
-.mypy_cache/
-
-# =========================
-# macOS
-# =========================
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# =========================
-# IDEs
-# =========================
-.vscode/
-.idea/
-

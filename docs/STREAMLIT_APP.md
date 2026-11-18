@@ -1,10 +1,6 @@
 # Streamlit handwriting frontend
 
-## Run it manually
-
-The app has been created on `feature/streamlit-frontend`. It has **not** been
-launched, and no model predictions were run as part of building the frontend,
-as requested. Streamlit was not installed automatically either.
+## Run the app
 
 From the project root in Windows PowerShell, using the existing environment:
 
@@ -15,28 +11,17 @@ From the project root in Windows PowerShell, using the existing environment:
 
 Then open the local address printed by Streamlit, normally
 `http://localhost:8501`. Stop the app with Ctrl+C in that terminal. The server
-binds to loopback by default; no hosting/publishing was performed.
+binds to loopback by default.
 
 `requirements-frontend.txt` includes the existing inference requirements and
-pins Streamlit 1.67.0. The published Streamlit requirements allow the project's
-current pandas 3.1, Pillow 13, protobuf 7, and pyarrow 26 versions. Installation
-and live browser behavior remain to be checked when you run the commands.
+pins Streamlit 1.67.0. Live browser behavior and real frontend inference remain
+to be verified manually.
 
 ### If you see an unexpected-keyword error
 
-A reported traceback used the global Python 3.11 installation with Streamlit
-1.37.1, instead of the project environment. The interface now avoids the newer
-`max_upload_size`, string image/button width, `wrap_lines`, and string download
-callback arguments. Upload size remains enforced by `.streamlit/config.toml`
-and the image-decoding helper. Download-triggered reruns reuse the stored
-prediction and do not rerun recognition automatically.
-
-Stop the old server with Ctrl+C. Install and launch with the explicit `.venv`
-commands above, rather than a bare `streamlit run`, to use the project's
-Python and inference dependencies. The fixed widget calls were checked against
-the installed 1.37.1 source signatures without importing or running the app.
-This does not certify the entire global Python environment for model inference;
-the project environment remains the intended installation.
+Stop the server with Ctrl+C and use the explicit `.venv` commands above to
+ensure the app runs with the pinned project dependencies. A bare `streamlit run`
+may use a different global installation.
 
 ## User flow
 
@@ -89,9 +74,8 @@ The default checkpoint is the trained IAM **epoch 14** model at:
 results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt
 ```
 
-The selected checkpoint is included in Git on `feature/streamlit-frontend`.
-Clone or pull that branch to obtain it at the default path; no separate weights
-download is needed. Other training checkpoints remain Git-ignored. The app
+The selected checkpoint is included in Git at the default path; no separate
+weights download is needed. Other training checkpoints remain Git-ignored. The app
 displays an actionable missing-checkpoint message and disables CNN inference
 if the selected file is absent.
 

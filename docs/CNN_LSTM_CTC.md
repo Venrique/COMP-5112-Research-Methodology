@@ -37,10 +37,10 @@ and [final verification record](../results/cnn_lstm_ctc/training/20261114_baseli
 The research asks whether image preprocessing affects different handwriting
 recognition architectures differently. The existing pretrained TrOCR code and
 results are retained. CNN-LSTM-CTC was built and trained from scratch as the
-second architecture at the user's request.
+second architecture.
 
 IAM and Bentham were initially prepared and used in small implementation
-checks. The user then selected **IAM only** for full CNN-LSTM-CTC training.
+checks. Full CNN-LSTM-CTC training was subsequently restricted to **IAM only**.
 Bentham preparation and 16-example diagnostic results remain available, but
 there is no full Bentham CNN-LSTM-CTC training result. RIMES and HTR-VT are not
 implemented in this workflow.
@@ -57,7 +57,7 @@ from the IAM training split. Architecture alone cannot explain every difference.
   `fbdad97500ce54635c0d1ba306bf535cb40656cf`.
 - Original train/validation/test partitions are preserved; no new 80/20 split
   was created. Training does not use validation or test images for weight updates.
-- The 100 validation indices come from the teammate's saved denoising study,
+- The 100 validation indices come from the saved denoising study,
   `results/validation/denoising/20261112T000633091905Z/metadata.json`.
 - Preparation settings and training-only vocabularies are recorded in
   `results/cnn_lstm_ctc/data_preparation/20261114T211708884735Z/`.
@@ -272,7 +272,7 @@ evaluation. Prediction CSVs for all epochs are linked in the epoch report.
 `.pt` files are binary PyTorch data, not text documents. They contain model
 weights, configuration, vocabulary, input settings, and training state. The
 selected `results/cnn_lstm_ctc/training/20261114_baseline/iam/best.pt` is included
-in Git for teammate inference. Other checkpoints remain ignored by Git;
+in Git for inference. Other checkpoints remain ignored by Git;
 preserve/transfer those separately with their SHA-256 hashes.
 Checkpoint/archive hashes are recorded in `FINAL_VERIFICATION.json` and
 `epoch_summary.csv`. No missing checkpoint was fabricated or reconstructed.
