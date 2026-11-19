@@ -1,0 +1,2 @@
+epoch,train_loss,validation_loss,validation_cer,validation_wer,train_count,validation_count,training_seconds,validation_seconds,optimizer_steps
+1,23.26289200782776,17.64780592918396,1.0,1.0,16,16,1.6462402000033762,0.4742479000124149,4

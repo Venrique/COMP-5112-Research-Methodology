@@ -31,8 +31,6 @@ def main() -> None:
     step_types = {"clahe": CLAHE, "denoising": NonLocalMeans, "deskew": Deskew}
     pipeline = PreprocessingPipeline(tuple(step_types[name]() for name in args.steps))
 
-    # Keep supported grayscale/RGB inputs as-is; normalize palette and alpha
-    # modes to RGB so optional steps receive a documented supported mode.
     with Image.open(args.input) as source:
         image = source.copy()
     if image.mode not in ("L", "RGB"):
