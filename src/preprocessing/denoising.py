@@ -20,16 +20,19 @@ class NonLocalMeans:
     enabled: bool = True
     h: float = 3.0
     h_color: float = 3.0
+    # Compare small patches within a larger neighborhood around each pixel.
     template_window_size: int = 7
     search_window_size: int = 21
 
     def __post_init__(self) -> None:
         if not isinstance(self.enabled, bool):
             raise ValueError("enabled must be a bool")
+        # Both smoothing strengths must be finite and strictly positive.
         for name in ("h", "h_color"):
             value = getattr(self, name)
             if isinstance(value, bool) or not isinstance(value, (int, float)) or not math.isfinite(value) or value <= 0:
                 raise ValueError(f"{name} must be a finite positive number")
+        # Odd window widths give each window a single center pixel.
         for name in ("template_window_size", "search_window_size"):
             value = getattr(self, name)
             if type(value) is not int or value <= 0 or value % 2 == 0:
@@ -38,6 +41,7 @@ class NonLocalMeans:
             raise ValueError("search_window_size must be >= template_window_size")
 
     def __call__(self, image: Image.Image) -> Image.Image:
+        # Bypass filtering and return a separate image when disabled.
         if not self.enabled:
             return image.copy()
         if image.mode not in ("L", "RGB"):
@@ -45,18 +49,21 @@ class NonLocalMeans:
         # Lazy import keeps the no-preprocessing baseline independent of OpenCV.
         import cv2
 
+        # OpenCV takes a NumPy pixel array and uses a separate filter for grayscale.
         pixels = np.array(image)
         if image.mode == "L":
             result = cv2.fastNlMeansDenoising(
                 pixels, None, self.h, self.template_window_size, self.search_window_size
             )
         else:
+            # OpenCV expects BGR for color denoising. Restore RGB for Pillow.
             bgr = cv2.cvtColor(pixels, cv2.COLOR_RGB2BGR)
             result = cv2.fastNlMeansDenoisingColored(
                 bgr, None, self.h, self.h_color,
                 self.template_window_size, self.search_window_size,
             )
             result = cv2.cvtColor(result, cv2.COLOR_BGR2RGB)
+        # Wrap the filtered pixels in a new Pillow image.
         return Image.fromarray(result)
 
     def to_config(self) -> dict:

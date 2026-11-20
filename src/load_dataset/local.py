@@ -15,17 +15,20 @@ def load_local_samples(manifest: str | Path, split: str = "validation") -> list[
     """
     manifest = Path(manifest).resolve()
     samples, ids, paths = [], set(), set()
+    # Let the CSV reader handle line endings and accept an optional UTF-8 BOM.
     with manifest.open(newline="", encoding="utf-8-sig") as handle:
         reader = csv.DictReader(handle)
         required = {"id", "image_path", "ground_truth", "split", "condition"}
         if not required.issubset(reader.fieldnames or []):
             raise ValueError(f"Manifest requires columns: {sorted(required)}")
         for row in reader:
+            # DictReader uses None to mark extra fields or missing values.
             if None in row or any(value is None for value in row.values()):
                 raise ValueError("Malformed CSV row; quote text containing commas")
             sample_id, relative = row["id"].strip(), row["image_path"].strip()
             if not sample_id or not relative:
                 raise ValueError("Each row requires an id and image_path")
+            # Resolve paths before checking for duplicates across all splits.
             path = (manifest.parent / relative).resolve()
             if sample_id in ids or path in paths:
                 raise ValueError(f"Duplicate id or image path: {sample_id}")
@@ -33,14 +36,17 @@ def load_local_samples(manifest: str | Path, split: str = "validation") -> list[
             paths.add(path)
             if row["split"].strip() not in {"validation", "test"}:
                 raise ValueError("Local split must be validation or test")
+            # Skip other splits before opening any image files for those rows.
             if row["split"].strip() != split:
                 continue
             with Image.open(path) as original:
+                # Apply the stored orientation and flatten transparency onto white.
                 oriented = ImageOps.exif_transpose(original)
                 rgba = oriented.convert("RGBA")
                 background = Image.new("RGBA", rgba.size, "white")
                 image = Image.alpha_composite(background, rgba).convert("RGB")
                 original_mode, original_size = original.mode, original.size
+            # Preserve nonblank labels as written and hash the original file bytes.
             samples.append({"id": sample_id, "image": image,
                             "ground_truth": row["ground_truth"] if row["ground_truth"].strip() else None,
                             "image_path": relative, "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),

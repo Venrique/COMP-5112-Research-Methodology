@@ -20,14 +20,18 @@ class IntensityNormalization:
             raise ValueError("enabled must be a bool")
 
     def __call__(self, image: Image.Image) -> Image.Image:
+        # Bypass normalization and return a separate image when disabled.
         if not self.enabled:
             return image.copy()
         if image.mode not in ("L", "RGB"):
             raise ValueError(f"IntensityNormalization requires L or RGB images, got {image.mode}")
+        # Use floating-point arithmetic and one shared range across all channels.
         pixels = np.asarray(image, dtype=np.float64)
         low, high = pixels.min(), pixels.max()
+        # A zero range has no contrast to stretch and would divide by zero.
         if low == high:
             return image.copy()
+        # Map the minimum to 0 and the maximum to 255, then round to byte values.
         result = np.rint((pixels - low) / (high - low) * 255.0).clip(0, 255)
         return Image.fromarray(result.astype(np.uint8))
 
@@ -52,6 +56,7 @@ class SizeNormalization:
     def __post_init__(self) -> None:
         if not isinstance(self.enabled, bool):
             raise ValueError("enabled must be a bool")
+        # Require a whole number of pixels and exclude Boolean values.
         if type(self.target_height) is not int or self.target_height <= 0:
             raise ValueError("target_height must be a positive integer")
 
@@ -60,6 +65,8 @@ class SizeNormalization:
             return image.copy()
         if image.mode not in ("L", "RGB"):
             raise ValueError(f"SizeNormalization requires L or RGB images, got {image.mode}")
+        # Scale both axes by the same factor, allowing for whole-pixel rounding.
+        # Clamp the width so even very narrow images retain at least one column.
         width = max(1, round(image.width * self.target_height / image.height))
         return image.resize((width, self.target_height), Image.Resampling.LANCZOS)
 
